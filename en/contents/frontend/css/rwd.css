@@ -1,0 +1,319 @@
+﻿@charset "utf-8";
+/*FULL 尺吋*/
+
+/*小PC尺吋*/
+
+@media (max-width:1170px) {
+	.kv .signup a.button{margin-left:-15px;}
+	.kv .signup{width:60%;}
+	.kv .signup label.font_L{font-size:26px;}
+	.kv .signup input.name{width:100px;}
+	.kv .signup input.email{width:150px;margin:-15px 25px 0 0;}
+	.kv .signup a.button{width:120px;}
+
+	.ad{margin: 80px auto;}	
+	.ad2_txt{top:20px;left:120px;}
+
+	.news_txt{margin-top:52px;height:291px}
+	.news1_pic,.news2_pic{width:600px;}
+	.news p{padding-bottom: 2px;}
+	.news_list a.button{margin:40px auto;}
+	.news_list .MT60{margin-top: 0!important;}
+
+	.donate h2,.donate_page h2{font-size:26px;}
+	.donate h4,.donate_page h4{font-size:20px;}
+	.donate input,.donate_page input{width:87%;}
+	.donate p,.donate_page p{padding-left:80px;}
+	.donate a.button,.donate_page a.button{width:190px;}
+	.donate_notice a,.donate_page_notice a{padding-left:85px;}
+
+	.page_menu li{line-height: 72px;background-size: contain!important;}
+	.page_menu li:first-child{width:32%;height:auto;}
+	.page_menu li:nth-child(2){width:35%;height:auto;}
+	.page_menu li:last-child{width:33%;height:auto;}
+	h3{font-size:30px;}
+
+    .contactList>div article{padding:10px 20px 0;height:190px}
+     
+     /*1223新增*/
+
+    .about-detail.member2-detail{top:auto;bottom:10px;max-width:350px;}
+
+    .lightbox .container article{height:95%;}
+    .lightbox .container article>div{height:500px;}
+
+}
+
+
+/*平板尺吋 */
+@media (max-width:990px) {
+
+	.navbar{left:230px;}
+	.navbar-nav li a{padding:15px 3px;}
+	.kv .signup{width:80%;bottom:30px;}
+	.ad{margin:60px auto;}
+	.news1_pic,.news2_pic{width:420px;}
+	.news_txt{padding:20px;margin-top:20px;height:220px;}
+	h2,h3{font-size:20px;}
+	.ad2_txt{top:20px;font-size:14px;top:0;left:90px;}
+	.ad3_txt,.ad4_txt{left:20px;bottom:20px;}
+	.donate h2,.donate_page h2{font-size:18px;}
+	.donate h4,.donate_page h4{font-size:14px;}
+	.donate p,.donate_page p{padding-left:60px;}
+	.donate a.button,.donate_page a.button{width:170px;}
+	.donate_notice a,.donate_page_notice a{padding-left:65px;}
+	.page_menu li{font-size:26px;line-height: 55px;}
+	.apply label{white-space: nowrap;width: 6em !important;font-size: 15px;}
+
+     
+     /*關於*/
+	.policyList li article{width:90%}
+    .policy-img{height:400px;}
+
+    .aboutArea{height:auto;padding:20px 15px;background: #86cbb3;}
+    .aboutArea .googleMaps,.aboutArea .mayorsList{display:none;}
+    .about-detail{max-width:none !important;position:static !important;}
+
+    .dowmloadList{
+	-moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+	}
+
+	.title{display: none;}
+	.page{margin-top:90px;}
+
+	a.topNav_mb:hover,.navbar-nav li.social a:hover{background: none !important;}
+
+	/****************18/05/11後新增********************/
+	.candidate li{width: 29%;margin:2.5% 2%;}
+	
+	.candidate_b>li .reportlist li{width: 48%;margin: 11px 1%}	
+    .candidate_b>li .reportlist2>li{width: 46%;margin: 11px 2%;}	
+	
+	.news_main p{padding:0}
+	.news-h5 b {margin: 0 1em 0;top:0;position: inherit}
+    
+	
+	.events_sign dl.dl-style{width:100%}
+	.events_sign dl.dl-style2{width:100%}
+	.events_sign dl.dl-style3 dd input[type="text"] {width: 220%;}
+	.events_sign dl.dl-style3 dd textarea {width: 250%;}
+
+}
+
+
+/*手機尺吋*/
+@media (max-width: 767px) {
+
+header{position:fixed;background:#fff;height:70px;}
+header.fixNav,header .topNav{display: none;}
+header .logo{position:fixed;height:70px;padding-top:10px;text-align: center;width: 60%;left: 20%;top:0;z-index:99999}
+header.header_page{background:#fff;height:70px;}
+
+.navbar-toggle{/*padding:10px;*/}
+.navbar{left:0;top:0px;width:100%;/*height:100%;*/margin-bottom:0}
+.navbar>div,.navbar-header>div{height:inherit;}
+.navbar-header{margin-top:68px;height:inherit;}
+.navbar .fa-bars{font-size:30px;color:#448c89;}
+
+.navbar-nav li a{width:100%;background:#448C89;color:#fff;text-align: center;border-bottom:1px solid #63ccc7;}
+.navbar-nav li a:hover,.navbar-nav li a:focus{background:#3a3839;}
+.navbar-nav li a.topNav_mb{border:none;text-align: right;padding-bottom:10px;padding-right:20px;}
+
+.navbar-nav li.social {background:#448c89;height:66px;text-align:right;padding-top:15px;margin-bottom:30px;}
+.navbar-nav li.social a{width:50px;display:inline;border-bottom:none;}
+.navbar-nav li.social img{width:25px;height:25px;margin-right: 10px;}
+
+.navbar-collapse{width:100%}
+.navbar-nav{margin:0 -15px;background:#448C89;height: 570px;overflow: auto;padding-bottom:30px;}
+
+.apply input{padding:10px}
+.apply .upload .btn-primary{margin-left:10px;line-height:2.2}
+
+.kv{margin-top:70px;}
+
+.signup h2{font-size:50px;}
+.signup li{width:96% !important;margin:2% !important}
+
+#adfloat img{width:70px;}
+
+.swiper-video{padding: 30px 0}
+.swiper-video h5{text-align:center;color:#fff}
+.swiper-pagination{width: 100%}
+.swiper-pagination-bullet{margin:0 10px;background-color: #fff;opacity: 1}
+.swiper-pagination-bullet-active{background-color: #ffcc00;}
+
+section {padding:0;}
+.page{margin-top:70px;}
+
+.ad{margin:0 auto;}
+.ad2_txt{left:120px;top:30px;}
+
+.news1_pic,.news2_pic{margin-left:0;width:100%;}
+.news_txt{margin:0 auto 0 auto;width:100%;height:auto;}
+.news_list{margin-top:30px;}
+.news_list .col-sm-6{margin:20px 0;}
+.news_list a.button{margin:20px auto;}
+
+.money a,.donate_page_money a{font-size:36px;line-height:2.5}
+
+.donate,.donate_page{background-image:none;}
+.donate input,.donate_page input{width:90%;}
+.donate p,.donate_page p{padding:20px 0 0 20px;}
+.donate a.button,.donate_page a.button{width:90%;}
+.donate_notice a,.donate_page_notice a{padding-left:0;}
+.donate .col-sm-4 .ML30,.donate_page .col-sm-4 .ML30{margin-left: 0!important;margin-top:30px;}
+.donate .PB40{padding-left:20px;}
+
+.page_menu li{font-size:14px;line-height: 30px;margin-bottom: 20px;background:none;}
+.page_menu li:nth-child(2),.page_menu li:last-child{margin-left:-5px;}
+
+.apply,.note{font-size:16px;}
+.apply .row{margin-bottom: 0!important;}
+.apply label{margin-bottom: 20px;width: 30% !important}
+.apply .w17,.apply .w20,.apply .w25,.apply .w35{width:30%!important;}
+.apply .w50{width:67%!important;}
+.apply .address .w50{width:97%!important;}
+.apply select{display: inline;}
+.apply select[name=birthday_year].w20{
+	width:20%!important;padding:0;padding-left: 5px;
+}
+.apply select[name=birthday_month].w17,.apply select[name=birthday_day].w17{
+	width:15%!important;padding:0;padding-left: 5px;
+}
+.apply .check{margin:20px 0;}
+.apply .school .w35,.apply .company input.w35{width:67%!important;}
+.apply .w100{width:97%!important;}
+
+.apply select.w17{width:32% !important;}
+
+.note{margin-bottom:20px;width:90%!important;font-size:16px;}
+.fillin .upload{margin-top:-20px;}
+.fillin .w40{width:67%!important;}
+.next a{width:160px;}
+
+footer{padding-top: 20px;}
+footer li{min-width: 100px;}
+footer .col-xs-12{text-align: left;}
+footer .copyright{text-align: center;clear: both;padding: 30px 20px;}
+
+/****************17/12/13後新增********************/
+
+.sitemapList>div h4{font-size:25px}
+
+.contactArea{padding: 40px 0;}
+.contactList>div {margin-bottom: 20px;}
+.contactList>div article{padding:10px 30px 30px;height:auto;}
+
+.policy-nav ul li a{padding:0 .5em}
+
+.policyList li {margin-bottom:40px;}
+.policyList li aside{padding-bottom:60%;height: auto;}
+.policyList li article{width:95%;padding:15px;margin-top:-20px;}
+.policyList li article h2{font-size:30px;}
+.policyList li article h4{font-size: 15px;}
+.policyList li article button.btn_more{display:block;margin-bottom:10px}
+
+.policy-head {
+    margin-left: 10%;
+    width: 90%;
+    }
+
+.othersFN .nav{font-size:15px;top:30px;}
+.othersFN .social-btn{margin-top:40px;}
+
+.memberArea{margin-bottom:30px}
+.memberList h2{font-size:22px;}
+.memberList ul li{width:45%;margin:.5em;}
+.memberList dl dt{font-size: 13px;padding-right: 1em;width: 28%}
+
+.lightbox .container article>aside{margin:15px 20px;}
+.lightbox .container article>div{
+    height: 350px;
+    padding: 15px;
+    margin: 0;
+}
+
+.lightbox.lightbox-notice .container article h2 {
+    font-size: 50px;
+    padding: 50px 0 0;
+}
+.lightbox.lightbox-notice .container article{max-height:95%;overflow:auto;background-image:none;}
+.lightbox.lightbox-notice .container article .signupOption a.btn_send{
+	margin: 15px 0;width: 80%;
+}
+.lightbox.lightbox-notice .container article .signupLabel label{margin-right:10px;}
+.lightbox.lightbox-notice .container article .signup h4{margin:10px 0;font-size:20px;}
+
+
+footer .social .row>div:nth-child(2){margin-top:0;text-align: center;}
+footer .social img{max-height: 15px;padding: 0 5px;}
+footer ul {width: 30%;margin: 20px 0 0px 3%;font-size: 13px}
+
+.donate_account{font-size: 12px;padding: 8px;}
+.dowmloadList,.historyList{
+	-moz-column-count: 1;
+    -webkit-column-count: 1;
+    column-count: 1;
+}
+
+.historyList figure hr{
+	margin:30px auto;
+}
+.historyArea h1{font-size:37px;}
+
+.donate_page_account{padding: 8px;font-size: 15px;}
+.donateTitle{font-size: 35px;}
+
+#news_contents{width:100% !important}
+
+/****************18/05/11後新增********************/	
+
+.candidate li{width:96%;margin:2.5% 2%;}	
+.candidate_b>li .reportlist2>li h3 {font-size: 14px;}	
+.box_candidate>article figure{padding:0px 10px 25px 10px;}	
+.dateA{position:inherit}
+
+	
+.election_page{padding-top: 10px;}	
+
+.return_h2{font-size: 30px;}
+.return{;min-height: 550px}	
+
+	
+.events_sign dd{display: grid;}
+.events_sign dl.dl-style3 dd input[type="text"] {width: 100%;}
+.events_sign dl.dl-style3 dd textarea {width: 100%;}
+
+
+
+}
+
+
+/***************Iphone6**********************/
+@media (max-width: 375px) {	
+body,.apply,.note{font-size:14px;}
+
+	
+.ad2_txt{left:100px;top:20px;}
+h2{font-size:16px;}
+.donate a.button,.donate_page a.button{width:80px;}
+footer li{min-width: 80px;}
+.logo_s{padding-right:120px!important;}
+
+}
+
+
+@media (max-width: 320px) {
+body,.apply,.note{font-size:12px;}
+header .logo{top:10px;left:0;}
+header .logo img{width:300px;}
+.ad2_txt{left:60px;font-size:12px;}
+.ad3 h2,.ad4 h2{font-size:14px;}
+.ad3 p,.ad4 p{line-height: 14px}
+footer li{min-width: 70px;}
+
+}
+
+

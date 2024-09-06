@@ -1,0 +1,38 @@
+@charset "utf-8";
+/*fixed css*/
+.kv {max-height:none;overflow:hidden;}
+.kv .embed-responsive-16by9{
+	padding-bottom: calc(56.25% - 42px) !important;
+}
+
+.kv .embed-responsive-16by9 iframe{
+	bottom: -42px !important;
+	height: calc(100% + 42px) !important;
+}
+
+
+.aboutArea .mayorsList li:hover p *,.aboutArea .mayorsList li.selected p *{color:#333}
+.news{overflow:hidden;}
+
+.nav_membershipfee{
+    background: #58a;
+    transform: skew(-16deg);
+    margin-left: -5px;    
+    transition: all 0.5s;
+}
+
+.nav_membershipfee a{ color:white; transition: all 0.5s; }
+.nav_membershipfee:hover{ background:#c8e1e0; }
+.nav_membershipfee:hover a{ color: black; }
+
+@media (max-width: 1400px){
+	.kv{ max-height:none;}
+}
+
+@media (max-width: 767px){
+
+.news_txt {width: 100%;}
+.signup,.ad .row>div{margin-bottom:15px;}
+
+
+}
