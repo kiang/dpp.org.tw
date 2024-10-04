@@ -63,7 +63,7 @@
 
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-807891950"></script>
-	<script>
+	<script nonce="616566486350694c6f44445254557241">
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
@@ -74,7 +74,7 @@
 	<script src="https://cdn.holmesmind.com/js/rtid.js"></script>
 	<script src="https://cdn.holmesmind.com/dmp/cft/triggerTracker.js"></script>
 	<script async src="https://cdn.holmesmind.com/dmp/cft/tracker.js"></script>
-	<script>
+	<script nonce="616566486350694c6f44445254557241">
 	    clickforce_rtid("9990001");
 	    /* Website track (tracker.js) - B.I.DMP By ClickForce */
 	    window.cft=window.cft||function(){(cft.q=cft.q||[]).push([].slice.call(arguments))};
@@ -92,8 +92,8 @@
 			<a href="signup.html#" class="menu hidden"><img src="contents/frontend/images/menu.png" alt=""/></a>
 			<!-- 20180612新增 End-->
 			
-			<a href="content_print/anti_rumor/98.html" class="logo hidden-xs"><img src="upload/sys_profile/5a3b516861d9d.png" alt=""/></a>
-			<a href="content_print/anti_rumor/98.html" class="logo visible-xs"><img src="upload/sys_profile/5a3b516b0ed81.png" alt=""/></a>
+			<a href="content_print/anti_rumor/12.html" class="logo hidden-xs"><img src="upload/sys_profile/5a3b516861d9d.png" alt=""/></a>
+			<a href="content_print/anti_rumor/12.html" class="logo visible-xs"><img src="upload/sys_profile/5a3b516b0ed81.png" alt=""/></a>
 			<div class="topNav">
 				<ul class="nav nav-pills">
 			        <li><a href="download.html">下載專區</a></li>
@@ -176,7 +176,7 @@
 	<!-- 20180612新增 -->
 	<ul class="navbar-nav2 hidden">
 		<li><a class="menuClose" href="signup.html#">CLOSE<span><img src="contents/frontend/images/xxxx.png" alt=""/></span></a></li> 
-		<li><a href="content_print/anti_rumor/98.html">首頁</a></li>
+		<li><a href="content_print/anti_rumor/12.html">首頁</a></li>
 						<li class="">
 		   <a href="events.html">活動報名</a>
 		</li>
@@ -209,7 +209,7 @@
 		<div class="row">
 		    <div class="col-sm-6">
 				<ol class="breadcrumb">
-					<li><a href="content_print/anti_rumor/98.html">DPP</a></li>
+					<li><a href="content_print/anti_rumor/12.html">DPP</a></li>
 					<li class="active"><a href="signup.html">線上入黨</a></li>
 				</ol>
 				<h1>線上入黨</h1>
@@ -713,7 +713,7 @@
 	    <div class="container-fulid social">
 			<div class="row">	
 				<div class="col-sm-7 hidden-xs">
-				    <a href="content_print/anti_rumor/98.html">
+				    <a href="content_print/anti_rumor/12.html">
 				    	<img class="logo_s" src="contents/frontend/images/logo_s.png">
 				    </a>
 				    <a href="https://www.youtube.com/user/dppsng" target="_blank">
@@ -798,7 +798,7 @@
 
 		
 	<!-- InstanceBeginEditable name="js" -->
-	<script>
+	<script nonce="616566486350694c6f44445254557241">
 		$(function(){
 			fancyboxVideo();
 			singlephotoSwiper();
@@ -883,7 +883,7 @@
 				data: {'ci_csrf_token':token_val},
 				dataType: 'json',
 				success: function(result){
-					$("#cap").html('<img src="home/cap_img%3F1725579096" style="width: 82px; height: 32px; border: 0;">');
+					$("#cap").html('<img src="home/cap_img%3F1728051904" style="width: 82px; height: 32px; border: 0;">');
 					$('input[name="ci_csrf_token"]').val(result['csrf_token']);
 				}
 			});
@@ -1034,7 +1034,7 @@
 	</script>
 	
 	<!-- FB分享 -->
-	<script>
+	<script nonce="616566486350694c6f44445254557241">
 		window.fbAsyncInit = function() {
 			FB.init({
 				appId      : '1955827791300508',
@@ -1069,12 +1069,12 @@
 	<!-- Global Site Tag (gtag.js) - Google Analytics -->
 	<!-- 	<script async src="https://www.dpp.org.tw/contents/frontend/js/gtag/js?id=GA_TRACKING_ID"></script> -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
-	<script>
+	<script nonce="616566486350694c6f44445254557241">
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
 		gtag('config', 'UA-111780472-1');
-	</script>	<script>
+	</script>	<script nonce="616566486350694c6f44445254557241">
 		$().ready(function(){
 			var _URL = window.URL || window.webkitURL;
 			$("#cap").click(function(){
@@ -1124,8 +1124,6 @@
 			});
 			
 			function showRequest(formData, jqForm, options){
-				// var queryString = $.param(formData);
-				// var formElement = jqForm[0];
 				$("#signup_submit").html('Loading...請稍候～');
 				return true;
 			};
@@ -1147,8 +1145,6 @@
 			function showError(result, statusText){
 				if(typeof(result['responseJSON']) !== 'undefined') 
 				{
-
-					$('input[name="ci_csrf_token"]').val(result['responseJSON']['csrf_token']);
 					if(result['responseJSON']['result'] == 0){
 						alert(result['responseJSON']['err']);
 						$("#signup_submit").html('下一步');
@@ -1412,7 +1408,7 @@
         </div>
     </div>
     <script src="contents/frontend/js/cropper/cropper.min.js"></script>
-    <script>
+    <script nonce="616566486350694c6f44445254557241">
     function dataURLtoBlob(dataurl) {
         if (dataurl.length == "") { return false;}
         var arr = dataurl.split(','), mime = arr[0].match(/:(.*?);/)[1] || "",
@@ -1469,7 +1465,7 @@
               });
 
             $(".jquery-cropper").click(function(){
-                that.jquerycropper($(this).data('target'));
+                that.jquerycropper($(this));
             })
 
             $("#cropper-modal .cropper-feature").click(function(){
@@ -1479,17 +1475,38 @@
                 jcropper[_method](_option, _option2);
             })
         },
-        jquerycropper:function (target)
+        jquerycropper:function (element)
         {
             var that = this;
+
+            // 取得目標
+            var target = element.data('target');
 
             var $avatar = $("[data-name='" + target + "']");
             that.avatar = $avatar[0];   
 
+            // 限制檔案類型
+            var valid_filetype = element.data('filetype');
+            if(valid_filetype){
+                var filetype = valid_filetype.split(',');
+            }else{
+                //不限制
+                var filetype = false;
+            }
+
+            // 限制檔案大小
+            var max_size = element.data('maxsize');
+            if(max_size){
+                var max_size = max_size;
+            }else{
+                //不限制
+                var max_size = false;
+            }
+
             var $this = $avatar.closest('.jquery-cropper-box'); //物件框
 
             //modal標題
-            that.$modal.find(".modal-title").html($avatar.data('title'));
+            that.$modal.find(".modal-title").text($avatar.data('title'));
 
             //裁圖比率
             var ratio = $avatar.data('ratio');
@@ -1516,8 +1533,30 @@
                 var file;
                 var url;
 
+                // 定義允許的回調函數
+                var allowedCallbacks = {
+                    'validFileType': function (file) {
+                        if (filetype) {
+                            if (filetype.indexOf(file.type) === -1) {
+                                $alert.show().addClass('alert-warning').text('Invalid file type');
+                                return false;
+                            }
+                        }
+                        return true;
+                    },
+                    'validFileSize': function (file) {
+                        if (max_size) {
+                            if (file.size > max_size) {
+                                $alert.show().addClass('alert-warning').text('File is too large');
+                                return false;
+                            }
+                        }
+                        return true;
+                    }
+                };               
+
                 if (files && files.length > 0) {
-                    file = files[0];
+                    file = files[0];                  
 
                     if (URL) {
                         done(URL.createObjectURL(file));
@@ -1542,7 +1581,8 @@
         move:function(option, option2)
         {
             this.cropper.move(option, option2)
-        }
+        },
+        // 增加一個function 
     }
 
 
