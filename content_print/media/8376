@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-08-19</p>
+				<h2>何孟樺：國民黨遺忘施政不好，失去人民信任的事實</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對今(19)日國民黨全代會中吳敦義主席批評蔡英文政府，民主進步黨發言人何孟樺表示，人民沒有遺忘，過去國民黨執政那八年造成台灣的經濟停滯；人民也會發現，國民黨沒有反省2016年政黨輪替的原因，仍想將台灣帶回經濟不振的老路。何孟樺呼籲，國民黨不要自我感覺良好、背離民意，遺忘過去施政不好，失去人民信任的事實。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺提到，過去國民黨政黨輪替前交出的成績經濟成長不到1%，不論是ECFA、一中市場，國民黨將中國當成萬靈丹，經濟政策等同於兩岸政策，卻因此耽誤國家經濟轉型，造成低薪結構深化，讓台灣經濟陷入危機。對比國民黨，蔡英文針對經濟提出整體對策，不論是推動五加二產業轉型、解決五缺、稅制改革、新南向政策等，從各方政策整合，讓經濟政策更加多元且穩健成長。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺進一步指出，經濟成長率已經連續四季超過3% ，甚至贏過韓國，讓台灣不再是四小龍的最後。失業率3.76%是十七年來最低，股市上萬點已經超過一年並持續維持，而基本工資二年多來的調漲幅度，也比國民黨執政八年來得高，前幾天的基本工資調整，也將國民黨執政的低薪名詞22k送入歷史。何孟樺強調，這些成績也在在證明，民進黨比國民黨還會拚經濟。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺表示，面對中國政府不斷打壓，不論是主導惡意強壓台中東亞青運停辦，強迫國際民航公司矮化我國，一直到近期打壓台灣企業，在中國越來越過份且無理的打壓行為，吳主席卻對中共的霸凌隻字不敢提。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺質疑，吳主席所謂的「一中各表」，中共當局已在官方媒體新華社的「禁用詞」予以否定。吳主席認知的「一中各表，九二共識」，連中共都不認可。本黨籲吳主席，多傾聽台灣民意的主流意見，勿自欺欺人，背離民意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺強調，從吳主席今天的言論中更可以看出，國政沒方向，凡事靠中國，兩岸關係一切聽從北京、經濟出口靠中國、觀光靠陸客、農產銷靠中國。甚至還匪夷所思提及虱目魚和龍膽石斑，當年與中國契作虱目魚，輸中數量都低於契作量，後期甚至有中國契作的虱目魚以低價回賣台灣，衝擊國內市場，與中國聯手套殺台灣。這種「兩岸就是世界，北京就是國際」，仰人鼻息、自我矮化的說法，實在令人感到遺憾。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺表示，過去，馬英九前總統曾說「年金制度現在若不改革，軍公教與勞工的四種基金將分別在民國108年到120年破產，這些問題在他任內都不會發生，但不能因為任內不會破產就不管，不能不為下一代著想」，但最後仍留下即將破產的年金制度。2005年，馬英九也曾承諾「2008年國民黨黨產歸零」，但事實證明，馬英九前主席也沒有如他承諾進行改革。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺強調，國民黨不做、做不到的，民進黨政府做到了。蔡英文政府在上任第一年就開始推動年金改革，並將軍公教年改陸續完成，確保年金制度的永續經營。此外，不當黨產處理條例與促進轉型正義條例的通過，推動轉型正義逐步實現，政黨法、財團法人法等制度性的立法改革，都是為了建立一個公平正義、制度永續的台灣社會，讓民主的體制與尊嚴的生活可以扎根台灣、生生不息。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5945686f5553684234786b614e616851">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

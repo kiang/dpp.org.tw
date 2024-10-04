@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-03-16</p>
+				<h2>民進黨首度舉辦「全國高中職國際知識競賽」 邀請全國年輕學子參與</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨國際事務部及青年發展部首度舉辦「全國高中職國際知識競賽（World Quiz Championship, WQC）」，邀請對國際事務有興趣的所有高中職學生，一起來挑戰，決勝隊伍將獲得獎金1萬元。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨立委暨國際事務部主任羅致政表示，在蔡英文政府執政下，台灣的國際關係有很多突破，很多年輕學子都對國際事務與台灣的外交產生濃厚興趣。因此，民進黨國際部及青年部積極籌備國際知識競賽，希望透過趣味的方式，讓高中職生同台競技、一展長才。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅致政說，國際知識競賽的內容包羅萬象，包括台灣外交、國際時事、國際組織及協定、近代世界史、重要歷史及政治人物、國際政治及經濟常識、各國地理及人文知識等。參賽者不須特別準備，但絕對考驗得出國際知識的實力。</div>
+<div style="text-align: justify;">
+	&nbsp;&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨表示，「全國高中職國際知識競賽」將於下週開放報名，一隊三人，須有一位校內指導老師，同校不限報名隊伍數。4月中將展開北、中、南、東各區域之初賽筆試，並預計錄取各區前百分之25之參賽者進入4月24日於台北舉行之最終決賽，決賽將採搶答制，前三名都有獎金，所有參賽者都可獲得參賽證明。活動將於3月22至28日於官方網站線上報名&rarr;<a href="http://www.wqctaiwan.com">http://www.wqctaiwan.com</a></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6355494f67743447505935657265476b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

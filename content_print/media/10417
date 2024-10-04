@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-10-09</p>
+				<h2>柯文哲拋憲改主張 民進黨：嘴喊內閣制，心裡皇帝制，心口不一致</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對民眾黨總統參選人柯文哲拋內閣制等主張，民進黨發言人張志豪表示，柯文哲主席一貫作風就是雙重標準，嘴喊內閣制，心裡皇帝制，心口不一致，如擔任台北市長期間老是自稱雍正；民眾黨中評會被架空，前主委被辱罵狗，柯文哲也毫不避諱的說，他以毛澤東為師。在在凸顯柯文哲心裡根本就是帝制思想。</p>
+
+<p>張志豪表示，當一個市長不是每天開受訪或開記者會就叫做認真，柯文哲的歪理扭曲，反而自曝其短，把市長當名嘴當，擔任台北市長期間老是自稱雍正皇帝，可見他是真正想當皇帝的人。</p>
+
+<p>張志豪指出，柯文哲自稱皇帝的言論，可說是多如牛毛，包括「2015年1月，柯文哲上任滿一個月時接受媒體專訪，當時就稱自己是雍正皇帝」；北流開演唱會引爆時說「通常這種事件，太監就解決掉，不會到皇上那」；「曾在受訪時大讚副市長黃珊珊優秀，又以漢高祖自喻，說自己是開創天下的人，黃珊珊接棒當市長會有「文景之治」」；「當時心腹蔡壁如受訪時爆料，柯文哲常跟下屬說「朕是暴君，不是昏君，臣議其君，死罪！」可見嘴喊內閣制，心裡皇帝制，心口不一致，標準的柯文哲。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="43747532484458706f4b6a39515a7972">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

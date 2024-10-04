@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-01-05</p>
+				<h2>民主進步黨第十九屆第六十七次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(5)日召開第十九屆第六十七次中常會，會中通過於1月12日(三)召開中執會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨發言人謝佩芬轉述蔡英文主席於會中致詞，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	各位中常委，大家午安。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	國際疫情持續在升溫，這幾天，台灣不僅出現第一起Omicron 本土確診病例，本土案例也累計新增五例。對於疫情的變化，我們積極因應，也要持續嚴守疫情防線。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	現在，指揮中心已經宣布機場和桃園市強化防疫措施，並且成立前進指揮所。桃園市政府的疫調和擴大篩檢的工作，也都在進行當中。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	新年的第一次中常會，我要告訴大家，2022年，也是團結防疫守台灣的一年。對於疫情，我們絕對不能鬆懈。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	目前國內疫苗數量充足，疫苗覆蓋率第一劑已經達到八成，第二劑將近七成。接種兩劑疫苗是建立基本防禦力，對於接種第二劑滿五個月的民眾，我們已經開放接種第三劑。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	多一個人完整接種，台灣就多一分防禦力。為了鼓勵民眾接種疫苗，昨天指揮中心已經宣布，地方政府可以提供民眾兩百元以下衛教品，來提升接種意願。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	防疫需要每一個人共同來努力，我要特別感謝第一線防疫人員的辛勞，也要請各位黨公職，一起協助防疫宣導，請符合資格的民眾，盡快接種，才能保護自己也能夠保護更多人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	面對疫情變化，我們要提高警覺，團結合作，謹慎因應，一起克服挑戰。謝謝大家。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，本週日為台中市第二選區的立委補選投票日，最後關鍵四天，林靜儀競選總部製作了兩支影片，希望藉由各位常委與黨員同志們的影響力來擴散，集中每一張在台中第二選區的選票，投給林靜儀，贏回正義。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬轉述，今天的與會者看完影片後都深受感動，蔡主席也有感而發的說，林靜儀的人格特質就是非常的「無私」，為了多幫助一個人，她可以跑尼泊爾、印度、吉爾吉斯、吐瓦魯去為當地的人義診。作為一個醫師，她不只醫治病人的身體，也療癒病人的心理，不但醫好病痛，還有一種「永久保固」的用心服務態度。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	除了對病人無私、溫柔的奉獻，她也可以非常勇敢、強悍，在立法院捍衛對人民有利的政策和法案。靜儀也可以像個「俠女」，為惡質選風打抱不平。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡主席也拜託大家一定要為家投票，要出門投票，要打電話給住在中二選區的親朋好友拉票，務必集中選票，不要覺得不差你這一票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡主席最後再次強調，中二選區一定要集中選票支持林靜儀，台北市中正萬華的朋友記得對林昶佐罷免案投下「不同意」票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="654f5a3437586945376a6a69784d6855">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

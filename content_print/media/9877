@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-18</p>
+				<h2>圖文作家標註蔡英文「為台灣挺身而出」號召1126回家投票「缺你不可」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">1126九合一選舉進入最後倒數階段，許多網路圖文作家接連在網路上發聲表態支持，包含插畫天后「彎彎」、厭世系風格「垃圾人」、人氣漫畫作家「百鬼夜行」等知名圖文作家，都透過趣味的插圖與漫畫，號召「為台灣挺身而出」，呼籲1126返鄉投票，「缺你不可」。</p>
+
+<p style="text-align: justify;">插畫天后「彎彎」在社群平台上分享自己的創作，用「車站前怎麼變這麼多」為題，希望大家1126可以返鄉見見老朋友、吃吃懷念的味道，並為自己的城市選出最理想的人。</p>
+
+<p style="text-align: justify;">厭世系圖文作家「垃圾人」則是以對台北人的刻板印象出發，用趣味方式，強調台北人並非冷漠，也會積極關心公共事務，1126會一起返鄉投票。</p>
+
+<p style="text-align: justify;">人氣漫畫作家「百鬼夜行」用生活經驗為例，團購餐點時若不參與投票，最後可能就會選出難吃的餐廳，用貼近大眾生活的例子，呼籲大家可以選擇時千萬不要沉默，1126一起回家投票。</p>
+
+<p style="text-align: justify;">三位圖文作家發文時，皆附上「為台灣挺身而出」、「缺你不可」的標籤，並標記蔡英文總統。蔡英文總統也回覆了標記她的貼文，呼籲大家踴躍出來投票，打造一個更好的國家，需要更多的台灣隊友陪她一起打拚。</p>
+
+<p style="text-align: justify;">民進黨網路社群中心主任范綱皓受訪表示，圖文作家自由的創作，是台灣難能可貴的社會能量。呼籲返鄉投票，也是台灣人的日常，很高興陸續看到不同領域的意見領袖，站出來表態。相信到選前，還會有越來越多圖文作家用自己的方式，參與民主。</p>
+
+<p style="text-align: justify;">彎彎：<br />
+FB：<a href="https://www.facebook.com/100043936908999/posts/pfbid024HqhBn7jWKrt99inVJxw16X8f322EXK126zN1Ap1xN74sjKD1mD9rdU1WvoY5eAgl/">https://reurl.cc/qZk1oy</a><br />
+IG：<a href="https://www.instagram.com/p/ClERE8TS2fj/?igshid=YmMyMTA2M2Y%3D">https://reurl.cc/ROvbDx</a></p>
+
+<p style="text-align: justify;">垃圾人</p>
+
+<p style="text-align: justify;">FB：<a href="https://www.facebook.com/trashxxman/posts/pfbid02eXwCsVj6qQr4KsoCLdU9vHV1NnC9xRGnSoD6G1Smm4mQr6YALHd9SjCjwEgcHKNBl">https://reurl.cc/X5Llgj</a><br />
+IG：<a href="https://www.instagram.com/p/ClBIaCxvKnt/">https://reurl.cc/ymke4O</a></p>
+
+<p style="text-align: justify;">百鬼夜行</p>
+
+<p style="text-align: justify;">FB：<a href="https://www.facebook.com/hiphop200177/posts/pfbid0ft8RFepPnNQafo3ABVGLC3jRFg3xAATXDAutur3kq5dSXNArdaVoWDfEUM3rF6kul">https://reurl.cc/eWOM8m</a><br />
+IG：<a href="https://www.instagram.com/p/Ck8GiqSy6Eu/">https://reurl.cc/4XpLyR</a></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4368736d5959454d4d6d48583556356f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

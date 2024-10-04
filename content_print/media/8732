@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-07-31</p>
+				<h2>民主進步黨第十八屆第三十八次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民主進步黨今(31)日召開第十八屆第三十八次中常會，會中通過8月7日(週三)召開中執會。此外，會中邀請中央警察大學公共安全系教授董立文以「因應紅色滲透之法制作為」為題進行專案報告，發言人李明俐會後轉述卓榮泰主席聽取報告後裁示，全文如下：</p>
+<p style="text-align: justify;">
+	感謝中央警察大學董立文教授，針對「因應紅色滲透之法制作為」作詳細的說明。</p>
+<p style="text-align: justify;">
+	近年來，中國積極投射威權銳實力，採取侵略性政策，利用民主破壞民主，對他國進行滲透，引起國際社會高度關注。美澳等國紛紛採取各項反制措施，包括修法強化反境外勢力干預等規範。</p>
+<p style="text-align: justify;">
+	台灣站在民主陣營，地處印太戰略的最前線，面對中國的文攻武嚇及滲透，我們首當其衝。多項國內外的研究顯示，中國利用媒體與組織、操控輿論及假訊息，企圖誤導、分化公眾意見，造成台灣社會內部的對立。</p>
+<p style="text-align: justify;">
+	為防範中國藉由「境外勢力」、「網軍」及「在地協力者」發展成為代理人的威脅，民進黨立法院黨團已經提出兩岸人民關係條例部分條文修正草案，作為健全法制的第一步。未來的修法方向，除了借鏡國外的立法經驗，明確化代理人之定義外，也會參考美國、澳洲的配套作法，訂定適合我國的規範，以避免紅色滲透對國家社會造成危害。</p>
+<p style="text-align: justify;">
+	民主自由、人權法治是守護台灣最堅強的後盾，反制紅色滲透目的是為了強化民主防衛。台灣的民主是人民對抗威權爭取而來，時時刻刻必須與全民共同捍衛，絕不容許外來勢力的破壞。本黨會加強反制紅色滲透相關修法的宣傳及溝通，以凝聚社會最大的共識。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="474478484a65485562304e364d65676b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

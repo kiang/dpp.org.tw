@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-07-20</p>
+				<h2>民進黨：江啟臣無視朝野共識硬要提告防疫指揮官，這不是扯防疫後腿是什麼？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨江啟臣主席質疑高端EUA黑箱，帶領立院黨團委員赴台北地檢署按鈴告發衛福部長陳時中、食藥署長吳秀梅失職，民進黨發言人顏若芳表示，早在立法院6月18日朝野就通過決議，COVID-19疫苗緊急授權之專家會議，於審查結果公佈後2週內將其會議紀錄去識別化後公佈；而昨（19）日指揮中心才公佈高端疫苗通過EUA緊急授權，國民黨江啟臣主席就急著抹黑、政治操作，甚至無視國民黨自己在6月份通過的決議，明顯就是睜眼說瞎話。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳嚴詞批評，全世界有哪個國家的在野黨，會因為該國研發國產疫苗的過程而對防疫最重要的防疫指揮官提告，普天之下也就只有百年政黨國民黨江啟臣主席了。這不是扯防疫後腿，什麼才是扯後腿？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，防疫工作涉及專業與科學，然而國民黨總是用政治凌駕防疫專業，這段時間以來，國民黨不斷以疫苗與疫情作為政治攻防的議題，甚至持續用錯誤資訊誤導民眾，像國民黨去年說全力扶植國產疫苗，現在卻說國產疫苗不好；之前質疑疫苗買太貴、購買太多？現在卻說不論價格多少都買，還批評之前買太少？更在沒有科學證據下唱衰AZ疫苗，更自組AZ特戰隊打特權疫苗，國民黨對疫苗的態度前後反覆、矛盾，只會把疫苗當作政治籌碼操作、扯防疫後腿。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	江主席打臉江立委</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，正當全世界都在防疫，有哪個在野黨主席把自己國家的防疫指揮官告上法院，就唯獨想連任黨主席的江啟臣。疫苗是科學問題，也是重要的戰略物資，防疫不該本末倒置，國民黨應該尊重科學、專業，請國民黨江啟臣主席回去好好看一下江啟臣立委在6月份通過的朝野決議內容，不要為了自己的主席連任政治作秀、政黨私利，對疫苗潑髒水，用錯誤的資訊來誤導民眾。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="64666e553567367664734a46536e5551">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

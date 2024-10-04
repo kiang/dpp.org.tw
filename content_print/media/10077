@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-04-11</p>
+				<h2>嘉義縣第一選區初選提名協調 黃榮利議員為顧全大局退選</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對嘉義縣第一選區初選提名協調結果，民主進步黨2024大選提名策略小組召集人潘孟安今(11)日表示，感謝黃榮利同志為團結嘉義、顧全大局，接受協調，退出嘉義縣第一選區立委初選，後續將提請中執會同意黃榮利退選，退選後該區形成同額競選，並提請中執會停辦民意調查作業。</p>
+
+<p style="text-align: justify;">潘孟安表示，黃榮利同志有30多年的黨員資歷，是黨內非常重要的民主前輩，從基層里長、市民代表，再到太保市長，深耕基層，對地方事務也十分熟稔，去年轉戰嘉義縣議員順利當選，廣受民意肯定。特別感謝黃榮利同志為了團結嘉義，顧全大局，接受協調，「我們相信有黃榮利議員的無私付出，在總統、立委大選，嘉義縣一定可以開出好成績」。</p>
+
+<p style="text-align: justify;">黃榮利表示，2024是非常關鍵的一場選舉，民進黨沒有任何分裂的本錢，所以他經過長考，不希望因為初選造成紛擾，決定退出黨內初選。「期待因為自己的成全，能夠團結最大的力量」，未來也會全力以赴，中央地方聯手拚，一起守護嘉義。</p>
+
+<p style="text-align: justify;">蔡易餘表示，非常感謝中央黨部以及協調小組這段時間對於團結嘉義所做的努力，也要感謝賴清德主席這段時間的關心。在這段期間，黃榮利議員提出諸多對於嘉義縣甚至太保市建設的期許與建議，都是對於他爭取連任最好的養分，他一定會廣納建議，未來好好打拚，替民進黨守住海區立委重要一席。蔡易餘強調，2024的總統、立委選舉，攸關嘉義縣的發展、關係台灣的未來，「為嘉義爭建設、為台灣顧未來」，一起全力團結「Team Taiwan」，守住關鍵一席，一起讓嘉義有大建設、大進步。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="636f625a4d63534e4d51544650636f41">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

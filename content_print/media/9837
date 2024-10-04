@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-03</p>
+				<h2>民進黨首位連江縣長候選人李問「超貼心服務」馬祖有名！酒後代駕、坐船教英文   深耕深藍鐵票區</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民進黨網路節目《一碗麵的時間》今（3）日最新一集邀請連江縣長候選人李問，帶來馬祖獨有的「大黃魚戰隊魚麵」。他說這次參選組「大黃魚戰隊」為馬祖鄉親權益呱呱叫，還現場模仿黃魚「吼～吼～」叫聲，讓主持人黃彩玲哭笑不得！他回憶自己曾赴中做田調差點「被消失」，深刻體悟民主自由的可貴，與反威權的使命，所以即便再艱困，也要號召夥伴深耕馬祖，一起守護這座「台版柏林圍牆」。</p>
+
+<p style="text-align: justify;">切菜時，黃彩玲細數李問在馬祖創下的紀錄，包括2020年以「一顆淡菜」裝扮，一戰連江縣立委而成名，後又促成民進黨連江縣黨部成立，這次再召集10位候選人組「大黃魚戰隊」要為鄉親服務。李問說，馬祖擁有媲美柏林圍牆、板門店的「世界級」戰地文化景觀，但住房、人力、產業用地仍然嚴重不足，阻礙年輕人返鄉與廠商投資，他希望能解決種種困境，讓馬祖產業全面發展。</p>
+
+<p style="text-align: justify;">李問表示，雖然上回立委落敗，但他沒放棄深耕地方，疫情期間，馬祖因無中醫診所買不到「清冠一號」，他協助鄉親，透過立委洪申翰與衛福部協調，建立「視訊看診、在地領藥」機制，甚至擔任「酒後代駕」，開車載喝醉的鄉親回家，並固定安排團隊到各島教英文，無微不至的專業服務，讓當地傳有「棄民代找李問」的說法。</p>
+
+<p style="text-align: justify;">「我是經過中國找到回家的路！」李問感性地說，他本來有美國國籍，當時為碩士論文到四川成都做田野調查，對著中國官員拍照後，被一群警察包圍喝斥，還差點被逮捕！從不自由的恐懼歷劫重生後，他決心捍衛台灣的民主價值，當天就寫email給家人，要放棄綠卡回台當兵，如今他到馬祖號召更多夥伴為家鄉努力，「只要支持民主、反對共產威權，大家都該團結成同一派」。</p>
+
+<p style="text-align: justify;">因等待煮麵的時間太長，黃彩玲即興跟李問玩起了「快問快答」，問到同黨市長候選人「陳時中、蔡其昌、李俊俋、李問，誰眼睛最小？」，李問竟秒答自己，還自嘲嬰兒眼睛都比他大。至於「最喜歡女友什麼地方？」李問則毫不猶豫回答「小耳朵」，而聊起歌喉，他笑說自己唱不上高音，所以喜歡唱饒舌歌，玖壹壹的〈9453〉就是他的拿手歌曲。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/SdRrtOrKQBs" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6164546d716e3964455954625846756b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

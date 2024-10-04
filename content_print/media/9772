@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-28</p>
+				<h2>民主進步黨第二十屆第八次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨今（28）日召開第二十屆第八次中常會，會中邀請台灣民主實驗室理事長沈伯洋，以「全民防衛」為題進行專案報告。<br />
+&nbsp;<br />
+黨發言人謝子涵會後轉述蔡英文主席於會中致詞，全文如下：</p>
+
+<p style="text-align: justify;">今天是9月28日，也是民進黨創黨的日子。上星期六我們以音樂會的形式來紀念創黨36周年，我要感謝這麼多年來和民進黨ㄧ起成長的黨公職同志，還有一路支持我們的朋友。</p>
+
+<p style="text-align: justify;">今年11月26日的選舉，對於18歲年輕朋友來說是一個可以承擔起責任的里程碑，也是民進黨展現地方中央一條心的時刻，要讓縣市執政變得更好、更不一樣。而我們所面對的挑戰還相當的多，我們有信心，可以展現韌性，克服種種難關。也請大家一起努力。</p>
+
+<p style="text-align: justify;">另，蔡英文主席在聽取沈伯洋專案報告後裁示，全文如下：<br />
+&nbsp;<br />
+感謝台灣民主實驗室沈伯洋理事長剛剛針對「全民防衛」所做的報告，對我們有很多的啟發。</p>
+
+<p style="text-align: justify;">現代戰爭型態與過去相當不同，守護國家安全，除了國際的支持，更需要全民團結，共同建立全民防衛觀念；今年開始的新制教召，藉由落實在地動員與作戰、擴大跨部會合作機制與動員能量，提升台灣自我防衛的力量。<br />
+&nbsp;<br />
+台灣是中國錯假訊息攻擊的首要目標，我要提醒大家，如果收到不尋常的資訊，切記要查證不轉傳，才能阻止無孔不入的資訊戰，防止民主體制被破壞。<br />
+&nbsp;<br />
+全民防衛的工作必須要中央和地方一起努力。透過各級政府與警消、醫護、民防團體共同演練，將民防意識融入日常生活中，確保戰爭或災害發生時，能夠在最短時間快速應變，減少生命財產損失。&nbsp;<br />
+&nbsp;<br />
+全民國防必須要透過全體國民的參與，打造最堅實、韌性的防衛戰力，展現我們自我防衛的決心與能力，讓每一個人都能為家園盡一份心力；同時，我們也要繼續和全球民主夥伴，一起捍衛民主自由的價值，保護民主體制，堅定捍衛主權與國家安全。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="614849674f5348635874525143356353">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

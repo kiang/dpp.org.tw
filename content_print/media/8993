@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-03-25</p>
+				<h2>民主進步黨第十八屆第五十五次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(25)日召開第十八屆第五十五次中常會，會中邀請作家范疇以「病毒啟示錄－疫情政治下的世界政局及台灣的對策」為題進行專案報告。黨發言人戴瑋姍轉述卓榮泰主席聽取報告後裁示如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝范疇先生，就武漢肺炎對於兩岸及國際政局的影響，以及台灣的因應對策，向常會做了詳盡的分析。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	中國從去年底疫情爆發開始，隱匿疫情、操控WHO粉飾太平、透過大外宣發動防疫外交等一連串作為，延續美中多方面的對抗，牽動了全球及亞太區域安全及戰略情勢的變化。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	近來武漢肺炎疫情在歐美各國急遽擴散，已造成全球大流行，因此由境外移入的確診案例持續增加，此時我們切勿自亂陣腳，或被假訊息誤導而恐慌，分散了防疫的能量。尤其中國對台的統戰，包括訊息戰、軍機恫嚇，從來沒有也不會因為疫情而停歇，國人須審慎應對。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	中共政權以維穩至上，輕忽人民生命健康的作法，造成疫情擴散，使中國過去刻意營造的大國形象受到重創。相較下，台灣在此次防疫的表現，備受國際肯定；除突顯執政團隊治理的能力，也顯現國人的高素養及台灣自由民主體制之可貴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	面對未來的挑戰，世界政局的變化，台灣的民主自由向來是我們最堅強的後盾。只要國人團結一心，持續強化自身實力，我們定能化險為夷。在此關鍵時刻，請國人務必配合中央疫情指揮中心的指揮，黨中央再一次強烈要求黨內同志，暫緩一切非必要的出國與群聚活動，落實相關防疫措施。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，會中通過民進黨2020年第19屆全國黨員代表選舉時程。依照黨章規定，今年5月需完成全國黨代表選舉。第19屆全國黨員代表應選302席，單一性別保障名額在應選名額有75名，暫訂於5月24日辦理黨員投票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	然目前正值嚴重特殊傳染性肺炎「COVID-19(武漢肺炎)」疫情期間，選舉時程雖通過，但仍保留彈性變動之可能性，一切以中央指揮中心之相關規定辦理。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今中常會通過提案，是為讓各縣市黨部能儘早針對防疫工作提早部署與準備，而業務單位也擬定了相關防疫計畫及措施，但民進黨仍將持續注意疫情的狀況，配合遵守政府規範，目前通過暫訂於5月24日辦理黨員投票，仍彈性保留變動之可能。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7a67596770786847506264316b796177">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

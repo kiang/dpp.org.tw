@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-10-12</p>
+				<h2>民進黨：國民黨窮盡全黨之力打擊陳柏惟 挑起社會仇恨</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對今（12）日國民黨主席朱立倫對於罷免案的挑撥言論，民主進步黨發言人簡舒培表示，從朱主席此番言論就能看出，國民黨窮盡全黨之力打基進黨陳柏惟一人，加上不斷地抹黑謠言，顯然罷免案已經成為報復性的政治舉動。對於國民黨這種作法，民進黨表示遺憾，「國民黨傾全黨之力欺負小黨，到底是在怕什麼」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培指出，國民黨只會挑撥的作法，證明了這場罷免案的荒謬，國民黨提出的罷免藉口，都不在原本的罷免理由書中，顯然是為了抹黑陳柏惟而製造分裂對立，挑起社會仇恨，不為民主社會所樂見。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培進一步表示，這段時間以來，除了國民黨傾全力推罷免陳柏惟，令人訝異的是，中國官媒央視也頻頻對陳柏惟罷免案下指導棋，看到國民黨的行動竟與中國央視的評論不謀而合，令人不禁懷疑，「難道國民黨是央視的附隨組織嗎？」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培強調，陳柏惟任職立委期間，不僅出席、質詢率都是百分之百，且上任不到一年就獲得兩次優秀立委的肯定，爭取地方建設更是不遺餘力，已為台中第二選區爭取超過六億元的建設經費。陳柏惟認真問政禁得起檢驗，民進黨支持的是認真問政的民意代表，呼籲選民不要讓惡質的政治文化重新復辟。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="33524d7352745852364b6b504177504a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

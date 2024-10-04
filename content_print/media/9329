@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-11-22</p>
+				<h2>國民黨扭曲行政中立規定 民進黨：轉移藍營內部公投立場分歧問題</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨立法院黨團今（22）日召開記者會批評僑委會行政不中立一事，民主進步黨發言人周江杰表示，國民黨為了轉移自家縣市長與黨中央立場分歧的焦點，扭曲行政中立規定，奉勸國民黨認真向民眾和黨籍縣市長說明公投立場，不要只會扭曲法令或派人來綠營的公投說會鬧場。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰說到，公投本來就是民眾針對政府重大政策、法律等行使直接民權的方式，政府有義務讓民眾可以獲得完整資訊，行政機關作為公投提案的相關關係人，本來就要向社會說明，這是民主國家的常態，國民黨鬧事還不許別人辯護，真的是很奇怪。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，在世界台商總會號召下，僑委會與各洲台商總會、僑界領袖以視訊會議方式，討論台美經貿關係及台灣加入「跨太平洋夥伴全面進步協定」（CPTPP）的衝擊，與會者紛紛以個人立場擔憂「反美豬公投」，恐會造成台灣加入CPTPP與台美經貿之間的障礙。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	「只是跟國民黨意見不同，就要被拿出來抹黑、打擊嗎？」周江杰進一步表示，若照國民黨誣控的標準，馬前總統2013年出席世界台商總會會議，說明簽署兩岸服務貿易協議，難道也是濫用行政資源？請國民黨不要自己黨內意見分歧，就要亂扯不相干的規定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5657516252636975533542733339374f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

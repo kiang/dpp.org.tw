@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-06-29</p>
+				<h2>民進黨國際部粉專開張 中英雙語發文 外國駐台使節簡報影片打頭陣</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨國際部粉專昨（28）日正式開張。首篇貼文分享「外國駐台使節政策簡報會」的活動回顧。民進黨發言人謝佩芬表示，該場活動有超過50國、超過60位外國駐台使節出席，其中包含9位邦交國大使、14位非邦交國大使∕代表親自出席，由林飛帆副秘書長開幕、國際部羅致政主任進行簡報。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	外國駐台使節政策簡報會是民進黨行之多年的傳統，基本上每季舉行，意在提供外國駐台官員了解台灣政策與政治的管道，並就最新的國內外局勢交換意見。謝佩芬表示，活動當日外國使節發言踴躍，各大使紛紛感謝台灣在防疫上的協助，亦對於台灣的性別平等、死刑執行現況等議題，提出各自的觀察。由此可知，外國駐台使節不僅對台灣政治有興趣，亦持續關注台灣社會中的許多重要話題。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，正式的簡報會結束後，多國使節留下來與在場的黨部主管互動。使節們非常肯定蔡英文主席大量啟用年輕主管的用心，也感受到國際部對於政黨外交的用心。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，民進黨多個部門已有經營各自的粉絲專頁。今年520蔡英文總統回任主席後，國際部就一直在規劃加強社群能量，目前負責黨部Twitter的內容，如今臉書粉絲專頁開張，計畫以中、英雙語發文，儘管從粉絲人數為0開始經營，但她有信心，這個粉絲頁將成為民進黨進行「政黨外交」的重要管道。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f4458585a4278567058364971784356">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

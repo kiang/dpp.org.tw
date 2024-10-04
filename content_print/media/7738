@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-03-27</p>
+				<h2>國民黨公佈民調 民進黨：勿藉由公佈誘導式民調來炒作黨主席選情</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 針對國民黨今(27)日公布相關民調，民主進步黨發言人張志豪表示，國民黨目前正值黨主席選舉，各組候選人都應拿出正面理性的政見及黨務改革方案來吸引黨員支持，切勿藉由公佈誘導式民調來企圖炒作黨主席選情，尤其今天的這份民調不僅充滿情緒性，相關議題設定也意在政爭，分化國家團結、製造朝野對立，甚至聲稱自己支持度為23.4％、民進黨為15.6％，根本是吹口哨壯膽! 在此特別呼籲洪秀柱主席，放下政爭和仇恨對立，對國民黨未來才有幫助。</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 張志豪表示，民調各自不同，我們都尊重參考，對於人民希望改革、國家能夠更好的期待，政府都會全力以赴，持續推動改革與各項提振國家經濟與國人福利的政策。尤其在拚經濟方面，張志豪強調，政府上任以來，逐步改善各項產業經濟發展的環境，包括出口、就業的狀況都持續回穩。政府也將持續致力法規優化、提昇投資環境、擴大投資以及國際經貿佈局等面向，並且藉著即將提出的前瞻基礎建設計畫，落實以公共建設投資更新國家基礎建設，整體提振國內經濟。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 為此，我們認為國民黨應該確實扮演好最大在野黨的角色，對於福國利民的重大建設應不分朝野共同支持推動，不要一味的為反對而反對，對國家人民都不是好事。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7868586c77463838345254796e747275">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

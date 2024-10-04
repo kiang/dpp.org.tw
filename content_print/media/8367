@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-08-08</p>
+				<h2>針對蘋果日報即時新聞報導之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	針對今(8)日晚間8點37分蘋果日報即時新聞，有關民主進步黨副秘書長徐佳青錄製節目訪談之報導，民進黨副秘書長徐佳青聲明，此篇報導嚴重扭曲，錯誤解釋，傷害民主進步黨及她本人。本黨對此表達不滿與遺憾，並要求蘋果日報立即將該報導撤下，並公開致歉。</p>
+<p style="text-align: justify;">
+	徐佳青指出，蘋果日報不但作錯誤下標題的事實，而且嚴重違反新聞採訪報導的原則，該報記者並未與她本人求證，平衡報導，僅憑節目部分廣告內容，遽下結論報導，誤導視聽，造成本黨及她個人的困擾與傷害，本黨對此表達不滿與遺憾，並要求蘋果日報立即將該報導撤下，並公開致歉。</p>
+<p style="text-align: justify;">
+	徐佳青表示，今日下午2點30分她參加三立電視台《鄭知道了！》節目錄影。對於主持人鄭弘儀提問談到，如果藍世聰局長支持柯市長是否開除黨籍，她回應內容為：目前為止沒有違反黨紀的問題，所有人都有言論自由表達看法，不可能因為這樣開除黨籍；再者，即使8月27日至31日，所有人正式登記完，成為參選候選人後，本黨依照規定會從北到南盤點，違反黨紀者才有開除黨籍與否的認定問題，特此說明本黨的相關程序與規範。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6a715143665a6653397070774b357958">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

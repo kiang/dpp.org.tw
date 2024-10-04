@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-12-21</p>
+				<h2>跨黨派、跨選區力挺林淑芬 卓榮泰：支持最有道德良心、堅持正義、最講實話的林淑芬</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(21)日輔選行程滿檔，首站來到新北市爲立委候選人林淑芬三重東區後援會成立大會站台致詞，副總統總統候選人賴清德、行政院長蘇貞昌、立委候選人余天、許淑華、台北市議員王世堅、林亮君、新北市議員陳啟能、李倩萍、彭佳芸、李坤哲及學運青年吳崢等人也到場，不分黨派全力相挺林淑芬連任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，今早的活動是跨黨派、跨選區大合作的展現。林亮君、吳崢到場力挺林淑芬外，身為立委候選人的許淑華，也到場情意相挺。卓也拜託大家在支持林淑芬的同時，也要支持許淑華，讓他們雙雙當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也細數林淑芬政績，在立法院中，林淑芬除了爭取交通建設，捷運環狀線北環段外，她還推動《幼兒教育及照顧法》，照顧孩子，解決教育問題。她也推動《生產事故救濟條例》，減輕婦女生產的風險，面對醫療糾紛時，也能得到國家、法律的保障。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，林淑芬身為女性，在對女性關懷照顧上，絕對站在排名前位。他也質疑林淑芬的對手黃桂蘭，同樣身為女性，卻對吳敦義、韓國瑜、張善政、謝龍介、陳宜民的歧視女性的荒謬言行莫不吭聲。卓也質疑，難道整個國民黨都認為性別歧視是正當的嗎？國民黨真的認為女性好欺負？推出的女性候選人，連為人民說話都不敢嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也說，林淑芬照顧小孩、女性，關心全台灣的環境安全、醫療安全，教育需要。過去他在行政院服務，與她有很多的互動，卓也向鄉親保證，林淑芬是最有道德良心、堅持正義、最講實話的立法委員。他代表民進黨、蔡英文總統拜託大家，要讓蔡英文總統未來四年好做事，一定要讓林淑芬留在立法院。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="43694b56694473424a5646546c556270">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

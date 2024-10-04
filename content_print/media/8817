@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-19</p>
+				<h2>出席高雄寶島歌王之夜 卓榮泰：全面總進攻 讓國會過半趙天麟高票當選</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今（19）日晚赴高雄市鼓山區，參加由立法委員趙天麟團隊舉辦的「高雄樂活節-寶島歌王之夜」，立法委員管碧玲、多位高雄市議員及在地黨公職也一同現身，現場有包含翁立友等多位知名藝人演出，人潮滿滿。卓榮泰除上台致詞外，更驚喜獻唱《甘願》，引來港都鄉親不斷的掌聲，卓榮泰因此加碼邀請現場黨公職上台合唱《快樂出帆》，再掀整晚活動高潮。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，趙天麟委員在地方的打拚，與國會的表現都十分優秀，懇請各位把優秀的立委留在國會。也要特別感謝管碧玲委員，她提攜後進愛護年輕人，把畢生精力化為幾等份，其中最重要的一股力量就在趙天麟委員身上，所以拜託各位疼惜管碧玲，支持趙天麟，讓他們雙雙進去國會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，這次民主進步黨全國提名70個候選人，其中46位爭取衛冕，趙天麟就是其中一位。黨中央現在第一個戰略就是防守住防守線，讓衛冕者留在立法院。只要各位鄉親長輩替我們防守住，他就可以去新的地方展開全面的總進攻，一起分工合作，一起勝利，讓1月11號的晚上，蔡英文連任，國會過半，趙天麟委員可以高票當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	活動中他也特別獻唱一首符合現在心情的「甘願」，表示從去年開始到現在，民主進步黨一定會努力把黨的形象做好，讓黨的能力更高。所有的人都認真打拚，抱持著歡喜的心情甘願做，期望可以讓黨跟台灣的命運、國家的命運，連結在一起。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4a714b32336b64487053735434545343">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

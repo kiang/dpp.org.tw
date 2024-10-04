@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-07-24</p>
+				<h2>民進黨：請黨公職及立委候選人全力配合各項防災措施</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>為因應中度颱風杜蘇芮侵台，民主進步黨今(24)日召開黨務主管會報，新聞部主任張志豪轉述黨秘書長許立明會中兩項工作指示，並由組織部發函各地方公職及立委候選人：</p>
+
+<p>一、請各縣市黨部、立委候選人及縣市議員如有懸掛選舉看板者，請務必要求協力廠商先行撤除看板或予以固定，以免遭強風吹落造成危害。</p>
+
+<p>二、請各縣市黨部、立委候選人及縣市議員全力配合中央及縣市政府之各項防災措施，做好應變準備。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="75495268454e596d646c43316756684a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

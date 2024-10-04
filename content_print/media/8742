@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-08-16</p>
+				<h2>馬系監委放水黨職併公職 李晏榕：為黨派之私，毀憲亂紀，違背民意期待</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	對於監察院昨日通過仉桂美、王美玉兩位監委的調查報告案，要求考試院為前監委黨職併公職申請釋憲案，民主進步黨發言人李晏榕今（16）日表示，監察院竟放水通過這樣的調查報告案，不僅是罔顧國家財政問題，更是違反公平正義，及違背社會主流民意的期待。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕指出，根據憲法規定，監察院並不具有法律違憲審查權或專屬聲請權，竟然做出逾越憲政的調查報告案，更誇張的是還想要指揮考試院提釋憲案，根本撈過界，違反權力分立的原則，如此毀憲亂紀的行為，簡直是荒謬至極。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕強調，年金改革是台灣主流民意所期待，也是落實世代正義的關鍵，馬英九時期提名的兩位監委，為了黨派之私，不但對黨職併公職放水，甚至還提出違反憲政體制的調查報告案，實在讓人不得不聯想到這報告案，也想為連戰、胡志強等黨國高官，黨職併公職溢領退休金開脫嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕表示，蔡英文總統與民進黨政府三年多來，嚴守財政紀律，政府舉債數逐年下降，讓明年中央政府總預算案，達成22年來首次歲入與歲出平衡。大家都知道過去國民黨時代，黨國高官以黨職併公職領取國家退休金，造成政府增加不該有的支出，轉嫁給納稅人負擔，如今，馬系監委通過如此荒誕的報告案，簡直像是黨國高官在偷納稅人錢，監委協助把風，難怪台灣社會絕大多數的人，會對監察院的存在提出質疑與檢討聲浪。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，李晏榕表示，期望社會大眾必須清楚知道，現在國民黨企圖以毀憲亂紀的手法來推翻年改，若是再讓國民黨執政，憲政體制將會被其破壞殆盡，也將使這幾年改革努力毀於一旦的可能。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="35643753345a4a70677a62716c6e4951">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

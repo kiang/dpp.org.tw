@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-05-29</p>
+				<h2>【選戰風雲：Who is the Winner?】</h2>
+				<h4>邀請對公共事務有興趣的你，參與這場選戰風雲的大型企畫！</h4>
+                <div id="media_contents" class="w80 container">
+	                	                <p class="text-center font_green">
+		                <i>
+		                	〞一場選戰，從民調分析、活動造勢，到如何善用媒體、行銷宣傳，都有不能忽略的小技巧〞
+						</i>
+					</p>
+										<hr>
+	                <div>
+	<img alt="" src="/upload/ckfinder/images/33146707_2156287351051307_8152059343278178304_n.jpg" style="width: 1600px; height: 525px;" /></div>
+<div>
+	今年夏天，由青年部與中國部聯合舉辦年度青年選戰營「選戰風雲：Who is the Winner?」，全程參與營隊，費用全免！本次營隊主題將以「選戰實務」結合「兵棋推演」，除了近距離觀察政治實務運作、研習選戰技術，並藉由實際操作練習，獲得經驗豐富的講師們的一身武藝。</div>
+<div>
+	&nbsp;</div>
+<div>
+	邀請對公共事務有興趣的你，參與這場選戰風雲的大型企畫！</div>
+<div>
+	&nbsp;</div>
+<div>
+	【選戰風雲】兩岸兵推營</div>
+<div>
+	&nbsp;</div>
+<div>
+	活動時間｜2018/7/10（二）-2018/7/13（五）</div>
+<div>
+	活動地點｜台南市</div>
+<div>
+	活動費用｜保證金1000元（全程參與則全數退還）　<br />
+	報名期間｜5/10(四) - 6/10(日) 中午12:00</div>
+<div>
+	主辦單位｜民主進步黨中央黨部</div>
+<div>
+	報名點我｜<a href="http://t.cn/RunRGvw">請點我</a></div>
+<div>
+	活動「講師與課程安排」將於粉絲頁陸續公布<br />
+	活動「集合與解散時間地點」將另行公布</div>
+<div>
+	&nbsp;</div>
+<div>
+	相關連結：</div>
+<div>
+	<a href="https://www.facebook.com/DPP.Youth/">民進黨青年部</a></div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5147334d353279624c56347651413770">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

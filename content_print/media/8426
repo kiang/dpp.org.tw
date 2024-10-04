@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-10-03</p>
+				<h2>保安寺參香贈匾儀式 蔡英文：讓劉曉玫替花蓮人民服務，讓她與中央一起努力</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民進黨主席蔡英文今（3）日結束中常會議後，由花蓮縣長候選人劉曉玫、立委蕭美琴、國策顧問盧博基及地方黨公職陪同，前往光復鄉信仰中心保安寺參香並致贈「覃恩孚佑」匾額，更是保安寺140年來首位到訪的總統，吸引百位鄉親信眾到場熱情相迎。蔡英文致詞表示，花蓮人需要能克服困難，懂得照顧花蓮人的人做縣長，讓民進黨提名的劉曉玫替花蓮人民服務，讓她與中央一起努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，今天是來感謝佛祖保佑國家平安，感謝上次保佑她當選，也感謝在地鄉親的支持。這段期間以來國家經歷很多，執政兩年多政府努力讓國家更好，改革的事情也逐漸上軌道。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提到，現在的經濟有比較好，雖然基層朋友尚未感受到，但經濟發展都會有遞延的時間，在穩定成長、景氣回溫下，人民都會感受到的。這段時間以來，經濟發展確實是過去少有的穩定成長，這也是全國人民共同的努力，而股市上萬點、國家人民實質所得也是有史以來的高。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文也說，花蓮人最重視的交通建設，政府傾全力在改善，像是蘇花改加速的施工、台鐵增購車廂、花東之間鐵路交通變成雙軌、售票系統更新，這些都將使得運載量、速度、便利性都增加，讓大家有感。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，在農業方面政府通過了「有機農業法」，更大力推動農民健康保險、農民職災保險跟農業保險，都是要給農民更完整的支持，讓農民朋友能夠受到法律的保護及政府的照顧。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，蔡英文說，社區長照、失能失智老人家的照顧，政府也盡全力的在做，但這也是需要地方政府合作一起努力，所以縣長是誰很重要，這次選舉是不是給劉曉玫機會，讓她與中央一起努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文強調，選舉剩下不到兩個月，曉玫深耕地方，清楚所有在地的事，花蓮人需要有勇氣、正義感，能克服困難，亦能讓花蓮更繁榮，懂得照顧花蓮人的人做縣長，讓民進黨提名的劉曉玫替花蓮人民服務。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文最後表示，花蓮對民進黨是一個非常艱困的地區，民進黨很幸運找到美琴願意深耕，但若沒有在地鄉親支持，她也不會選上立委。謝謝花蓮鄉親讓美琴有機會為大家服務，相信曉玫也會做的一樣好，將來一定盡所有最大力量照顧花蓮人，讓花蓮更好。<br />
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d57594e74594c4655705a64684e436f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

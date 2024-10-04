@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-07-20</p>
+				<h2>台灣將設駐立陶宛代表處 民進黨：兩國友誼突破現實困難</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	關於台灣將於立陶宛首都維爾紐斯設立「駐立陶宛台灣代表處」，民主進步黨發言人謝佩芬今（20）日表示，這是繼2003年台灣在斯洛伐克設處，相隔18年後再次在歐洲設立代表處，具體展現台灣與立陶宛的友好關係，民進黨期待未來雙方更密切的往來，並感謝第一線外交人員的折衝，讓台灣與立陶宛的友誼突破現實的種種困難。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，台灣與立陶宛為理念相近的國家。目前立陶宛政府採取「以價值為基礎之外交政策」，支持全球民主、自由及人權，與台灣不謀而合。立陶宛外交部長蘭柏吉（Gabrielius Landsbergis）於今年4月接受專訪時，關切中國軍機持續擾台，而立陶宛國會連續兩年均有過半數議員聯署致函WHO幹事長譚德塞，支持台灣參與WHA，立陶宛今年也首度在WHA上為台灣發聲。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬進一步說，台灣去年4月捐贈立陶宛10萬片醫療級口罩。上個月，立陶宛宣布將捐贈台灣2萬劑AZ疫苗，外交部長蘭柏吉特別推文表示，儘管數量有限，但立陶宛「與台灣人團結一致對抗疫情」，引起國人熱烈迴響，台灣民間以大量捐款立陶宛社福機構等方式，表達謝意，兩國間的善意成為國際政治佳話。立陶宛經濟暨創新部長阿爾莫奈特（Ausrine Armonaite）先前更表示，計劃在今年秋天在台灣設處，並強調不擔心中國制裁。可見立陶宛與台灣交朋友的決心。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬強調，誠如蘭柏吉外長之前所說，「熱愛自由的人們就該互相照顧」，立陶宛種種友好的舉動，著實溫暖台灣人民的心扉。民進黨誠摯地感謝立陶宛行政、立法部門，以及民間對台灣的友好之情。民進黨期待「駐立陶宛台灣代表處」的設立，兩國人民在共同克服疫情過後，能進行更多交流、友誼更上層樓，並在民主、自由及人權的基礎上，攜手共進。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6a4b316e59354d725a47396f62507471">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

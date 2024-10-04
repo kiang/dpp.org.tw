@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-25</p>
+				<h2>韓國瑜拜會中聯辦  民進黨：不應為一國兩制背書</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對高雄市長韓國瑜拜會中國中央人民政府駐香港特別行政區聯絡辦公室(中聯辦)一事，民主進步黨發言人李晏榕今（25）日表示， 昨天中國國台辦網站「中國台灣網」透過肯定高雄市長韓國瑜港澳行程，宣示「一國兩制實踐的成功」，這代表拜會中聯辦一事，將被視為對「一國兩制」的背書，國內政治人物不可不慎。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕指出，韓國瑜密會港澳中聯辦主任，接著也將與中國國台辦主任劉結一會見，這些政治性拜會，都未事先向陸委會通報，韓國瑜市長應就拜會目的與內容，向台灣人民開誠佈公地說明，不應該閃爍其辭、規避監督。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕表示，有藍營人士急切護航，拿民進黨人士過去赴中國或在台灣也曾會見中國國台辦官員作辯解，然而民進黨人士過去訪中行程，都有事先向陸委會通報，也向台灣人民開誠布公說明，相關類比不倫不類，也是模糊事情本質。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕也指出，更重要的是，問題不在會見中國官員，而是中聯辦所具有的特殊意義。自從香港、澳門回國中國後，中國政府透過中聯辦，以強制力介入港澳的民主制度及司法體制，打壓箝制港澳人民言論自由，中聯辦更是一國兩制的的象徵堡壘與實際執行者。正因為中聯辦與一國兩制的高度連結，對一國兩制身受其害深惡痛絕的港人，對此一拜會均大不以為然，港媒也因此重炮抨擊。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕表示，中聯辦不是果菜批發市場，也不是大型連鎖超市，把這樣一個「政治100分」的單位，扯上賣水果拼經濟，顯然是不當連結。台灣縣市首長去拜會港澳特區政的影武者、太上皇機構，只會讓人民感受到「政治100分」的政治動機及算計。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4a527751536f766355754563644e5456">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

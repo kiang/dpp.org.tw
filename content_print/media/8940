@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-12-16</p>
+				<h2>護國保台助選團彰化第一站 卓榮泰：支持彰化兒女，讓「五星級問政」陳秀寳當選</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨「護國保台巡迴助選團」今（15）日下午來到彰化福興鄉，黨主席卓榮泰、總統候選人蔡英文、副秘書長林飛帆、立委候選人黃秀芳、洪宗熠、陳素月、資深媒體人汪潔民、彰化縣黨部主委邱建富都現身站台，力挺彰化縣第一選區立委候選人陳秀寳，現場也超過2千名支持者到場相挺。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰致詞時表示，護國保台助選團到彰化的第一站就是陳秀寳場次，「護國保台」顧名思義，就是要讓國會過半、延續台灣本土政權，也要讓政府繼續推動改革與進步價值，希望彰化鄉親與民進黨一起護國會、保台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰說，今天蔡英文總統以及彰化全數立委候選人都來為陳秀寳加油，相信大家對他的地方服務有目共睹。其實，今年初立委補選時，陳秀寳本有意願，但他當時願意讓賢黃振彥並全力輔選，後來很惋惜彰化這席補選沒有得到應得的勝利，但如今黃振彥也全力支持陳秀寳，這就是民進黨團結的精神。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，彰化確實是民進黨更需要努力爭取認同的地方，目前現任立委陳素月在一壘、洪宗熠在二壘、黃秀芳在三壘，只差陳秀寳，就可以打一支滿貫全壘打。卓榮泰也提到，陳秀寳說可以做到「五星級問政」，他的政見的口號是「產業要振興、發展要創新、照顧要用心、文創要齊心、交通要革新」，拜託大家要讓彰化女兒陳秀寳當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也抨擊國民黨在彰化提名立委，他表示，國民黨非常看不起彰化鄉親，四席候選人都非常有問題，包括有前科紀錄、有重大刑案、有販毒，這都不是民主時代應該出現的政治人物。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰最後說，這次選舉，關鍵在投票率，在座大家都會出來投票，但還需要更多人，尤其年輕人更要回家，自己決定自己的命運。卓榮泰鼓勵年輕人回家投票，他說，年輕人可以返鄉投票，吃頓家裡的飯，跟家人一起看電視，看蔡英文、賴清德還有四席彰化立委全上。卓榮泰也呼籲，韓國瑜的支持者投票意願很高，大家絕對不可以輕忽，明年1月11日走向投票所，投下你的一票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	陳秀寳致詞時表示，目前跟對手的差距，就差在座鄉親一票。方才蔡英文總統也提過，這個選區已經有十一年沒有民進黨籍立委當選。2020這場選舉不僅是民進黨建設執政的關鍵，國家的未來也在各位手中。同時，民進黨中央也非常重視在座各位，不僅行動中常會的第一站就到彰化，彰化護國保台巡迴第一場也到這個選區，政府、中央、民進黨都看重鄉親，拜託大家相挺陳秀寳。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="684d596f354a746d366e4c6b7265676e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

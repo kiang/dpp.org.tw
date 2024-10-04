@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-15</p>
+				<h2>民進黨：國民黨雙重標準看待論文爭議，是否更證明許淑華論文有鬼？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨南投縣長候選人許淑華碩士論文被爆涉嫌抄襲，許淑華仍未主動對外回應外界提出的疑問，民進黨發言人謝子涵今（15）日表示，國民黨許淑華的碩士論文，在論文比對系統中，第一章有52%相似、第二章有71%相似、第三章有45%相似，其中還被爆出有大篇幅直接複製貼上過去部屬謝百傑於南投縣政府官網發表的研究案報告。雖謝員在第一時間出來說，是他提供未發表的文章給許淑華參考，但所謂的「參考」，文字怎會是一模一樣？況且許淑華並未有任何註明來源，可見這並非符合「原創」之範疇，至於是抄襲？還是代寫？許淑華至今都不願公開說清楚，持續神隱避談。國民黨雙重標準看待論文爭議，是否更證明許淑華論文有鬼？</p>
+
+<p style="text-align: justify;">謝子涵進一步說，許淑華直接使用過去部屬謝百傑的研究報告，一字不漏地複製貼上，且沒有註明出處，這不是抄襲，那什麼是抄襲？另外謝百傑說是他提供未發表的文章給許淑華參考，由於謝員過去是許淑華的部屬，因為兩人之間有從屬關係，謝員是真的只是單純提供參考，還是有沒有被以權勢壓迫論文代寫，或其他對價交換關係？且按照謝百傑的說法，不就間接證實許淑華的論文內容的確是假以他人之手？身為縣長參選人的許淑華難道不用替種種不誠實的犯行負責嗎？</p>
+
+<p style="text-align: justify;">謝子涵強調，只要許淑華不願親自出面說明，前述的疑雲將會一直存在，再次呼籲許淑華，應如實交代獲取學位的過程，包括撰寫的時序、與教授的討論過程以證明論文是親自撰寫。此外，逢甲大學也應正視具名檢舉，公正公允處理，把論文攤在陽光下，讓世人釋疑。<br />
+&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5a5863633144504370554d77394b6f54">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

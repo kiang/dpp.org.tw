@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-08-02</p>
+				<h2>鄭運鵬：國民黨的政治選擇，可能成為台灣國際發展最大的風險</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對今(2)日國民黨稍早召開記者會批評蔡英文政府，黨發言人鄭運鵬表示，近期，大陸主導惡意強壓台中東亞青運停辦，強迫國際民航公司矮化我國，未見國民黨一字一句譴責中國，如今又召開記者會為中國發聲，與中國政府站在一起打壓台灣，本黨感到非常遺憾。台灣的民主自由，發展至今，不該再走回頭路，自我矮化、損害台灣主權、踐踏台灣人民尊嚴，鄭運鵬呼籲中國國民黨，不要再做中國的打手，欺壓台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬指出，國民黨的說法正好證明馬英九政府時代，參與任何國際會議、活動、組織都必須經過中國的同意，馬英九執政8年並未讓台灣成為這些國家組織的正式會員國，被穿小鞋的國際參與，反而讓國際誤以為台灣是中國的一部分。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬強調，國民黨都看不到，台灣近期與美國關係持續強化，美國通過「台灣旅行法」，立法鼓勵美國政府增進台美雙邊官方交流層級，進一步提升台美關係。美國參議院、眾議院兩院也於日前通過「國防授權法」，並支持強化台灣的國防能力、擴大聯合訓練、軍售及高階層級軍事交流。由此可見，台美關係緊密友好，近年來在雙方共同努力下，台美關係更加堅實穩固。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	國民黨也看不到，台灣與日本成為更緊密的亞太伙伴，安倍總理在災害發生時親自公開表達感謝，擴大台日民間廣泛交流、促進雙方觀光共榮、支持台灣參與國際組織，例如跨太平洋夥伴全面進步協定（CPTPP）等組織，去年「日本公益財團法人交流協會」更確認更名為「公益財團法人日本台灣交流協會」，在在顯示台日關係更為緊密。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬提到，新南向國家許多民間機構亦規劃成立與我新南向政策有關的研究中心，以進一步加強雙邊合作。印度和越南建置農業新南向單一窗口資訊服務平台，提供資金需求、投資資訊、技術支援及貿易資訊相關訊息，以協助農業產業界布局新南向目標國市場。另立法院及各地方政府亦積極透過國會外交、城市外交等多元管道，協助推動新南向政策。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬批評，馬英九時期引以為傲的兩岸惠台政策，常常是口惠而實不至，舉例來講，台南過去曾連續五年和中國契作虱目魚，每年契作量兩千多噸，但五年內輸中數量都遠低於兩千噸，後期更有業者指出，中國契作的虱目魚以低價回賣台灣，衝擊國內市場。國民黨與中國聯手套殺台灣，還好意思將此作為政績沾沾自喜。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	馬英九執政8年，換來的也只是讓經濟跟對外管道被中國掐住咽喉。蔡英文清楚知道台灣就是一個國家，做為中華民國、台灣人民的總統，她全力捍衛國家主權與人民的尊嚴，努力分散台灣面對的國際及經濟風險，很遺憾國民黨的政治選擇，卻可能成為台灣國際發展最大的風險。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3878525376476a3356526e34484a4e48">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

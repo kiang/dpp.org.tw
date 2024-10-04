@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-05-03</p>
+				<h2>新北市議員第三選區初選民調結果新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨2022年直轄市議員提名初選民調作業，今（03）日公布新北市議員第三選區民調結果(本選區提名4席，含女性保障1席)：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	<img alt="" src="/upload/ckfinder/images/2022-05-03_%E6%96%B0%E5%8C%97%E5%B8%82%E8%AD%B0%E5%93%A1%E7%AC%AC%E4%B8%89%E9%81%B8%E5%8D%80%E5%88%9D%E9%81%B8%E6%B0%91%E8%AA%BF%E7%B5%90%E6%9E%9C%E6%96%B0%E8%81%9E%E7%A8%BF2.png" style="width: 1222px; height: 630px;" /></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	註1：提名名單以民進黨中執會正式通過公告為準。</div>
+<div style="text-align: justify;">
+	註2：候選人姓名前標註*為符合《2022年直轄市議員提名特別條例》所訂條件之新人，標註**者為新人且具青年或新住民身份。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f4348356a4873456553466f6530384c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

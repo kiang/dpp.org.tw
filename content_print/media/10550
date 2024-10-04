@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-12-08</p>
+				<h2>侯友宜還想狡辯  民進黨：被羈押的網軍頭是國民黨黨工</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對侯友宜競選辦公室發言人胡亂批評，民進黨發言人張志豪表示，Lin bay好油案偵結，桃檢起訴林裕紘、許哲賓並從重量刑，甚至還有滅證串供的可能，國民黨及侯友宜至今閃躲迴避，硬拗不道歉，如今還在惡意操作蛋品議題，一再製造社會恐慌，令人不齒。</p>
+
+<p>張志豪表示，共犯許哲賓是領國民黨薪水的黨工、Lin bay好油案主嫌林裕紘則是在黃國昌直播上演假哭戲碼，兩人已經被抓也被羈押，國民黨還要硬拗。</p>
+
+<p>張志豪指出，事實上，許哲賓一路跟隨周柏吟至雲林張家工作，並曾擔任張嘉郡競選立委發言人，甚至在雲林縣長張麗善新聞處工作，後來隱身至國民黨政策會，一路靠國民黨「辛苦栽培」，國民黨顯然就是最大抹黑集團，如今出事卻不敢擔，請朱立倫、侯友宜立刻出面道歉，不要出事就切割基層黨工，一再裝傻裝無辜。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="596e4c434b7976333259626e6e515937">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

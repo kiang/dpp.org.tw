@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-02-04</p>
+				<h2>針對防疫謠言續提告 民進黨：不容有心人士造謠，製造猜忌與對立，盼各界自重</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	武漢肺炎防疫期間，全國上下總動員，努力控制國內疫情，卻有網路謠言持續散佈，意圖干擾防疫作業，誤導民眾視聽。民進黨新任發言人顏若芳今(4)日表示，繼上周有網友造謠民進黨發45億災難財後，昨接獲民眾檢舉有LINE群組續傳不實謠言。顏若芳說為杜絕散播謠言惡行，今代表民進黨前往刑事警察局提告加重誹謗，盼民眾勿在齊心防疫的緊急時刻，製造不必要的猜忌與對立。</p>
+<p style="text-align: justify;">
+	顏若芳表示，民眾提供LINE群組謠言內容包括：「民進黨中飽私囊賺到災難錢，屆時又可稱為建國基金籌募款，無奈吧？」、「原來衛福部買口罩1.5元，賣給通路商三元，通路商先賣8元，再減成6元，衛福部和通路商一起發國難財，官員應撤職查辦。」，內容全屬杜撰編想，卻恐引發錯誤輿論，今至刑事警察提告是因為防疫視同作戰，不容國家防疫期間，假訊息流竄。</p>
+<p style="text-align: justify;">
+	顏若芳表示，民進黨政府及前線公務員，自過年期間便不眠不休展開防疫，不容有心人士，以造謠手段干預防疫作業，破壞社會信任，盼各界自重。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4e674149735a52686c78496776796572">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

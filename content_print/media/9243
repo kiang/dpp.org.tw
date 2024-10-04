@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-09-08</p>
+				<h2>民主進步黨第十九屆第五十二次中常會新聞稿 </h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(8)日召開第十九屆第五十二次中常會，黨發言人顏若芳會後轉述蔡英文主席致詞，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	各位中常委，大家午安。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	相信大家都有注意到，這幾天疫情有些變化，除了機師確診事件，新北市也有幼兒園群聚感染，雙北部分的學校因此停課。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我知道大家心裡很忐忑，但我們一定會全力來防堵疫情，請大家配合指揮中心的指示，做好防疫措施，也幫忙宣導防疫資訊，這一波我們一定要守下來。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	近來，我們的疫苗取得量不斷增加。公私合力的BNT，和民主盟友捐贈、我們自購的AZ也都陸續到貨。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我們會妥善規劃第一劑和第二劑的數量，希望持續來衝刺疫苗的覆蓋率，拜託各位黨公職要鼓勵能打疫苗的人趕快打，儘早得到保護力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這幾天，我也注意到，有在對岸發展的台灣的藝人，因為多年前用了「我國」兩個字，就遭到對岸言論審查，甚至工作權被封殺。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這些事聽在台灣人耳裡，大家都覺得不可思議，也無法接受。台灣是民主自由的社會，支持哪一個政黨、哪一些議題、要去哪裡發展，都是人民的選擇自由，也都應該被尊重。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	因為言論不合自己的意思就封殺、剝奪工作權，這不僅是對個人權利的侵害，也更凸顯了兩岸在民主和威權兩種價值上的差異，這對兩岸交流不會帶來什麼正面的意義。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這陣子我也注意到，為了要感謝疫苗捐贈的國家，很多民眾都在討論怎麼「買爆」來報恩。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在疫情中，不只是大家熟悉的美、日，像是波蘭、立陶宛、斯洛伐克和捷克，這些距離台灣遙遠的歐洲國家，也因為在防疫物資上互相扶持的溫暖，形成了一個「善的循環」，也加深彼此的情誼。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我相信比起打壓封殺，這才是國際政治當中，大家應該去追求的普世價值。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後要提醒大家，這幾天，我們正在密切注意璨樹颱風對台灣的影響，我會督促各單位做好防颱準備，也請黨公職提高警戒，謝謝大家。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	會中新竹市長林智堅特別說明為何提出新竹縣市合併的倡議，並表示未來如果需要修法的時候，希望常委能夠給予新竹支持，讓新竹市成為國家的第七都，讓科技城市能夠繼續在國際間有更多影響力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文主席聽取報告後則表示，新竹縣市確實是國家戰略產業的重鎮，我們樂見對於地方發展有益的倡議跟思考，但這仍是需要考量地方民意的反應，還要有相關法制面的配套措施，這些都還需要審慎嚴謹的討論。提升地方建設量能，讓區域整體發展能夠更好，相信這才是市民跟縣民共同的期待。她要謝謝智堅市長今天到中常會來向大家解釋他的倡議，也回答了中常委的意見，只要有助於國家發展，這項議題大家就持續一起來討論，也希望對現行制度能夠有所處理。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="45686a553943715141445654394f7054">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-08-21</p>
+				<h2>公布台北、苗栗、南投立委徵召人選 羅文嘉：扛起重任，2020台灣不能輸</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(21)日中執會後由秘書長羅文嘉召開「2020民進黨立委徵召提名公佈記者會」，介紹代表民進黨參選的4位立委參選人許淑華、高嘉瑜、羅貴星、陳癸佑。羅文嘉致詞表示，民進黨向來是一個非常熱鬧、喧嘩、多元的政黨，今天介紹的參選人雖然是不同類型，但他們有共同的特質，就是在民進黨面對2020這場艱困的選戰中，他們毫不猶豫扛起了重責大任。儘管大家有些地方可能會有不同意見，可能每個人的風格會不同，但我們都有相同的目標，2020年大選台灣不能輸，而在這四個選區，我們一定要贏。 </div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台北市第7選區立委參選人許淑華表示，自己從民進黨最辛苦的時候開始，在艱困選區經營基層12年。這12年的努力，證明她不怕吃苦，也讓大家看到民進黨的努力，改變民眾對民進黨的想法。這次接受民進黨徵召，她扛起重任出征，一定會成功翻轉松山、信義，翻轉民進黨在台北的結構，也翻轉台灣人民對中國的恐懼。讓民進黨2020年繼續勇往直前的執政，帶領台灣走向下個世代。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台北市第4選區立委參選人高嘉瑜則提到，雖然她黨內人緣不是很好，又有蠻多爭議，民進黨還是不計前嫌給予年輕人機會，證明民進黨是個多元民主、容納不同聲音的政黨。她也特別感謝黨內前輩的包容，王孝維議員的禮讓，讓她有機會參選。內湖、南港確實是艱困的選區，但相信這次的選舉，結構已經不同，選民也改變了。民進黨會用最優秀的人才，證明我們的價值與理念，她也會在內湖、南港，團結第三勢力一起合作，為民進黨贏得勝選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	苗栗縣第1選區立委參選人羅貴星表示，經過主席的邀請、秘書長的懇談，以及杜文卿主委的鼓勵，他決定承擔重任，挑戰苗栗這個民進黨從未執政過、最艱困的選區。他相信他過去從代表到議員的經驗，能在最艱困的選區挑戰成功。他也會結合各方力量，用最大的力量，爭取成功翻轉苗栗的機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	南投縣第2選區立委參選人陳癸佑則提到，他擔任水里鄉長八年，會用政績、政見讓鄉親比較，選出最佳人選。選舉並不是只選知名度高不高，而是誰能夠提供更好的服務品質，誰能更專心、用心為鄉親服務。他接受黨的徵召後，會與蔡英文總統聯合競選，努力贏得勝利，保衛國家主權，維護民主自由，讓人民安居樂業。</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="417347414b52333755656d4e46595453">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-28</p>
+				<h2>選後座談第二站宜蘭 蔡英文：我們要勇敢面對問題，讓失去的支持者再加入我們</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨前主席蔡英文今(28)日下午前往宜蘭縣，由立委陳歐珀、宜蘭縣代理縣長陳金德、宜蘭市長江聰淵、冬山鄉長當選人林峻輔、蘇澳鎮長當選人李明哲陪同出席蔡英文傾聽基層民意宜蘭縣座談會，聽取人民的建議與指教。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文致詞時表示，第一站她來到高雄，今天宜蘭是第二站。為什麼是宜蘭，道理很簡單，就和高雄一樣，因為宜蘭是民主聖地，也是長期支持民進黨最有力的地方。我們曾在宜蘭失敗過，但又站了起來；我們長期在這裡執政，創造了許多宜蘭的故事和傳奇。這次在中央執政的情況下，無法守住宜蘭，她對此深感抱歉。她對支持者，尤其在這麼艱難的選戰中，堅定勇敢地站出來支持，她感到非常感謝。她也特別感謝後援會會長，在困難的局勢裡面，站出來挺民進黨、讓民進黨候選人擁有更多支持，這對後援會會長來說是一個很大的挑戰，所以她也要感謝全體後援會系統。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，選舉結束中央就開始進行檢討，不只有民進黨，還有行政部門及整個執政團隊，都在進行檢討的階段。今天的中常會，也會有新的代理主席，來領導整個黨持續地做檢討工作。她進一步表示，等代理主席出來後，黨部會規劃新的主席選舉，行政部門和賴院長也已經帶領行政團隊進行整體的政策檢討，尤其在新的民意出來後，就會整理大家的意見，來進行政策的檢討。在檢討之後，就會做人事調整，來帶領我們下一波執政的面貌。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文說，希望在今天的檢討會，大家無需保留、有什麼話就說，昨天在高雄的後援會系統也都非常地直白、清楚，而且直接。有什麼不好我們就來改、就大聲地說出來，這也是為什麼要在各地開會的原因。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，蔡英文呼籲，在選舉失敗的痛苦時刻，請不要灰心、消極，我們要更勇敢面對、不要逃避問題、有錯就改，讓失去的支持者再加入我們，我們要有堅定的立場。雖然過程中會很艱辛，不過民進黨不是沒有失敗過，我們也曾失敗過好幾次，但都站起來了。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="41734b4c335478646e416a6a6f696444">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-05-29</p>
+				<h2>民進黨：非核立場堅守未變，持續推動綠能發展，達成能源自主</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對媒體報導指稱民進黨主席賴清德「非核鬆動」一事，民進黨發言人張志豪表示，民進黨非核立場堅守未變，落實「非核家園」與推動「能源轉型」，一直是民進黨與台灣許多進步力量共同的目標，作為執政黨，民進黨持續透過政策積極落實這些目標。</p>
+
+<p>張志豪重申，民進黨自2016年執政以來積極部署，攸關「淨零排放」目標的非核、減煤、增氣、展綠的能源轉型工程。賴清德主席28日是針對學生提問「被封鎖」的極端外部導致的國安風險情境下所做思考及討論，不是常態狀態。</p>
+
+<p>此外，賴主席在整場演講中數度表達綠能發展及能源自主的重要性。政策方向上，民進黨也強調最優先的還是擴大真正自主的再生能源及儲能設備、節能、避免耗能。</p>
+
+<p>民進黨非核立場堅守未變，政府也會持續發展綠電，為提高再生能源配比努力。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="73326172565169703848315a65427138">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

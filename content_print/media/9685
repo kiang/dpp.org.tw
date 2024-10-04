@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-18</p>
+				<h2>國民黨公然欺騙台灣人民與中國高官會面 朱立倫應向全民道歉</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨訪中團視訊參與在中國河南的兩岸關係研討會，國民黨特別顧問兼大陸事務部主任林祖嘉並致詞表示「堅持九二共識、反對台獨」，附和中國國台辦主任劉結一所說「祖國完全統一的歷史大勢不可阻擋、不可抗拒」一事。民進黨發言人李姸慧嚴正表示，國民黨訪中「不談政治性議題」的保證言猶在耳，現在卻直接唱和中共政治主張！請國民黨知所節制，切勿自失立場、誤國誤民。</p>
+
+<p style="text-align: justify;">李姸慧批評，國民黨訪中團尚在隔離期間，居然迫不及待以視訊參加中共當局所舉辦的研討會，還在視訊中聲稱將「加強交流合作，維護台海和平穩定」，完全無視中共當局對台軍演等各種蠻橫無理的施壓作為，難道國民黨換取兩岸和平穩定的方式，便是拋棄自封的「反共政黨」身份，向中共卑躬屈膝、百般順從討好？</p>
+
+<p style="text-align: justify;">李姸慧指出，中共當局利用各種文攻武嚇手段，破壞台海和平穩定現狀，展現併吞台灣的企圖，惡劣行徑受到國人與世界各國的共同譴責。國民黨在此時訪問中國，時機非常不宜，陸委會事前也一再勸阻，國民黨對此充耳不聞，顯露其對台灣主流民意與國際情勢變化的嚴重脫節與無知。</p>
+
+<p style="text-align: justify;">李姸慧表示，國民黨在台灣政府勸阻、自家人反對下執意赴中；出訪前曾聲稱此行不見高官、不談政治性議題，卻出爾反爾，毀棄自己許下的承諾，這種作法絕對無法獲得國人的認同。而無視中共威脅台海和平穩定，並配合其做出錯誤言論，更是向國際社會釋放錯誤訊號，徹底傷害台灣的國家主權，必須要對國人提出合理交代。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f5531644470535a736e79313452384b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

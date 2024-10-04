@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-15</p>
+				<h2>裴洛西來訪後 美國國會兩週內再度組團來台 民進黨：以實際行動表達對台灣的支持</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">關於美國聯邦參議院外交委員會亞太小組主席馬基（Ed Markey, D-MA）率團來台灣訪問，民主進步黨發言人謝佩芬今（15）日表示，繼裴洛西（Nancy Pelosi）議長率團訪台後，不到兩週內美國國會再度組團來訪，民進黨表達誠摯歡迎，也希望藉此機會，感謝美國國會參、眾兩院中跨黨派對台灣的強勁支持。&nbsp;</p>
+
+<p style="text-align: justify;">此次訪團由馬基主席率領，其他成員包括：聯邦眾議員加勒曼帝（John Garamendi, D-CA）、魯文索（Alan Lowenthal, D-CA）、貝耶（Don Beyer, D-VA）及羅德薇（Aumua Amata Coleman Radewagen, R-AS）。&nbsp;謝佩芬說，馬基主席於1979年擔任眾議員時，投票支持《台灣關係法》。當選參議員後，即加入「參議院台灣連線」。在擔任參議院外交委員會「亞太小組」主席以來，更積極推動友台議案，近日即提出「台灣安心法案」（Taiwan ASSURE Act）及「台灣學人法案」（Taiwan Fellowship Act）等。&nbsp;因此，我們也想藉馬基主席率團來台之際，向這位長期以來支持台灣的好朋友，表達最深的感謝。&nbsp;</p>
+
+<p style="text-align: justify;">謝佩芬進一步表示，中國日前以裴洛西議長來台做藉口，實施實彈軍演，升高台海及區域緊張情勢，引起國際上眾聲譴責。值此之際，此一國會代表團來訪台灣，成員橫跨參、眾兩院兩黨，來自外交、軍事、歲計等重要委員會，是以實際行動表達對台灣的支持，也是台灣做為民主國家，與其他民主國家正常交流的展現。我們期待在台灣、美國與其他民主夥伴的一起努力下，共同維護台海及區域的和平穩定。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="715552484d503130384e50414a553962">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

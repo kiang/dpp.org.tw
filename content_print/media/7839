@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-08-08</p>
+				<h2>民進黨：請國民黨省點口水，給正在全力搶修和平電廠的台電人員加油鼓勵</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 對於國民黨今（8）日記者會的口水批評，民進黨發言人王閔生表示，國民黨總是口水比汗水多！清楚的事實是，這次是因為天災造成輸配電系統損害，不是供電不足，國民黨的發言人連問題意識都沒有能力搞懂，實在遺憾也可惜。「充電線斷了，一直吵插座不夠用，不知道在想什麼。」</p>
+<p>&nbsp; &nbsp; &nbsp; 王閔生強調，政府為了在電網修復前避免限電風險，應該是不分朝野一起呼籲，甚至以身作則節電。但國民黨朋友這種開著冷氣罵到一身汗的做法，實在讓人無言！請國民黨省點口水，給正在全力搶修和平電廠的台電工程人員加油鼓勵吧！</p>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="345244505652414c774e785931666f68">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

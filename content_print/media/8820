@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-21</p>
+				<h2>黃昏市場掃街拜票 卓榮泰：讓認真的張宏陸守住這一席立委</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(21)日在立委參選人張宏陸、議員黃俊哲、戴瑋姍以及市場主委葉慶生及地方黨公職陪同下，前往板橋江寧黃昏市場掃街拜票。卓榮泰說，張宏陸委員非常認真，跟著他出席了很多活動，包括與新住民朋友的活動、宮廟活動及市場的拜票，都展現出不同懇託型態，他認為這一席絕對可以拿得下來。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，再度來到板橋，陪張宏陸委員一起向市民朋友們來拜託，這已經是他第三次陪張宏陸委員出來向市民朋友拜託。今天特別高興，黃俊哲、戴瑋姍議員也在現場，這就是民進黨展現整體作戰、聯合作戰一個很好的示範，新北市的選情對我們來講非常的重要，這是一個非常大的選舉，所以我們在這裡，八加一的席次是我們的防守區。宏陸委員就是我們的衛冕者，其他有幾個新的戰區要去開拓，希望所有的衛冕者都能守住防守區。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	張宏陸表示，板橋是一個都會型的城市，有很多人白天上班，晚上下了班才來買菜，所以每個人的生活型態不一樣，我們從早到晚，都要去接觸到不同的人，並向他們拜託，宣導我們的理念，希望他們能夠支持張宏陸、支持民進黨。另外，他也對目前的選情非常有信心。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="44784d47414d6a79613049436148766d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

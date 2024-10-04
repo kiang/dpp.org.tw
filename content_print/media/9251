@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-09-22</p>
+				<h2>民主進步黨第十九屆第五十四次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(22)日召開第十九屆第五十四次中常會，黨發言人周江杰會後轉述蔡英文主席致詞，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	各位常委，大家午安。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	下個星期二，就是民進黨創黨三十五週年的日子。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	剛才各位看到的影片，是我們黨部同仁剪出這部娓娓道來的影片，讓我們一起回顧了民進黨從嬰兒到壯年，這三十五年的歲月。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	如果以人的年紀來看，三十五歲，已經是累積足夠經驗，能夠扛起重責大任的年紀。相信現在正在執政的民進黨，也是以這樣的態度，來回報台灣人民三十五年來的愛護和支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在威權時代衝破黨禁、在民主時代引領風潮，在野的時候認真監督、執政的時候擔當責任。這就是民進黨的同志菁英，三十五年來，一棒接一棒，傳承下來的精神。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	每一次我經過中央黨部九樓門口，那張「創黨工作十八人小組」合照，都在提醒我，「民主進步黨」這塊招牌，是很有重量的，身為主席，必須要把招牌扛好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	所以，我要和所有的黨員同志相互勉勵，我們不會忘記當年創黨前輩奉獻出的熱情。現階段，也要承擔執政責任，堅持主權、守護民主、壯大台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這幾天，正好也是聯合國大會進行總辯論的日子。相信這段時間，大家都感受到，有越來越多的國家，都認為國際社會長期排除台灣，並不是好的做法。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	去年疫情發生以來，我們和許多抱持相同價值的國家，互相支持、援贈物資，希望透過這樣「善的循環」，一起走出疫情陰霾。我們正用行動證明，台灣是國際社會的良善力量，我們有意願，也有能力參與國際社會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	但是我們所承受的政治壓力，依然很大。中秋連假期間，中國無預警片面暫停台灣釋迦和蓮霧輸入中國，我們已經立即啟動應變，一定要像先前處理鳳梨事件一樣，順利化解這波打壓。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我也注意到，像是受影響產區的黨公職，尤其是孟安、櫂豪，還有很多人，都在第一時間就站出來力挺農民，安大家的心，「清廉、勤政、愛鄉土」，民進黨的招牌擦得很亮，是因為大家都很努力在拚。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我也要再次呼籲朝野政黨，農民受到對岸無理打壓，我們對外立場更應該一致，此時此刻，農民需要全民力挺，最不需要的，就是政黨之間彼此相互攻訐。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，我想用剛才影片的最後一句話，來勉勵大家，「感謝有你，做伙出力」，謝謝台灣人民三十五年來對我們的愛護，我們會記得這份厚愛，帶領台灣繼續改革、繼續進步，謝謝大家。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="41456b7871796d4a3533364258707535">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

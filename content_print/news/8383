@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-09-11</p>
+				<h2>【明鏡洞】蘇貞昌2.0，要讓新北2.0！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                	                <p class="text-center font_green">
+		                <i>
+		                	〞新新北，讓生活更新更好！〞
+						</i>
+					</p>
+										<hr>
+	                <p>
+	<span style="font-size:14px;">【貼身了解，不一樣的蘇貞昌！】 想知道，新北市長候選人蘇貞昌&hellip;&hellip;<br />
+	&rarr; 最想擁有什麼超能力？<br />
+	&rarr; 現在最想吃什麼東西？<br />
+	&rarr; 心目中的偶像是誰？<br />
+	&rarr; 面臨過最艱難的挑戰？</span></p>
+<p>
+	<br />
+	<span style="font-size:14px;">【新新北，讓生活更新更好！】<br />
+	&rarr; 蘇貞昌又將如何透過年輕團隊的活力，串聯起北台灣的共同生活圈，打造 #一千萬人 共同生活、工作、就學、休憩的 #大舞台？<br />
+	<br />
+	#蘇貞昌會做事 #快問快答 #一千萬人的大舞台 #衝衝衝<br />
+	<br />
+	#明鏡洞電視台 全新系列影片，認識不一樣的民進黨！讓我們從生活化的面向，近距離接觸候選人與最夯的時事話題，一起為台灣加油！<br />
+	#明是非 #鏡真偽 #洞大勢</span></p>
+<p>
+	<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/4pJUaWz1nvU" style="width: 100%; height: 500px;"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4a3432316d316a496d67734271376c78">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

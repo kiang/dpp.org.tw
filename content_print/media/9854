@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-09</p>
+				<h2>民主進步黨第二十屆第十四次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨今（9）日召開第二十屆第十四次中常會，會前由黨主席蔡英文與基隆市長候選人蔡適應、桃園市長候選人鄭運鵬、新竹市長候選人沈慧虹召開「延續五星光榮，進步永不回頭 」記者會。</p>
+
+<p style="text-align: justify;">蔡英文主席表示，只剩17天，選舉就要投票了。大家手中的這一張票，將決定每一個縣市的未來發展，也將會決定民進黨在每一個執政縣市的執政成果和城市光榮，能不能夠延續。</p>
+
+<p style="text-align: justify;">蔡英文主席呼籲，每一位市民朋友的選擇，都是決定城市發展的關鍵。她要拜託基隆、桃園、新竹的朋友，手中的這一票，一定要「選會做事的人」。</p>
+
+<p style="text-align: justify;">此外，今天中常會會中，林錫耀秘書長在黨務報告時，播放由中央黨部製作的競選影片，分別是宣傳1112雙北凱道造勢晚會影片-「蔡英文、賴清德、蘇貞昌、陳時中、林佳龍、陳其邁邀您一起來為台灣鼓舞！」，以及三支由黨發言人錄製的選前投票指南影片：「宜蘭縣長要投誰？三分鐘為你快速解析！」、「台中發展困境怎麼解？台中人選前看這支！」、「基隆人必看！150秒看懂市長要投誰」等四支影片，給與會的中常委們作為分享參考。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="68313665554379323179423346333959">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

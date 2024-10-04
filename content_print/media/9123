@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-30</p>
+				<h2>民進黨推出《2021台灣都好》影片 蔡英文親自獻聲感謝台灣人民</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	繼上週民進黨發布執政成績影片《2020台灣真好》，民主進步黨今（30）日再發布《2021台灣都好》宣傳影片，本影片由主席蔡英文總統親自獻聲錄製旁白，以溫暖的口吻回顧了2020年的台灣，感謝台灣人民的努力以及展望2021年台灣一切都好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨媒體創意中心主任王柏鈞表示，本支影片邀請向來關心社會議題的知名導演盧建彰拍攝。由於今年疫情的衝擊，影片一開始刻意從方型的畫面中，帶出眼鏡、文具、咖啡杯等靜物，象徵因疫情而停滯、受侷限的社會氣氛。但隨著台灣防疫有成，鏡頭畫面也從方形逐漸開展，代表台灣開始恢復生氣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文總統片頭以一句問候「還好嗎？」開場，畫面從台灣人民今年的防疫新生活切入，進而帶出「還好有你們」，表達防疫成果為台灣人民的共同成就，也感謝台灣人民在各個崗位上的努力。片中蔡英文總統提到「我們思考、我們準備、我們行動」，在疫情影響之下，台灣從停擺的生活到從逆境中恢復生機，都有賴於民眾配合政府防疫措施。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	「還好，我們在台灣」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	影片除了呈現台灣的防疫措施嚴謹落實，也因為防疫的好成果，台灣2020的經濟表現亮眼，股市上萬點、GDP成長，也是少數還能舉辦大型藝文活動的國家。同時，面對今年中國的軍事威脅，台灣也不斷提升自身的國防實力，讓人民可以安心在台灣工作、生活。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，台灣2020國際能見度提升，李登輝前總統辭世，美國及日本重要官員皆來台悼念友訪，均展現台灣作為民主國家的自信與驕傲。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，片尾蔡英文總統也驚喜現身，雖只是從座車上望向窗外的短短兩秒畫面，但真摯的眼神中透露出給予人民的許諾，希望「新的一年，讓我們一切都好」。2021年，依然有許多未知等待著我們，但「勇敢、堅韌、溫柔和我們一起」，台灣人可以一起面對。</div>
+<div style="text-align: center;">
+	&nbsp;</div>
+<p style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/PFjlvWE2j6o" width="560"></iframe></p>
+<p style="text-align: center;">
+	&nbsp;</p>
+<p style="text-align: center;">
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6d676c33374361545944553636503369">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

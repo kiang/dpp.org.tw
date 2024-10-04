@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-03</p>
+				<h2>選舉百日倒數　民進黨發動網路串聯力拚國會過半</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	2020總統暨立委選舉進入倒數100日衝刺階段，民主進步黨青年部今（3）原先規劃網路與實體「破百無畏，加值國會！」誓師，惟因南方澳大橋斷裂造成憾事，故取消實體活動，仍照原計畫邀請黨籍提名立委參選人在臉書分享自身與「100」相關的小故事。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	參選人在臉書發文響應此活動，分別談及一路走來的心路歷程及選戰最後100天的亮點，盼藉由網路串聯的方式互相拉抬，宣示民進黨「破百無畏，加值國會！」的決心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	2020大選投票日進入倒數100日，除了蔡英文總統力拚連任外，民進黨更訂下維持國會席次過半的目標，盼未來四年能在國會繼續大力推動改革。所有黨籍立委參選人皆戰戰競競，一步一腳印爭取選民支持，多位首次參選的新人更是格外緊張。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	青年部今發起「破百無畏，加值國會！」串聯活動，相信參選人只要保持「破百無畏」，勇於面對選戰，一定能爭取更多選民認同與支持，在未來進入國會殿堂成為全國性的民代後，也能延續民進黨近年在國會的改革成果，達到「 加值國會」的目標。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	青年部邀請黨籍立委參選人分別舉起「破百無畏，加值國會！」 手牌拍攝個人照，並分享自身與「100」的連結、接近「100」的時刻等輕鬆感性內容，多位參選人文章一發出即獲得廣大迴響，臉書分享與討論熱絡​。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	許多力拚連任的參選人回憶起長年來在選區服務的過往時光，也細數此任期三年多來與在地鄉親一同打拚的成果。初次投入立委選舉的參選人，則向選民介紹自己，並具體提出未來四年對於選區的規劃及想法，努力爭取每一張選票。參選人皆展現「破百無畏，加值會！」的必勝決心，一同為國會過半的目標努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	青年部在最後100日會持續透過集體、串連式的網路活動，強化黨籍提名立委參選人的網路社群力量，另外也會安排卓榮泰主席、羅文嘉秘書長與林飛帆副秘書長等人，帶領「民主進步青年」發起全國總攻，進行全台立委創意街頭輔選計畫，盼能在明年選舉達到國會過半之目標。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	「破百無畏，加值國會！」串聯活動包含立委陳瑩、劉世芳、黃國書、何欣純、蔡培慧、蕭美琴、鄭寶清、鍾佳濱、陳素月、陳明文、蔣絜安、蘇巧慧、蔡易餘、邱議瑩、陳亭妃、郭國文、洪宗熠、張宏陸、江永昌、蔡適應、許智傑、林岱樺、劉建國、何志偉、高嘉瑜、鄭運鵬、李昆澤、林俊憲、呂孫綾、趙天麟、黃秀芳、蘇治芬、蔡其昌、吳思瑤、張廖萬堅及余天，立委參選人阮昭雄、周江杰、林宜瑾、賴品妤、賴惠員、羅貴星、張銘祐、蔡沐霖、鄭朝方、莊競程、王美惠、伍麗華、黃世杰、鄭宏輝、許淑華、謝佩芬、徐定禎及李問皆參與發文，民進黨力拚國會過半團結一致，氣勢強大。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="644f38397a4d65565162344b5a6b4849">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-03-06</p>
+				<h2>民進黨針對新住民二代和僑生 首辦兩天一夜「新南向在台灣冬令營」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨國際事務部今(6)、明(7)兩日舉辦「2021新南向在台灣冬令營」，共有20多位新住民第二代學生與僑生參與，涵蓋越南、印尼、馬來西亞、巴基斯坦等多國背景、來自台灣九個縣市，年齡層則自國高中至大學生皆有。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨副秘書長林飛帆於營隊開幕式中表示，蔡政府一直致力於推動新南向政策及多元文化教育。這次民進黨藉冬令營，希望讓參與學員了解台灣與東南亞及南亞國家交流的歷史，對政府政策有更明朗的了解、並期待學員對政策不足處提出建議。更希望這次能帶領大家體驗台灣這塊土地的包容性及本土文化，培養台灣與新南向國家間更緊密的關係。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆說，台灣一路走來，歷經從威權到民主的種種困難，台灣在東亞和東南亞區域中是一個重要的民主國家，而且，我們不只是民主國家，更是一個多元文化的國家。強韌的民主代表不只是民選的公正性，更含有如何讓來自不同背景的朋友在台灣也能自在生活的文化內涵。林飛帆也提及，目前民進黨國際部同仁已擁有英文、日文、德文、法文、俄文等語言能力及海外經驗，但他仍期待更多具新南向國家背景的年輕人投入民進黨，帶來更多不一樣的視角，以拓展台灣與周邊國家的關係。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨發言人暨國際部副主任謝佩芬表示，民進黨過去多次舉辦「民主之路夏令營」，提供在台外籍生深度認識台灣民主進展的機會，皆獲好評。此次為民進黨首度針對具有新南向國家背景的學生舉辦營隊，由於參與學員皆與新南向國家有淵源、具雙母語優勢與多元文化背景，是台灣未來重要的國際人才。為此，民進黨國際部特別邀請橫跨外交、政治、歷史、心理等領域的堅強師資授課，講師包括立法委員及國際部主任羅致政、政大東亞所楊昊教授、台大心理學系退休教授黃囇莉、聯經出版社總編輯涂豐恩、東南亞國家駐台外交人員、經貿談判人員等。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，本營隊報名踴躍，但因疫情關係，不得不縮小規模辦理，兩天一夜的營隊中，也會嚴格要求所有參與者遵守防疫規範，期待所有人在安全的環境下，共同深化台灣與具新南向國家背景青年的連結。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	<img alt="" src="/upload/ckfinder/images/20210306_%E6%B0%91%E9%80%B2%E9%BB%A8%E5%9C%8B%E9%9A%9B%E9%83%A8_%E6%96%B0%E5%8D%97%E5%90%91%E5%9C%A8%E5%8F%B0%E7%81%A3%E5%86%AC%E4%BB%A4%E7%87%9F%20(1).jpg" style="width: 1600px; height: 1067px;" /></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6e5a4664594372487a494452536d3939">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-10-30</p>
+				<h2>民進黨DPP姊妹幫力挺魏明谷 新住民支持好縣長連任</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨婦女部「DPP姊妹幫&mdash;新住民愛台灣」中央助選團今(30)日至彰化縣為縣長魏明谷站台相挺，記者會中邀請中央助選團新住民代表李孟涵，以及彰化縣在地新住民邱莉亞、張寶月致詞，共同表達對魏明谷縣長的信任及支持。立法委員黃秀芳、彰化縣政府社會處處長黃淑娟、議員賴岸璋、市長候選人林世賢及議員候選人劉玲惠、李寶銀亦出席記者會。會後魏明谷縣長由新住民及黨公職陪同，至市場掃街拜票，在選前關鍵時刻，全力催出選票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	來自不同國家，在彰化不同鄉鎮開創新生活的新住民姊妹，分別感謝魏明谷縣長任內，對新住民家庭生活及各行各業全面的照顧。民進黨新住民事務委員會委員、民進黨「DPP姊妹幫&mdash;新住民愛台灣」中央助選團代表的越南裔新住民李孟涵表示，過去四年來縣長對新住民非常照顧，在各鄉鎮皆設有新住民服務據點，住在偏遠地方的新住民姊妹都能獲得即時性的協助。同時擔任彰化縣新住民發展協會理事長的李孟涵也強調，魏明谷縣府團隊更是積極協助新住民民間團體，給予許多支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	擔任魏明谷永靖後援會新住民組長、菲律賓裔的邱莉亞表示，她扶養六個小孩，要感謝魏明谷縣長在學費補助、中低收入補助上給予她極大的幫助，現在她要為了縣長站出來，力挺四年來最認真、最有愛心地關懷新住民家庭的縣長魏明谷，希望大家一同支持。來自越南，在彰化生活18年的張寶月也提到，這四年來新住民自身感受特別強烈，魏明谷縣長提供新住民姊妹許多協助，希望縣長能夠成功連任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	縣長魏明谷致詞時感謝新住民姊妹相挺，他表示，彰化縣有兩萬多名新住民，是一股不容小覷的力量。而新住民來台辛苦面對文化差異，更加展現新住民的堅強和意志力，也感謝新住民姊妹選擇台灣、選擇彰化，作為她們第二個故鄉。魏明谷表示，過去四年來，彰化縣政府成立婦女及新住民福利科，照顧新住民的就業工作、社會福利、家庭生活等，協助新住民更快融入台灣社會，也辦理教育學習課程，促進新住民家庭親子共學。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	魏明谷強調，台灣是一個自由民主的國家，大家一律平等，不會對新住民差別待遇，而新住民初至此地語言不通、資訊蒐集較慢的情況下，政府更應積極協助新住民獲得應有的保障。他也提到，新住民不是外國人，新住民和台灣人一同居住在這塊土地，為台灣努力與付出，未來連任後會加強現有的新住民權益照顧，並在教育議題、社會福利、工作和就醫等各方面都做得更多，讓新住民和台灣所有人在彰化安居樂業好生活。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f764668376d57334e695a6653364c4c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

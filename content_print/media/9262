@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-09-29</p>
+				<h2>蔡英文主席恭賀岸田文雄眾議員當選日本自民黨總裁</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	關於岸田文雄先生在自民黨總裁選舉中順利當選的消息，民主進步黨發言人顏若芳今（29）日表示，蔡英文主席表達祝賀之意。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳說，蔡英文主席樂意與支持台灣的國際友人交流互動，爭取國際社會對台灣更多的支持。我們也感謝日本自民黨四位總裁候選人對台灣申請加入CPTPP表達歡迎之意；這些舉動都印證台日友好、民主夥伴的深厚情誼。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳進一步說，民進黨期盼自民黨在岸田文雄先生領導下，雙方政黨在台日友好的基礎上，持續深化交流，共同為台日未來的合作與發展努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d347854324476474b4c596163337654">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-02-12</p>
+				<h2>宋濤歡迎綠營訪中 民進黨：在「和平、對等、民主、對話」原則下，歡迎中國人士訪台了解台灣民意和善意</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">有關學者趙春山轉述中國國台辦主任宋濤歡迎綠營人士訪中一事。民主進步黨今(12)日表示，本黨一向鼓勵並支持健康有序的兩岸交流，只要願意尊重我們的自由民主憲政制度，也非常歡迎宋濤隨時來台灣走走。</p>
+
+<p style="text-align: justify;">民進黨認為，兩岸關係穩定發展是雙方共同責任，任何分歧應該要理性務實溝通。呼籲中國應停止將單邊意志強加於台灣，兩岸交流應該在不設任何政治前提下溝通協商、化解歧異，才能開啟互利雙贏的未來。</p>
+
+<p style="text-align: justify;">民進黨表示，只要中共當局尊重台灣人民對民主自由價值的堅持以及台灣的自由民主憲政制度，在「和平、對等、民主、對話」原則下，民進黨會善盡地主之誼，歡迎包括宋濤在內等各界人士來台灣走訪交流，多多了解台灣的民意和善意。</p>
+
+<p style="text-align: justify;">民進黨重申，未來兩岸應該在理性、平等、相互尊重下，推動疫後健康有序的交流。民進黨將堅持原則，以務實態度處理兩岸關係，維護台海和平穩定的現狀，也呼籲北京當局，負起共同穩定兩岸關係的責任。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="733972356f3450394d3146776d7a6232">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

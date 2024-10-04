@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-02-23</p>
+				<h2>李晏榕：國民黨勿再掩耳盜鈴，用欺騙國人的論述，逃避台灣社會對其和平協議的質疑</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨指稱，陳前總統和陸委會陳明通主委都曾提出過「和平協議說」，民主進步黨發言人李晏榕今(23)日表示，過去本黨曾主張「兩岸和平穩定互動架構協議」，並非以一中為前提，是基於兩岸主權對等，就如何維持兩岸和平穩定互動所涉及的廣泛問題，進行整體性、架構性的探討，目的在確保國家主權不被矮化，安全不受威脅，和國民黨所謂「和平協議」，有本質上的差異。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕說明，2004年提案公投的和平穩定架構協議，在其提案說明中，即清楚說明將比照國際間各和平架構有關協議，要具有「簽署雙方互不隸屬」、「雙方均彼此尊重相互主權、政治獨立及享有和平生存環境的權利」等特色，且不排除不同程度第三方力量的參與協助及監督，這顯然與國民黨將向中國屈膝的和平協議前提大有不同。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕表示，國民黨倡議的是在「一中原則」下投降式的和平協議，只會淪為地方與中央的不對等關係。國民黨用魚目混珠的方式，打和平協議的泥巴仗，可謂不倫不類。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕提到，今年初，習近平已經提出「一國兩制臺灣方案」，試圖分化臺灣社會、消滅中華民國台灣的主權地位，但國民黨始終不願意面對中共日益進逼的威脅，更不顧兩岸關係已經面臨重大改變。國民黨只能一再用自欺欺人的論述，處理社會對其和平協議的質疑。中國已大力推動兩岸統一進程，但國民黨仍在掩耳盜鈴，槍口對內，根本就是投降主義，暗助中共逐一分化台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6359365a30314867497976546b493559">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-16</p>
+				<h2>民主進步黨第十八屆第十九次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(16)日召開第十八屆第十九次中常會，會中邀請台北市黨部主委陳正德、台中市黨部主委何明杰以「2019年台北市、台中市立法委員補選選情報告」為題進行專案報告，發言人林琮盛轉述卓榮泰主席會中裁示，台北市、台中市的這兩場立委補選，對黨來說有不能輸、必須贏的壓力，希望地方黨部主委能再加把勁，完成勝選的使命。補選最重要的是提高投票率，只要候選人排定助選行程，我們會盡全力來配合。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台北市部分，何志偉候選人目前穩定&nbsp; 領先，希望台北市能穩紮穩打，不要出現不必要的糾紛。需要黨部協調、黨公職參與的部分，我們會全力配合。而台中市則是需要開創知名度，我們也會到台中拉抬王義川候選人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林琮盛表示，主席也希望北中兩市黨公職總動員，這不是一場只有個人、選區的選舉，是台北市、台中市的選舉，主席也再度重申聯合作戰的重要性，今天晚上他會召集台北市選區的議員，逐里分配工作，也拜託黨公職以大規模謝票的感謝心情去拜票、拉票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	會中通過成立2019年立法委員補選輔選小組及助選團，依地區性分為北北區（台北市、新北市）、中彰區（台中市、彰化縣）、台南區（台南市）三大區域。輔選小組成員部分，北北區由鄭文燦市長擔任召集人，陳正德主委、陳建智評召擔任執行長，黃承國中常委、吳思瑤立委、張宏陸立委、沈發惠中常委為小組成員。中彰區則由林佳龍部長擔任召集人，何明杰主委、邱建富主委擔任執行長，魏明谷前縣長、謝明源議員、何欣純立委、黃秀芳立委為小組成員。另台南區召集人為黃偉哲市長，執行長為黃先柱主委，成員則有李俊俋立委、王定宇立委、陳亭妃立委、林俊憲立委。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，助選團成員由該區立法委員擔任。北北區為吳思瑤、呂孫綾、林淑芬、吳秉叡、蘇巧慧、張宏陸、羅致政、江永昌、吳琪銘、吳玉琴、余宛如、段宜康、尤美女、李麗芬、郭正亮、邱泰源、陳曼麗、王榮璋、施義芳。中彰區為蔡其昌、張廖萬堅、黃國書、何欣純、黃秀芳、洪宗熠、陳素月、吳焜裕、林靜儀、施義芳。台南區則為葉宜津、陳亭妃、林俊憲、王定宇、陳靜敏。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	會中通過聘任陳勝宏同志擔任財務委員會主任委員。會中也依據中央黨部人事評議委員會設置辦法第二條規定，本會置委員五名，除秘書長羅文嘉、財務委員會主任委員陳勝宏為當然委員外，會中通過由黃承國、沈發惠、張宏陸等三位中常委擔任人事評議委員會委員。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另根據2018年7月25日第18屆第1次中常會決議，指派陳明文、陳勝宏、高志鵬、沈發惠、張宏陸等五位中常委組成入黨複審小組，因高志鵬中常委已退黨且請辭中執委暨中常委職務，會中通過補指派陳茂松中常委為入黨複審小組成員。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="49675a4a67654d675347794e5744536a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

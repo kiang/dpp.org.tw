@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-12-27</p>
+				<h2>民進黨：「台灣美德站出來」社群串流行動展開</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>選戰倒數17天，民進黨主席暨總統候選人賴清德今（27）日除中常會宣示最新任務，發言人張志豪表示，為號召國人明年1月13日出門投票，「2024台灣美德站出來」社群串流行動也隨即展開。活動有三個步驟，步驟一「拍」，使用手板拍照；步驟二「貼」，社群網站發貼文，文案加上活動 Hashtag #台灣美德站出來；步驟三「傳」，上傳照片至活動表單 <a href="https://reurl.cc/N4X9GQ">https://reurl.cc/N4X9GQ</a>。</p>
+
+<p>張志豪說，選對的人、走對的路，敬邀全國民眾共同響應，無論你在台灣哪一個縣市、在什麼地點、也不論身處在世界哪一個角落，今天起都可以舉起「我挺2號賴蕭配」的標語，共同響應力挺美德贏台灣，線上社群大串流活動。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="68306b525065597a5567576557584b32">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

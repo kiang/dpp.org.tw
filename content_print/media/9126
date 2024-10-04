@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-01-06</p>
+				<h2>香港泛民派人士遭港府大抓捕 民進黨：紅色恐怖，惡法治理</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	今(6)日香港泛民派人士至少50人遭香港國安處以涉嫌「顛覆國家政權罪」帶走，並威脅港媒交出文件，民進黨表示，香港已被紅色恐怖全面籠罩，進入政治寒冬，民進黨對香港前途深感憂慮，並對中共當局的所為，感到最大的憤怒。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨表示，只是因為自辦初選就犯了「顛覆國家罪」，這不止在台灣，放到世界上大多數的國家都是無法想像，中共當局為了完全掌控香港，手段已無所不用其極。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	中共與港府聯手以「國家安全」為由，鎮壓民主人士進行「預防性逮捕」行動，完全把民主人權視為無物，是以「法治」為遮羞布，行惡法治理之實，必須受最嚴厲譴責。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨指出，中共不斷摧毀香港民主自由價值和挑釁國際秩序，恣意羈押逮捕所有擁護香港民主團體和人士，宛如台灣當年「白色恐怖」威權時期的重現。此次大規模拘捕前立法會議員楊岳橋、民主派初選發起人戴耀廷等50人，就是用紅色恐怖扼殺民主的呼聲。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對這個事件，我們要求，中共及港府必須立即停止任何鎮壓公民社會的極權作為，讓香港公民社會恢復原有不受威權脅迫的自由法治狀態。我們會支持我國政府，持續增強援港的各種作為；也呼籲社會持續關注香港的動態。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="745534305336425a6672463079745a61">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

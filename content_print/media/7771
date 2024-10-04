@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-05-10</p>
+				<h2>兩黨攜手，台韓共榮 民進黨蔡英文主席致韓國共同民主黨賀電全文</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 民主進步黨今(10)日由韓國總統大選觀選團團長陳明文代表蔡英文主席，前往祝賀共同民主黨贏得總統大選，由文在寅選舉對策委員會安保國防特別補佐團團長閔洪喆（現任國會議員）代表接受賀電。蔡英文主席賀電全文如下：</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 「秋美愛黨代表勛鑒：</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 首先代表民主進步黨恭喜貴黨文在寅候選人當選大韓民國新任大統領。相信在文大統領領導之下，台韓兩國的關係會在既有的良好基礎之下，繼續向前邁進。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 共同民主黨跟民主進步黨有相同的價值理念，也有長久深厚的關係。期待未來在文在寅大統領的領導下，韓國國運昌隆、國泰民安。更期望透過兩執政黨的攜手合作，讓韓國與台灣這兩個在東亞區域中，共享自由民主價值的盟友，一同發展更多元、更豐富、更緊密的實質關係。」</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 閔洪喆團長首先對民進黨觀選團的祝賀表示感謝，他認為台韓間具有傳統友誼，歷史處境及產業發展也相似，經濟文化上的交流也很頻繁，雙方應該共享民主化價值。他相信，在蔡英文總統及文在寅總統的領導下，台韓的關係會更緊密。閔團長同時也提到，他是韓國冬季奧運委員會的現任委員，明年二月韓國即將舉辦冬季奧運，這是東亞的盛事，他邀請台灣民眾能踴躍參與。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 陳明文團長提到，昨天在第一時間就接獲蔡英文主席的指示，請他代為向共同民主黨總統候選人文在寅先生的勝選表達祝賀，期盼兩個執政黨間能夠緊密交流，建立更深厚的友誼，進一步深化台韓兩國的外交關係。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="706e45454b7061305731693136784669">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

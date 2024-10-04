@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-11</p>
+				<h2>針對《蘋果日報》報導之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	針對蘋果日報報導本黨北市立委補選徵召人選一事，民進黨發言人暨立委補選提名協調小組成員鄭運鵬今(11)日表示，該報導內容與爆料，純屬子虛烏有，請勿以訛傳訛，造成當事者的困擾。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="71716c51464c4165785a6f4f6345746b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-12-05</p>
+				<h2>1218公投 民進黨再推創意小物 線上線下分進合擊 加強不同族群溝通</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	因應12月18日四大公投，民進黨為加強與年輕族群做溝通，推出創意周邊，包含：能源議題小物、DIY立體小卡；此外，針對長輩和上班族，民進黨也推出超實用的文宣小物「2022虎力福氣年曆 」，讓大家掌握明年假日，同時具有1218公投的提醒效果。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	隨著民進黨青年部「國務青」街講團逐步在全國各地宣講，公投文宣小物也逐步在各地廣發，蔡英文總統昨(4)日舉辦的「辣台派開講」實體活動更獲得年輕人好評，「四個不同意」公投票有了更不同以往的宣傳方式。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對民進黨推出的公投創意周邊，網路社群中心主任范綱皓表示，針對「反對三接停建」、「反對核四重啟」，我們提出「加減乘除」意象，傳達執政團隊「加氣、減煤、乘綠、除核」的能源轉型願景；同時搭載反核四開瓶吊環及「能源金句貼紙」，吸引年輕世代站出來，表態支持台灣能源轉型。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范綱皓進一步說明，除了實體創意文宣外，蔡總統今(5)日也Instagram發布「Ｑ版立體DIY小卡」，和插畫家合作，Q版蔡總統與動物比出「四個不同意」的手勢，提供網友「自行下載」列印，製作立體小卡。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范綱皓也說，希望能透過可愛的造型小卡，提高年輕族群的使用意願，並透過線上、線下活動結合，吸引更多民眾下載小卡或在社群上自主宣傳，為公投宣傳達到最大擴散效益，已經有不少民眾搶先下載製作，民眾可以直接在蔡英文總統臉書和instagram上直接下載檔案、查詢ibon雲端列印編號（每三日更新）。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	除了年輕人喜愛的文宣品，針對其他年齡層的民眾，民進黨也推出實用的小物。民進黨媒體創意中心主任翁世豪表示，年關將至，是公投倒數最後關頭，民進黨最近推出以公投選票作為封面的年曆，提供民眾於民進黨黨公職服務處、公投說明會現場索取，除了以明確圖示說明公投票樣式，也以「虎力福氣 台灣有力」年曆向民眾祝福來年，兼具實用與公投宣傳用途。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	1218公投將至，民進黨針對不同群眾的文宣小物陸續推出，除了凝聚支持群眾的熱情，也繼續擴大宣傳範圍，走進不同族群，力求宣傳最大化，讓「四個不同意、台灣更有力」的價值深入每一位人民。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	■Q版立體卡下載點：<a href="http://tinyl.io/5GtV">tinyl.io/5GtV</a></div>
+<div style="text-align: justify;">
+	■Q版立體小卡說明：<a href="https://www.instagram.com/p/CXFnYMUPl11/?utm_medium=copy_link">https://www.instagram.com/p/CXFnYMUPl11/?utm_medium=copy_link</a></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7770783976425a51576a324537754570">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

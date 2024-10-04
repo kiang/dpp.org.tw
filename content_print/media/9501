@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-04-22</p>
+				<h2>台南市議員第八選區初選民調結果新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨2022年直轄市議員提名初選民調作業，今（22）日公布台南市議員第八選區民調結果(本選區提名4席，含女性保障1席)：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	<img alt="" src="/upload/ckfinder/images/2022-04-22_%E5%8F%B0%E5%8D%97%E5%B8%82%E8%AD%B0%E5%93%A1%E7%AC%AC%E5%85%AB%E9%81%B8%E5%8D%80%E5%88%9D%E9%81%B8%E6%B0%91%E8%AA%BF%E7%B5%90%E6%9E%9C%E6%96%B0%E8%81%9E%E7%A8%BF2.png" style="width: 1225px; height: 557px;" /></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	＊提名名單以民進黨中執會正式通過公告為準。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3237746c72707844384d30463478506d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

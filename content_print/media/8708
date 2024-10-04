@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-06-26</p>
+				<h2>民主進步黨第十八屆第三十四次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(26)日召開第十八屆第三十四次中常會，會中邀請成功大學政治系教授梁文韜以「香港陷中悲歌」為題進行專案報告。發言人李問會後轉述卓榮泰主席聽取專案報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝成功大學梁文韜教授針對香港主權移交22年以來的變化，做了相當精彩的說明。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	自1997年以來，在北京當局的干涉下，香港的自由、民主、法治不斷被壓縮，快速地流失，不僅特首普選遙遙無期，人權更是每況愈下。例如，銅鑼灣書店股東及員工的失蹤案，嚴重侵犯了香港的言論自由與人權保障。所謂的「一國兩制、港人治港」，終究只是一場騙局，「一國」已凌駕「兩制」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在這樣嚴峻的情勢下，香港人民爭取民主自由的努力，從未間斷，也沒有退卻。在雨傘運動後，香港特首強推「送中條例」，激發出香港民眾的團結意識，百萬人民站上街頭，成功迫使香港政府讓步。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民主得來不易，必須持續捍衛。如果今天我們沒有站出來聲援香港，今天的香港就會成為明日的台灣。本黨支持香港民眾，爭取更多的民主自由和政治權利，也呼籲國際社會共同聲援，讓中國正視香港人民追求普世價值的基本人權。此外，7月1日香港人民將再度走上街頭，高度關注其後續發展與影響。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	明年的2020總統大選是一場「抗中保台」的保衛戰，面對紅色滲透及中國統戰日益嚴重的威脅，呼籲國人要處處提高警覺心，團結一致。本黨的執政團隊，也會繼續強化台灣的民主防衛機制，確保台灣的民主自由。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5943585a4d544e3865697a34477a3572">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-13</p>
+				<h2>從說明抄襲變成終身保密，民進黨：張善政已躲兩週不敢出來面對！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對日前國民黨桃園市長候選人張善政研究計畫被爆料涉抄襲，民進黨發言人謝子涵今(13)日表示，該計劃領走5736萬人民納稅錢，張善政一開始宣稱要開記者會說明，躲了兩週後，推拖有保密條款，不敢出來面對，卻遭到農委會打臉，強調結案報告已公開無保密需要，我們要問這個研究計畫到底還藏有多少問題？張善政應出面向社會大眾說明！</p>
+
+<p style="text-align: justify;">謝子涵指出，農委會主委陳吉仲昨(12)日已澄清，農委會沒有所謂終身保密的簽約內容，如果有保密也是計畫主持人和宏碁之間的關係。而根據農委會公開的這項為期三年的研究計畫，在委託契約的第十條第三款規定，報告不得有抄襲、剽竊或侵害他人智慧財產權及其他權利情事，否則有賠償責任。</p>
+
+<p style="text-align: justify;">謝子涵說，張善政9日一改之前願意向公眾說明的態度，以「合約裡面要求終身保密」為藉口，不願意就報告大幅抄襲向民眾交代清楚，顯然是要以拖待變、轉移焦點，用保密的藉口來轉移涉嚴重抄襲、侵權及違約的問題。</p>
+
+<p style="text-align: justify;">謝子涵進一步指出，從周刊揭露案情迄今，張善政一直避重就輕，對於抄襲農委會、國家通訊傳播委員會（NCC）委託工研院研究報告內容，張善政身為計畫負責人，有責任向全民交代清楚，錢怎麼花？花去哪了？呼籲張善政誠實以對，不要再玩躲貓貓，儘速出面釐清相關的質疑！<br />
+&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6768545a737751546f63786738713965">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

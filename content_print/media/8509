@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-02</p>
+				<h2>出席嘉義市座談 蔡英文：拿出有感的執政，讓人民感受真正受到照顧</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民進黨前主席蔡英文持續進行傾聽基層民意行程，今(2)日由嘉義市長涂醒哲、立委李俊俋，及多位嘉義市議員陪同，出席嘉義市座談會，傾聽基層民眾心聲，跟意見交流。蔡英文表示，檢討完後，真正重要的還是如何拿出有感的執政，讓人民感受真正受到照顧，這才是下個階段要共同努力的地方。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文致詞表示，雖然這次嘉義市長選舉沒有成功，當然覺得非常惋惜，因為是很小的差距輸掉，但畢竟輸掉就是輸掉了，就必須面對選舉的結果，一起來檢討，這也代表了一件事，選舉確實是對政治人物的檢驗，也是讓政治人物在選舉的過程中，進一步歷練的機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	她接著說，這次的檢討，不是為了檢討而檢討，而是真正的檢討。她也再次強調，這次所有選舉的結果，由於她是執政團隊的領導人，所以必須要負完全的責任，但並不只是負完全責任一句話而已，而是真的要檢討再檢討，選舉或執政的過程當中，我們做得不足、不夠、不對的事情，都要拿出來好好檢討，在整個檢討的過程中，也希望能夠把問題一一找出來，並找出政策應該要調整的地方，同時需要調整人事的地方，也會調整。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提到，目前民進黨已經開始進行黨主席的選舉作業，由代理黨主席林右昌，完成後續黨主席的選舉。另外，總統府和行政院也會在檢討之後，做人事的調整。但不代表檢討完後就結束了，真正重要的還是如何拿出有感的執政，讓人民感受真正受到照顧，這才是下個階段要共同努力的地方。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	她說，檢討的時候有些尷尬、有些痛苦，但是，不論多尷尬、多痛苦，也希望大家等一下在進行檢討的時候，可以講得直接、大聲。她已經到好多地方進行檢討會議，在這樣的會議裡面，大家的發言都非常踴躍，而且直接，這就是檢討的意義，我們可以坐下來，真的把問題說出來，或許大家的感受不同，但這是我們集體，用不同層次、面向的感受，來檢討執政時或選舉過程中，所面臨的問題。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後她也鼓勵這次當選的同志，繼續努力；沒有當選的，不要氣餒，尤其是年輕的候選人，一次的挫敗，並不是最後的終局，我們還會繼續努力，將來一定會有很多的機會等著我們。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，會前針對媒體詢問內閣改組是否會在12月25日前完成，蔡英文表示，整個執政團隊的檢討，我們有一定的節奏，會持續進行檢討。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5867645041394d4c703579524267646e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

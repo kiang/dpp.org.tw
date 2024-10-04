@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-12-31</p>
+				<h2>民進黨：敢扒學生皮，不敢被公開，侯友宜告一次，就反告誣告一次</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對國民黨總統候選人侯友宜辦公室記者會嗆對包租猴看板提告，民進黨發言人卓冠廷表示，看板內容所述均是事實，相關數據皆有憑有據，首先，侯友宜擁有103套房是公開資訊，證據就是凱旋苑招租公開牌價，每間套房從16000到17500元，加起來就是103間。</p>
+
+<p>第二，看板內寫賺2000萬元也是事實。依據又昱公司與文化大學簽的不評等合約，顯示106年又昱公司收2000萬，之後每一年，都從學生身上收租超過2000萬，合約內都清楚標明金額。</p>
+
+<p>第三，每坪租金確實比101還貴，若以最便宜的套房租金16000元，空間5.5坪來算，每坪將近3000元，比101的租金還要貴。</p>
+
+<p>卓冠廷強調，本黨文宣都是事實，內容皆有憑有據，都出自又昱公司與文化大學的合約內容。侯友宜害怕到想用提告來迫害，奉勸侯友宜誠實面對用凱旋苑當包租公剝削學生的爭議和質疑，只要侯辦告一次，本黨就反告誣告一次。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="386d6273377478784c4a323333697774">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

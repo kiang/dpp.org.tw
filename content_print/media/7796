@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-06-04</p>
+				<h2>羅姓前馬執政團隊成員的無厘頭放話狂噴口水 民進黨：強力譴責</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 針對馬前政府團隊成員頻頻在救災期間口水放話，民主進步黨發言人吳沛憶今(4)日表示，中央地方政府全力投入救災期間，羅姓前馬執政團隊成員的不斷無厘頭放話狂噴口水，本黨表示遺憾並強力譴責！尤其在水災期間民眾亟需公共平台獲取正確防救災資訊的狀況下，還有特定媒體配合其炒作並非事實的做法，本黨也深感遺憾及不解。</p>
+<p>&nbsp; &nbsp; &nbsp; 吳沛憶表示，對於羅姓前馬執政團隊成員這兩天一直無厘頭放話，尤其是在政府民間全力投入救災時，不協助幫忙就算了，還惡意以扭曲語言打擊救災團隊，非常不恰當！台灣所有人都知道，馬前政府在八八風災的救災經驗，是台灣有史以來最為糟糕的示範，而在這樣團隊中的人，不但沒有檢討反省，卻在國人共同努力捍衛家園的此刻，還企圖用仇恨的語言來操弄輿論，打擊救災團隊士氣。對此本黨強力譴責這種言論，也對部分媒體配合炒作深感遺憾。</p>
+<p>&nbsp; &nbsp; &nbsp; 最後吳沛憶抨擊，當政府及所有人都全力投入救災工作的時候，只看到一個人在全力噴口水，呼籲羅智強自己要選市長，不要利用救災來炒知名度！另外，災害期間不應影響救災，災後前往了解這是基本常識，連這個也不知道的人還想選台北市長，實在太對不起曾經支持馬前市長的市民！</p>
+<p>&nbsp;</p>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5a614f4c4664625572744a734e497833">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-29</p>
+				<h2>郭台銘「抗美援天朝」  會讓台灣與被中國併吞的距離越來越近</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨總統初選參選人郭台銘重申「國防靠和平」、簡化台灣國防為「和平靠軍購」等批評言論，民主進步黨發言人李問今（29）日表示，郭台銘所提出弱化台灣國防、退出自由民主陣營的言論，不僅不切實際，更等同是在「抗美援天朝」，向中國獨裁國家投降，與美國為首的民主陣營切割，不知道他是好傻、好天真的不了解區域政治及國際現實呢？還是好壞、好故意的提出敵我混淆的言論呢？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問指出，郭台銘把兩岸情勢說成是「神仙打架，凡人遭殃」，還說台灣看戲就好。然而真正的國際政治現實是，中國每天以軍事威嚇，意圖侵略併吞台灣，台灣不會因為主觀上保持「中立」，就能夠自外於侵略，更沒有看戲的空間。若我們沒有堅定與自由民主的勢力站在一起，只想看戲，其結果就是被獨裁併吞、侵略，到時候，就算神仙想來搭救也來不及了。郭台銘引用孫子兵法說的「上兵伐謀，其次伐交」，這句話並沒錯，但若不能分辨國際敵我情勢，對區域政治、國際現實無知，是要如何「伐謀伐交」呢？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問表示，郭台銘日前說有武器就會被打，所以不應該發展國防。現在改口，將台灣國防簡化為「為買而買」的軍備採購。李問表示，請郭台銘在提出批評前，先好好瞭解蔡英文政府的國防政策，不論是國機國造、還是國艦國造，自己發展國防產業是民進黨的政策，要讓國防能力真正的提升，軍購與研發不能偏廢，是相輔相成的，絕對不是「為買而買」的軍備採購而已。郭台銘一邊說台灣國防戰力其實不弱，一邊又說提升台灣國防是「為買而買」的軍備競賽，來個案否定軍購的必要性，根本是自我矛盾。事實上，台灣的國防戰力，正是靠正確的採購與研發並重的策略，而逐步建構起來的。郭台銘此番言論，不僅是誤解國防真正的意義，更是侮蔑台灣國防人員的專業，也是助長中國打擊台灣國軍士氣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問也指出，郭台銘還說要融入中美之間的尖端科技經濟鏈，但在去年美中貿易戰，我們可以看到，美國對於中國竊取技術有高度警戒與阻絕，郭台銘提出這種言論，某種意義上可能會促使台灣被列入被抵制的範圍，這對台灣的經濟與國防都是嚴重的傷害。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問強調，郭台銘最大的謬誤，就是曲解蔡英文總統「和平靠國防」論點，或許裝睡的人是叫不醒，但我們還是不厭其煩地在是告訴郭台銘，國防目的是要維持和平，而如何捍衛和平就是要靠國防，台灣作為一個民主自由的國家，提升國防的真諦，是要捍衛國家的主權、維持區域的和平，所以，要避免中國獨裁侵略併吞，擁有一定程度的國防軍事戰力是必要的。真正的和平是要靠國防，若不提升國防防衛能力，那與中國併吞台灣的距離會越來越近。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="515336544b6d316e5168745244784754">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-02-22</p>
+				<h2>民進黨：「明溱南投縣，有子身上依」仇恨值已爆表</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨今（22）日召開記者會，抹黑蔡培慧只顧選情、不顧民情，民進黨副秘書長黃建嘉抨擊，林明溱只顧自己兒子、不顧南投孩子，才是真的引起南投青年世代的憤怒。</p>
+
+<p style="text-align: justify;">黃建嘉表示，豪宅、黑官、高薪，只要是林儒彬想要的，林明溱就大方送給兒子。不只如此，就連立委職缺，林明溱也想在這次的選舉中替兒子保留下來。也難為游顥這個黨內青年，選到一半被「攔胡」，還要笑臉說謝謝。</p>
+
+<p style="text-align: justify;">黃建嘉指出，林明溱曾說過「不想參選」、「宣布參選後每天都睡不著」，顯示林明溱真的很不想選這次立委，但卻又為了兒子，只好委屈身子出來擋路，不讓游顥參選。</p>
+
+<p style="text-align: justify;">黃建嘉解釋，其實游顥被「戳掉」的原因很簡單，就是因為游顥不姓林，所以沒豪宅住、沒黑官當、沒高薪領，當然也沒立委選。林明溱如此照顧自己兒子，卻忽視黨內青年，也難怪社會上流傳「明溱南投縣，有子身上依」的「美言」。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">黃建嘉也提到，林明溱忽視教育、青年福利的劣跡罄竹難書，包括擔任縣長期間拒絕給代理老師全年年薪，影響南投縣學生的受教權，且擔任縣長期間，連一棟青年住宅都蓋不出來。</p>
+
+<p style="text-align: justify;">黃建嘉認為，林明溱「只為兒子蓋豪宅，不給青年蓋社宅」、「只給兒子拿高薪，不給老師拿全薪」；「只為兒子立委路，不管游顥政治路」等等，都代表南投青年的事，對林明溱來說就是隨便的事，隨時可以放棄，也難怪南投人會想下架這對林氏父子了。<br />
+&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="50594a73314a666c796c475135516746">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

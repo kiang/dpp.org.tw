@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-08-13</p>
+				<h2>針對《風傳媒》報導之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對風傳媒今(13)日發佈「嘉義市長選舉」民進黨內部矛盾 涂醒哲陣營暗自叫苦」一文中提到，7月29日嘉義市授旗誓師大會，民進黨選對會召集人陳明文陪同蔡英文主席到垂楊國小「卻刻意待在禮堂外，沒有踏進一步」。對此，民進黨新聞部主任孟義超表示，當日陳召集人陪同蔡主席赴民雄鄉大士王爺廟參香及揭匾，行程結束後隨即轉往垂楊國小出席嘉義市授旗典禮，惟到場時活動已經開始，陳召集人低調進場沒有通知主持人唱名，絕無報導所言「卻刻意待在禮堂外，沒有踏進一步」。為免錯假訊息淆誤輿論，特此說明。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6476567838337a7176557a4e57697866">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

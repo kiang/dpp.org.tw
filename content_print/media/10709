@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-01-31</p>
+				<h2>中共啟用M503 民進黨：片面破壞現狀 嚴重影響飛安</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>對於中國片面宣布啟用M503航線W122、W123銜接航線由西向東飛行一事，民主進步黨表達嚴正抗議。民進黨今（31）日表示，蔡總統就任與賴主席當選以來，多次重申對兩岸關係「承諾不變、善意不變」 ，並希望能在「對等、尊嚴」基礎上進行對話、共同促進雙方人民福祉；但中共的相關作為，不僅忽視雙方曾經的溝通結果，也完全無視於我方對兩岸關係承諾、善意均不變的宣示，更是不斷在片面改變、破壞現狀。中共不負責任的作為，不但嚴重影響飛航安全，更將衝擊區域穩定。</p>
+
+<p>民進黨呼籲，中共當局應早日回到正常、對等的兩岸溝通機制，以負責任的態度務實處理攸關生命安危的飛安議題，把相關飛航與人民安全的影響降到最低，而非一意孤行、拒絕溝通，一再以片面措施破壞台海現狀。中共這樣「軟土深掘」、不斷挑釁的行徑，只會讓台灣社會對北京當局更缺乏好感與認同，繼續傷害兩岸互信與區域安全。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4458455a707a6b354a6e57456a326d61">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

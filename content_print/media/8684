@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-05-28</p>
+				<h2>卓榮泰：黨內的問題是透過協調機制，尋求合理的解決方式，呼籲支持者及團體不用動員前來關心</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	據傳部分團體串聯號召支持者，明日至民進黨中央黨部關心中執會討論2020年總統初選相關事宜，民主進步黨發言人李問今（28）日轉達卓榮泰主席的談話表示，希望支持者及團體不用動員，不用號召民眾前來關心。卓主席強調黨的基本立場，認為黨內的問題是透過協調機制，積極與雙方持續協商，尋求合理的解決方式，而非透過動員方式處理問題。</div>
+<div>
+	&nbsp;</div>
+<div>
+	李問進一步說到，卓主席已於上週中執會明確說過，民主與進步是黨的價值，黨內的初選民主機制行之多年，是前人不斷努力累積而來，他會用盡一切的努力維護黨內的民主程序，盡一切可能促使參選人建立更多共識、促進內部團結，以贏得最後的勝選成果，相信民進黨絕對不會背離民主機制與勝選的目標，讓全黨團結一致共同守護台灣。</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="526f516273716d67574b51454f547777">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

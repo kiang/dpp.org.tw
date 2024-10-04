@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-18</p>
+				<h2>選戰倒數100天！民進黨「會做事戰隊」21人全就位　聯合作戰力拚勝選</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">2022大選邁入決戰100天，在民進黨立委鄭運鵬被正式提名為桃園市長候選人後，民進黨「會做事戰隊」已全數就位。民進黨今(18)日推出影片「點將」，記錄全台各縣市提名的21位縣市長候選人，在民進黨主席蔡英文帶領下，整隊出發全力衝刺，爭取年底選戰贏得勝利。</p>
+
+<p style="text-align: justify;">民進黨今天推出的影片回顧3月以來的每一波縣市長候選人提名，一棒接著一棒，以最堅強的陣容串連全台灣。蔡英文向21位候選人交付任務&mdash;&mdash;「全力衝刺、正面迎戰」，她不只要求團結贏得11月26日的勝利，也期盼候選人擔任各地區的「最強母雞」，全面提升民進黨在各縣市的議員席次。</p>
+
+<p style="text-align: justify;">為了強化選戰能量，民進黨今年也採取新戰略，整合各地聯合作戰、相互補位，發揮戰隊最大戰力。因此，蔡英文昨天在民進黨中執會後，宣布4個關鍵戰區的5位總督導名單：「桃竹竹苗」由桃園市長鄭文燦、民進黨黨團總召柯建銘負責，「中彰澎」由前立法院長蘇嘉全擔任總督導，「雲嘉嘉投」由立委陳明文接任總督導，「宜花東」則由民進黨秘書長林錫耀親自督導。</p>
+
+<p style="text-align: justify;">民進黨2022年地方大選兩大主軸為「顧家鄉」、「拚未來」，如今邁入選戰衝刺期，蔡英文也勉勵全台候選人，捍衛立場與價值，持續與社會溝通，用行動號召人民，爭取最大支持，團結邁向勝選。</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/3lN7jhZ40es" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c796265526c6a61474e41376b4e7a46">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

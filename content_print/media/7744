@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-03-30</p>
+				<h2>李明哲被中國大陸國安單位拘禁 民進黨：應立即開放家屬人道探視並提供律師協助</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 關於台灣NGO人士、本黨前同仁李明哲被中國大陸國安單位拘禁一事，民主進步黨發言人楊家俍今（30）日表示，案件發生至今，民主進步黨始終高度關注該案的發展。這段時間以來，在以當事人的人身安全與權益為最高處理原則下，陸委會、海基會積極和家屬聯繫，並多次和中國大陸交涉，要求中國大陸官方必須儘速說明事件原委和細節，以解家屬憂慮。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 民主進步黨呼籲，基於人道與人權的考量，中國大陸應該立即開放家屬的人道探視和提供律師協助，以保障李明哲先生的法律權益和人身安全；中國大陸國安部門也應當立即釐清案件真相，給予李明哲先生公平、公正的對待，並盡快釋放李明哲。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 楊家俍強調，李明哲案並非個案。兩岸正式交往至今，相關事件曾出不窮，國際社會也多次關注相關案件的發展。中國大陸以國安理由，拘禁台灣民眾，只會增添台灣人民前往中國大陸交流的疑慮，影響兩岸人員的正常往來，無助於兩岸關係的和平穩定發展，更無益於兩岸人民的福祉。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="794a68784d7a736e4663497148523237">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-10</p>
+				<h2>國民黨派團訪中  民進黨：時機立場錯亂更對不起保家衛國的國軍</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨主席朱立倫派副主席夏立言率團訪問中國一事，民進黨今(10)日表示嚴厲譴責。民進黨認為，就在中共解放軍仍在海峽對峙我軍，威脅台灣安全，而國台辦正於今日發表《台灣問題與新時代中國統一事業》白皮書，並明確點出「一國兩制」作為統一台灣的治理方案，且不放棄對台動武。值此時刻，朱立倫主席仍執意派夏立言與其小舅子高思博高調赴中，不僅時機錯誤，立場錯亂，更對不起努力保家衛國的中華民國國軍。</p>
+
+<p style="text-align: justify;">國民黨此舉無異於認同中共當局對台施壓的不當作為，也間接顯示國民黨對於中共犯台時，可能失去抵抗意志，隨時可在威脅下簽訂城下之盟，讓中共不戰而屈人之兵。</p>
+
+<p style="text-align: justify;">民進黨指出，國民黨主席朱立倫此次派團訪中，已造成台灣內部重大爭議，連國民黨黨內、包括年輕參選人也已連署表達要求停止出訪，認為此行無正當性、合理性及重要性，甚至直言夏立言副主席是「敗家老頭」。</p>
+
+<p style="text-align: justify;">更重要的是，此舉將引起民眾疑慮且影響台灣內部團結，造成社會分化，並在民主盟友一致挺台時，讓國際社會質疑台灣面對威脅挑戰時的立場與認知，混淆國際視聽。</p>
+
+<p style="text-align: justify;">民進黨強調，夏立言副主席曾任前陸委會主委，此時訪中具有強烈政治意涵，陸委會也已進行勸阻，不可能裝作完全不知道。我們也看到朱立倫與高思博，接連發聲力挺，難道不是朱主席與習近平之間的「共同決定」？難道不是朱立倫家族配合中共對台灣的的恫嚇宣傳？</p>
+
+<p style="text-align: justify;">民進黨嚴正要求，國民黨切勿附和中國立場，正視中共圖謀犯台的意圖，面對中共壓力不屈服，維護台灣國家利益與主權，以及得來不易的民主自由。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="52746b51736e4875707855326d623439">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

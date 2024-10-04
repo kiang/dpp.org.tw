@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-15</p>
+				<h2>《拒絕變調的交響曲》CF公布 鄭運鵬：請大家選擇拚建設、挺改革的民進黨</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(15)日召開「拒絕變調的交響曲－拚建設、挺改革CF發布記者會」。民進黨發言人鄭運鵬表示，昨日蔡英文主席甫下達動員令，今天黨中央馬上起跑，公佈2018九合一選舉的第一波電視CF影片，遺憾國民黨在中央阻擋建設、卻在地方收割功勞，是心中沒有人民的「擋擋黨」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬表示，相信大家都有發現，國民黨在民進黨執政的這二年來，阻擋各種對台灣建設、地方發展有利的所有重大法案、預算及建設，不論是在年金改革、實現非核家園的能源轉型、甚至在前瞻基礎建設預算中的防洪治水、軌道建設等重大建設，每一項政策國民黨都刻意阻撓，能擋就擋。所以有媒體人綜合這二年多來的心得，想到命運交響曲這首耳熟能詳的交響曲，創意發想了這部變調的交響曲－擋擋黨。這位媒體人的提醒，也讓他回想起這二年多來，在立法院議事的攻防。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬提到，在台灣整體發展中，不論大家民主競爭、對各種政策看法不一樣，但是我們希望台灣整體發展是和諧的交響樂。在野黨可以選擇不同的樂器、技巧，甚至是不同的音準，但是我們不希望大家看到的在野黨，在國會、地方政府，在各種不同的重大政策上，選擇破壞指揮的節奏與方向，卻在地方選擇個人秀、收割功勞。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬舉例，像前瞻基礎建設的預算攻防中，在野黨在立法院選擇的樂器，是選擇水球、麵粉，汽笛喇叭等違反議事規則的方式，選擇了阻擋，甚至選擇了肢體衝突。這樣的選擇也造成國人對前瞻基礎建設計畫的治水防洪、軌道建設，產生很多誤解。其中，國民黨彰化縣長候選人，也是現任立委的王惠美，就是帶頭在立法院反對前瞻基礎建設預算的立委，但她卻在地方爭取捷運，與她在立法院的作為相反。鄭運鵬強調，在中央反對，在地方收割功勞，這就是國民黨在立法院的表現。此外，國民黨執政時期的前總統府資政，也曾任行政院人事行政局局長的陳庚金的名言，就是呼籲所有公務人員，學習他的壞榜樣，希望大家「能撈救撈、能混就混，大家來拖垮這個政府！」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，鄭運鵬表示，我們希望用這首變調的交響曲提醒大家，每一次選舉都是在決定台灣和各地方政府未來幾年的命運，台灣未來共同的命運，就算不太和諧，至少不能為反對而反對。藉《拒絕變調的交響曲》電視廣告提醒國人，不要支持分化台灣社會、造成人心惶惶、讓改革方向走回頭的政黨，也希望9天後，11月24日的投票日，國人可以選擇拚建設、挺改革的民進黨。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/kgtqOPRVytw" width="560"></iframe></p>
+<p style="text-align: center;">
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="63575572774a5a4e434c765a6d74515a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

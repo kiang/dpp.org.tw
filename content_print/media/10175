@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-05-30</p>
+				<h2>民進黨：和平共榮是世界民主同盟國家共同的理念</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>有關鴻海創辦人郭台銘與民進黨主席賴清德在金門迎城隍活動合體，郭台銘將日前提出的「兩岸和平宣言」送交到賴清德手上。民主進步黨表示，和平共榮不僅是2300萬人民的期待，也是世界民主同盟國家共同的價值。</p>
+
+<p>民進黨指出，和平無價，戰爭沒有贏家！民進黨過去為民主打拚，未來將為和平奮鬥！面對中國的文攻武嚇，我們不會改變和平的立場！也不放棄任何和平的機會，我們將秉持「對等」、「尊嚴」的原則，展現自信，進行兩岸對話和交流，來增進彼此的了解、理解、諒解、和解，共同為兩岸人民的福祉努力。</p>
+
+<p>民進黨強調，無論朝野，台灣人必須一起堅守「自由民主的憲政體制」、「中華民國與中華人民共和國互不隸屬」、「主權不容侵犯併吞」、「中華民國台灣的前途必須要遵循全體台灣人民的意志」這四個堅持。因為這四個堅持，是「無論現在或未來」，維持區域和平穩定現狀的基本方針，更是台灣人民的最大公約數。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c6b627655576e694268486b4c314d65">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

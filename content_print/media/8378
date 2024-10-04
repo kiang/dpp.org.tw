@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-08-22</p>
+				<h2>蔡英文主席針對我國與薩爾瓦多斷交一事談話全文</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	蔡英文主席今（22）日於中執會前針對我國與薩爾瓦多斷交一事發表談話，全文如下：</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	近來有關脅迫航空公司改名、東亞青運主辦權被剝奪、85度C事件、還有和薩爾瓦多斷交等等，對於這類的事件，我們必須要做好心理準備，接下來、尤其在選舉前，中國對台灣的打壓手段不會停止。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	中國打壓台灣的目的，當然是企圖影響我們的民心士氣，更進一步影響國內政局和選舉結果。執政團隊一定會審慎因應各種情勢變化，但是，既然台灣人民選擇了堅守主權和民主價值的路線，我們就應該勇敢面對挑戰。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	就如同我昨天所說，現在的兩岸關係，其實是區域政治的一環，中國是藉由打壓台灣，來競逐區域的影響力，這和國內政黨的兩岸主張是什麼並沒有關係。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	事實上，今天中國對台灣主權立場的要求，已經超過臺灣各主要政黨的底線。中華民國（台灣）是這個社會的最大公約數，我們必須守住這個底線，身為執政黨，我們對此責無旁貸。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	我們必須理解，對岸的打壓力道之所以會越來越強烈，第一是因為我們跟主要國家的實質關係有長足的進展，這是中國不樂見的。第二是因為民進黨執政之後，對於主權的立場，我們一步都沒有退讓。就像我在美國公開講話中所引述雷根總統的談話：「任何事情都可以談，除了我們的自由跟未來，不能被妥協」。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	我們必須有一個信念：越是嚴峻的考驗，越不要感到挫折，反而要更加堅信，我們是走在正確的道路上。我們要更努力的爭取人民對民進黨改革的路線，支持我們壯大台灣經濟和國防的具體施政，更要支持執政團隊對國家主權和民主價值的堅定立場。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	我們雖然沒有辦法控制對岸的行為，但只要國人團結，堅守民主的價值和制度，我們一定可以自己掌握台灣的命運！</p>
+<p style="text-align: justify;">
+	<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px '.PingFang TC'; color: #454545}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545; min-height: 14.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545}
+span.s1 {font: 12.0px 'Helvetica Neue'}	</style>
+</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f7a59327166664459615a4250453830">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

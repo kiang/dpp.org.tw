@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-10-31</p>
+				<h2>南投永興宮、鳳山寺參香 蔡英文：最好的縣長人選就是清廉、會做事的洪國浩</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民主進步黨主席蔡英文今(31)日由南投縣長候選人洪國浩、總統府秘書長陳菊、立委蔡培慧、林靜儀、競選總部榮譽主委彭百顯、行政院中部聯合服務中心副執行長湯火聖及地方黨公職陪同，前往永興宮參香，主持揭匾儀式，並赴鳳山寺參香還願，感謝神明保佑順利當選總統。蔡英文表示，改革、建設、長照等政策都需要一個好的縣長，跟中央來配合，最好的人選就是會照顧人、清廉、會做事的洪國浩。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，今天來揭匾參香，有機會跟神明問好，看到熱情的鄉親，內心很開心也更加有信心，南投是一個好地方，將來也需要一個好的縣長來帶領讓南投更好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提到，現在是很困難的時候，有外部中國壓迫也有內部經濟問題，政府現在正一項一項處理累積十多年的問題。譬如年金問題，用了兩年時間改革軍公教年金，現在至少40年內不會破產，對於國家財政是很好的事，這樣才有經費去投資台灣的未來。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文也說，在稅務改革方面，減免稅金讓收入較少的年輕人稅可以少繳，結婚、生子等都有補助。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文進一步表示，對南投來說很重要的一項交通建設，就是台中捷運延伸南投，南投會更加熱鬧，恢復在中台灣的地位。另外，水利建設、灌溉系統、新農業、無毒有機產品也會做得更好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文強調，長照2.0就是要照顧家裡的長輩，打1966專線政府就會有專人來幫忙，照顧失能、失智的長輩則有喘息服務。這樣的服務就是讓長輩能在社區、在家都有好的照顧，身體才會健康。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文最後表示，政府準備許多經費來做照顧長輩的事，而任何的政策也都需要好的縣長跟中央配合，最好的人選就是最會照顧人、清廉、會做事的洪國浩。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="52584f666a684e4a766d4b3065564c45">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

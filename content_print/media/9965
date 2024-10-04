@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-02-10</p>
+				<h2>民進黨：持續為土耳其和敘利亞的人民加油</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">土耳其日前發生強震釀成重大死傷，事發至今雖已過黃金救援時間，但今（10）日稍早傳出台灣搜救隊在經過19個多小時後，順利救出一位女子，民進黨國際部主任謝佩芬表示，此一消息令人振奮，我們會持續為土耳其和敘利亞的人民加油。&nbsp;</p>
+
+<p style="text-align: justify;">謝佩芬說，台灣搜救隊已出動兩梯次、130人、5隻搜救犬馳援。台、土在1999年兩國先後發生強震時，互相救援，建立互助情誼。此次土耳其再逢強震，台灣人也在第一時間伸出援手，儘管我們地理距離遙遠，但身在台灣的我們很能理解強震過後的創傷與衝擊，我們也會持續為受災的人民加油、祈福。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="69375a57337578623452557058476339">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

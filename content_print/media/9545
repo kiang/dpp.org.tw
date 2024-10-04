@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-05-18</p>
+				<h2>民進黨確診黨公職「同心防疫」　自拍影片暖心加油「一起挺過」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	面對Omicron病毒侵襲，台灣連日確診數突破6萬，但也因為疫苗覆蓋率高，超過99%確診者為輕症，其中也包括多位民進黨的黨公職，因此民進黨中央黨部特別邀請其中幾位錄製「同心防疫、一起挺過」系列影片，闡述確診後的身體狀況、分享居隔期間的生活經驗，希望讓社會大眾了解相關訊息，並且遵循指揮中心的防疫指引，正確並正向的防疫，早日恢復健康正常的生活。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	「同心防疫、一起挺過」系列影片，分別邀請立法委員蔡適應、趙天麟、林靜儀、邱議瑩，以及市議員王閔生、鍾佩玲和發言人謝子涵拍攝，其中有些已完成居家隔離回到工作崗位，有些則因剛確診正在居家隔離。例如立法委員蔡適應、林靜儀，王閔生議員在結束居隔後，以過來人身份提到確診症狀，林靜儀委員則特別提醒民眾，確診後相關用藥的指引，多數仍必須經過醫師診斷才能開立處方箋使用。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外，趙天麟委員、邱議瑩委員與鍾佩玲議員，則是確診居隔中，聽得出喉嚨沙啞，看得到些許倦容，但普遍精神仍不錯。趙天麟委員與鍾佩玲議員因家中有幼童，特別分享確診者與同住家人該如何因應，以及面對家中孩子確診時，又有哪些「家用備品撇步」和「育兒之道」。邱議瑩委員則分享自己在家中隔離時，不忘找時間運動，打健康蔬果汁來增強體力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	除了分享自身經驗以外，幾位確診黨公職在居隔離期間都持續辦公、處理民眾問題，透過視訊進行質詢，也與辦公室同仁進行線上會議，並同步處理選民服務。民進黨發言人謝子涵表示，因確診黨公職多為輕症，即便身體不適，但在遵循指揮中心的指引與醫師囑咐後，都能在居隔期間逐漸康復；因此，民進黨希望透過「同心防疫、一起挺過」系列影片的拍攝，持續與全民站在一起並提供服務，期待與國人同胞一起再度發揮「團結防疫、同心抗疫」的精神，挺過這波疫情，回到正常生活。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨今天上午先釋出立委蔡適應和趙天麟協助拍攝的兩支影片，其餘黨公職影片會在這一兩天陸續於民進黨youTube頻道上播出。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	確診康復者的兩個提醒！</div>
+<div>
+	蔡適應委員： 如果確診，不用擔心！</div>
+<div>
+	&nbsp;</div>
+<p style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ofd5XTPy5gk" title="YouTube video player" width="560"></iframe></p>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	確診居隔者現身說法！</div>
+<div>
+	趙天麟委員：如果身邊有人確診，請給多一點同理心</div>
+<div>
+	&nbsp;</div>
+<p style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/_eMhkC7YY9E" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4359493763323566585871373254536e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

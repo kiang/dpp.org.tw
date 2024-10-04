@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-04</p>
+				<h2>民進黨：譴責北京與港府 動用《緊急法》手段限縮人民集會自由</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對稍早香港宣布實施「限定禁蒙面規例」，民主進步黨今（4）日譴責北京和港府，以動用《緊急法》手段，限縮人民集會自由，迴避與香港人民真誠對話。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨表示，北京已經在10月1日國慶閱兵，充分展現其對外擴張的威權意圖，同時又在香港動用武警，進行另一場血腥閱兵，都在在顯示中國極權本質。我們正告北京與港府，暴力不足以解決問題，更無法取信於國際社會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨強調，台灣做為國際民主社會的一員，無法容忍這樣的事情發生。此外，針對香港人民所需要的人道協助部分，民進黨將會以提供實質協助為原則，即刻與民間團體、行政與立法部門展開協調和討論。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7176336f645a65516d4a6d524239536c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

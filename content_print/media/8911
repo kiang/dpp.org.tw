@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-12-06</p>
+				<h2>嚴正譴責國民黨立委陳宜民等人政治操作外交人員不幸事件、粗暴推打女警施壓外交人員</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨立委陳宜民等人今(6)日前往外交部抗議，期間動手粗暴拍掉執勤女警帽子，甚將出手講女警從階梯上推下，民進黨發言人何博文表示，陳宜民委員等人身為國會議員享有在國會就各種公共議題質詢調查的法定職權，卻為了政治操作，對第一線女性員警施暴推打，對這樣的行為民進黨嚴正譴責。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	而陳宜民同黨立委曾銘宗及林德福竟架起外交部同仁的雙手，質疑對方是國安局派來的，並對外交部公務員公然施暴，把警察跟公務員當成敵人，我們也嚴正譴責，並要求國民黨必須向當事人道歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何博文指出，國民黨消費關西事件悲劇已經過了頭。陳宜民及曾銘宗是忘記還是害怕想起，去年9月7日時，國民黨立院黨團的江啟臣、陳宜民、曾銘宗三人曾在立法院召開「台客困日求援手 謝長廷只會噴口水」記者會，誤信來自中國的假消息，痛批大阪辦事處辦事不力；而今天賴士葆、陳宜民、曾銘宗三人反而召開記者會聲稱要替大阪處長討公道，難道當眾動手動腳，就是國民黨的正義表現？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何博文說，蘇啟誠處長的過世令國人萬分遺憾，關西事件是一起因假消息而起的悲劇，絕沒有人願意看到一個生命的殞落，民進黨對於打擊一切假訊息，立場相當明確，對已進入司法審理程序的案件及相關被告，我們全力支持司法偵辦、查明真相，給受害者和社會一個真相。我們希望國民黨適可而止，切莫在受害者家屬傷口上灑鹽，來滿足選舉操作的一己之私。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="663233797854484a734335487a324434">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

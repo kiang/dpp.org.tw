@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-05-20</p>
+				<h2>國民黨做不到的，我們一起做到了！（五）</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	【我們一起做到了！】（五）<br />
+	<br />
+	兩年來，民進黨政府致力於維持區域和平發展，同時透過強化臺灣的經貿連結、國防實力及民主價值，維護我們的國家安全。<br />
+	<br />
+	面對充滿挑戰的國際處境，我們透過官方與民間協力合作，加強臺灣對國際社會的貢獻。兩年來，我們不僅強化臺灣與美國及日本的友好關係，在推動高層官員互訪方面取得重大突破；更配合「新南向政策」在經貿、觀光、教育等領域，深化與東南亞及南亞各國的交流。我們持續拓展多元的國際友誼，以創新思維增進臺灣與各國之間的雙邊關係。<br />
+	<br />
+	在國防安全上，我們透過振興國防產業、強化資通電作戰能力等政策革新，為新型態的安全威脅做好充裕的整備；在兩岸關係上，我們不會走回對抗的老路、也不會在壓力下屈服，全力維持現狀，捍衛我們的國家主權與民主體制。<br />
+	<br />
+	國民黨做不到的，我們一起做到了！<br />
+	<br />
+	<br />
+	&nbsp;</p>
+<p style="text-align: center;">
+	<iframe allowfullscreen="" frameborder="0" height="612" marginheight="0" marginwidth="0" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/key/GvdVtB4BBKEJCl" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" width="572"></iframe></p>
+<div style="margin-bottom: 5px; text-align: center;">
+	<strong><a href="//www.slideshare.net/DPP-Slide/ss-97726116" target="_blank" title="我們一起做到了！（五）">我們一起做到了！（五）</a> </strong> from <strong><a href="//www.slideshare.net/DPP-Slide" target="_blank">Democratic Progressive Party</a></strong></div>
+<div style="margin-bottom: 5px;">
+	<br />
+	<div style="margin-bottom: 5px;">
+		<div style="margin-bottom: 5px;">
+			相關連結：
+			<div class="fb-quote fb_iframe_widget" style="position: absolute; left: 395.5px; top: 1315px;">
+				&nbsp;</div>
+		</div>
+		<div style="margin-bottom: 5px;">
+			<a href="https://www.dpp.org.tw/news/contents/8345" style="text-decoration: underline; color: blue;">國民黨做不到的，我們一起做到了！</a></div>
+		<div style="margin-bottom: 5px;">
+			<a href="https://www.dpp.org.tw/news/contents/8346" style="text-decoration: underline; color: blue;">國民黨做不到的，我們一起做到了！（二）</a></div>
+		<div style="margin-bottom: 5px;">
+			<a href="https://www.dpp.org.tw/news/contents/8347" style="text-decoration: underline; color: blue;">國民黨做不到的，我們一起做到了！（三）</a></div>
+		<div style="margin-bottom: 5px;">
+			<a href="https://www.dpp.org.tw/news/contents/8348" style="text-decoration: underline; color: blue;">國民黨做不到的，我們一起做到了！（四）</a></div>
+		<div style="margin-bottom: 5px;">
+			<a href="https://www.dpp.org.tw/news/contents/8349">國民黨做不到的，我們一起做到了！（五）</a></div>
+	</div>
+</div>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="754b31305965596e7252736970736f78">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

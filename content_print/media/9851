@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-07</p>
+				<h2>民進黨全新影片「選前投票指南」首集開播 曝林姿妙、江聰淵救災能力「天壤之別」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">選戰倒數19天！民主進步黨今（7）日推出全新系列影片《選前投票指南》，由發言人謝佩芬、黃彩玲、謝子涵為大家「選前總複習」。民進黨指出，今年選戰開打以來，充斥許多扭曲與抹黑的不實訊息，模糊選舉焦點。本系列影片以三分鐘左右的時間，帶觀眾快速來檢視候選人的人格特質、從政資歷與能力，盼提供選民回歸理性、審慎思考的空間，能為自己的家鄉與未來，投下正確的一票。</p>
+
+<p style="text-align: justify;">影片第一集從關注宜蘭選情開始，因為現任縣長林姿妙是全台唯一被檢方起訴的首長候選人。黃彩玲表示，林姿妙不只被以貪汙圖利、洗錢等四罪狀起訴，還有家人干政、滅證問題，而其自豪的「營養午餐免費」也數度爆食物中毒。接著，黃彩玲在片中，盤點江聰淵於八年宜蘭市長任內政績，催生「幾米公園」等多項經典建設，上個月宜蘭豪雨淹水，江聰淵更第一時間投入救災，協助縣民解決問題，相較於林姿妙與中央災變中心連線的「一問三不知」，看出兩位候選人的「應變能力」。</p>
+
+<p style="text-align: justify;">民進黨表示，《選前投票指南》系列影片是繼網路實境節目《一碗麵的時間》後的創新嘗試，將時下流行的產品評比與資訊懶人包「影像版」，比較各縣市候選人的經歷與政見，且為配合社群觀看習慣並廣傳，每支影片皆在3分鐘上下，盼提供忙碌無暇關注選舉的選民重要參考資訊，也鼓勵尚未決定投票傾向的民眾，在回歸理性思考後，投給最能「顧家鄉、拚未來」的縣市首長，也為18歲公民權投下同意票。系列影片將在近日密集於民進黨各大社群平台上架。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Y2QcDcyRT4k" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3155457a3678646c5069786e4a313335">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

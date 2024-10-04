@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-12</p>
+				<h2>卓榮泰：翻轉新店區　讓張銘祐以台灣派取代地方派</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨主席卓榮泰今(12）在立法委員參選人張銘祐、前市議員廖筱清與地方黨公職陪同下，出席「蔡英文總統、張銘祐立委候選人聯合競選總部各區輔選座談會」活動。卓榮泰表示有這麼多老將出面力挺新秀張銘祐，一定可以達到世代共贏、總統連任、立委過半的目標。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，這次民進黨投入新店選區的時程比較晚，最後經過提名討論，決定推派出張銘祐，給選民新的面貌，也給年輕人機會。同時，卓榮泰對出席的前議員廖筱清表達感謝，謝謝他將多年的經驗傳承給張銘祐，不僅疼惜年輕人，也結合本次選舉主軸「世代共贏」，這樣老將與新秀的傳承，是民進黨了不起的傳統。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，張銘祐是一位勇敢的台灣派，除了口條論述清晰，對守護台灣更是有堅定的決心，而張銘祐的對手羅明才，是面帶笑容的地方派。以勇敢堅定的台灣派來取代地方派，這樣翻轉政治生態的決心，就是張銘祐本次參選的意義。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提及香港，表示香港過去是非常進步與民主的地方，但在香港的立法會中，也有所謂親中共的建制派，以及相反的民主派，香港立法會所提出的反逃犯條例引起香港人民的疑慮，人民最後也只能走向街頭，引發近幾個月來破壞人權與血腥鎮壓的狀況。但在台灣，人民只要走向投票所，就不用走上街頭，所以保護民主的國會，將是這三個月最重要的選戰策略。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰最後表示，本次民進黨選舉戰略定調為「護國會、保台灣」，一位堅定有力的總統需要有民主的國會作為基礎，只有國會民進黨席次過半，蔡英文總統才有辦法作事情，所以防守線要先顧好，總統票、立委票、政黨票三張票都非常重要，而新店便是民進黨所積極要進攻的選區。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="494f466241704b5749693268646a6c72">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

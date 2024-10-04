@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-05-08</p>
+				<h2>民進黨訪韓團 遊說支持參與WHA</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 民主進步黨2017韓國總統大選觀選團今(8)日陸續拜會韓國朝野各主要政黨的研究智庫，團長陳明文表示，韓國是台灣在亞洲的重要盟友，更應該在國際防疫工作上通力合作，他在拜會時向各智庫表達訴求並發送英文版說帖，期盼韓國能支持台灣參與世界衛生大會，以保障全人類的福祉。</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 觀選團今天先後拜會韓國最大在野黨共同民主黨智庫「民主研究院」，以及執政黨自由韓國黨智庫「汝矣島研究院」。團長陳明文表示，在政策形成的過程中，韓國各主要政黨的智庫扮演了重要角色，我們希望透過政黨間先期的政策溝通，推動雙方政府的進一步合作。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 陳明文團長說，今天的拜會聚焦在政策討論，除了台韓醫療社福制度的差異、政策及選舉民調方式、朴槿惠事件後的政局發展之外，議題仍集中在南北韓關係、以及台韓關係與美中日等多邊關係的連動等進行討論。此外，陳明文團長也強調，今天向韓國兩大政黨智庫提及支持台灣參加WHA議題時，獲得正面回應。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 隨團發言人楊家俍引述「共同民主黨」智庫「民主研究院」金院長的回應表示，WHO是不涉及政治因素的國際組織，每一個國家都應該加入，台灣的加入一直被推遲，應該是外力的介入，這個問題應該要想辦法解決。楊家俍說，陳明文團長也率領觀選團成員們感謝韓國友人的支持，並邀請他們來訪台灣，加深雙方的瞭解。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="444431706c75554a326930576f63636b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

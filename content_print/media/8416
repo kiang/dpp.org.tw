@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-09-29</p>
+				<h2>赴苗栗雲洞宮揭匾參香 蔡英文：希望與徐定禎在下個階段一起合作，讓苗栗有一個好的開始</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民主進步黨主席蔡英文今(29)日由苗栗縣長候選人徐定禎、原民部主任黃見德及地方黨公職陪同，前往苗栗雲洞宮開台聖王廟參香並主持揭匾儀式。蔡英文表示，希望與徐定禎在下個階段一起合作，讓苗栗有一個好的開始。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文致詞表示，這段時間常來苗栗，就是希望在執政的這個階段，台灣經濟發展及國家的建設，可以更快速的來到苗栗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提到，2006年她擔任行政院副院長時，一直想把苗栗的科技產業做起來。而現在她身為總統，更有能力來實現這個夢想。台灣產業的發展，也終於將在苗栗這裡開始，未來一定是最新的科技及最好人才的聚集，所以她相信，將來苗栗一定是後發先至，下個階段，台灣產業的重鎮所在。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文說，就台灣西岸主要的縣市做比較，苗栗發展相對遲緩。但隨著科技產業，一直往南延伸，而中部地區的機械產業，往北延伸，這些產業交會在苗栗這個地方，苗栗提供了良好的地理位置。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	她接著說，苗栗還有一個資產，就是全台灣人都非常喜歡這裡的好山好水，這裡是台灣西海岸裡面，尤其在北部，休閒的好去處。所以，苗栗一方面提供很好的地理位置，另一方面苗栗也提供了好山好水的休閒好去處。所以他一直認為，苗栗應該有更好發展的機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，希望與徐定禎市長，在下一個階段一起合作，也希望苗栗的鄉親，給徐定禎多一份的支持，讓他有機會來給大家服務。她強調，希望透過這一次的選舉，選出徐定禎，讓苗栗有一個好的開始，未來能跟中央政府一起努力打拚的好縣長。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c62454c67705a504e52724c596d6473">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

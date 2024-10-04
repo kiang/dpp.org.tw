@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-19</p>
+				<h2>新住民挺蔡英文總統連任 全國第一個「小英新住民姊妹會」於台北成立</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨婦女部今(19)日於台北市成立全國第一個小英新住民姊妹會，民進黨副秘書長郭昆文正式任命新住民陳玉水擔任2020台北市小英新住民姊妹會總會長，同時也授證給新住民陳筱蓉擔任副總會長。出席人員包含民進黨前副秘書長徐佳青及婦女部主任蔡宛芬、蔡英文台北市競選總部主任黃承國及總幹事陳正德、立委參選人謝佩芬及議員簡舒培。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	郭昆文表示，新住民是台灣重要的一份子，而民進黨是關心所有族群的政黨，相信新住民一定能為台灣帶來多元、繽紛、熱鬧的文化，同時也能讓台灣在國際發光發熱。而要繼續守護台灣在國際上的地位，就要繼續支持蔡英文總統。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	陳玉水致詞表示，自己初至台灣就體會到民主自由，這次願意站出來擔任總會長，事前和家人討論過，全家都非常支持蔡英文總統是堅守台灣民主自由的人選，接下來也會以總會長身份繼續為蔡英文總統連任勝選而努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡宛芬表示，面對2020關鍵時刻，民進黨相信多元文化就是台灣價值，邀請新住民姊妹作為「民主新助力」，在各縣市成立小英新住民姊妹會，凝聚新住民支持者。此次民進黨也特別製作新住民姊妹會幹部識別背心及多功能領巾，設計理念以「水」象徵新住民飄洋過海來到台灣，擁有如水般的柔軟與韌性，而水滴圖騰形成的繽紛水花，也代表新住民的多元文化在台灣綻放。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡宛芬也提到，各縣市的小英新住民姊妹會持續辦理「家鄉味‧飄香味」新住民市集，為各區立委輔選並宣傳蔡英文新住民相關政策成果，接下來也將針對新住民民眾進行「2020 Let&rsquo;s vote選舉投票流程宣講」以及「掃街新聲代」活動，希望透過小英新住民姊妹會，讓初次接觸台灣民主制度的新住民更了解投票流程，同時利用語言優勢，前往各地新住民據點，以新住民母語拜票，爭取更多新住民支持。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="68314a6930386f4d4878323539394b63">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

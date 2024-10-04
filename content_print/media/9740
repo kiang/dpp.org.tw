@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-10</p>
+				<h2>蔡英文聯名文博金獎插畫家「喂，wei」推出超可愛中秋賀卡</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">今天是中秋節，蔡英文總統今（10）日在社群平台（臉書、ig）上發布與插畫家「喂，wei」聯名的中秋節賀圖，祝福粉絲們佳節愉快。</p>
+
+<p style="text-align: justify;">圖中除了有帶著柚子帽的Q版蔡英文總統外，還有她的兩貓四狗，也讓蔡英文總統在臉書上直呼「真的很可愛」。此外，蔡英文總統也特別呼籲，請大家一起為國軍加油，感謝國軍在連假期間堅守家園。</p>
+
+<p style="text-align: justify;">民進黨網路社群中心主任范綱皓表示，台灣的創作能量豐沛，從八月中在高雄舉辦的文博會就能充分感受。本次參與中秋賀圖聯名的插畫家「喂，wei」從2012年開始經營圖文創作品牌，跨足漫畫、社群經營、IP角色周邊等，除了可愛風格廣受粉絲喜愛外，更在今年的文博會獲得「CET BEST AWARD 金獎」肯定。</p>
+
+<p style="text-align: justify;">范綱皓補充，小英總統時常和插畫家聯名，像是：2020年耶誕節與圖文作家「ㄇㄚˊ幾」合作推出賀圖、「小學課本的逆襲」跨年圖卡，2021年與 「廢物女友」合作春節插畫等，藉此表示總統對台灣圖文創作者創意的肯定，也希望能透過療癒的插畫，分享中秋祝福給所有國人。</p>
+
+<p style="text-align: justify;">除了聯名插畫圖卡外，今年中秋節插畫家「A RAY」更是將收到的文旦彩繪成蔡英文總統的Q版模樣，而蔡英文總統也將照片上傳在她的Instagram上，提醒國人「烤肉之餘不妨吃顆文旦，解解膩」，邀請大家一起支持農民。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="37336a446c4a5578727a737061547158">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

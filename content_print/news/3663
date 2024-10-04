@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2010-10-27</p>
+				<h2>2010-新北市</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <h2>【2010-新北市】</h2>
+<ul>
+    <li><strong>淡水天元宮參拜</strong></li>
+</ul>
+<p>10月 27日 (週三), 上午9:00 &ndash; 上午9:15<br />
+地點：淡水鎮水源里北新路三段30號</p>
+<ul>
+    <li><strong><span class="event-details-label">清水市場掃街+龍山寺參香</span></strong></li>
+</ul>
+<p><span class="event-details-label">時間</span><span class="event-when">10月 27日 (週三), 上午9:30 &ndash; 上午10:30</span><span class="event-details-label"><br />
+地點</span>淡水鎮中正路與中山路129巷口(7-11前)</p>
+<ul>
+    <li><strong><span class="event-details-label">竹圍市場+福德宮參拜</span></strong></li>
+</ul>
+<p><span class="event-details-label">時間</span><span class="event-when">10月 27日 (週三), 上午10:50 &ndash; 上午11:10</span><span class="event-details-label"><br />
+地點</span><span class="event-where">淡水鎮民族路10號(屈臣氏前)</span></p>
+<ul>
+    <li><strong><span class="event-where">頂溪捷運站拜票</span></strong><span class="event-where"><br />
+    </span></li>
+</ul>
+<p><span class="event-where"> 時間10月 27日 (週三), 下午6:00 &ndash; 下午6:25<br />
+地點永和頂溪捷運站1號出口</span></p>
+<p>資料來源：<a target="_blank" href="http://www.iing.tw/2010/07/blog-post_342.html"><span style="color: rgb(0, 0, 255);"><strong>小英行事曆</strong></span></a></p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="32417a68596357506b3448414a4b3077">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

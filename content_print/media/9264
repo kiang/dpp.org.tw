@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-10-01</p>
+				<h2>國民黨祭五倍券提案杯葛總質詢 民進黨：戰鬥藍變亂鬥藍</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨今（1）日持續佔領立法院議場，並透過大量提案杯葛總質詢，其中甚至提出五倍券若造成疫情，行政院長蘇貞昌應下台。對此，民進黨發言人劉康彥表示，國民黨又再一次用行動證明「戰鬥藍」根本就是「亂鬥藍」，若按照國民黨的提案邏輯，提出各種五倍券加碼方案的國民黨縣市首長，是否也要一起下台？呼籲勿為了政黨鬥爭，胡亂提案。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，全國各界期待振興經濟的「五倍券」，包括國民黨執政的地方縣市長都提出各種五倍券加碼方案，全民都在期盼疫情已逐漸穩定的同時，要來加速振興經濟。但國民黨立法院黨團卻「只問戰鬥不問蒼生」，不顧眾多等待振興的產業。試問國民黨立委們，也要杯葛地方首長推出的五倍券加碼方案嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥指出，「戰鬥藍」為了政黨利益，不惜把台灣「戰到爛」，立法委員職權就是審查法案以及行使質詢權，國民黨立委卻持續癱瘓議事，讓許多重要民生法案遭到擱置，更妨礙其他政黨行使質詢權的權利！國民黨主席當選人朱立倫難道要用蠻幹、杯葛到底的方式重回執政？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥進一步指出，被擱置的法案中，包括攸關強化鐵路行車事故及異常事件之處理機制的鐵路法修正案，還有婦女、農民、勞工、動物保護、疫情圍堵、台灣證券市場健全發展等法案，都無法交付相關委員會審查。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥強調，國民黨在朝野協商時，要求行政院長蘇貞昌進行專案報告，但是當蘇院長率領部會首長赴立法院備詢時，國民黨立委卻又退縮，只想坐領乾薪，不敢站上質詢台與蘇院長正面對決。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，各縣市政府和期盼振興的民間業者，早就已經磨刀霍霍，祭出各種購物節和加碼活動，準備要搶攻五倍券大餅，國民黨立法院黨團卻還要大做文章，呼籲即將接任國民黨主席的朱立倫，應展現領導力，儘速結束這場鬧劇。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="514476524757704a4d317a7265417558">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

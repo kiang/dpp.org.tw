@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-29</p>
+				<h2>十大國際好消息票選結果出爐 蔡英文拍溫馨影片感謝LINE友參與</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	日前，蔡英文總統發布《2020台灣真好》影片，展現台灣民主防疫、經濟逆勢成長，與國際肯定的成果。今日（29）蔡總統公布「2020有影喔！十大看見台灣國際好消息」網路票選活動的結果。蔡總統登上時代(TIME)雜誌封面，與美國國會通過「台北法案」挺台，分別登上「民主防疫國際肯定」和「外交有成前進世界」二類別中的榜首。蔡總統也親自拍攝影片感謝支持者一年來與她的互動，更不忘提醒新的一年，大家要繼續努力防疫。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨網路社群中心主任范綱皓表示，這次蔡總統的LINE 於12月18日至22日間舉辦為期四天的票選活動，分成兩大類的國際好消息，各別都吸引將近20萬的投票數。其中來自第一類「民主防疫國際肯定」總投票數為19萬9787票；第二類來自「外交有成前進世界」也有高達18萬9579票，顯示民眾在過去一年來，對於台灣民主防疫成果、外交有成的肯定，也對國際上「看見台灣」感到驕傲。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范綱皓說，此次票選活動中，「民主防疫國際肯定」的部分，由「蔡總統專文登時代雜誌 讓世界看到防疫希望」奪得榜首（25446票），第二、三名分別是，「彭博評比全球75經濟體 台灣抗疫表現第一」(20270票)、「蔡總統再列名富比世全球百大權勢女性 抗疫獲肯定」(19963票)。前二名都破兩萬票數，代表外媒對於台灣民主防疫有成的肯定，民眾最有感。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范綱皓也表示，票選中第二類「外交有成前進世界」部分，「美眾院415：0通過台灣法案！ 挺台鞏固邦交、參與國際組織」奪得榜首(23225票)，另外「捷克參院議長： 我是台灣人」(20445票)與「蔡總統獲頒國際領袖先鋒獎」(19492票)、「美國衛生部長訪台」(18725票)也都上榜，顯示民眾對於過去一年來對於外國官員訪台、國際友人對台灣在外交上的實質肯定等，都印象深刻。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范綱皓表示，蔡總統也很關心票選結果，並特別在年終拍攝影片給參與票選的支持者，感謝大家在過去一年與她的互動和支持。蔡總統於影片中表示，2020年台灣的防疫表現受到國際肯定，是因為大家團結一致，配合政府的政策。她也要感謝產業跟政府一起打拚，以及大家響應國旅、振興的政策，讓台灣的經濟表現逆勢成長。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡總統也於影片最後中說，2021年，面對新年新挑戰，以及瞬息萬變的疫情，希望大家能夠一起努力，戴口罩、勤洗手，繼續努力防疫。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	<img alt="" src="/upload/ckfinder/images/20201228-%E5%A5%BD%E6%B6%88%E6%81%AF%E7%B5%90%E6%9E%9C%E7%99%BC%E8%A1%A8-4.jpg" style="width: 975px; height: 1200px;" /></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="46596a3374716c79556844696c6f3371">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

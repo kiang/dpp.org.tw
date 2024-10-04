@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-27</p>
+				<h2>民進黨：延續鄭文燦市府團隊在桃園八年的優質政績與高滿意度　就是民進黨最重要的目標和價值</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對民進黨前立委鄭寶清今日宣布參選桃園市長一事，民進黨發言人黃彩玲今（27）晚間表示，民進黨的提名機制是由全代會無異議通過的提名辦法來辦理，這次的縣市長提名，名義上雖大部分為徵召，但只要有競爭的選區，都會以民調作為主要參考，並經選對會與中執會討論後通過提名。所謂黑箱或者不民主的說法，不僅不是事實，更是惡意的謠言。對於這類說法，民進黨必須嚴正駁斥。</p>
+
+<p style="text-align: justify;">黃彩玲指出，年底這戰，最重要的就是守住鄭文燦市長與團隊在這八年的努力成果與高滿意度，讓民進黨的理念和價值可以延續，這也是民進黨支持者所最掛心與期盼的。</p>
+
+<p style="text-align: justify;">有關特定人士提到的民調未公布和制度問題，黃彩玲表示，第一、民進黨提名是由全代會無異議通過的提名辦法來辦理。這就是民主的制度。第二、選對會是由蔡主席親自召集賴清德副總統、行政院蘇院長和黨內許多代表組成，每次都會對人選做充分的討論。選對會成員不僅皆曾擔任重要職務，也是本黨最有選舉經驗者，無論在黨內或在社會上都極具有公信力。</p>
+
+<p style="text-align: justify;">第三、這次提名，名義上大部分雖是徵召，但實質上有競爭的地方、縣市，都會以民調數字來作為主要的參考。民調之所以選擇不對外公佈，是因為民調結果有輸有贏，讓競爭者留有餘地希望能對於事後的整合有所助益。這樣的慣例在過去數屆的提名也都屬常見，民進黨無法接受這樣依照黨內民主產生的制度，被任意指控為密室協商。</p>
+
+<p style="text-align: justify;">黃彩玲表示，鄭文燦市長八年執政期間，在桃園都獲得民眾很高的滿意度和肯定，這也是中央和地方執政的成果，民進黨秉持理想、價值目標，才能得到民眾肯定。年底在桃園的選戰，最重要的就是守住鄭文燦市長與團隊在這八年的努力，以及對桃園的改變，也讓民進黨的理想與價值可以延續。民進黨一定會團結上下，全力以赴，捍衛價值，守住桃園執政成果，繼續為桃園鄉親帶來進步與幸福。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><br />
+&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="47546c7a49743879484b50463355634f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-04-25</p>
+				<h2>台南市議員第十一選區初選民調結果新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨2018年直轄市議員提名初選民調作業，今（25）日公布台南市議員第十一選區民調結果(本選區提名3席，含女性保障1席)：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	<img alt="" src="/upload/ckfinder/images/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-25%20%E4%B8%8A%E5%8D%8811_58_57.png" style="width: 1003px; height: 424px;" /></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	＊各選區提名名單以民進黨中執會正式通過公告為準。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                <p>檔案下載：<a href="https://www.dpp.org.tw/upload/news/2018-04-25_台南市議員第十一選區初選民調結果新聞稿.docx" target="_blank">2018-04-25_台南市議員第十一選區初選民調結果新聞稿.docx</a></p>
+	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="325878437a4777543271657637736949">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

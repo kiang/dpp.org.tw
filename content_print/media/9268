@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-10-06</p>
+				<h2>法國、澳洲政要相繼訪台 民進黨：歡迎國際友人訪台，共同彰顯民主自由價值</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	關於澳洲前總理艾伯特（The Hon. Tony Abbott）、法國參議院友台小組主席李察（Alain Richard）等國際政要相繼於昨日與今日訪台，民主進步黨發言人謝佩芬今（6）日表示，民進黨誠摯歡迎國際夥伴來訪，共同彰顯民主自由價值。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，李察主席長期堅定支持台灣，自2015年接任參議院友台小組主席以來，為了提昇台法友好關係有許多重要貢獻。李察主席今年初受中國駐法大使盧沙野數度言語挑釁，企圖阻撓訪台規劃，但李察主席不畏中國政府的威嚇，仍然立場堅定，此次與友台小組兩位副主席布依松（Max Brisson）及喬瑟芙（Else Joseph）、外交暨國防委員會副主席卡迪克（Olivier Cadic）等4位跨黨派參議員，以及參議院友台小組執行秘書高玉笛（Judith Bout）來台訪問，其支持台灣的友情及堅定捍衛自由民主的精神令人感動。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬並說，澳洲前總理艾伯特近年來多次為台灣發聲，提醒各國提高對中國經濟脅迫及侵略的警覺，更公開對台灣加入「跨太平洋夥伴全面進步協定」（CPTPP）表達支持。由於兩國對於中國貿易脅迫皆有深切體悟，相信雙方有許多可以互相交流之處。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬強調，台灣與法國、澳洲都是共享民主、自由、人權等普世價值的民主夥伴，透過這次法國李察主席與澳洲艾伯特前總理的訪台，希望台灣與法、澳等民主夥伴之間，能有持續的經驗分享與對話交流，進一步深化台灣與國際盟友的實質夥伴關係。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d32674e546f4a6466756f6576356f4f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

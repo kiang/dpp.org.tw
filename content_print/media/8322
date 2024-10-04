@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-06-27</p>
+				<h2>再次舉辦【Road To Democracy】夏令營 羅致政：第一手感受台灣人權與民主發展歷史</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨國際部主任羅致政今(27)日召開「民主進步黨2018外籍留學生夏令營【Road to Democracy】」行前記者會，民進黨國際部今年再次舉辦 【Road To Democracy】夏令營，吸引來自瓜地馬拉、德國、印尼、美國、宏都拉斯、越南、蒙古、泰國、加拿大、多明尼加、巴拿馬、馬來西亞、日本等13個國家的外籍留學生參與。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅致政致詞時表示，台灣民主化的歷史跟民進黨的歷史是緊密結合在一起的，民進黨是從街頭運動起家，很多民進黨的前輩，包括他個人在內，過去都是在台北的街頭到處去抗議、遊行、示威。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅致政提到，事實上民進黨也有一些堅持的進步價值，各位參訪黨部時會看到創黨18人的照片，這些人不管是在當時的體制內或是政府外的反制運動，不論省籍，目標就是要去對抗當時的威權政府，來建立一個民主自由的台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅致政表示，民進黨今年剛好成立32年，過去32年我們經歷過了很多，從反對運動到反對黨，變成執政黨後，失去政權，再重新執政，這個過程都見證了民主重要發展的過程。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅致政強調，民進黨跟台灣民主的過程是有很多代價，包括很多黨內先進，過去都在監獄裡面度過他們相當重要的一程，但我們依然堅持很多民主重要的進步價值，包括言論自由、人權、LGBT等等，各位在參觀黨部時，也可以看到各部門張貼的各種標語、布置裝潢，都可以反映這些價值已經成為我們生活的一部份。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅致政提到，這個黨是一個32歲的政黨，黨內很多的幹部都不到32歲，所以這是一個非常年輕的政黨，他相信這一代的年輕人也面臨不同的挑戰，這些新的挑戰包括來自於中國非傳統軍事的威脅，尤其是對台灣民主自由可能的影響。因此，對我們來講，我們會持續堅持這些價值，但是必須用新的方法來面對這些挑戰。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅致政表示，今年我們依然選定了台北與宜蘭兩個地方，同時做了行程上的小調整，希望藉由參訪二二八基金會、景美人權園區跟慈林基金會等行程，讓各位能夠第一手感受到台灣過去在人權跟民主發展歷史的一部份。最後，他再次代表這個黨來歡迎各位參加，希望未來兩天能讓各位有非常豐富的收穫。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	【Road To Democracy】夏令營參訪團為期2日的行程，除參訪228基金會、景美人權園區、慈林教育基金會等台灣民主化過程中的重要足跡外，也有宜蘭縣政府、蘭陽博物館等政績參訪，讓外籍留學生能夠更加了解台灣歷史與追求自由、民主的歷程。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="67444e4e4d39634a6478575842343334">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

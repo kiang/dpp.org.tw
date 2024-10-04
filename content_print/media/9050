@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-08-11</p>
+				<h2>民進黨廉政會第九屆第二次臨時會會後新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	廉政委員會今天(11號)晚上召開第九屆第二次臨時會，經討論後決議如下：1. 有關蘇震清委員停權裁決案，經調查會議討論後決議予以停權3年之處分。2. 有關廉政規章研議案，廉政會今晚已做許多意見交換，此案仍持續進行研議中。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	同時邱主委亦表示，今廉政會做出停權三年處分，未來亦視案情，做進一步處置，依廉政條例最重可討論除名。</div>
+<div style="text-align: justify;">
+	<br />
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4e47714352664b31564d4f424b464e37">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

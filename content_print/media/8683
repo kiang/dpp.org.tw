@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-05-26</p>
+				<h2>郭台銘刻意挑撥社會對立製造仇恨 軍公教朋友無法認同</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對今（26）日郭台銘後援會以報紙廣告指控民進黨用「米蟲」等字眼羞辱軍公教人員，民進黨發言人李問表示，對於廣告內容中的不實指控深感遺憾，郭台銘刻意營造階級對立與仇恨的作法，相信多數軍公教朋友，不論是年輕世代或退休的公務員，都無法認同。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問表示，年金改革的初衷是希望社會各界共體時艱，共同為年金的永續經營而努力，並促進社會各界團結與相互諒解。改革的過程中，也特別感謝許多不同世代的軍公教朋友，為了年金的永續經營，願意對改革表達支持。對於每一位軍公教朋友長期對國家的付出，相信台灣社會大眾都銘記在心。同時，民進黨政府任內也對軍公教調薪3%、帶動國內企業薪資成長，以薪資實際成長的方式來改善全民的經濟。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	反觀郭台銘，除了挑撥軍公教族群和勞工之間的對立，更在國家認同上搖擺，嚴重打擊國軍與公教人員的士氣。例如日前郭台銘發表缺乏國防專業的言論，口出狂言認為國軍無須購買軍備，這不但抹煞國軍的專業建軍與採購規劃，更是嚴重詆毀國軍為了捍衛中華民國台灣所做的努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問呼籲，郭台銘應停止挑撥社會對立，也反問如果郭台銘因為錯誤的外交國防政策，讓國家主權陷入險境，又如何能夠保障軍公教族群的福利？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="756f30775a3062594b674668526c6d42">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

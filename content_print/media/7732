@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-03-15</p>
+				<h2>民主進步黨第十七屆第二十九次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 民主進步黨今(15)日召開第十七屆第二十九次中常會，會中通過於下周三(3月22日)召開中執會，此外會中邀請客委會副主委楊長鎮以「國家級台三線客庄浪漫大道」為題進行專案報告。發言人阮昭雄會後轉述蔡英文主席聽取專案報告後裁示，全文如下：</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 感謝客委會楊長鎮副主委的報告。台三線不僅是現在桃竹苗地區科技業者主要的休閒區域，也是香港新加玻還有馬來西亞等地方，很多的年輕人喜歡走的行程，所以台三線的整體規劃，有兩個部分還要特別討論，第一是複合式交通的整合，進入台三線後，有可能是開車，也有可能是搭乘巴士，或是其中某一段騎腳踏車等，所以交通工具必須要相容結合，比如說巴士必須要有放腳踏車的地方，比如說停車的場所怎麼規劃。其次是整體的住宿規劃，也有很多人想要在這裡住一個晚上，而民宿或住宿的規劃，牽涉到整個土地的利用，那是另一件蠻複雜的事情。而民宿最重要的是乾淨，方便，美觀，有很多年輕人或許會想要經營民宿，但他們的土地和資本取得的問題，恐怕必須和國發會再討論。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 此外，旅遊總是要先有幾個套案，先把套案推廣出來之後，其他的延伸商品就會出現，這是台灣很少看到，有這麼大一個面積，還保存這麼好的地方，我們希望台灣人或外面來的觀光客可以享受到。但商業上的可行性必須要注意，所以不妨請觀光協會或其他的觀光專家，去多看幾遍，多走幾遍，提供一些建議。最後，台三線的規劃，有一部分是跟原住民連接的，所以在規劃的過程中，也要考慮把這些地點也納入。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6652524e786e7151626d33346f674f65">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

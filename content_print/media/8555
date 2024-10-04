@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-02-13</p>
+				<h2>民主進步黨第十八屆第二十二次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民主進步黨今(13)日召開第十八屆第二十二次中常會，邀請日本政策研究大學院大學訪問研修員謝子涵以「日本地方創生戰略－以北海道東川町為例」為題進行專案報告。發言人林琮盛轉述卓榮泰主席聽取報告後裁示，全文如下：</p>
+<p style="text-align: justify;">
+	非常感謝謝子涵小姐帶來精彩的地方創生報告，為我們詳盡的介紹日本推動地方創生的經驗。</p>
+<p style="text-align: justify;">
+	面對高齡化社會趨勢，農村及偏鄉的凋零，台日之間都在想辦法解決這樣的問題，鼓勵青年返鄉，發展在地經濟。他山之石可以攻錯，今天的簡報，讓我們瞭解其他國家的作法，提供新的視野。</p>
+<p style="text-align: justify;">
+	為了鼓勵青年返鄉，國發會也在去年底提出了「地方創生國家戰略計畫」，2019是台灣的地方創生元年，借鏡日本經驗，希望創造更好的環境及有效的機制，吸引青年返鄉就業，讓「企業認養故鄉」。因此，我們期待各種匯集了地方特色、就業、青年創業、食農教育，以及永續環保的計畫，在台灣各地能夠展開。</p>
+<p style="text-align: justify;">
+	均衡台灣的城鄉發展，是本黨從在野到執政一貫的主張。從2000年執政後，推動「社區總體營造」、「六星計畫」等，這都是從地方社區做起，調整過去國民黨政府重北輕南的政策，促進區域的均衡發展，讓人可以選擇回到家鄉工作，安心生活。</p>
+<p style="text-align: justify;">
+	地方創生是現階段關鍵的發展策略，也是重要的價值，年輕人可以回到家鄉，才能為地方帶來希望。尤其，我們希望本黨執政的縣市，能夠借重子涵的經驗，充分發展各地特色、地方創生戰略。正確的事情，再怎麼困難，我們也要堅持做下去，「地方創生」正是這樣的一件事情。再次謝謝子涵研究員精彩的簡報。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="43557466517948365864703958584366">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-18</p>
+				<h2>318學運5週年 記得人民的奮鬥，再尋未來的方向</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	今天是318太陽花學運五周年，民進黨非常重視五年前在立法院外反對國民黨輕易將服貿協議通過審查，最後佔領立法院議場23天的學生抗爭行動，因為這五年來，台灣政治版塊發生重大變動，社會和朝野得以重新省思兩岸政經關係，年輕世代逐漸形成引導社會改變的新力量，都源自於318太陽花學運。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨發言人周江杰表示，五年前，由於國民黨立委張慶忠主持立法院內政委員會審查會議時，僅花30秒時間宣佈完成《海峽兩岸服務貿易協議》的審查，擬將全案送院會存查，引起學生團體抗議程序過於輕率，佔領國會議場長達23天。這一場318學運對於台灣最重要的影響，是讓台灣各界對於中國伸出經濟的手染指台灣產業內容產生高度疑慮，因此阻卻了中國對台經濟入侵的腳步，也加深民眾對兩岸政治議程的警覺，同時強化了各界對台灣主體意識的重視，對台灣的影響十分深遠。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰強調，中國對台政策因為318太陽花學運而調整，開始著重「中小企業」、「中低階層」、「中南部民眾」及「台灣青年」等「三中一青政策」，在習近平公開宣示九二共識就是一個中國的原則，並以一國兩制為台灣的未來政治軀殼，矮化台灣主權地位，並陸續推出政策，將台灣的村里長納入中國所特別設計的政治架構中，對台灣形成新的威脅和危機，台灣社會必須警惕並且更審慎面對，採取有效措施防止中國對台「內政化」一步步的進逼。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，318太陽花學運對台灣最大的影響，在於喚起台灣公民意識的覺醒，促使年輕新世代的參政潮，素人參政、網路世代對於政府決策和選舉過程的影響力量崛起，都發軔於318學運，對於型塑台灣政治形態和未來發展有深遠影響。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰說明，318學運不但導致2014年年底地方選舉素人政治的崛起、國民黨政權空前慘敗，還因此讓民進黨進而在2016年取得完全執政的機會，台灣政治版圖因此產生巨變，而民進黨在2018年卻立即遭受另一波政治反挫，痛失七席縣市長席次，四年內勝負對照如此強烈，帶給民進黨十分深刻的衝擊和反省，民進黨必須記取，才能再一次引領台灣政治的發展方向。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6438504855743179705431313245556d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

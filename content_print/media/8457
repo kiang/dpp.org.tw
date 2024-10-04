@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-04</p>
+				<h2>高雄拜廟參香 蔡英文：守住高雄就是守住台灣，市長沒有第二人選，一定是陳其邁</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民主進步黨主席蔡英文今(4)日結束早上行程後，下午由高雄市長候選人陳其邁、陳其邁夫人吳虹、總統府秘書長陳菊、立委邱議瑩、選對會召集人陳明文委員、前內政部長余政憲、市議員候選人及地方黨公職陪同，前往大樹東照山關帝廟參拜。隨後，蔡英文主席一行也由高雄市代理市長許立明、立委林岱樺及地方黨公職陪同，前往大寮朝中宮及林園廣應廟參拜。蔡英文致詞表示，高雄是台灣民主的基地，這次選舉要把台灣民主價值展現出來，守住高雄就是守住台灣，選一個實實在在做事情的人，市長沒有第二人選，一定是陳其邁。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，今天來跟神明參香請安，保佑國家平安、高雄順利發展，也希望這次選舉順利，菊姐之前的政績，讓陳其邁接棒下去。其邁和他的妻子都是醫生，醫生就是對救人最關心，也最會照顧人，如果有他們的服務，相信對高雄未來的照顧，一定是最好的。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文也說，剩下的20天最關鍵，大樹、大寮、林園是對民進黨最支持的地方，拜託大家拿出全部的力氣支持，讓其邁當選市長，還有幾位議員候選人，也拜託大家讓他們全壘打。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提及，中央執政後，決定要建設台灣、加強基礎，所以在2017年提出特別預算，8年8千億，讓台灣基礎建設做好，更重要的是顧及區域平衡、南北平衡。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，其邁有很多計畫要做，中央全力支持，地方與中央合作，一定成功。民進黨20年來的栽培，陳其邁是不二人選、最好的人才，一定讓高雄建設如期完成，打下將來發展的基礎。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，蔡英文說，新南向政策在台灣最好的基地就是高雄，讓高雄成為新南向基地，所有的飛機都可直飛東南亞各國航線，讓機場變成台灣最好的機場。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，有人跟她說，捷運延伸到林園，是大家的心聲，台灣石化業的發展，林園付出了很多代價，也貢獻了許多，希望中央、地方可以讓這裡有好的發展。讓產業轉型，同時兼具多樣化，讓年輕人可以安身立業，長輩可以養老，蔡英文的中央政府、賴清德的行政院，以及高雄市政府會一起努力打拚、完成。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文強調，謝長廷及陳菊兩人在高雄做得很好，讓高雄變成一個很美的地方，是世界前五宜居的城市，民進黨在中央也很認真，做許多改革、建設，努力打拚，這就是台灣人實實在在、認真做事的精神。現在有很多造謠、抹黑的事，不可以被網路假消息打擊，做事的人不能輸給說大話的人，認真的人一定要相挺到底。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文也說，高雄是台灣民主的基地，這次選舉要把台灣民主價值展現出來，證明給大家看，在中國的壓迫、打壓之下，一樣守得住台灣的民主、台灣的主權、台灣的價值。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文最後強調，守住高雄就是守住台灣，過去大家給予很大的支持，未來要一起做更多事，這次選舉一起拚過關，贏得漂亮。民主進步黨、陳其邁、還有議員候選人是最好的選擇，選一個實實在在做事情的人，市長沒有第二人選，一定是陳其邁。</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="736334706f784138554d687a314b4242">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

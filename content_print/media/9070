@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-09-30</p>
+				<h2>民主進步黨第十九屆第九次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(30)日召開第十九屆第九次中常會，會中由青年發展部主任蔡沐霖以「青年組織發展之現況與挑戰」為題進行專案報告，黨發言人顏若芳會後轉述蔡英文主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝謝青年發展部蔡沐霖主任針對「青年組織發展的現況與挑戰」所做的報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民主進步黨是個長期重視人才培育與經驗傳承的政黨，青年發展部更是本黨青年人才甄補經營的重要管道，藉由辦理營隊課程，邀請許多「青年看板球星」分享實務經驗，吸引青年朋友參與公共事務的「農場培育體系(棒球術語)」，共同打造青年品牌。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	青年族群的經營要全面性、持續性的部署，並透過「線上」與「線下」的創新活動，維持與青年朋友零距離的溝通，即時並實質了解年輕人對於政府施政的意見。對於當前年輕世代，我們要持續互動，也包含未來更年輕的一代。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	除了校園的領域，我們也要持續探索其他層面的年輕人並且跟他們有互動，這是我們要去努力的事情。除了透過網路社群尋找相關連結外，也需要從實體面和更多的年輕世代互動。所以針對沒有繼續升學而提早進入社會的年輕世代，他究竟在哪裡、在做什麼事情、要怎樣找到他，爭取和他們產生認同的關係，這是我們要再持續去努力的。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	發言人顏若芳表示，今天透過中常會向中常委報告青年部的業務工作，這也證明民進黨一貫重視青年事務的經營與發展。此外，青年部副主任一職，日前因為前副主任轉任網路社群中心主任，今天也宣布青年發展部副主任將由陳冠穎出任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	陳冠穎（1991年生，29歲），畢業於美國普渡大學，過去曾在媒體服務，擔任政治線記者。2020總統大選期間服務於蔡英文總統連任辦公室社會力部，主要負責海外青年組織工作。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="764b7968424759365066476e394d4e50">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-14</p>
+				<h2>民進黨全代會即將登場！主軸「團結台灣 顧好未來」　三大設計亮點曝光</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨第二十屆第一次全國黨員代表大會將於本週日(17)登場，本次全代會以「團結台灣、顧好未來」為主軸，訴求台灣人民在這段日子以來，共同面對的各種的挑戰，以及對未來的展望。在開幕式活動中，也將以感謝防疫人員等各界人士守護台灣來揭開序幕，接下來，則會推出堅強縣市長候選人陣容，盼於年底選戰中，再次以「綠色執政　品質保證」的招牌，爭取更多支持者認同。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨全代會將在本週日於台北國際會議中心(TICC)登場，民進黨表示，全代會開幕式活動分成兩大主軸，首先會感激台灣防疫英雄的辛勞，也謝謝全體民眾與行政團隊團結防疫，一起守住台灣，讓台灣在疫情期間經濟表現亮眼，2021年台灣經濟成長率為6.28%，創下11年新高紀錄。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	而年底九合一大選將至，民進黨也表示，民進黨推出的縣市長候選人已陸續就位，「中央地方會做事戰隊」將在全代會首度同台，展現要為台灣「顧好未來」的決心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，過去民進黨全代會，設計物和活動安排也都是亮點，今年民進黨也特別在旗手組合、口罩設計與應援拍拍扇上下功夫，希望讓大家耳目一新。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨表示，向黨旗致敬是歷屆全代會的重要儀式，過去多由男性黨工擔任舉旗手，今年則是首度加入女性旗手。民進黨說明，年底投票除了九合一選舉，更重要的是「18歲公民權」的複決投票，為了展現民進黨長期重視年輕族群權益的主張，首度安排最年輕的發言人謝子涵及青年部的青年夥伴「國務青」等6位黨內青年擔任旗手，並且以三男三女的新組合，共持黨旗進場，相當令人期待。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨指出，全代會的活動口罩更蘊含特別巧思，是以DPP字樣堆疊而成的迷彩設計，象徵執政團隊與全民在近期國際局勢變動劇烈的影響之下，強化國防、保衛台灣的決心。此外，活動現場將發放人手一支「團結台灣、顧好未來」應援拍拍扇，期盼延續過去團結防疫的成果，與全國各界共同守護台灣未來，為自己和台灣的好表現繼續加油。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	<img alt="" src="/upload/ckfinder/images/AKN_7130(1).jpg" style="width: 1600px; height: 1067px;" /></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6d49685a36454577747a435032536949">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-03</p>
+				<h2>赴文山區品茶參拜指南宮　卓榮泰：阮昭雄是國會拚過半的關鍵指標</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨主席卓榮泰今（3）日與立委參選人阮昭雄前往台北市文山區指南宮參拜，祈求國泰民安、風調雨順，國策顧問黃承國、台北市議員王閔生、簡舒培及地方黨公職等人也一同現身。隨後眾人前往附近的貓空參觀雙橡園茶坊與茶園體驗，與茶坊業者暢談木柵特色觀光農業發展，也藉此機會品好茶、話家常。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，今天木柵山區的景色相當浪漫，過去雖然比較常在台北市的北邊生活，但貓空遠近馳名，以前多次到訪都很喜歡，今天的景色又再度留下深刻記憶，這是最特殊的輔選行程，雖然輕鬆，但是大家責任感都很重。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也說，阮昭雄擔任議員後又去進修讀書，對都市防災相當瞭解且用心，在貓空地區持續發展的同時，所有建設一定要符合安全要求，讓這個地區更有魅力，這就是阮昭雄所提的「安全城市魅力想像」，讓貓空在未來成為台北市的一個旗艦中心，未來阮昭雄進軍國會後，一定會與在地議員打造新貓空。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	有媒體問及立委選情，卓榮泰表示，阮昭雄絕對是席次能否過半的關鍵指標，如果阮昭雄氣勢持續飆高，一定能帶動台北市，甚至是其他縣市的選情，一定要全力支持阮昭雄，讓阮議員成為阮委員，承擔更多文山區發展的重任。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7176636273615074756e46484a32754e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

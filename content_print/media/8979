@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-01-07</p>
+				<h2>國民黨把921當成選舉宣傳 民進黨：把別人一輩子的眼淚印在自己的催票單上　請國民黨回收銷毀不當選舉文宣</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	繼國民黨中和區立委候選人邱烽堯，國民黨南投縣黨部再替南投立委候選人馬文君、許淑華以數字「921」做催票口號，民主進步黨發言人李晏榕、戴瑋姍今(7)日召開「921台灣浩劫重生，國民黨拿天災當催票單」記者會，抨擊國民黨拿人民的血溫暖自己，必須回收傳單，並向國人道歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	戴瑋姍首先表示，非常遺憾，必須再一次向國民黨呼籲，不要拿人民的血溫暖自己。兩天前，民進黨已經針對國民黨中和立委候選人邱烽堯在競選傳單上印出921三個數字提出嚴正譴責，昨天竟然在南投再次出現921的選舉文宣，國民黨究竟懂不懂反省？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	戴瑋姍說，南投是921震央，但南投兩位國民黨立委候選人馬文君、許淑華都抽到一號，因此他們在傳單上再次以「921」這個符號去催票。請國民黨必須針對如此冷血的行為道歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	戴瑋姍也抨擊，邱烽堯前幾天輕描淡寫地回應「這只是一個數字」，現在馬文君、許淑華都尚未做出回應，國民黨副總統候選人張善政在陪伴馬文君造勢時說「921是重要數字，請大家去投票」，這是一位副總統候選人該說出口的嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕拿出數張照片，回憶921地震發生時全台灣的受災情形，他表示，去年才剛紀念921大地震二十週年，這是台灣史上死傷最慘重的地震，死亡高達2415人，失蹤29人，傷者11305人，房屋全倒51711棟，半倒53768棟。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕沉痛表示，921不是冰冷的數字，有多少家庭在這場天災後流離失所？有多少人民失去親友家人？有多少人一輩無法走出創痛？但是人民有如此血淚苦痛，卻被國民黨又再喚起傷痛，鄭重質問國民黨，你們忍心在災民傷口上灑鹽嗎？要把別人一輩子的眼淚印在催票單上嗎？選舉選到完全沒有同理心了嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕鄭重呼籲，當年地震發生時的小孩可能是現在的首投族，當他們看到這種選舉文宣，被迫要面對過往傷痛。請國民黨收回、銷毀這些文宣，並向全台灣選民道歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	戴瑋姍再次重申，國民黨作為百年政黨，但完全沒有高度與選舉格調。這次選舉是在選總統、立法委員，作為民意代表，最重的就是瞭解民意。韓國瑜市長說「莫忘世上苦人多」，但他們對於受苦難的民眾毫無同理心，人民如何把選票託付給沒心、沒血、沒淚的政黨？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕最後說，韓國瑜市長所謂的「莫忘世上苦人多」，難道世上苦人不包括921災民嗎？請國民黨正視這個問題。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="556d484e6a515839564e4b7456476a35">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

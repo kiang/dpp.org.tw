@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-10-28</p>
+				<h2>民主進步黨第十九屆第十三次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(28)日召開第十九屆第十三次中常會，邀請政治大學東亞所教授楊昊以「前瞻2020美國總統大選的可能結果與影響：選情動態、政策趨勢、美中格局、印太秩序與美台關係」為題進行專案報告，黨發言人周江杰會後轉述蔡英文主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝謝楊昊教授針對「前瞻2020美國總統大選的可能結果與影響」所做的報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	美國總統大選即將在下周舉行，我知道國人都很關心大選結果，不過我要強調，無論是哪一個政黨提名的候選人勝出，台灣堅持自由和民主的價值，持續深化台美關係，維持區域和平穩定的立場，都不會改變。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	過去一段時間，台灣堅守民主價值，作為區域和平的重要貢獻者，以及國際社會良善力量的努力，也得到美國主流民意，以及朝野政黨的支持。近期以來，美國國會已經通過「台灣旅行法」、「台北法案」、「台灣保證法」等多項法案，行政部門也有多位高層官員訪台，也通過多次軍售案，台美關係的進展，都是國人有目共睹的。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我要再次強調，選後無論結果如何，台灣都會持續深化與美國，以及理念相近國家的合作夥伴關係，共同維護印太地區的和平穩定與繁榮發展，堅定守護台灣的民主自由。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="477741554776437578354c4f55516f76">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

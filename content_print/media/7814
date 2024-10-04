@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-06-30</p>
+				<h2>年改三法完成三讀 民進黨：承擔責任與使命，為永續國家的年金制度努力</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 針對立法院臨時會今(30)日三讀通過「政務人員退職撫卹條例」，民進黨發言人阮昭雄表示，國人高度期待的年改三法均已完成三讀，感謝連日來國會不分朝野的努力，黨籍立委同志們辛苦了！大家不負國人期待，承擔責任與使命，在今天共同寫下歷史，完成台灣重要改革，相信政府會繼續為永續國家的年金制度努力。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 阮昭雄說，年金制度改革的目標是確保每一位國民都能有擁有安心而有品質的退休生活，經濟安全無虞，包括確立最低生活保障金額樓地板門檻為32160元等改革項目，為的就是讓國家有限的資源能夠公平並且永續的照顧到每一個人，同時讓國人在新制度下獲得真正的保障。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 阮昭雄表示，今天年金改革能夠順利完成，是朝野各政黨過去一段時間共同努力的成果。後續如何落實年改三法的相關條文，讓制度更完善，同時立院下會期還有攸關勞工年金改革的「勞工保險條例」草案，相信政府會全力以赴，作為國人最大的後盾。最後，本黨還是要再次誠摯感謝所有公教及政務人員過去的努力，為國效力，國家因此不斷前進，現在為了健全退撫制度，感謝所有公教及政務人員的體諒，國家將因為你們而偉大。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="55646573474d58427a597748436a446c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

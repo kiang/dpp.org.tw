@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-05-17</p>
+				<h2>針對《風傳媒》報導之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	針對今(17)日風傳媒報導「原住民都投國民黨？巴奈：民進黨在原民地區縣市議員只提1席」，民進黨發言人鄭運鵬針對內容提及「2014年縣市議員選舉，民進黨在原民地區只推了1席，『全國這麼大欸，只推1席，而且他還落選了！』」進行澄清。</p>
+<p style="text-align: justify;">
+	鄭運鵬表示，民進黨於2014年七合一大選期間分別於台北市提名2席議員、新北市2席議員、台南市1席議員、高雄市1席議員、新竹縣1席議員，屏東縣1席鄉長，且選舉結果為當選2席。因此，報導所載並非事實，為免混誤錯引，特此澄清如上。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3848544e7864376e3832766137715464">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

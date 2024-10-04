@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-29</p>
+				<h2>曾唱歌唱到送急診！台東劉櫂豪自曝年輕糗事 勇敢說愛還愛跳街舞</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">台東縣長候選人劉櫂豪今（29日）上民進黨網路實境節目《一碗麵的時間》，帶來一碗兒時記憶中的「米苔目」，劉櫂豪更親自命名為「惜福的米苔目」，他說因為第六度參戰台東縣長是一場「社會運動」，他不會輕易放棄，因為些歷練讓他成為越來越柔軟的人。煮麵時，劉櫂豪也向主持人黃彩玲分享他的「剛剛好」哲學（排灣族語：pacenceng），不只讀音有趣也非常受用！</p>
+
+<p style="text-align: justify;">講起台東美食，劉櫂豪回顧擔任立委的這幾年，開創「櫂豪出任務」youtube頻道，不只紀錄在地美味與特色商店，也讓台東人認識自己的家鄉，具社會正面意義；他同時鼓勵年輕朋友用行動灌溉這片土地，發起已經辦到第八屆的「愛台東夢想資助計畫」。劉櫂豪說，這證明他若當選縣長，不是他一人的當選，而是整個團隊和社會力量都準備好。</p>
+
+<p style="text-align: justify;">劉櫂豪也提到，台東縣府的社會住宅過去4年全掛蛋，所以他承諾，上任後「造好新台東」3大方向，包括積極推動社會住宅、建立對外連結的交通，並把台東打造成一個「文化立縣」的集體品牌，希望讓台東成為「每個人都能夢想成真的地方」。</p>
+
+<p style="text-align: justify;">黃彩玲說，現在的劉櫂豪變得多話、柔軟，但大家對他印象最深刻是2013年，當時爆發檢察總長黃世銘向前總統馬英九報告偵查中的案件，劉櫂豪馬上隔日在立院質詢，一戰成名，被網友狂讚「法律人的良心」。劉櫂豪說，他自己是法官出身也當過律師，他認為人擁有權力後，常受外在環境影響而誤以為自己是正義化身，所以才有那番鏗鏘有力的質詢，沒想到獲得廣大迴響，未來他也會帶著一樣的信念，繼續為台東鄉親爭取權益。</p>
+
+<p style="text-align: justify;">話鋒一轉，身為「女兒控」的劉櫂豪，向黃彩玲炫耀：「我太太女兒都覺得我是幽默風趣的人」，他不僅常在家跳街舞，還多次提議要和女兒組團出道，總被女兒冷笑回應。不過這次參選，女兒就是他的御用造型師，從選舉看板到臉上的眼鏡，都是經過女兒「認可」，黃彩玲提到，幾年前女兒擔任首投族時，被網友大讚長得很「仙」，劉櫂豪突然露出害羞表情表示「還好啦」，引得全場一陣大笑。</p>
+
+<p style="text-align: justify;">而身為老么的劉櫂豪強調，自己是感情豐富並習慣「把愛說出口」的人，與他不善言詞的父親天差地遠。他回憶，高二有一次和朋友玩得太瘋狂，「唱歌過度用力放感情」，隔天竟然得了急性盲腸炎，但當時父親卻不發一語在急診門口默默守護，讓他印象十分深刻。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/WEYte9KMzRo" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6b4a6e48716569705272786773764163">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

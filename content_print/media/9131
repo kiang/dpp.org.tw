@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-01-19</p>
+				<h2>林明溱帶頭散播謠言  應公開向社會大眾道歉</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對有媒體詢問林明溱縣長在縣府群組散播美牛繪本謠言，民進黨發言人顏若芳今(19)日表示，民進黨昨日已在官方臉書，以及錄製影片說明，網路平台上流傳一則美牛繪本的內容是錯假訊息，也有媒體早已查證報導，指出此繪本是在2012年馬英九政府開放美牛時，由民間單位發行的刊物，早已停刊絕版，根本不是由現在的政府所發行的刊物。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳提到，我們除了看到網路上有心人士刻意進行系統性操作外，也看到南投縣長林明溱在縣府群組惡意散播這樣的謠言，意圖賴給現在的政府。林明溱作為縣市首長，看到錯假的訊息不但沒有查證，卻帶頭在縣府群組散佈，成為謠言的散播者，身為地方父母官，做出錯誤的示範，應立刻向社會大眾道歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，很遺憾的，看到林明溱縣長這樣行為被揭露後，不但沒有道歉，反而在回應記者時，不敢回應他這樣錯誤行為，甚至公然說謊，說「他一直都反對肉品添加萊劑」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，事實會說話，林明溱擔任立委的時候，2012年立院在表決美牛開放時，他是投下同意票，這些紀錄都清楚登載在立法院的公報上，不禁讓人質疑，難道林明溱縣長你不敢想起，2012年投下同意票的事情嗎？還是為了圓一個謊，撒了另一個謊？這樣一再撒謊，林明溱縣長你是要怎麼面對南投縣民呢？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳呼籲，「誠實為上策」，林明溱縣長應立刻公開坦承自己做了最糟糕的錯誤示範，向社會大眾道歉。若當年林明溱如果覺得開放美牛沒有問題，現在反對美豬，是在哈囉？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，符合國際標準的肉品，依據科學證據，對健康不會有疑慮，但刻意渲染模糊事實的說法，更凸顯國民黨過去開放美牛與今日立場的矛盾，也無助於台灣整體利益的發展。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="574d38456930354b6c6c49396d764346">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

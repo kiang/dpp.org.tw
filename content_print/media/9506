@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-04-27</p>
+				<h2>民主進步黨第十九屆第十三次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(27)日召開第十九屆第十三次中執會，會中通過提名周春米同志參選屏東縣長，徵召徐定禎同志參選苗栗縣長、劉建國同志參選雲林縣長、蔡其昌同志參選台中市長。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	隨後，會中通過「2022年基隆市長及新竹市長改徵召提名案」，基隆市及新竹市因選情特殊，基於整體選戰佈局考量，依照「民主進步黨2022年直轄市長暨縣市長提名特別條例」第七條規定，並準用「民主進步黨2022年直轄市長選舉提名候選人徵召辦法」辦理基隆市長及新竹市長之提名。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	同時，會中准予核備「2022年新竹縣、新竹市、彰化縣縣市議員提名名額」，另准予核備變更台東縣議員第1選區提名名額。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	會中也通過審查2022年第20屆全國原住民族黨員代表選舉參選人資格案。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，依3月2日第19屆第11次中執會決議，台中市議員第二選區提名名額為2（主席視選戰需要，得增加徵召提名1人），現因選戰需要，決定增加徵召提名1人，該選區形成同額競選，故會中通過停止辦理「2022年台中市議員第2選區初選民調作業」。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c44466e6446727367564653384f3144">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

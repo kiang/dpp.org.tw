@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-06-08</p>
+				<h2>民進黨：嚴正要求國民黨江啟臣主席與新竹縣副縣長陳見賢為扭曲日本外相發言的錯假訊息，公開澄清道歉</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對有媒體報導國民黨新竹縣副縣長陳見賢在地方散佈扭曲日本茂外相茂木敏充答詢的錯假訊息，民主進步黨發言人周江杰今（8）日表示，民進黨昨日已發聲明還原日本茂木外相的談話，證明網友引述日本外相說法為錯誤內容，台灣政府並未有「為推國產只和日本要少量疫苗」這種不實說法。但令人遺憾的是，根據媒體的報導，這種扭曲日本外相說法的錯假訊息，早就在新竹縣地方流傳，而帶頭散播的人，竟是國民黨新竹縣副縣長陳見賢，對此，民進黨嚴正要求國民黨江啟臣和陳見賢副縣長公開澄清，為扭曲事實的錯假訊息向社會大眾道歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，只要仔細檢視茂木外相不管是5月28日在外務省記者會的回答，或者是6月3日在參議院外交防衛委員會中的答詢，茂木外相的意思都是：「我們的認知是，預計台灣國內的疫苗生產體制會在7月以後逐漸完備，而『目前』台灣面臨的是很緊急迫切的需求。」且同場參議院的答詢，茂木外相針對立憲民主黨籍議員的問題也指出「台灣在東日本大地震時很迅速的提供捐款給我們。在困難的時候應該要互相幫助」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰說，還原茂木外相的說法就可以清楚知道，日本政府認知到台灣有當前疫苗不足的需求，因此伸出援手，並沒有所謂的，台灣政府告知日本政府因為七月要打國產疫苗，所以只需要少量疫苗云云，如此的超譯方式，根本就是扭曲事實、無中生有。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，根據媒體的報導，新竹縣副縣長陳見賢，其張貼扭曲日本外相說法的文字內容，甚至是寫到「台灣這些決策者，為了私人利益發國難財、死人財，必定絕子絕孫」的咒罵字眼，這樣利用扭曲事實製造錯假訊息的方式，造成社會仇恨對立，傷害台日兩國情誼。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰也說到，相關媒體報導指出，不只新竹縣副縣長陳見賢在地方群組散播此錯假訊息，就連國民黨籍的新竹縣竹東鎮公所秘書陶更生，以及曾經在國民黨部上班、老公曾是楊文科縣長室的秘書許碧純也幫忙散播，這樣對民進黨政府進行抹黑攻擊，撕裂民眾對防疫的信任，不但無助於台日兩國關係之進展，更無助於對抗疫情。對此，我們嚴正要求國民黨江啟臣和陳見賢副縣長，停止這樣傷害台日友好、對防疫無助的政治操作，並公開澄清，並向社會大眾道歉。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4b65334c726f427a7245717972504354">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

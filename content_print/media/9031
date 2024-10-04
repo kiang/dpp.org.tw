@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-07-19</p>
+				<h2>民主進步黨第十九屆中執評委暨中常委選舉結果</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	民主進步黨今(19)日召開第十九屆第一次全國黨員代表大會，並舉行中央執行委員、中央評議委員及中央常務執行委員選舉，由黨秘書長林錫耀宣布選舉結果如下：</div>
+<div>
+	&nbsp;</div>
+<div>
+	中央執行委員應選出30人，當選名單如下：黃世杰、李昆澤、廖本煙、陳茂松、梁文傑、陳大鈞、林俊憲、陳亭妃（女）、曾朝榮、周永鴻、吳秉叡、莊瑞雄、許智傑、蔡易餘、郭再欽、黃承國、林益邦、蘇震清、陳啓昱、邱莉莉（女）、蘇治芬（女）、王定宇、何志偉、洪健益、陳啟能、鄭宏輝、呂林小鳳（女）、許淑華（女）、周春米（女）、鍾佩玲（女）。</div>
+<div>
+	&nbsp;</div>
+<div>
+	中央評議委員應選出11人，當選名單如下：陳明文、康裕成（女）、張芬郁（女）、林寶興、許昭興（女）、林宜瑾（女）、陳世凱、陳坤榮、張志豪、呂孫福、楊富鈞，並一致推舉康裕成同志為第十九屆中央評議委員會主任委員。</div>
+<div>
+	&nbsp;</div>
+<div>
+	中央常務執行委員應選出10人，當選名單如下：李昆澤、陳茂松、梁文傑、陳亭妃（女）、吳秉叡、黃承國、蘇震清、王定宇、何志偉、許淑華（女）。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="465a4d3571434136656c6677746f5866">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

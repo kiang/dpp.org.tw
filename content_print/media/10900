@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-07-21</p>
+				<h2>民進黨第二十一屆第一次全國黨員代表大會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>民主進步黨今(21)日召開第二十一屆第一次全國黨員代表大會，會中通過聘任第二十一屆仲裁委員會委員及第十一屆廉政委員會委員，並通過「2023年度決算書表」。</p>
+
+<p>討論案部分，針對吳俞葶黨代表提案，「免除黨齡超過三十年資深黨員之常年黨費」乙案，本案決議交付中執會研議。<br />
+&nbsp;<br />
+此外，鄭宇恩黨代表提案，為實踐本黨對人權價值之堅持、彰顯本黨追求轉型正義之決心，建請黨中央傾聽「陸軍第一特種兵」及有關組織多年來爭取權益補償之聲音，並敦促本黨立法院黨團及委員，透過必要且妥適立法或修法手段回應其訴求，以樹立本黨追求進步與公義之社會形象。針對本案會中決議交付中執會研議。<br />
+&nbsp;<br />
+第二十一屆仲裁委員名單如下：廖福特、張政雄、陳櫻琴、郭麗珍、洪偉勝、黃帝穎、翁國彥、劉士豪、連元龍、陳英鈐、薛欽峰。<br />
+&nbsp;<br />
+第十一屆廉政委員名單如下：邱駿彥、陳榮隆、魏千峯、薛智仁、黃智鴻、林良榮、姚孟昌、林夙慧、游琦俊、陳昭華、傅馨儀。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3471504670397a446d4e696f33504f38">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

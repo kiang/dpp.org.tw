@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-08-28</p>
+				<h2>開放美豬進口一週年 民進黨：政府食安有把關、台灣農業生計不受影響、台美互動密集交流</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨今天(28日)舉行公投宣傳重啟記者會及舉辦「反萊豬公投宣傳活動」，民進黨發言人簡舒培表示，今日是蔡英文總統宣布開放美豬一週年，基於國家經貿利益、整體經濟外交戰略發展，在守護全民健康與保障豬農收益的前提下，依據國際標準和科學數據，訂定食品安全容許量接軌國際。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	開放美豬進口，食安有把關</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培表示，從今年1/1正式開放美豬進口以來，在確保食品安全以及提升台灣養豬產業的競爭力雙管配套措施下，不但食品安全沒有問題，豬肉品價格穩定，更重要的是台美關係有了大幅的進展。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培指出，在民眾最關心的食品安全面，從食藥署肉品儀表板的資料顯示，至今進口美豬檢出萊劑的含量為「0」。再者，由衛福部抽驗，農委會進行牧場端監測上市公司的豬肉產品，從2018年至2021年4月，抽查超過2.2萬件樣本檢驗瘦肉精「乙型受體素」，檢出的件數是「0」，換言之，進口與國產豬肉品皆沒有含萊克多巴胺的瘦肉精。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培表示，對於國民黨始終將進口美豬都打成是都是進口萊豬ㄧ事，顯然是在愚弄人民，為何吃美牛卻反美豬，完全是把科學的議題，藉由公投包裝成國民黨主席選舉鬥爭工具，民進黨呼籲藍營不要雙重標準，散播食安恐懼。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	確保台灣農業生計不受影響</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培進一步表示，在豬價方面，從豬肉主要部位肉零售價格月平均統計來看，去年8月開放美豬後，可見豬的各部位肉零售價格依然維持平穩，波動仍依年節大小月維持相同的規律，是合理範圍內。除今年價格稍微上漲之因爲國際飼料價格較高致養豬成本上升、飼養頭數略降之外，豬肉品價格也並沒有大幅波動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培說明，去年國民黨先帶方向說豬肉價格會崩盤，今年又說價格會爆漲，而事實是農產品價格本來就會在合理範圍內波動，國民黨針對進口美豬會影響豬農的原因一下說跌一下說漲，根本自相矛盾。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台美經貿互動及防疫工作進入密集交流</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培強調，進口美豬是為了接軌國際經貿，促進正常的雙邊經濟發展，在宣布開放美豬的這一年，台美關係有了全方位的進展。包括在經濟面有2020年9月，美國國務院宣布創立美臺雙邊「經濟與商業對話」（Economic and Commercial Dialogue），同年11月，舉辦首屆「台美經濟繁榮夥伴對話」（Taiwan-US Economic Prosperity Partnership Dialogue）簽訂為期5年並得再延長5年的備忘錄。也在今年（2021年）6月30日，復談美台第十一屆貿易與投資框架協議理事會會議(TIFA)，討論知識產權、供應鏈、醫療器材、數位貿易、貿易便捷化、金融、農業、環境、勞工以及國際合作等問題，成果豐碩。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培表示，民進黨再次呼籲國民黨不要為了反對而反對、為了自身黨內主席選舉而操作公投，破壞台灣與世界交往的關係、挑撥台美關係。美豬、能源議題等，都是重要國政議題，應該讓全民可以理性討論明辨是非。呼籲國民黨停止將公投議題作為黨主席選舉的政治工具。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="34566e3964366d6f743555695a4d7131">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

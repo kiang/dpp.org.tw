@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-10-13</p>
+				<h2>民進黨婦女部啟動「前進縣市、女力串連」之旅 首站前進馬祖</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨中央黨部婦女發展部主任許嘉恬於9月上任，立即啟動「前進縣市、女力串連」之旅，展開全國各縣市20場婦女及新住民組織座談。今日（10/13）首站前進馬祖，除拜會新就任的黨部主委李問，交換籌備黨務婦女組織意見，也舉辦「前進馬組、女力崛起」婦女組織座談，與女性幹部黨員暢談婦女組織經營與理念。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	許嘉恬於座談中表示，今（2020）年7月11日民進黨連江縣黨部剛成立，這也是民進黨縣市黨部最後一塊拼圖，馬祖雖然是「超級艱困選區」，但從得票數及支持度來看，民進黨在馬祖呈現上升趨勢，立委得票更增加5倍，尤其李問主委以新人新政之姿，在地紮根深耕，相信民主改變之風終將吹起。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	許嘉恬表示婦女部「前進縣市、女力串連」之旅第一站來到馬祖，前進民進黨最艱困的縣市，一方面鼓勵即將於10月24日正式揭牌的連江縣黨部培力女性人才、開拓婦女選票及建立婦女組織，為翻轉馬祖做好基礎，另一方面也期待未來能串連全國各縣市民進黨女力，共同關心馬祖，成為李問主委堅實的靠山。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	婦女部「前進縣市、女力串連」之旅今（13）日於馬祖起跑後，預計展開全國22縣市婦女及新住民組織姊妹座談，將以面對面座談方式，分享組織經營甘苦及說明執政黨婦女政策，持續推動女力向下紮根、向外拓展，成為支持民主的重要力量。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨部主委李問也表示，民進黨堅持自由民主價值，爭取國內多數選民的支持，如同婦女部不斷開拓婦女、新住民支持。馬祖女性勞動參與率高，而且頻繁參與地方社區活動、熱心公共事務，當然也是政黨爭取支持的對象。李問表示，會繼續努力讓馬祖居民能認同民進黨，並擔任黨員與中央的溝通橋樑。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7730494c335676576774347133555867">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-04-18</p>
+				<h2>柯文哲提不畏戰不求戰 民進黨：與本黨主張相同，台灣社會的最大共識</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對民眾黨主席柯文哲提出「備戰而不畏戰，能戰而不求戰」、重申「五個互相」原則並強調「互相諒解」是重中之重等。民主進步黨發言人張志豪今(18)日回應表示，樂見民眾黨與民進黨採取相同主張，這也是台灣社會的最大共識。</p>
+
+<p style="text-align: justify;">張志豪說，蔡英文總統與賴清德主席皆多次強調「備戰才能避戰、能戰才能止戰」，這也是本黨一貫秉持的政策立場。柯文哲主席提出「備戰而不畏戰，能戰而不求戰」，其實與本黨看法一致，我們樂見柯主席能與本黨站在相同立場，體認到台灣只有自我準備充足，並憑藉堅實的防衛決心和實力，才能保障國家的安全，與維護區域和平。</p>
+
+<p style="text-align: justify;">另外，張志豪強調，民進黨從來不會求戰，柯文哲主席的認知顯然存在誤解，與事實完全不符，台灣沒有主流政黨會期盼發生戰爭。何況民進黨自黨外時期以來就訴求「和平非暴力」，賴清德主席也說民進黨不會改變和平的立場，也不放棄任何和平的機會，但是台灣必須靠自己的實力才有真正可靠的和平，相信台灣民眾也會認同這樣的主張。</p>
+
+<p style="text-align: justify;">張志豪指出，柯主席多次重申在兩岸互動上應該基於「五個互相」，包括「互相認識、互相了解、互相尊重、互相合作與互相諒解」，其精神與目標與賴清德主席提出的，在對等與尊嚴原則下，透過兩岸對話與交流增進彼此「了解、理解、諒解與和解」的呼籲相當一致。代表台灣社會都認同，兩岸應在不設政治前提下，推動健康有序交流，這是台灣民眾的共同期待，也符合台灣國家的整體利益。</p>
+
+<p style="text-align: justify;">張志豪重申，民進黨願意在不設前提下與對岸展開良性互動，但兩岸關係穩定發展的關鍵，應該奠基於「和平、對等、民主、對話」。呼籲中共能正視到台灣不分黨派的主流民意，與台灣共同推動兩岸善意的累積與良性的互動，打造兩岸關係和平穩定的發展前景。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f644e4637566147434d37474a5a7357">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-08-20</p>
+				<h2>美重申對台堅定支持 民進黨呼籲：國民黨不要因內鬥而向國際傳達錯誤訊息</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	關於美國總統拜登（Joe Biden）、美國國家安全顧問蘇利文（Jake Sullivan）及美國國務院發言人普萊斯（Ned Price）均重申對台灣堅定支持，民主進步黨發言人謝佩芬今（20）日表示，台灣身為民主陣營的一員，我們誠摯地感謝美國對台灣的持續支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，台美關係在過去五年來，在安全、經貿、防疫等各領域的交流皆更上層樓，我們感謝美國行政、立法、及社會各界對台灣的堅定支持，民進黨珍惜台灣與美國間的這份友誼。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬進一步說，誠如拜登總統所述，台灣與阿富汗問題本質不同。民進黨呼籲國民黨人士停止操作所謂的「棄台論」，試圖影響台灣民眾對盟友的信心。民進黨並呼籲國民黨不要因為自己政黨內部主席選舉的鬥爭，而向國際傳達錯誤的訊息，影響台灣的外交。謝佩芬強調，在外交及區域安全上，我們期待朝野團結，共同堅守民主自由價值，持續深化台灣與美國及其他理念相近國家的夥伴關係。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d5364576b787154434d466863534646">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

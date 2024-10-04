@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-02-25</p>
+				<h2>國民黨不要失敗主義來扭曲台灣捍衛民主自由的決心，誠實面對「投降協議」的質疑</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對連日來，國民黨不斷刻意扭曲蔡英文總統和蘇貞昌院長防衛台灣決心的言論行為，民主進步黨發言人李晏榕今(25)日表示，面對中國強權威迫，民進黨的立場一直是不求戰也不畏戰，台灣一直是扮演亞太地區和平安穩的角色，唯有展現自我防衛的決心，才能讓亞太地區和平穩定。在國民黨主席吳敦義日前拋出要與中國洽簽兩岸政治協議後，國民黨面對台灣社會大眾質疑是否為「投降協議」時，一直說不清楚面對中國這樣的強權，是否能先說服中國放棄武力犯台，不用「一個中國、一國兩制」框架打壓台灣，誠實面對台灣是個主權國家，彼此間是對等關係，如果，中國無法承諾做到，國民黨一直提到要簽署的兩岸政治協議，就是犧牲台灣主權及民主自由的「投降協議」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕指出，根據日前美國《外交政策》雜誌綜合美國智庫評估分析，台灣面對中國最大的敵人不是解放軍，而是內部瀰漫失敗主義，用台灣最通俗的一句話來說，「不怕神一般的對手，只怕豬一般的隊友」，台灣內部就是有像國民黨跟中國同聲共氣，刻意扭曲蔡英文總統與蘇貞昌院長捍衛台灣的決心，唱衰台灣國軍防衛力量，企圖散佈失敗主義言論，來拖垮自由民主台灣，破壞亞太地區的穩定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕強調，國民黨日前提出要與中國洽簽兩岸政治協議，受到台灣各方諸多批評與挑戰，但這段時日以來，我們看到國民黨企圖用挑起戰爭來恐嚇台灣人民，扭曲蔡英文總統與蘇貞昌院長捍衛台灣的決心，也不願誠實面對台灣社會對投降協議主張的質疑。請問國民黨，近日來，你們惡意扭曲的行為，到底是何居心？難道你們是中國統戰部的傳聲筒、心戰部隊嗎？&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕進一步說到，請國民黨捫心自問，當你們企圖強推和中國簽訂「投降協議」時，有沒有想過對得起現在努力捍衛台灣的國軍弟兄姊妹嗎？也對得起跟著國民政府撤退來台的老榮民們嗎？你們怎麼去面對挺過823砲戰，七十年來捍衛台海和平、守護自由民主台灣的國軍前輩呢？請國民黨的總統擬參選人朱立倫與王金平，誠實地向台灣人民說清楚，你們也同意吳敦義的「投降協議」嗎？還有國民黨的縣市首長們，難道不怕中華民國的主權與民主生活受到威脅嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，李晏榕表示，請國民黨好好回想過去的國共內戰，三次要與共產黨簽訂協議的後果是什麼，就是被共產黨欺騙，導致最後敗退台灣，國民黨不但沒有記取教訓，到現在還妄想再一次與虎謀皮，跟中國簽訂政治協議，甚至和中國同路來欺騙威嚇台灣人民，呼籲所有台灣人民應再次認清國民黨的本質，假和平之名行恐嚇之實，我們要堅定拒絕強權威迫的投降協議。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4b744372356a6e34744341586a444665">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

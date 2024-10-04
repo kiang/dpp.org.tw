@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-09</p>
+				<h2>民主進步黨第十八屆第六次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(9)日召開第十八屆第六次中執會，會中公告卓榮泰同志當選第十六屆黨主席。另針對高志鵬中常委請辭後之中常委遺缺，會中推舉陳茂松中執委出任中常委。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	關於2019年第九屆立法委員出缺補選提名，彰化縣第一選區、新北市第三選區，經協調小組徵詢、協調，評估選舉整體條件後，產生單一適當人選後，由主席提名，中執會同意後徵召。會中通過徵召黃振彥同志參選彰化縣第一選區、余天同志參選新北市第三選區。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	而台南市第二選區，在協調小組徵詢、協調後，決定由2家民調執行單位執行民意調查，產生單一適當人選後，由主席提名，中執會同意後徵召。依據民調結果，由郭國文同志取得領先，會中通過徵召郭國文同志參選台南市第二選區。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另金門縣立法委員補選，因本黨無人表態參選，會中通過不予處理。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="485a524f5131353675596e4c67717854">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

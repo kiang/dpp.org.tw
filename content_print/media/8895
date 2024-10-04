@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-28</p>
+				<h2>民進黨推出競選文宣品「青春面膜」 羅文嘉：面膜保養肌膚、選票捍衛民主</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	繼大受好評的「台灣好浴皂」之後，民進黨中央今(28)日召開「不要親中假面 只要青春面膜」記者會，由黨發言人鍾佩玲擔任主持人，推出第二波護國保台競選文宣品「青春面膜」，邀請民眾敷上一片「青春面膜」，蓋下一張保台席次。秘書長羅文嘉、立委候選人許淑華、謝佩芬，也於現場敷面膜，氣氛十分有趣，為選戰增添話題與樂趣。會後，秘書長羅文嘉、議員吳沛憶、陳慈慧也陪同許淑華、謝佩芬於吳興市場掃街拜票，除了有熱情攤販與支持者贈送包子、粽子、鳳梨、好彩頭，預祝許淑華、謝佩芬當選外，「台灣好浴皂」及「青春面膜」也受到民眾熱烈歡迎。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅文嘉表示，中央黨部暨台灣好浴皂後推出「青春面膜」，今天也是第一場的首發。構想是來自於身體與肌膚都需要維護，也是讓每個人的身體更有水份，近年來文宣小物種類繁多，我們都希望東西發出去，不是被丟棄因而造成浪費，而是希望大家能帶回去使用，另外這次也在面膜背後另外特別做了兩個版本，讓大家將面膜帶回去用的同時，也可以閱覽上面的政策理念。今天發出的面膜則是放上許淑華、謝佩芬、賴品妤及高嘉瑜四位代言人的合照。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	他也說明，首先是將政府增加補助、托育、長照、減稅等重要政策，特別印製在後的政策版本。另外新住民婦女朋友從國外來到台灣，成了台灣孩子的母親，因此也做了新住民版本。此外，最重要的還有護國保台三步驟版本，一投總統蔡英文、二投民進黨立委候選人、三投政黨民進黨，也就是護國保台、保衛台灣民主的的理念。青春面膜最主要的概念，就是身體要保養，民主要呵護，用面膜保養肌膚，用選票則可以捍衛我們的民主。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	許淑華表示，面膜是大家共同的一種保養方式，藉由面膜來宣傳「護國保台」，想傳達的理念就是不要讓親中的立委戴著面具，假裝是愛台灣，事實上卻對台灣的言行、態度、想法理念都跟我們背道而馳。我們要揭開他們的假面具，讓他們原形畢露，希望藉由「護國保台」的訴求，來呼籲大家，不論是區域或是不分區的立委，都能支持保護台灣的好立法委員。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬表示，今天在這裡發表民進黨新推出的競選小物「青春面膜」，這款競選小物象徵了我們不要親中假面的國民黨立委，包括看了他們的不分區名單，我們也替台灣的未來感到非常不安全。這次年輕的立委候選人站出來，就是希望能夠保衛台灣，讓台灣不要成為下一個香港。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f7039725969776f366e67326243754d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

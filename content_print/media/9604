@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-06-29</p>
+				<h2>民主進步黨第十九屆第八十四次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(29)日召開第十九屆第八十四次中常會，會中邀請中華經濟研究院WTO及RTA中心副研究員兼副執行長顏慧欣以「台美21世紀倡議對台灣經貿策略轉型之意涵」為題進行專案報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏慧欣表示，美國貿易代表署(USTR)在今年3月就已經在報告中點名，台灣是美國亞太區域之民主盟友及貿易夥伴，「台美21世紀貿易倡議」就是在落實美國的政策規劃，為美國拜登政府雙邊方案最佳級別。她也認為，台美經貿的新模式，已經從過去台灣所熟悉著重「降關稅」的自由貿易協定（FTA），轉變成拼圖式的議題談判模式，更重要的是以「可信賴技術、市場經濟」等新元素跟台灣與各國推動新經貿聯盟。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏慧欣指出，21世紀倡議前提是美國認定台灣是重要的經濟安全夥伴。美國不只有跟台灣採用這樣的會談方式，包括沒有簽署FTA的英國、歐盟也是類似的做法，台灣在這過程中，針對目前國際重要經貿議題，也可以透過台美倡議參與未來規則的制定(rule maker)，獲得發言權。此外，台灣也可以納入美國先進產業的供應鏈中，在還未加入印太經濟架構前，有實質參與。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨發言人周江杰會後轉述蔡英文主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝中經院WTO及RTA中心顏慧欣副執行長所帶來「台美21世紀倡議對台灣經貿策略轉型之意涵」的分析。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這幾年來，全球經濟情勢因為美中貿易戰，以及疫情的影響，產生相當大的變化，更凸顯半導體產業在全球供應鏈的關鍵地位。台灣在民主自由體制下，全民一心團結防疫，不但守住了經濟發展、科技產業優勢，更迎來轉型的黃金機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝政府團隊，包括鄧振中政委、蕭美琴大使，所有成員的共同努力，讓這項重要的倡議就此啟動。這個倡議的順利啟動，不僅是台美經貿關係的重要突破，我們更期待透過後續談判，具體深化台美雙邊的貿易關係，達成高標準且具發展前瞻的貿易協定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台灣是一個高度依賴貿易的國家，我們樂於貢獻自己的力量，更願意與所有民主國家的盟友，共同維護民主自由與公平貿易的價值。這項倡議也將深化台美在印太區域的經濟合作。未來，我們也將持續努力，讓台灣的經貿繼續大步向前邁進。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，周江杰轉述林錫耀秘書長於會中報告，黨部將新增一位黨發言人，由新北市議員李坤城出任，為民進黨發言人群陣容增添更堅強的戰力。李坤城畢業於台北市建國中學、政治大學公行系學士、社會學研究所碩士，現於台灣大學國家發展研究所攻讀博士，為博士候選人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰補充李坤城的職涯經歷，李坤城為三屆新北市議會議員（第一、二、三屆），曾擔任過新北市議會民進黨團總召，也是美國國務院邀請國際領袖人才參訪計畫(IVLP)訪問學者，以及行政院專門委員，並且也曾擔任綠色和平廣播電台主持人，是個學經歷豐富的黨發言人。未來也將借重他在新北市議會和地方民意代表的經驗，協助中央黨部回應相關時事與地方議題的新聞需求。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f67774777316c484e6f427635745673">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-09</p>
+				<h2>何孟樺：國民黨的兩岸論述完全是昧於現實的自說自話</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨的兩岸論述，民進黨發言人何孟樺今(9)日表示，國民黨該份兩岸立場的說帖毫無新意，不願面對中共已經片面否定「一中各表」的「九二共識」。這種沒有交集的論點，如何稱為「共識」？顯見國民黨的說法，完全是昧於現實的自說自話。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺指出，國民黨提及，2015年馬英九前總統在習近平面前談「九二共識」。但刻意不談馬前總統作繭自縛，寧可暢談「一中」，卻連「各表」兩個字都說不出口。這種連自己人都不敢對著中共講的說詞，拿來欺騙台灣民眾，國民黨如何贏得人民的信任？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最新民調顯示，台灣民眾有超過55%的比例認為沒有所謂的「九二共識」；僅有三分之一的民眾承認有「九二共識」，代表國民黨已經脫離台灣主流民意，活在自己設定的兩岸論述的世界中。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺強調，若國民黨不正視台灣人民對於民主、自由價值的信仰、對國家主權與安全的堅持、中共對台灣的脅迫，未來必定會在兩岸議題中被迫邊緣化。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="354c6b4c3077535a72416f7475577a36">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

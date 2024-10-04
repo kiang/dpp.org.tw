@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-02-25</p>
+				<h2>客委會模里西斯美食週遭中國打壓 鄭朝方：客家的硬頸精神不會屈服，中國應尊重包容多元文化</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	客委會在模里西斯舉辦客家美食週，傳因中國外交部施壓飯店而被取消，民進黨發言人鄭朝方今(25)日表示抗議與遺憾，全球文化因為包容而偉大，文化是無國界的，客家美食節主要在推展客家美食，台灣的客家美食在整個世界享有盛名，如藉由政治手段打壓，肇致台灣客家文化受干擾無法參與，對整個世界多元文化活動而言，絕對是一種負分，也是一種損失。</p>
+<p style="text-align: justify;">
+	鄭朝方表示，台灣是一個多元社會，不同的族群豐富了台灣文化的內涵。台灣海島客家的美食文化，經過長時間的歷練，已經成為常民生活文化，如用不正常的手段打壓肇致台灣代表無法參加，做法過於短視。</p>
+<p style="text-align: justify;">
+	台灣堅韌的文化活力和生命力絕不會因中國官方的蠻橫壓迫而消失在國際上，更不會在此壓力下屈服。本黨認為文化無關政治，更無關藍綠。中國外交部的錯誤做法，只會激起台灣民眾的同仇敵愾，對僵持中的兩岸關係絕對無所幫助，亦會惡化國際社會對中國霸道無理的負面形象。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="784e633450306d497032456a6d6a5062">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

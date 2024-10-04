@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-05-23</p>
+				<h2>民主進步黨選舉對策委員會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對台北市長候選人徵召事宜，民進黨發言人鄭運鵬今(23)日轉述選對會中結論表示，選對會於上週三決定針對台北市長提名人啟動徵召程序，開始評估人選後，即持續徵詢彙整各方資訊及意見，並在今日上午十點，由兩位召集人、洪耀福秘書長、黃承國主委，邀請呂秀蓮前副總統及姚文智委員到場進行協調。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬轉述，召集人現場也徵詢兩位同志是否有互相禮讓、成全的意願，兩人均表達對台北市長選舉願意承擔大任的意志與企圖心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬提到，選對會也建議，本黨於五月底前提出台北市長候選人的建議人選，並希望下週三(5月30日)中執會前確定人選。會中雙方達成共識，在本週六(5月26日)下午舉行電視政見發表會，發表會的相關細節，中央黨部將再另行協調。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬最後表示，在政見發表會後，依據本黨提名特別條例，選對會將依據選戰策略，進行綜合評估後，於下週一(5月28日)上午11點30分再召開會議，綜合評估結果，向主席提出單一適當人選的建議，再由主席提名經中執會通過。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="77716c5445487a65686c4f5a54364373">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

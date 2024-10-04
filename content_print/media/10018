@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-03-01</p>
+				<h2>國民黨藉民調刻意製造民意導向 民進黨：對此感到不以為然</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨立委李貴敏召開民調記者會，指近半數民眾對於美國保障台灣安全沒有信心，民進黨國際部主任兼發言人謝佩芬今（1）日表示，民進黨對於這種試圖透過民調製造民意的作法，感到非常不以為然。國民黨不譴責中共對台灣的武力威脅，卻操作台灣人是否對美國保衛台灣有信心，不但完全本末倒置，也製造國際笑話。國民黨究竟想表達什麼，恐怕自己都沒想清楚。</p>
+
+<p style="text-align: justify;">謝佩芬說，國民黨立委李貴敏今日公布的民調中，題目設計具強烈誘導性。舉例而言，有一題的題目設計是「要解決兩岸問題，是由兩岸人民解決合適，還是讓外部勢力介入比較好？」隱含對岸非「外部勢力」之意。對於這種先射箭再畫靶的民調作法，除賤踏民調的專業與可信度外，更不給予由全體台灣人民決定中華民國台灣前途的選項，完全否定台灣人民決定未來的權力。更何況，中國本身就是台灣的「外部勢力」。</p>
+
+<p style="text-align: justify;">謝佩芬進一步說明，上週有另一份民調顯示，台灣民眾有46.2%對美國持正面觀感，僅16.3%對中國持正面觀感。近七成民眾認為中國對台灣威脅嚴重。對於兩岸交流，將近七成五的民眾不能接受一國兩制的政治前題。此一民調結果也符合台灣社會主流民意。由此可知，國民黨委員就算用再多民調設計來誘導、用再多民調數字來混淆，都難以扭曲台灣民意對美國和中國的態度。</p>
+
+<p style="text-align: justify;">謝佩芬說，這種為特定政治立場服務、語意具強烈誘導的民調設計，恐怕能反映的不是民意，而是黨意，著實令人遺憾。國民黨應該說清楚、講明白，台灣的前途，究竟是由台灣人民決定，還是中國可以介入，來幫台灣人民決定？<br />
+&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5048716568304d7152766549776d516d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

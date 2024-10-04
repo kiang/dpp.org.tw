@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-05</p>
+				<h2>民主進步黨第十八屆第四次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(５)日召開第十八屆第四次中執會，會中通過第十六屆主席補選、2018年直轄市長暨縣市議會正副議長選舉、第九屆台北市第二選區及台中市第五選區立法委員補選相關事項。另會中通過臨時動議，責成幕僚單位規劃「執政興革會議」相關事宜，待新任黨主席就任後召開。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨發言人林琮盛轉述，會中通過第十六屆主席補選選務工作日程，選務工作將於12月10日至14日辦理黨主席補選登記，19日召開中執會審查候選人資格，20日進行抽籤，30日辦理候選人電視政見發表會，2019年1月6日辦理黨員投票，投票時間為上午8點至下午5點，9日公告黨主席當選名單。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，會中通過成立直轄市暨縣市議會正副議長中央督導小組進行督導、協調，全權處理正副議長選舉相關事宜。中央督導小組由高志鵬、張宏陸、鄭寶清中常委組成，並由高志鵬擔任召集人，督導非執政縣市之正副議長選舉；執政縣市部分，由執政縣市首長任該縣市督導小組召集人，另由中央督導小組協同督導。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對立委補選事宜，林琮盛轉述，依公職候選人提名條例第十一條第五項規定，立委出缺補選之候選人，由主席依徵召辦法提名，經中央執行委員會同意後徵召。因補選時程緊迫，現離大選登記截止日不到10日，會中通過「民主進步黨2019年第九屆台北市第二選區及台中市第五選區立法委員出缺補選提名之徵召辦法」，並同意由11月28日第18屆第16次中常會成立之「立法委員補選提名協調小組」依通過之徵召辦法徵詢、協調，評估選舉整體條件，產生單一適當人選後，建請主席徵召提名之。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="64396e726a707a484f7a394c486b5570">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

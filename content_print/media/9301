@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-11-05</p>
+				<h2>民進黨：北北基桃宜縣市長全表態反核四  國民黨還要硬幹？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨籍宜蘭縣長林姿妙表示，「沒有安全，沒有商轉，為了宜蘭縣民的健康，我們反對核四。」民進黨發言人劉康彥表示，樂見國民黨籍林姿妙縣長表態反對重啟核四，目前北北基桃宜，整個北台灣的縣市長都已經表態，請國民黨不要再亂，應正視黨內縣市長和千萬人選擇的生活方式。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥指出，民眾黨的柯文哲市長、國民黨籍侯友宜市長、林姿妙縣長都已經表態反對核四重啟，希望國民黨其他縣市長也應跟進表態，是否支持核四重啟？是否願意接受核廢料？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，當初在民意壓力下封存核四的是國民黨，現在喊著要重啟的也是國民黨，就連過去曾擔任新北市長的朱立倫，也曾反對核四運轉，核四已經浪費國庫三千億元，藍營縣市長都出來跟黨中央唱反調，請問朱立倫和國民黨還要再為了政治鬥爭，操作公投來亂嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="53504461466758487551767867457346">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

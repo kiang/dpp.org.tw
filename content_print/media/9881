@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-19</p>
+				<h2>徐定禎、蔡培慧、江聰淵合推「反黑金影片」呼籲回家投票才有改變機會</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民進黨苗栗縣長候選人徐定禎、南投縣長候選人蔡培慧、宜蘭縣長候選人江聰淵昨（18）日一同出品反黑金影片，用黑色幽默風格，呼籲全民睜大眼睛看看家鄉，今年一定要回家投票，終結黑金，贏回正義，避免家鄉蒙上陰影，遭到地方黑金結構糟蹋。</p>
+
+<p style="text-align: justify;">許多評論認為，今年選情冷，這支影片則以切菜、煮水、發動引擎等方式比喻，表達今年選舉其實不冷，只是需要民眾的關心，讓選情「滾起來」，讓更多人看見家鄉需要改變，不能再被不適任的候選人、家族把持。</p>
+
+<p style="text-align: justify;">影片中搜羅了許多新聞片段畫面指出，苗栗縣不僅72年不曾政黨輪替，歷任縣長還造成難以填補的財政黑洞，現在，又有一位「黑」到連國民黨都不敢推派參選的候選人，拿西瓜刀砍人說是輕傷，卻自比南非曼德拉。</p>
+
+<p style="text-align: justify;">在南投，國民黨籍的前縣長貪汙判刑超過400年、同黨接任縣長，又設立黑官特助給親兒子，坐擁數千萬豪宅卻交代不清財產來源。現在又派出家族有涉黑背景、過去更曾擔任八大行業總會計的許淑華。在宜蘭，國民黨推出全台唯一被檢察官以貪污罪起訴的候選人林姿妙，還被檢調查出擁有30個人頭帳戶，資金流動異常。</p>
+
+<p style="text-align: justify;">影片最後也呼籲選民，關心家鄉是否變得更好，一同監督候選人是否符合你心中公僕的期待。11月26號，就回家把手中神聖的一票，投給能為家鄉帶來進步和改變的候選人，終結黑金、贏回正義。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="314" scrolling="no" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fahuitsai.tw%2Fvideos%2F1193561721596014%2F&amp;show_text=false&amp;width=560&amp;t=0" style="border:none;overflow:hidden" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4a4248665130424a5053504d5452704f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

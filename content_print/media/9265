@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-10-02</p>
+				<h2>國務青旗艦學程台中場 林錫耀秘書長勉勵年輕學員 找到自身參與的位置 用行動改變台灣</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨青年部今（2）日於台中舉辦「國務青旗艦學程」第一場政策議題課。民進黨秘書長林錫耀於始業式中透過影片強調，民進黨有支持青年投入政治的DNA，勉勵學員藉由參加學程，不僅能認識議題、思辨未來，更能在年底四大公投等挑戰中，找到自己參與的位置。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨青年部延續去（2020）年「國務青」系列活動，今（2021）年進一步推出「國務青旗艦學程」，於疫情穩定控制的十月，將在台中、台北、台南推出三場實體課程。課程遵循中央流行疫情指揮中心的防疫指引，結合由黨公職講授的「政策議題課」、和CDPA中華辯論推廣協會合作的「政策思辨課」，並將接續辦理「幕僚技能課」，邀請年輕世代循序漸進，打好完整的基礎，共同用行動改變台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今日台中場課程的始業式，由民進黨秘書長林錫耀致詞。林錫耀首先分享年輕時從投入環保運動到參選公職的歷程，以自己31歲在宜蘭縣參選立法委員、33歲在台北縣當選省議員的經驗為例，說明民進黨從創黨至今，始終有年輕人源源不絕投入，也能持續提供年輕人發揮的舞台，恰恰與40歲以下黨員只佔3%的國民黨形成強烈對比。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林錫耀強調，第二次執政的民進黨，在黨部、中央、地方的每一個層級和每一個位置，都有年輕人可以發揮的角色，而年輕夥伴可以為民進黨帶來新的活力，也讓民進黨有本事推動台灣政治的新陳代謝。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林錫耀指出，2020年「國務青行動計畫」經過四個月的扎實訓練，幾十位青年幹部「從做中學」累積了實務經驗，成果發表時受到蔡英文主席肯定。林錫耀也期勉，這一次「國務青旗艦學程」的學員，不但能持續成為新世代的政治人才，更要在面對疫情與四大公投的挑戰下，一起來把台灣的未來扛起來。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林錫耀特別提及，年底的四項公投結果，將會決定台灣經貿發展、能源轉型的未來，也會對政治產生影響，對民進黨而言是個挑戰。因此，希望能透過旗艦學程中縝密的思考辯證，讓學員一同思辨公投議題，進而找到能做出貢獻、一起用行動改變台灣的方式。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨青年部蔡沐霖主任說明，本次台中場的政策議題課，邀請到立法院副院長蔡其昌講授「後背包的初心－政治工作的第一步」，經濟部次長曾文生講授「我國經濟發展－台灣的能源政策展望」，並邀請15位民進黨籍台中市議員與青年進行座談。民進黨青年部將承先啟後，完整培育新世代的政治人才，並透過理性思辨公投議題，邀請年輕世代持續為台灣的未來而努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="51754e31354c46414d395a334e58724a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-09-11</p>
+				<h2>民主進步黨第十八屆第四十次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今（11）日召開第十八屆第四十次中常會，會中通過9月18日(周三)召開中執會，討論議決第10屆區域立法委員徵召提名人選。此外，會中也邀請淡江大學整合科技與戰略中心執行長蘇紫雲以「國防經濟之效益評估」為題進行專案報告，發言人薛呈懿會後轉述卓榮泰主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝淡江大學整合戰略科技中心蘇紫雲執行長，針對國防經濟之效益評估所做的專案報告。國防自主是為了強化國家戰力，確保國家安全，刻不容緩。這本應是跨黨派之共識。遺憾的是，無論就武器國造，或是軍購相關議題，在野黨經常杯葛相關提案。國防議題，實不應被視為政治攻防上的籌碼。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文總統執政期間，將國防航太產業，列入5+2創新計劃。透過政府的力量，除了要帶動了本土國防產業的民間動能，更提升了台灣自主的防禦能力，例如國機國造、國艦國造。誠如報告中所提，國防產業不僅有保家衛國的效果，更有經濟上的效益。除可創造就業機會，更可提升我國產業的多元性，讓國防產業不再是一個被壟斷的產業，還可同時增加新創公司在國防採購中參與的機會。預估在5+2創新計劃裡的國防產業，可以創造6萬9千多個就業人次的機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外，值得一提的是，我國第一架國機國造的原型高教機已經完成研發，即將出廠。而第一艘我國自製的潛艦，將在2024年下水，2025年正式成軍。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	沒有強大的國防，就沒有國家安全可言。國防自主的強化，更是強大國防的核心。我們堅信，唯有全力以赴，爭取總統連任，本黨國會過半，才能持續強化台灣的國防自主，守護台灣的安全與主權。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，有關社會輿論高度關心陳明文常委於高鐵遺落現金一案，卓榮泰主席表示，目前這個案子是嘉義地檢署主動分案，也有其他部分人士提出告發。對此總統也特別表示過意見，讓司法來調查更為清楚，當事人有機會向社會更清楚說明，我們支持總統這樣的看法。透過司法程序來證明，也對社會各界進行充分的說明，這也是陳常委負責任的態度。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰主席表示，稍早也與陳明文常委有過接觸，今天他剛好沒辦法出席會議，希望擇期主動向廉政委員會邱主委進行說明，也希望廉政委員會，在邱主委的指揮下可以盡速有一個清楚的態度與程序，第一是為了確保我們黨內廉政委員處理的機制明確存在，且運行良好；第二，針對社會現在關心的議題，民進黨採取正面受理的態度，讓國人清楚瞭解，我們是十分正式地來看待這個案子。卓主席也補充說明，依照廉政會的處理程序，一般有類似、疑似的情形發生，他們都會主動調查，但本案還沒有立案調查，一旦立案之後，將來進行到起訴或審判進行時，廉政調查程序就會停止下來，等到法院進一步確判。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="41785578374f476b5846784662566e7a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-07</p>
+				<h2>李問：3月16日，用選票唾棄「吃碗內，看碗外」、「得隴望蜀」的柯呈枋、謝龍介</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	針對昨日台中市議會不分黨派市議員齊轟彰化縣第一選區立委候選人<wbr />柯呈枋帶職參選一事，民主進步黨發言人李問今（7）日表示，「<wbr />吃碗內，看碗外」、「坐這山，望那山」，<wbr />不僅是做人做事不該有的心態，<wbr />更是作為一個負責任政治人物的忌諱，<wbr />對於柯呈枋對外宣稱辭去勞動部勞動力發展署雲嘉南分署長一職，<wbr />實際上，是調任台中市政府12職等參事，<wbr />還帶職跨區參選彰化縣第一選區立委，這不是「假辭官真參選」，<wbr />那是什麼呢？</p>
+<p style="text-align: justify;">
+	李問強調，柯呈枋「騎驢找馬」的心態，乾領台中市民納稅的薪水，<wbr />卻不用心在台中市政的人，一上任就請假，跑到彰化參選立委，<wbr />彰化的縣民可以期待這樣的政治人物，<wbr />會真心為彰化縣民爭取福祉嗎？<wbr />而台中市民難道願意支付這種把台中市當作跳板或是備胎的人薪水嗎<wbr />？</p>
+<p style="text-align: justify;">
+	李問指出，這次3月16日立委補選，國民黨推出的人選，<wbr />不只是柯呈枋，台南市第二選區的謝龍介，也是「吃碗內，看碗外」<wbr />的經典，當選市議員不到半年，就想要參選立委，<wbr />而且還是劈腿別的選區。市議員選舉也不過是去年11月24日，<wbr />短短幾個月，謝龍介就想琵琶別抱，背棄原本支持他的北區、<wbr />中西區選民，這種只會「空嘴薄舌」的人，<wbr />難保當他又看到其他更好的機會，不會再次拋棄支持他的人呢？</p>
+<p style="text-align: justify;">
+	李問再次強調，不管是政治人物還是公務官員，<wbr />都是領著納稅人繳納的薪水，不應該只是想著爭取更高的權位，<wbr />卻沒有真心為人民做實事、謀福祉，也絕不該把現有的職位，<wbr />當成跳板或是備胎，這不但是辜負人民的真心，<wbr />也是欺騙未來選民的期待。</p>
+<p style="text-align: justify;">
+	最後，李問誠懇地呼籲台南市第二選區及彰化縣第一選區的選民，<wbr />我們要睜大眼睛認清，像柯呈枋不專心市政，謝龍介不專心問政，<wbr />這樣「吃碗內，看碗外」、「得隴望蜀」的國民黨候選人，3月16<wbr />日的立委補選，我們要用選票唾棄他們。李問也呼籲選民，<wbr />全力支持「真心不騙，實在用心」的民進黨立委候選人：<wbr />新北市第三選區余天、台南市第二選區郭國文、<wbr />彰化縣第一選區黃振彥。</p>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="624d304f7173417946617a3261716377">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

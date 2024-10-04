@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-03-06</p>
+				<h2>李克強再提一中原則 民進黨：無視台灣民意</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對中國國務院總理李克強在政府工作報告提及「一個中國原則」和「九二共識」。民主進步黨今（6）日表示，中共當局持續想以強制性政治框架限制台灣，完全無視台灣民眾的民意，與對民主自由價值的堅持。相關談話只會升高兩岸敵意螺旋，無助維持兩岸關係和平穩定，民進黨表達遺憾。</p>
+
+<p style="text-align: justify;">民進黨強調，台灣是一個主權獨立國家，其名稱為中華民國，任何國家定位的變動都必須經由民主方式決定之。中華民國和中華人民共和國互不隸屬，是客觀事實，也是台海現狀，更是台灣人民的共同認知。中共當局必須正視台灣民意，才能有助兩岸關係的正向發展。</p>
+
+<p style="text-align: justify;">民進黨指出，兩岸關係穩定發展的關鍵，應該奠基於「和平、對等、民主、對話」。過去一段時間中共當局一再進行以外交恫嚇，經濟干擾、軍事威脅等作為脅迫台灣，所謂「新時代黨解決台灣問題的總體方略」，就是併吞台灣的總體方略，不會被台灣人民接受，文攻武赫的行為也不容於國際社會。</p>
+
+<p style="text-align: justify;">民進黨要再度重申，健康有序的兩岸交流是我們的一貫立場。面對兩岸立場分歧，需要雙方開誠佈公，以相互尊重理解的態度來進行交流，北京當局應以更開放態度來建構兩岸良性互動，並共同承擔維護區域穩定責任。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="324c456f50456b4c69736f467a374967">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

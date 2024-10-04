@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-05-09</p>
+				<h2>造謠政府擋BNT  民進黨：郭台銘為了選總統不擇手段</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨今（9）日持續造謠政府擋BNT，民進黨發言人林楚茵表示，請國民黨仔細看清楚郭台銘2021年6月17、18日臉書內容，可看出郭台銘在沒打算選總統前表示和蔡英文政府合作的立場態度，現在為了爭國民黨總統提名，拚民調博取聲量，連日來不斷造謠扭曲，用政治口水惡意攻擊政府用心，無所不用其極，不擇手段撕裂社會信任，令人遺憾。</p>
+
+<p style="text-align: justify;">林楚茵呼籲，國民黨不要再亂噴政治口水，混淆視聽、扭曲事實，擾亂社會。並重申，民進黨政府沒有人阻擋疫苗採購、也絕不可能阻擋疫苗採購。疫情期間，政府努力洽購各款合法、有效的疫苗，才能確保國人健康安全。政府相關部會已多次還原時序說明，所謂政府擋BNT以護航特定疫苗，是毫無事實根據的不實謠言。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5a454e556a503074674d41766a6f724a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

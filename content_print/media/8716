@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-07-06</p>
+				<h2>出席美東台灣人夏令會 卓榮泰：保衛大台灣，抗衡新霸權</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰於7月5日（當地時間）受美東台灣人夏令會邀請發表演說，與海外鄉親交流互動。卓榮泰在演說中呼籲支持者共同支持蔡英文總統連任，強調以「保衛大台灣，抗衡新霸權」理念，團結贏得明年選戰。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，很高興能夠在夏令營五十周年的時候來參加這樣的盛會，他也藉此機會向海外鄉親詳細說明總統初選的過程。他強調，在壯大台灣的這條路上，海內外的鄉親都不能缺席，蔡總統需要賴院長及大家的幫忙，希望鄉親共同投入明年1月11日的大選，一起努力、打拚，團結贏得勝選，並讓民進黨在立法院的席次過半。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，他在中央黨部18人的相片面前說過，未來的工作就是「保衛大台灣、抗衡新霸權」，這個霸權來自中國，中國現在對假消息滲透、紅色媒體滲透，這都是事實。台灣假消息滲透是世界上選舉受影響的第一個試驗場，去年11月24日大選輸，因為我們防備不及，大輸過後，我們知道要如何調整。現在在國會裡面，已經就十二個防制假訊息法案展開修法，目前已經完成五個假訊息防制法案，包括災防、食安、傳染病防治、農產交易、糧食管理等領域已修法完成，未來尚有七個假訊息相關修法法案。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，6月23日在總統府前的反紅媒遊行，黨中央和黨團都派人表示支持，面對紅色媒體的入侵氾濫，我們非常厭惡，也會提出合理解決的有效辦法，來解決紅色媒體。他強調，保衛大台灣，抗衡新霸權，是未來台灣這一代的使命，我們不能將這個壓力再留給下一代。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="364364554864774254394243554d5738">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

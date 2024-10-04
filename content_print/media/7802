@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-06-13</p>
+				<h2>民主進步黨針對巴拿馬與我國斷交之聲明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 針對巴拿馬與我國斷交，並轉往和中國大陸建交一事，民主進步黨今（13）日表示，巴拿馬是我國在中美洲最大，也相當重要的邦交國。但長期以來，中國大陸對巴拿馬頻頻出手，我政府已積極維持和鞏固兩國邦交關係。惟最後巴拿馬仍罔顧長期邦誼，選擇和中國大陸建交，對此，本黨深表強烈遺憾和不滿。</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 北京當局一再以「一中原則」，壓縮台灣的國際空間、挖腳我邦交國，刻意讓台灣在國際社會被忽略和矮化。此舉只會換來台灣人民的不平和憤怒，顯示中方才是兩岸現狀的破壞者和挑釁者，令原本嚴峻的兩岸關係更加雪上加霜，民進黨予以強烈譴責及抗議。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 此外，即便面對北京當局對台灣嚴厲的外交打壓，我政府努力讓台灣被全世界看到的腳步絕不會停頓下來。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 最後本黨強力呼籲，外部壓力愈強，國內的合作也必須愈緊密。此時此刻，朝野政黨和全體國人必須團結因應，一致對外，共同守護國家利益，展現台灣的韌性，才能力抗中國的壓力。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f493253366568527043503137795731">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

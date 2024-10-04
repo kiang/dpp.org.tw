@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-07-09</p>
+				<h2>國民黨造謠AZ疫苗為催命符、恐嚇人民 民進黨：要求江啟臣約束黨內不要扯防疫後腿並澄清道歉</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨立法院黨團造謠批評AZ疫苗為催命符，民主進步黨發言人劉康彥今(9)日表示，正值全國努力施打疫苗、提升施打率，希望讓社會盡快恢復正常生活之際，國民黨卻帶頭恐嚇人民、釋放不實謠言，拖累疫苗施打率，延緩社會恢復正常生活，甚至進一步持續造成民眾經濟與財產的損耗。國民黨這種扯後腿的行為，根本就是來亂的，國民黨一邊恐嚇民眾不要施打AZ疫苗，另外一邊一堆國民黨特權人士跑去偷打AZ疫苗，國民黨有道歉嗎？民進黨強烈要求江啟臣主席好好約束國民黨這種毫無科學證據的指控，並立刻向國人澄清道歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥指出，日前國民黨屢屢被傳出特權插隊施打疫苗，江啟臣主席卻連一句道歉都沒有，神隱不敢面對。國民黨之前批評沒有疫苗，現在疫苗來了，國民黨就又開始唱衰、造謠抹黑疫苗，但另一方面又放任特權偷打疫苗，種種荒腔走板的行為難道是民眾期待的嗎？若AZ疫苗無效，國民黨黨內人士為何紛紛去偷打AZ疫苗？難怪網友說「罵AZ是工作，打AZ是生活」，國民黨這種作法，只會讓人民唾棄。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥進一步指出，根據BBC報導，AZ疫苗是全世界最廣泛使用的疫苗，有173個國家或地區使用（資料來源：<a href="https://bbc.in/2TQHoIM">https://bbc.in/2TQHoIM</a>），而英國公共衛生署最新監測報告也指出，65歲以上族群施打兩劑AZ疫苗後，預防染疫致死的效力估計可達94%（資料來源：<a href="https://bit.ly/3k2YJJ8">https://bit.ly/3k2YJJ8</a>）；在國內，林思宏醫師也表示，根據禾馨醫療的內部統計資料，990名員工施打AZ疫苗滿3週以上，產生抗體率達99％以上，證明AZ疫苗可以提供足夠保護力，是非常有效的疫苗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	至於關於近期國內疫苗接種後發生死亡不良事件，中央流行疫情指揮中心昨天公布，目前已完成的77例解剖，其中56例與慢性病相關，5例與嗆噎窒息有關，2例為頸椎骨折，1例呼吸道阻塞，5例為疑似肺炎，2例是泌尿道感染，1例是氣管內有管灌倒流液體，1例為咽喉炎，1例是胃穿孔併腹膜炎，1例為消化道出血，2例待釐清，由此可知，與接種疫苗無直接關聯（資料來源：<a href="https://bit.ly/3eicMaj">https://bit.ly/3eicMaj</a>）。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，國民黨身為台灣最大的在野黨，卻用政治凌駕科學，不但不鼓勵民眾施打疫苗，反而還造謠恐嚇民眾，分明就是要製造恐慌，降低疫苗接種率，拖延台灣疫情的控制。民進黨再次嚴正呼籲江啟臣主席出面回應，終止國民黨各種亂象，不要拖累台灣防疫工作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="45546a70636430356f3949566567456f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

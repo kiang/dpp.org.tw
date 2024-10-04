@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-10-17</p>
+				<h2>台東順天宮參香 蔡英文：認真經營台東十幾年，劉櫂豪是最佳的人選</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民進黨主席蔡英文今(17)日結束中常會行程後，由台東縣長候選人劉櫂豪、總統府秘書長陳菊、前台東縣長陳建年、台東市長候選人洪宗楷、鄉鎮代表、里長候選人及地方黨公職陪同，前往順天宮參香，並由宮廟興辦助學之順天書屋的學童導覽介紹。蔡英文表示，要選的縣長，是會照顧人，會解決事情的人，而劉櫂豪是最佳的人選，他正直又認真，也能跟中央良好溝通，當選後，一定會與中央攜手合作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，今天很開心和菊姐來到台東，重要的是來這開中常會，也來跟劉櫂豪及團隊加油打氣。台東的選舉對她來講很有意義，2008年，當民進黨主席時，情況不好士氣也差，那時就在想台東要如何佈局。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提到，台東是很熟悉的地方，也很關心台東的未來。像是交通問題，進入台東的交通系統要改、南迴鐵路要電氣化、往來花蓮的鐵路要雙軌、訂票系統也要改善，交通問題一定要處理。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文也說，台東好山好水，重要的觀光產業要做起來。中國觀光團不來，一部分是政治因素，一部分則是型態的轉變，轉型適應來自全世界自由行的旅客，這樣觀光水準也會提升，若縣長是劉櫂豪，中央是蔡英文，一定全力配合，把觀光做起來。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文進一步表示，台東還有承租工地做農業使用的問題，這些問題需要時間處理，也需要好的縣長，熟悉法律且與中央溝通良好，劉櫂豪當選後，一定會與中央攜手處理。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文強調，要選的縣長，是會照顧人、解決事情的人，劉櫂豪是最佳的人選，他正直、認真，經營台東十幾年，在民進黨最差的時候沒有離開，而是一同經營，台東有這樣的人才，代表這是一個福地，好山好水好福氣的地方。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文最後表示，劉櫂豪一定要當選，還有很多年輕的候選人，尤其是洪宗楷，正直會做事，當選市長會很不一樣。這週六競選總部成立，請大家一定要來給劉櫂豪加油，讓他當選。<br />
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="62674338545357595775694759686c6e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

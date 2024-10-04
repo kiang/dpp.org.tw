@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-09-11</p>
+				<h2>李孟居遭中國政府以國家安全為由逮捕 民進黨表達嚴正抗議</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	關於李孟居先生遭中國政府以國家安全為由逮捕一事，民主進步黨發言人薛呈懿今(11)日表示，中國國安部門未公開相關事證，也未依循《海峽兩岸共同打擊犯罪及司法互助協議》之規定，向我方與家屬進行通報，即以國家安全名義逕自逮捕李孟居先生，宛如李明哲案件的翻版。對此，民進黨表達嚴正抗議。</p>
+<p style="text-align: justify;">
+	薛呈懿表示，中國的做法只會激起台灣社會的不安與憤怒，讓國人前往中國時，對自己的安全和自由充滿疑慮，也讓中國的形象更加惡化。</p>
+<p style="text-align: justify;">
+	民進黨要求，中國有關部門必須確保當事人的人道權益和人身安全，公布相關證據資料，勿黑箱處置，並盡速讓家屬赴中國探視和同意律師會見，保障其應有的司法權利。</p>
+<p style="text-align: justify;">
+	薛呈懿表示，民進黨呼籲國人，目前香港和中國內部情勢嚴峻，應減少前往。若必須前往該些地區時，必須嚴密注意自身安全，隨時向親友通報行蹤，掌握狀況。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="44516764715838774c755a38586d3479">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

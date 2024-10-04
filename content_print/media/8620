@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-01</p>
+				<h2>譴責中國是國際麻煩製造者 籲台灣人民以民主選擇向中國說不</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對中國解放軍軍機昨日越過台灣海峽中線挑釁的行為，民主進步黨發言人李問今(1)日表示，昨日中國軍機穿越台海中線的嚴重行為，再次顯露出中國不斷以武力威脅台的真實面目。中國軍機主動挑釁的舉動，不僅衝擊台海關係，更是嚴重破壞印太地區的區域穩定與和平。呼籲國內應不分朝野齊聲譴責中國作為國際社會的麻煩製造者。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問指出，中國以軍機穿越台海中線對台灣進行挑釁，拉高武嚇的態勢，在在證實：中國所說的善意是假的、惠台是假的、和平是假的；中國帶來的威脅是真的、恐嚇是真的、犯台是真的。中國根本就是在玩弄軟硬兩面手法，欺騙台灣人民跟國際社會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問進一步表示，中國軍機越界挑釁行為，戳破國民黨想簽署投降式和平協議的假象，也證實是國民黨一廂情願的幻想。請問國民黨跟台灣人民說清楚講明白，對於中國戰機穿越台海中線的態度是什麼？你們是否要跟台灣人民站在一起同聲譴責？還是繼續站在中國那邊，幫助恐嚇脅迫台灣人民？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問強調，中國軍機越界挑釁行為，根本上更是在挑戰台灣的民主制度，一方面透過國民黨人士唱和經濟統戰，到中聯辦為一國兩制背書，及拋出投降式和平協議等文攻，一方面也不斷升高的軍事威脅，對台灣進行武嚇，這是在測試台灣民主的底線。如果台灣人默不作聲、不透過民主方式表達對中國的拒絕，中國就會再進一步近逼壓縮台灣自由社會與民主政治的運作空間。呼籲台灣人民應抱持高度警覺，並用對民主生活的選擇與堅持，來表達不接受、不容忍中國的武力侵略，與「溫水煮青蛙」式的文化、政治及經濟侵略。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7a726a4243357161337a37416c526576">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

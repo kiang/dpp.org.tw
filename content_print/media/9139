@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-02-26</p>
+				<h2>劉康彥：國民黨立場矛盾，提籃假燒金，複製2018公投案海亂象再起</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨今（26）日召開公投連署記者會，民主進步黨發言人劉康彥表示，當初在沒有國際標準下開放含萊克多巴胺美牛進口，跟現在有國際標準後卻反對同樣含萊劑美豬進口的，都是國民黨；2015年核定大潭發電廠第三座天然氣接收站232公頃開發用地蓋在藻礁上，現在卻又再假借支持藻礁公投連署，來反對開發面積已經限縮到23公頃的三接工程修正，也是國民黨。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	國民黨針對重大公共議題的操作，背後的動機，只是為了個別政黨利益盤算，根本就是「提籃假燒金」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥指出，當初國民黨執政時，核定三接工程興建計畫的面積是232公頃，碼頭以填土方式做在大潭藻礁區上。後來招致社會批評，為了保護藻礁，民進黨在執政後，與許多專家與保育團體共同協助下，2018年，民進黨政府針對三接工程計劃提出修改計畫。兩大修改重點：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	第一，民進黨不但把建設移開藻礁棲地，整個開發範圍也縮減了9成。而目前使用的十分之一，就是當年國民黨核定必要的23公頃。重點是這23公頃已經在18年前就已經填地完成。所以未來也不會再開發新填地，也不影響裸露藻礁區的現況。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	第二，對於水下工程部分，民進黨政府也要求中油公司，從工業區到工業港碼頭700多米的距離，拉7條線，每條線距離10公尺，派水下攝影下去攝影，對整個水底的生態狀況作徹底檢查一遍，盡力迴避水下生態的影響，降低對生態保育的衝擊。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥說，民進黨政府和地方、以及關心藻礁的團體討論後所提出的新方案，就是把面積縮小九成，留下已經開發的十分之一，且避開藻礁區，就是希望能夠因應能源轉型關鍵期的發展需求，又能兼顧藻礁的保護，早已不能跟國民黨時期的方案同日而語。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，今天國民黨的記者會，無論美豬或者藻礁公投的議題，都是為了一黨之私，這對於台灣公共議題的討論與發展並不利，更凸顯了國民黨試題模糊焦點，暗渡陳倉偷渡核電的企圖。民進黨呼籲社會大眾可以多了解觀塘方案的最新現狀，也避免接受片段資訊導致錯誤訊息的擴散。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="79786c59324a766a45683070686c5431">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

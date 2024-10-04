@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-11-15</p>
+				<h2>蔣萬安接連街頭宣講被嗆 民進黨：連菜市場民眾都知道國民黨雙標 帶頭「反科學、亂台灣」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	網路熱議，國民黨立委蔣萬安在宣講公投時，接連在菜市場被民眾嗆「為何萊牛可以吃，萊豬不行？」「這些都有國際標準」。對此，民進黨發言人周江杰今（15）日表示，這些天天在菜市場買菜、買肉的民眾都知道，國民黨開放含萊牛、反萊豬根本邏輯錯亂、雙重標準，且相關肉品都有國際標準規範，國民黨和蔣萬安難道不知道嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對國民黨立委蔣萬安在台北市北投區和松山區菜市場宣講反美豬議題，接連遭民眾嗆「為何萊牛可以吃，萊豬不行？」「這些都有國際標準」。周江杰指出，國民黨開放含萊劑美牛至今已經九年，國民黨是率先開放萊劑肉品來台的，如今同樣標準，為何美牛可以，美豬卻不行，這種說法不僅毫無科學依據，不禁讓人聯想國民黨是不是就是為了反美而反美豬？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰進一步表示，在美國留學、工作多年的蔣萬安，也在美國食用相關符合規定的食品，為何卻反對這樣的食品進口台灣？還要用公投來搗亂、浪費全民納稅錢。蔣萬安之前在立法院質詢行政院長蘇貞昌時，也被蘇院長問到答不出話，如今在市場宣講遭民眾質疑，也沒辦法正面回應國民黨雙重標準。顯示出國民黨昨是今非的情況，不僅民眾難以接受，連國民黨自家立委都難以辯護。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰強調，民進黨一直以來都是遵照聯合國國際食品法典委員會（CODEX）在2012年通過的安全容許量標準，接軌世界貿易準則和安全標準。反觀國民黨在2012年國際標準尚未訂定前，就急著想要開放含萊劑美牛，現在卻不顧國際標準與科學證據，反對同樣含萊劑的美豬進口，這樣「吃萊牛、反萊豬」自相矛盾、政策前後不一的情形，就是在帶頭「反科學、亂台灣」。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="596534715674336672396a4a55774c36">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

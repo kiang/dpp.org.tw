@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-08-12</p>
+				<h2>港警暴行，是一場還未出動坦克的血腥鎮壓，籲港府及北京當局正視民意、理性對話</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對昨日晚間香港警察一再以暴力對待示威者一事，民主進步黨發言人李問今（12）日表示，香港警察驅離示威者的暴力手段，已超乎常規執法的程度，這是一場還未出動坦克的血腥鎮壓，已嚴重危害到香港民眾的人權與安全，且造成香港社會的分化撕裂，對此本黨予以嚴厲譴責。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問表示，港府派出「速龍小隊」等準軍事化單位鎮壓民眾，這一場還未出動坦克的血腥鎮壓，國際各界所擔心的武力鎮壓舉動，事實上已然發生。今年適逢「六四事件」三十周年，港府採用鎮壓手段對付民眾，顯得格外諷刺與令人痛心。香港警方不但在地鐵室內空間發射催淚彈、還近距離向示威者開槍，如同對敵人的殘酷行刑，甚至造成示威者永久失明；相較於傳統的大規模鎮壓派出坦克車、機槍，港府派出特遣隊的手段更具滲透性，進入城市的每一個角落，得以長期散播恐懼、使得抗議民眾無所遁形。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問認為，這股抗爭的燎原星火，不只讓香港年輕一代對中共徹底失去信任，也證明了自由與專制兩者是不可兼容的，更是「一國兩制」根本性的挫敗。港府和北京當局不只不知省思，一再漠視港人追求自由的民意，還把過錯歸咎於香港青年和境外勢力，這只會將人民越推越遠，使局勢陷入動盪不安，更動搖香港長期所建立的國際金融中心地位。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問指出，對於香港這段時間以來的抗爭活動，港府與北京當局一再以武力鎮壓，不只造成香港人民身體上的傷害，另外，在政治上的追殺，也造成香港人民心理上的壓迫。對此，蔡英文總統與政府相關單位已明確表示，將會以人道救援的方式，給予個案上的協助。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，李問強調，港府和背後的中共當局所採取的暴力舉動，顯然不是一個「已經逐漸開明」的政權，該有的作為。奉勸北京當局不要再企圖以黑道勢力，甚至放任不明黑社會人士毆打一般民眾，威嚇並撕裂香港社會。他再度呼籲，港府和北京當局必須要清楚知道，武力鎮壓只會帶來更大的反彈和仇恨，唯有正視香港真正的民意，用理性和對話處理衝突，才能化解香港的危機。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c675a515776306f76593053597a4539">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

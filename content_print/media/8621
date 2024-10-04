@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-01</p>
+				<h2>2020年第十屆立法委員提名初選登記作業完成，後續相關工作日程說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	關於2020年第十屆立法委員提名初選登記於上周五已完成登記作業，民主進步黨發言人李問今（1）日表示，民主進步黨2020年第十屆立法委員提名初選登記作業，53個提名初選選區已於上週五（3月29日）皆已完成登記，總共有72位同志登記立委初選，今日民進黨中央黨部彙整立委初選候選人登記冊送交中執會審查，本週三（4月3日）中執會將進行登記初選候選人資格審查，以及針對有32個立委選區為同額競選，提請中執會同意停辦民意調查。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問也提到，第十屆立法委員提名初選登記完成後，於初選協調截止（4月17日中午）前，2020大選提名策略小組會對各選區候選人，以溝通協調方式產生提名人，同意協調退選名單及退選後形成同額競選選區停辦民意調查，後續再請中執會追認。4月17日中執會後，將進行立委初選民意調查分組抽籤，並於4月22日到5月17日執行初選民意調查。5月22日公告立委初選候選人提名名單。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，李問也表示，此次立法委員提名初選登記，有49位男性及23位女性參選人登記初選，為傳達本黨重視性別平等，共同打造一個良性及性別友善選舉環境之理念。72位登記初選的參選人，均全數自主簽署性別友善宣言，承諾自登記初選即日起，無論對黨內或他黨競爭對手、一般民眾，無論女性、男性，不做出任何涉及性騷擾與性別歧視之言語或行為，與全黨同志共同遵守本黨追求性別友善的價值理念，一起為打造性別友善的環境來努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="435163375345684252547268694f5738">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

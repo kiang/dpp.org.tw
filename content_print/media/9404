@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-12-17</p>
+				<h2>公投倒數24小時 蔡英文再推影片催票 發起辣台派召集令 1218一起投下四個不同意</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	距離12月18日公投倒數24小時，蔡英文總統今（17）日上午在社群平台發布最後催票影片，召集「辣台派」於今晚一起參加台北凱道、高雄夢時代附近空地的大型公投說明會，並且拜託大家最後拉票，一起投下四個不同意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文總統在影片中表示，今晚民進黨將於高雄夢時代附近（高雄市前鎮區中華五路825號）空地、台北凱道，進行兩場最後的公投說明會，歡迎大家到現場參加，她將再一次說明四個公投的重要性，以及民進黨主張「四個不同意」的原因。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文也說，這四個公投皆與台灣的發展息息相關，也呼籲大家把握最後的時間，幫忙轉發影片，與身邊的朋友溝通和說明，並出門投下四個不同意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	12/17（五）民進黨大型公投說明會資訊</div>
+<div style="text-align: justify;">
+	<div>
+		■高雄 大步向前進 19:00</div>
+	<div>
+		高雄台糖物流園區後方空地(高雄市前鎮區中華五路825號，前鎮區中華五路近夢時代百貨)</div>
+	<div>
+		■台北 台灣行出去 19:00</div>
+	<div>
+		凱達格蘭大道</div>
+</div>
+<p>
+	&nbsp;</p>
+<p style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/apTKKdr49_o" title="YouTube video player" width="560"></iframe></p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="723968466d534d39653365434f334668">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

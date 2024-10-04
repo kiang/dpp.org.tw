@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-06</p>
+				<h2>第16屆黨主席補選選舉公告</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	<img alt="" src="/upload/ckfinder/images/20190106%E7%AC%AC16%E5%B1%86%E9%BB%A8%E4%B8%BB%E5%B8%AD%E8%A3%9C%E9%81%B8%E9%81%B8%E8%88%89%E5%85%AC%E5%91%8A1(2).jpg" style="width: 800px; height: 1132px;" /></p>
+<p>
+	<img alt="" src="/upload/ckfinder/images/20190106%E7%AC%AC16%E5%B1%86%E9%BB%A8%E4%B8%BB%E5%B8%AD%E8%A3%9C%E9%81%B8%E9%81%B8%E8%88%89%E5%85%AC%E5%91%8A2(1).jpg" style="width: 800px; height: 1132px;" /></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="43325032525649484457467033314e76">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

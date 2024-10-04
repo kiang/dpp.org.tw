@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-16</p>
+				<h2>民主進步黨第十九屆第十九次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(16)日召開第十九屆第十九次中常會，會中通過於12月23日(三)召開中執會。此外，會中邀請台灣水資源與農業研究院院長虞國興、前台灣自來水公司董事長郭俊銘以「當前水情及因應對策」為題進行專案報告，黨發言人謝佩芬會後轉述蔡英文主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	特別感謝虞院長，針對當前的水情狀況以及因應對策，為我們做了相當精闢的分析。也謝謝在擔任台水董事長任內做出許多建設成績的俊銘兄，分享了寶貴的實務經驗。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今年台灣非常罕見沒有颱風登陸，全台降雨偏少，近期中南部各水庫的蓄水量都在持續下降當中。政府已經成立「抗旱中央應變中心」，在明年梅雨季節來臨前的枯水期間，務必要全力穩定民生及產業供水，確保民眾用水無虞。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	雖然武漢肺炎疫情在國內獲得有效的控制，但是全球疫情依然嚴峻。現在政府已經啟動秋冬防疫專案，提醒民眾除了戴口罩，保持社交距離之外，最重要的就是「勤洗手」，因此更顯得水資源的珍貴。我要呼籲防疫期間民眾勤洗手的同時，也不要忘了要節約用水。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在今天的報告中，虞院長以及俊銘兄提出許多對策及建議，請政委帶回行政院做檢討。報告中提到的「水鄉型社會」的韌性家園，來解決台灣長期水資源失調的問題。不論是哪一種對策或建議，都必須要中央與地方的通力合作，同時也要更多民間社會的力量共同完成。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民眾除了要有省水的概念外，政府也必須要有一套永續的水資源規劃發展政策，利用科技的力量讓水資源的保存、調度和整體用水效能更加完善。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6d3437684d4d337154415472384f3241">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-15</p>
+				<h2>經濟衰退 英九最會</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	高雄市長韓國瑜抨擊三任總統搞殘台灣經濟，但他只說對三分之一！歷任三屆總統，馬英九執政八年卻造成經濟成長率達歷史最低點、實質薪資最低、外來投資最少 ，尤其經濟大舉傾中，成果卻是主權被侵蝕、經濟成長受挫。民進黨認為拚經濟從來不是喊口號，用心拚出好成績才重要！</p>
+<p style="text-align: center;">
+	<img alt="" src="/upload/ckfinder/images/%E7%B6%93%E6%BF%9F%E8%A1%B0%E9%80%80%E8%8B%B1%E4%B9%9D%E6%9C%80%E6%9C%83_all_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png" style="width: 1200px; height: 1200px;" /></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d74334c345a7a4a454c327a54525667">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

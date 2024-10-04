@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-07</p>
+				<h2>國務青旗艦學程 青年齊聚新竹挺沈慧虹</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨青年部今（7）日在竹科集思會議中心舉辦「2022國務青旗艦學程」第二季活動，主題為「關鍵90秒&mdash;選戰語言表達技能課」，邀請民進黨新竹市長參選人沈慧虹、新竹縣黨部主委鄭朝方、新竹市黨部主委陳建名、民進黨發言人李妍慧及民進黨發言人黃彩玲，共同為青年分享精彩的政治實務經驗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	新竹市長參選人沈慧虹分享對青年的期許及城市治理心法，沈慧虹提到，自己在公務體系擁有多年豐富經驗，更是百年鐵路史上的第一位女站長。面對工作，她始終秉持溫柔、堅定、努力、專業的態度，也因為這樣的堅持，在林智堅市長任內受邀擔任副市長，努力讓城市更好，相信新竹這八年來的改變，都有被大家看見。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	沈慧虹也鼓勵現場50多位青年夥伴，「年輕人要有勇氣，不要害怕溝通！」並呼籲年輕人可以對人生進行多方規劃，充實自己的「工具箱」，只要保有專業的能力，一定能在人生的道路上有良好的發展。包括許多來自新竹、或在新竹求學的青年夥伴在內，沈慧虹豐富踏實的生命經驗讓學員們獲益良多。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	除了沈慧虹與青年朋友面對面互動外，今日活動共有四堂課，第一堂由新竹縣黨部主委鄭朝方分享「組織群眾：跨領域、跨族群的公關經營」，第二堂由民進黨發言人黃彩玲分享「螢光幕前：新聞發言人的日常」，第三堂則由新竹市黨部主委陳建名分享「走向民眾：候選人口語宣傳」，最後由民進黨青年部主任蔡沐霖以18歲公民權議題為範例，帶領學員進行「關鍵九十秒」的口語表達實戰演練。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡沐霖強調，今天的活動有一項特別的目標，如何把擘劃、執行中的好政策能夠清楚地傳達給民眾，這是相當重要的。本次活動為延續2022國務青旗艦學程第一季全國各地的參訪和課程後，第二季進一步聚焦在選戰專業技能，籌辦與參與的國務青夥伴們都展現出對地方治理的高度熱忱，期待在「中央執政好成績，地方推薦好人才」理念下，讓更多青年朋友一同加入「行動改變台灣」的行列。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="505439656d6f53345467507848525531">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

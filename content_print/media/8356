@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-08-01</p>
+				<h2>民主進步黨第十八屆第二次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(1)日召開第十八屆第二次中常會，會中邀請雲林縣長李進勇以「【一縣市、一政績、一故事】民進黨執政縣市施政亮點－活躍樂齡 安居雲林」為題進行專案報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，與李進勇縣長認識這麼久，她認為他是有個性、有男子氣概的人，但同時也很照顧長者，這表示李進勇是個很不一樣的縣長，而分享者也將長青食堂、長者照顧做得很好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提到，從小到大家裡都有「囝仔人有耳無嘴」的規矩，但長青食堂改變了這個價值，讓「呷飯配話」成為新的生活典範。而長照2.0到長青食堂創造了許多台灣新的生活方式、新想法，非常感謝李進勇縣長、協會同仁與分享者給予這次的中常會帶來溫暖的感覺，讓人覺得政治人物也是會照顧人的。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提到，以前覺得雲林人最大的特色就是有個性，但聽完報告後覺得雲林人很貼心，也非常會照顧老人家。李進勇帶來的長青食堂計畫，讓每個人善良、溫暖的那一面可以充分地發揮，也讓大家重新認識雲林人、定義雲林人。她說，過去看到衛福部所提供的數據資料，往往看完是沒有感覺的，但是，透過西莊社區發展協會現身說法，我們才真正地感覺到這是一項很重要的政策。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，政策的成功除了要有中央的協助，更重要的是地方能夠有這一份心去執行、籌措財源以及組織等行政支援，並且鼓勵社區，讓大家一起來做，這才是成功最重要的因素。除此之外，當然也要有一群很熱心、有熱忱、願意照顧人以及願意被照顧的人們，這也是長照2.0成功的元素。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文說，雲林縣的長青食堂是所有縣市供餐中密度最高的地方，也是辦得最熱鬧的地方。雲林縣能夠辦出這麼好的成績，在於它先天的條件，因為它本來就是個農業區，所以食材、材料也都是最新鮮的。同時，每個人都付出了心血和愛心，讓長青食堂可以做得這麼成功，也讓長照2.0反映在長青食堂，並成為長青食堂2.0，使兩者能夠銜接起來，在老人照護或者面對老化社會的時候能有更好的基礎，也能有更多人一同加入。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c336535724e6b657676385969635469">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

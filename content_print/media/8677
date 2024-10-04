@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-05-17</p>
+				<h2>同婚專法三讀通過 卓榮泰：努力促進社會走向和解與包容</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對今(17)日立法院順利三讀通過司法院釋字748解釋施行法草案，民主進步黨主席卓榮泰表示，對辛苦審查、投下關鍵支持一票的黨籍委員，中央黨部表達肯定與感謝。他也於臉書發文表示，今天大家的智慧和努力有了一些成果，希望這部「具備婚姻內涵」、「專法形式」與「社會可接受的名稱」的法案，讓世界看見台灣，也讓年輕人、宗教界與年長者的看法都能被兼容。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，今年2月時他曾在臉書說過，執政團隊應該在大法官釋憲及去年公投結果的兩條軌道當中穩健行進，帶領民眾及全黨同志踏出關鍵一步。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也提醒行政部門，專法完成後一定要用嚴謹的態度落實執行，避免產生爭議，讓新的法律狀態能夠穩定，也同時兼顧家庭價值。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，卓榮泰呼籲社會各界，我們一起努力促進台灣社會走向和解與包容，相互之間的關係更加和諧與融洽。他也再次強調，智慧不起煩惱，慈悲沒有敵人！</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7a465654524866666e4c546b375a3542">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

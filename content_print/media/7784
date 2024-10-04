@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-05-22</p>
+				<h2>民進黨：作為主權獨立國家，台灣參與WHO之權利，不應由中華人民共和國片面決定干預</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 針對中國政府發函各國：不准「中國台灣省」參加WHA，民主進步黨發言人張志豪今(22)日表示，WHO是全世界的WHO。其成立宗旨是服務全體人類健康，不區分國籍、地區和人種，更不應服膺於特定國家的政治利益。「作為主權獨立國家，台灣不是中華人民共和國治下的地方政府；身為國際社會的一員，台灣更不應被排除在WHO之外。」</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 張志豪指出，根據台灣民意調查，71.7％民眾認為，不該為參加WHA而承認九二共識。對於北京當局以政治理由凌駕衛生專業，刻意排擠台灣人民參與國際健康體系，無視台灣民心需求，必然會引起台灣人民的強烈反感，不利兩岸社會的心靈契合。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 張志豪強調，中國北京當局對台灣的持續打壓，只會更堅定我政府及人民參與，並貢獻國際社會的決心，不讓政治因素，威脅到台灣人民的健康權益。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="53357a30746c514d4a74753330316542">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

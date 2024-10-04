@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-08-05</p>
+				<h2>與台灣基進共同推薦陳柏惟 卓榮泰：政黨合作形成抗中保台大聯盟</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨與台灣基進今(5)日召開聯合推薦陳柏惟前進台中記者會，並由民主進步黨主席卓榮泰、台灣基進主席陳奕齊、交通部長林佳龍、民主進步黨秘書長羅文嘉、台灣基進秘書長陳信諭共同轉交台派支持者贈送給陳柏惟的保單，陳柏惟也回贈「敵國降伏」御守。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰主席致詞時表示，民主進步黨始終堅持與所有友好團體，只要在台灣利益為優先、國家整體發展為優先的共識之下，都可以展開任何形式的合作。因此，在基於對台灣整體局勢的考慮，民主進步黨在台中第二選區，很高興與台灣基進一起，共同向全國人民推薦陳柏惟先生參選立法委員。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，台灣基進給大家的印象就是年輕、有活力、論述清楚、精通台語，並長期扮演對台灣社會正面的力量，他們的發展重心在高雄，但經過雙方密切的會商後，提出希望台灣基進能夠跨出高雄領域，為整個基層力量做不同發展。這次他們很勇敢、很有信心的要到台中這個選區，深耕中台灣、保衛大台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，陳柏惟過去給台灣人的信念與印象就是年輕有戰力，可以在這個選區中，擔負守護大台灣的重任。陳柏惟用他的精神、過去的興趣，與對台語文化的深入，再次印證年輕朋友將愛台灣的心發揮得淋漓盡致，未來在這個選區當中，從台中市黨部，所有黨公職能夠全力與台灣基進的朋友們一起密切合作、討論在這個選區如何取得勝利，也希望這次台灣基進與民進黨所有黨公職一起合作，成為大台中地區政黨合作的示範區，並與其他政黨合作，形成抗中保台大聯盟。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，基進這個兩個字對他來講也是要激發民進黨，激發台灣更進步，民進黨願意在這樣的鞭策底下，擺脫過去的包袱，更加轉型、年輕化，也唯有在這樣的互相刺激下，才能把優秀的力量發揮出來。最後，他也感謝台灣基進跨出高雄，進入中台灣，一起深耕台灣、保衛台灣，並祝陳柏惟高票當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林佳龍致詞表示，台中市第二選區不是所謂真正的艱困選區，在這一區只要能夠激起支持者的熱情，綠營大團結，知道為何而戰，這一區是五五波的選區。就如同卓主席所說，不只要選、還要選贏，要讓綠營其中非常有本土性的台灣基進能夠有立委到立法院，有舞台能夠發聲，這也是台灣基進雖然發跡在高雄，願意不影響民進黨在高雄的現任立委能夠當選的機會，挑戰艱困選區，這對兩個政黨是雙贏，最重要的是台灣能夠贏。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林佳龍提到，在徵詢地方黨公職時，大家都很支持像柏惟這樣的人才來參選，他有理念、有魅力，最重要的，他有爆發力。在這一區，以柏惟的條件，可以激起群眾的熱情，帶動大台中的選情，影響中台灣，甚至台灣的選情。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6273453856665748476a774574395539">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

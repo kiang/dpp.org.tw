@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-30</p>
+				<h2>民主進步黨第十八屆第二十一次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(30)日召開第十八屆第二十一次中常會，邀請內政部政務次長陳宗彥以「過好年 保平安：新春期間各項社會治安治理計畫」為題進行專案報告。發言人林琮盛轉述卓榮泰主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝內政部陳宗彥政次的報告。每一件事都是政府的大事，所以政府對民生議題一直很努力在處理當中。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	農曆新年是國人最重視的假期，一年來的辛苦，很多家庭要返鄉團圓，或是安排國內、國外的旅遊，南來北往、入境出境，龐大的交通流量如何調節，巨量的食物食材如何供應，一刻都不能鬆懈的消防安全、查緝毒品、掃黑等等社會治安工作，都需要內政部與政府各個部會密切合作，才能讓民眾安心過一個好年。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	特別是政府面對「非洲豬瘟」入侵的威脅，付出了巨大的心力，採取最為嚴格的管制措施，全面加強檢疫，務必做到點滴不漏，以避免非洲豬瘟因檢疫漏洞而影響台灣的產業安全與食品安全。希望國人能夠體諒海關第一線工作人員以及檢疫犬的責任與壓力，忍受一時的不便和因而延長的通關時間，配合海關必要的入出境程序，用合作代替責備，就是對基層人員最大的鼓勵。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	內政部對春節期間社會治安等相關工作的規劃相當用心，在這裡要特別表示感謝與敬意。同時，對於軍、警、消，以及所有為了讓大家過好年而自己無法自己好好過年的工作同仁們，更希望要向這些同仁說一聲：你們辛苦了！謝謝你們為了堅守工作崗位，犧牲了與家人團聚的假期，讓每一位國人同胞都能在新春期間過一個平平安安、快樂的好年！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，陳次長提到警政署成立的查緝假消息專責小組，希望未來能夠更強化它的功能，更正確、快速、有效地面對假訊息的氾濫，給社會一個安定人心的作用。我們也會要求各地方組織，在遇到類似這樣假訊息的時候，能夠透過相關的機制做查證、澄清，以及追溯來源的重要工作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，針對媒體報導民進黨不排除提出新決議文一事，林琮盛轉述卓榮泰主席於會中說明全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我的構想來自之前提出政策路線大辯論，以及在常會當中文燦市長也提出執政興革會議，此外我也認為在未來今年的選舉當中，我們必須要有大戰略。這個大戰略也可以說是一個共同的主張、共同的訴求、共同的政見，這三個東西該如何形成，形式上是可以討論的。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	過去我們在重要的選舉年當中，我們有形成幾次的決議文，包括台灣前途決議文、正常國家決議文、以及族群多元國家一體決議文等等，都為我們在當時的選戰進階過程裡面，立下一些對社會對話的必要內容。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今年六月立法委員提名完成之後，我們會進行和社會的大對話，但什麼時間、方式，做成什麼樣的結論，都必須要向常會提出一個很具體的說明與議案，再來進行。這個結論，無論他是什麼形式，會是我們今年度下半年選舉當中，一個重要的行動準則。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4747324f586f3035725849354c795663">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-03</p>
+				<h2>民進黨第二屆新住民事務委員會授證 卓榮泰：共同發揮對台灣的愛</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	卓榮泰黨主席今(3)日於中央黨部，授予民進黨中央黨部第二屆新住民事務委員會聘任證書，卓榮泰也再次感謝新住民事務委員會作為溝通的橋樑，推動政策討論，與民進黨共同努力維護新住民權益。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨中央黨部第二屆新住民事務委員會成員共有12位，包含第一屆的委員，新住民陳凰鳳、李孟涵、張益惠、洪晶晶、許珍妮、洪玉、寧家榮，新二代何景榮、台灣民間團體代表蔡順柔以及黨部代表徐佳青副秘書長。此次也新加入兩位新住民擔任委員，分別為陳春瑤及林娣妮，擴大新住民政治參與機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰致詞表示，感謝第一屆委員的付出，許多委員會提案內容，如通譯時薪的提高、降低新住民參加導遊考試的門檻、新住民二代的母語師資的培育等政策建議，過去自身在行政單位任職時，都看到委員會對政策落實有極大幫助。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，卓榮泰提到，過去參與地方活動時，有機會品嘗到新住民精湛的料理手藝，尤其從美食體驗到各國文化融入台灣社會，讓台灣更活潑多元。卓榮泰強調，隨著新住民二代長大成人，對新住民族群的照顧，因人數增長，更應提供完善的教育環境，而委員建議的事項，民進黨跟政府都會持續關心推動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰最後致詞表示，新住民族群對台灣社會的影響，絕不僅僅在選舉層次，更重要的是新住民與台灣人透過婚姻關係，互相學習、建立連接，共同發揮對台灣的愛。民進黨也會扎根到各地，關心新住民的生活面，在政策上努力提供更好的生活，讓更多人來到台灣，在觀光、生活、學習機會等都有友善的環境。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7662524e7875546871666c4833717052">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

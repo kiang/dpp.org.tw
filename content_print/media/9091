@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-11-24</p>
+				<h2>詢答就是最好的辯論 籲國民黨勇敢回到質詢台 進行政策辯論</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	針對國民黨今（24）日到總統府遞交辯論放寬含萊克多巴胺美豬進口的邀請函，民主進步黨發言人顏若芳表示，國民黨若真的想對美豬牛相關政策進行討論，最快最好的方式就是讓行政院蘇貞昌院長盡快到立法院進行施政報告與總質詢，不必做過多的政治操作，不斷浪費人民的時間。</div>
+<div>
+	&nbsp;</div>
+<div>
+	顔若芳指出，今天國民黨第12度杯葛蘇院長進行施政報告及質詢，立法院議事停擺，立院累積破700件報告事項，諸多重大的法律案、建設案及預算案也因此遭到卡關，不但是浪費納稅人的公帑，也恐致使國家重大建設發展拖延停滯。我們要呼籲國民黨，應停止杯葛行為，回到議場上，與蘇院長及內閣團隊，就政策的專業充分討論，這才是國人所樂見。</div>
+<div>
+	&nbsp;</div>
+<div>
+	顔若芳表示，更誇張的是國民黨白天杯葛議事，昨晚卻透過黨籍立委向立法院借會議室舉行黨部基層幹部會議。國民黨利用國家國會的場所舉行黨務活動，不就是國民黨在秋鬥罵的黨國不分嗎？國民黨黨產這麼多，還要佔用國會會議室？我們要求國民黨江啟臣主席，應該公開向社會說明、並為國民黨台北市黨部荒謬行徑向國人道歉。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="59384d745a7774644b6e505252564d6e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

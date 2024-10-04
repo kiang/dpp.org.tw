@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-03-25</p>
+				<h2>民進黨針對排黑條款規範之聲明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對媒體報導有關艱困選區也排黑，指涉特定對象一事，民主進步黨發言人林楚茵今（25）日表示，本黨這次排黑修法主要針對「黑金槍毒」嚴格規範。因此報導指立委趙正宇因排黑故不禮讓一節，顯有認知差異與錯誤，且當事人有關財產來源不明等罪已獲不起訴，特此聲明。</p>
+
+<p style="text-align: justify;">林楚茵表示，本黨對包括桃園第六選區在內的16個艱困選區，將由大選提名策略小組討論後進行徵召，或與其他理念相同政黨、或無黨籍人士進行合作。</p>
+
+<p style="text-align: justify;">林楚茵重申，本黨排黑條款比選罷法更嚴格，新增曾參與犯罪組織者，性侵害犯罪或兒少性交易者，並針對曾犯檢肅流氓、毒品及槍砲彈藥者，從判決確定改為經起訴，以及取消緩刑滿10年可參選的「十年條款」。故桃園第六選區立委趙正宇並不在此限。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5477364745743755624a686f334a4643">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

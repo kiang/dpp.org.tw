@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-03-25</p>
+				<h2>民進黨：作為政治工作者，都應為創造友善育兒環境貢獻心力</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對台南市議會昨天臨時會開議所引發的議事攻防言論，民主進步黨發言人林楚茵今（25）日表示，對於本黨議員相關言論對當事人造成的不尊重，昨天黨中央已第一時間聯繫議會黨團進行了解，相關言論確實不妥，已要求二位議員再次向當事人表達歉意，同時做必要的檢討，議會黨團後續也要全力推動性平規範修法。</p>
+
+<p style="text-align: justify;">林楚茵表示，一樣是女性政治工作者，她感同身受，母親時常被預設是孩子的主要照顧者，這往往也導致女性在生育後，面臨事業和家庭，或者是兩頭燒的決策和困境。</p>
+
+<p style="text-align: justify;">林楚茵指出，民進黨在2016年余宛如委員就帶頭提案，主張立委跟行政官員可將3歲以下嬰幼兒帶入議場，並改善立院育兒措施，也獲得總統和其他委員支持，期待讓我們在立院的工作同仁，可以在工作和家庭取得平衡。此外，本黨也致力推動《就保法》、《性平法》的修正，鼓勵父親參與育兒，除了讓男性共同承擔育兒責任，也能享受和孩子成長的快樂。</p>
+
+<p style="text-align: justify;">林楚茵認為，無分政黨，作為政治工作者，我們都應該為創造友善育兒環境貢獻心力，從立法到政策執行，讓生育及照顧者擁有堅強的社會後盾。對此民進黨也再次呼籲，包括國會及地方議會，都應該更加重視育兒的環境，強化性別平等的意識，為進步價值的目標一起努力。<br />
+&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="456c314f3947654a504b31493036365a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

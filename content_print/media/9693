@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-20</p>
+				<h2>出席國務青旗艦營 蘇貞昌勉勵學員「理想熱情不減，就是青春」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨今（19）日在台中福華大飯店舉辦「2022國務青旗艦營－民主與地方治理」，第二天課程邀請行政院長蘇貞昌分享施政成果，蘇貞昌勉勵100位國務青學員，不只要有理想，更要知道怎麼把事情做好，所有的國務都是從這樣開始。</p>
+
+<p style="text-align: justify;">蘇貞昌院長表示，參與國務青旗艦營的國務青，都是參與國務的年輕人，不過關於年輕或不年輕，蘇院長透過德裔美籍詩人賽謬爾‧厄爾曼（Samuel Ullman）的詩作來勉勵大家：「青春不是年華，而是心境；青春不是桃面、丹唇、柔膝；而是深沉的意志，恢宏的想像，熾熱的感情。」</p>
+
+<p style="text-align: justify;">蘇貞昌院長表示，蔡英文總統曾說過，「要留下更好的國家給年輕人」，因此在行政院努力下，目前的政府是「最支持年輕人的政府」。包括300億租金補貼、年年調升基本工資、育兒津貼翻倍、不孕症補助、長照預算和據點增加、班班有冷氣、生生用平板、中央廚房大帶小等政策，都用高效率達成，政府施政從小顧到老，就是要減輕年輕人的負擔。</p>
+
+<p style="text-align: justify;">蘇貞昌院長也指出，「當家才知柴米貴」，政府為年輕人做事都要花錢，好在政府掌握投資契機，去年經濟成長率創下11年來最高，進而帶動財政收入，去年財政賸餘達到2500億元，所以才能加薪、減稅、增福利，還可以還債1200億元，成為20年來還債最多的政府。</p>
+
+<p style="text-align: justify;">蘇貞昌院長並以校校有網路、生生用平版、中央廚房大帶小等政策從偏鄉開始做起為例，說明自己生在貧窮、長在偏鄉，「我知道貧困和飢餓是怎麼一回事」，因此雖然生在什麼家庭不是自己能決定，但國家有責任讓有需要的孩童感受到溫暖。</p>
+
+<p style="text-align: justify;">透過「有政府，會做事」的施政成果分享，蘇貞昌院長勉勵100位來自台灣各地的國務青學員「國務就從這樣開始」，期許年輕世代不但要有理想，更要知道怎麼把事情做好，做到的過程並不簡單，方方面面都要顧到。</p>
+
+<p style="text-align: justify;">最後蘇貞昌院長回顧自擔任美麗島辯護律師以來的從政歷程，向國務青學員表達：民進黨一路走來不簡單，但民進黨始終沒有放棄價值、沒有失去勇氣，「我們炙熱依舊，我們依然青春，只要心中理想熱情不減，就是青春。」</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="49676e61794b4c6c4e71684139533474">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

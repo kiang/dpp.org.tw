@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-02-10</p>
+				<h2>日本各界歡迎日食管制措施調整 民進黨：對台日關係、未來經貿發展有正面影響</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對行政院調整日本福島等五縣食品管制規定，包括日本內閣官房長官松野博一、外務大臣林芳正、防衛大臣岸信夫、日本農林水產省、日本經濟產業省、日本福島縣知事內堀雅雄、千葉縣知事熊谷俊人及群馬縣知事山本一太等，皆對調整管制措施表達正面歡迎或感謝之意。對此，民主進步黨發言人謝佩芬今（10）日表示，日本政壇、媒體和民間都高度關注，也顯示此一決定對台日關係、台日未來經貿發展有正面影響。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，台日之間原本就交流緊密，台灣各界在日本311大地震時踴躍捐款，日本也在台灣遭受到疫情影響時捐贈大量疫苗，還在中國封殺台灣鳳梨進口後，採購台灣農民種植的鳳梨，這是台日官方和民間持續的「善的循環」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬表示，近來台灣順應世界各國潮流和國際標準，調整日食管制措施，日本中央及地方政府皆對蔡政府此決定有高度正面回應，日本內閣官房長官松野博一更表示：「歡迎台灣朝解禁管制措施跨出一大步，有助聲援東北災後復興，台灣是日本共享自由、人權、法治普世價值的重要夥伴及友人」，他也表示高度期待透過本次台方的決定，深化日台經貿及友好關係。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬指出，此一決定也獲得日本國會朝野各黨的支持，已有近40位國會議員於推特或受訪時對此事表達肯定，包含自民黨台灣政策小組召集人、曾於2021年兩度與民進黨舉行台日執政黨「2+2對話」的佐藤正久參議員、自民黨日華議員懇談會會長古屋圭司眾議員、自民黨眾議員鈴木馨祐、辻清人、日本維新會政調會長音喜多駿參議員、公民黨國際局次長高橋光男參議員等。自民黨政調會長、曾於2021年9月和蔡英文總統舉行視訊對談的眾議員高市早苗也說，本次放寬對相關業者是喜訊，盼深化台日合作友好。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬進一步說明，日本媒體與輿論也相當關注此事。包含NHK、日本經濟新聞、日本路透社、時事通信社、產經新聞、朝日新聞及讀賣新聞等，都大幅報導，甚至登上日本雅虎國際新聞頭版。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬表示，從日本各界積極且正面的回應，皆顯示蔡英文政府對日本食品管制的調整，使原來就已經相當強健的台日關係更加緊密，也有利於台日之間未來更多的合作與經貿發展，期待台灣各界也能以國際標準、科學證據為依據，來面對日本食品進口議題。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3052376579476b62366f315970446b4f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

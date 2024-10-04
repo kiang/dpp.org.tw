@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-08-03</p>
+				<h2>出席林保華回憶錄新書發表會 卓榮泰：一起保衛大台灣、抗衡新霸權</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(3)日受邀出席台灣青年反共救國團理事長林保華「我的雜種人生」回憶錄新書發表會。卓榮泰致詞表示，今天來到新書發表會的原因，是因為對林保華先生及楊月清女士的尊重與感謝。他也希望，未來不管是台灣派、中華民國派，或是中華民國台灣派，都應該團結在一起，形成最大的抗中保台的大聯盟，一起保衛大台灣、抗衡新霸權。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，他看到這本書的名稱，認為林保華先生使用這樣的比較自虐性的文字，應該有兩種意義，就是幽默與決心。幽默，是在於林保華先生生處於動盪的年代中，他用一個平靜的心，將他的一生寫出來，他的一生閱歷非常豐富、過程非常精彩。決心，是要留在這個地方，擦亮自己、照亮台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，林保華先生在重慶出生、印尼長大，回到中國，再到香港，成為英國海外屬土公民，最後回到台灣，成為中華民國國民。誠如蔡總統所說，不管是台灣派、中華民國派，還是中華民國台灣派，都應該要團結在一起，也希望有更多海外的朋友與我們做朋友，讓台灣有更多能力去支援海外的朋友，也讓民主發展的過程依然能夠非常健康、順暢的走下去。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，卓榮泰表示，他代表自己，也代表民進黨，對於林保華先生長年來的努力、在場與他們一起辛苦努力的各位，還有在各自崗位上奮鬥的大家，再次表達尊重與感謝。他希望，在未來，壯大台灣、守護台灣的這條路上，大家一個都不能少，民主進步黨也會用最真誠、柔軟、寬廣的心，形成最大的抗中保台大聯盟，大家一起保衛大台灣、抗衡新霸權。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，會前針對媒體詢問今天為何有時間出席新書發表會，而不是與其他政黨協調？卓榮泰表示，這個週末，他希望給其他政黨多一點時間去處理他們的家務事，也讓他處理黨內的事情，大家應該有一段冷靜的時間，處理好各自內部的問題，下星期再一起帶著更多的信心與內部協調，面對更大的戰場。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7a6e6130545242773575683741733977">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

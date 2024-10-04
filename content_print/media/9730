@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-06</p>
+				<h2>女力站出來！花蓮Kolas：要帶花蓮人走出恐懼，讓花蓮人不再害怕表態</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">「蔡英文&amp;DPP」的Podcast頻道「耳朵出遊不出油」，昨（5）日釋出民進黨花蓮縣長候選人Kolas Yotaka（​​谷辣斯&middot;尤達卡）的專訪，Kolas在節目中表示，花蓮人有害怕表達不同立場的現象，Kolas認為，花蓮必須改變這樣不健康的政治氛圍，Kolas期待，這次選舉是一場讓花蓮不再恐懼的運動。</p>
+
+<p style="text-align: justify;">Kolas表示，自己的名字在阿美族語裡，有去蕪存菁的意思，Kolas解釋，玉米是阿美族部落的傳統主食之一，在栽種玉米時，為了讓玉米長得好，會挑出壞的種子，只將好的種子留下，而這個動作，在阿美族語裡就叫Kolas。</p>
+
+<p style="text-align: justify;">主持人好奇，在面對繁忙的政治工作和選舉行程，如何保持元氣，Kolas表示，自己一直以來都有運動的習慣，不過Kolas也坦言，政治工作很難騰出時間運動，最近剛好遇到部落的豐年祭，每一場祭典，她都會加入一同跳舞，Kolas也在節目中透露，自己最擅長的舞蹈是拉丁Salsa。</p>
+
+<p style="text-align: justify;">擁有府、院、黨發言人「三鐵紀錄」的Kolas，精通多種語言令人印象深刻，去年副總統賴清德，到苗栗進行公投宣講，全程使用客語，「陪練員」就是當時擔任總統府發言人的Kolas，Kolas解釋，花蓮使用客語的族群，其實比大家想像中還要更多，Kolas表示，從小到大的環境，其實都可以接觸到各式各樣不同的語言，Kolas認為，每一種語言的背後，都代表著不同的文化和生活價值。</p>
+
+<p style="text-align: justify;">曾經有十五年的媒體工作經驗，後來轉戰政治領域，Kolas認為，不管是做媒體還是政治，其實初衷相同，都是為了要改變世界，Kolas表示，當初離開自己熟悉的媒體業，進到政治工作，所接觸到的視角和過去全然不同，Kolas認為，政治工作帶給她的學習和經驗，是很重要的人生歷練。</p>
+
+<p style="text-align: justify;">對於現任的花蓮縣長徐榛蔚，Kolas表示，花蓮有許多問題，沒有得到解方，人口持續外移，這都是縣政府所應該要努力去解決的事，Kolas表示，花蓮擁有台灣最長的海岸線，也是重要的軍事基地，Kolas認為，不該只停留在花蓮的風景優美，也應該要重新定義花蓮所扮演的角色。</p>
+
+<p style="text-align: justify;">Kolas表示，自己在花蓮舉辦活動，時常遇到有支持者不敢合照、害怕被認出的情況發生，Kolas坦言，這個現象在花蓮很常見，Kolas認為，花蓮有害怕表達不同意見的政治氛圍，這是必須要去改變的政治結構，Kolas強調，這次選舉，必須是一場屬於花蓮人不再害怕的運動。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6b6946564f55614f55346d6e36725a39">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

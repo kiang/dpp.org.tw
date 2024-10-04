@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-06-21</p>
+				<h2>感謝軍公教朋友一起為台灣努力，吳敦義主席反對軍公教年金改革嗎？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	民進黨今(21)日召開「吳敦義主席反對軍公教年金改革嗎？」記者會，發言人Kolas Yotaka表示，立法院終於在昨日深夜順利將陸海空軍軍官士官服役條例修正案完成三讀，首先要感謝蘇嘉全院長、蔡其昌副院長、柯建銘總召和民進黨全體立院黨團辛苦的挑燈夜戰，完成了一項國家過去該做卻一直無法完成的艱鉅任務，也要特別感謝退役軍人能夠體諒國家財政的困難，共同來支持軍改案，讓軍人年金可以解除破產的危機，同時也完成軍公教年改最後一塊拼圖，感謝你們！</div>
+<div>
+	&nbsp;</div>
+<div>
+	Kolas Yotaka表示，軍公教年金改革方案是台灣社會高度的共識，從2012年馬英九總統任內就要推動的年金改革法案，可惜無功而返、無疾而終，沒能完成，現在終於在蔡英文總統的第一任期完成。年金改革是不分藍綠全民都支持的，唯獨在年金改革的社會討論過程中，看不出來吳敦義主席是支持還是不支持，吳主席的態度始終含含糊糊、不清不楚，我們要再問一次：「吳主席難道反對年金改革嗎？」請國民黨吳敦義主席說清楚。</div>
+<div>
+	&nbsp;</div>
+<div>
+	Kolas Yotaka最後強調，任何改革都是不容易的，年金改革歷時兩年多的社會討論，即便是社會的高度共識，但更需要的是領導人改革的決心和魄力，馬英九做不到的，蔡英文做到了，民進黨是一個負責任的政黨，站在改革的歷史關鍵上，我們會勇往直前，歷史會記住昨日的努力艱辛，台灣社會各界與民進黨更感謝軍人、教師及公務員對國家的貢獻，同時也表達更高的支持。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="695a6d49354a6a33664e664f65536368">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

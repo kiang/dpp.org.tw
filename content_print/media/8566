@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-02-23</p>
+				<h2>卓榮泰：讓黃振彥這關鍵的一席進入立法院共同打拚</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(23)日在中常委陳勝宏、國策顧問何黎星、立委黃秀芳、洪宗熠、陳素月、許智傑、彰化縣前縣長魏明谷、衛福部部長陳時中、黨部副秘書長郭昆文、彰化縣黨部邱建富主委、美西黨部主委許維鈞，及彰化縣地方黨公職等陪同，出席立委候選人黃振彥和美區後援會成立大會，現場旗海飄揚、凍蒜聲不斷，近千位彰化鄉親熱烈力挺黃振彥。卓榮泰致詞表示，「一府、二鹿、三重埔」，其中最關鍵的一席就是黃振彥，拜託鄉親長輩、鄰居朋友支持自己的子弟，3月16日讓黃振彥進入立法院為鄉親共同打拚。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，這場選舉非常重要，過去都說「一府、二鹿、三艋舺」，但對他來說，這個月只有「一府、二鹿、三重埔」，其中最關鍵的一席就是黃振彥，他要拜託大家讓民主進步黨在經過去年選舉的失敗，能夠重新站穩腳步，繼續挺進，向改革的目標前進，為明年要保護本土政權的目標共同打拚。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，他替魏縣長感到委屈、替中央感到擔心，過去魏縣長任內與中央合力開發很多廠商，要讓全世界最好的風場在彰化，實現能源轉型的風力發電，魏縣長也爭取了2020年全國燈會在彰化，這兩項都是為了彰化的經濟發展、能源轉型，可以為縣民與縣府帶來龐大的商業利益。他要為百萬的彰化縣民問新任的王惠美縣長，到底要不要繼續做下去？還是要讓能源轉型、產業發展就此中斷？王縣長到底要把彰化帶往什麼方向？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，彰化總共有四席立委，現在已經有三位，這個版圖就跟拼圖一樣，最後一塊拼圖就是黃振彥，拜託大家完成民進黨在彰化立委版圖的最後一塊拼圖，讓彰化接續中央與地方的政策，共同發展與合作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，卓榮泰表示，補選的投票率不高，要靠鄉親長輩、親戚朋友幫忙拉票，拜託大家能夠用疼惜自己的子弟的心情，讓黃振彥進入立法院，讓彰化能源轉型、經濟發展的機會重新再起，為2020年守護本土政權立下第一戰功，也告訴魏明谷縣長，大家沒有忘記魏縣長過去四年在彰化的努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f646f5962474b32566d756951624e4f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

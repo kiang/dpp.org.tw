@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-19</p>
+				<h2>歐洲議會副議長畢爾表示「我們是民主陣營一家人」 民進黨感謝伸出友誼之手 </h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	歐洲議會副議長畢爾（Nicola Beer）今（19）日率團抵達台灣，這是歐洲議會高層首度正式訪問台灣，民主進步黨發言人謝佩芬表示，台灣與歐盟近來互動熱絡，我們誠摯歡迎畢爾副議長不遠千里而來，展現雙方友好情誼。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	畢爾今早抵達台灣時表示，這次是以歐洲議會副議長的官方身分正式訪台，「台灣的成就也就是歐洲的成就，歐洲不會漠視中國施加給台灣的壓力」，她也強調，「不會讓中國有機會進犯民主台灣」。畢爾進一步表示，「目前歐洲正發生戰爭，不希望亞洲也發生戰爭，現在是堅定和台灣站在一起的時刻，歐洲與台灣是民主自由陣營的一家人」。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	對此，謝佩芬表示，畢爾副議長一番話，讓台灣人深刻地感受到歐洲議會伸出的友誼之手。這是繼去年11月歐洲議會「外來勢力干預歐盟民主程序（含假訊息）」（INGE）特別委員會首度籌組官方代表團訪台後， 畢爾副議長再度展現歐洲議會對台灣的堅定支持。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬進一步說明，歐洲議會今年以來已經通過7份友台文件，包括本月5日通過「歐盟印太戰略之貿易及投資面向」友台報告、7日接續通過「歐盟及捍衛多邊主義」報告，內容特別納入支持台灣以觀察員身分有意義參與多邊機構的相關會議、機制及活動，包括世界衛生組織（WHO）、國際民航組織（ICAO）、國際刑警組織（INTERPOL）及聯合國氣候變化綱要公約（UNFCCC）等。因此，民進黨再次感謝歐洲議會對台灣的高度關注與支持。值此國際局勢變動之際，民主陣營的一家人之間的緊密交流與合作，更能彰顯民主、自由價值的可貴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4231555478314d54734174626b525670">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

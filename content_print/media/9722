@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-01</p>
+				<h2>民進黨：黨員違紀參選應予除名處分</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對前立委鄭寶清登記參選，民進黨發言人謝子涵今（1）日回應，依照民進黨《公職候選人提名條例》以及《紀律評議裁決條例》如有黨員違紀參選，將由中央評議委員會於十日內從嚴議處，應予除名處分。</p>
+
+<p style="text-align: justify;">謝子涵表示，民進黨的提名制度行之有年，由全代會透過民主程序通過提名制度，並由主席蔡英文召集黨內最有公信力、最有選舉經驗的成員組成選對會來討論人選。謝子涵指出，當初在林智堅宣布退選時，選對會當時就有用黨內民調作為主要參考，最後一致同意徵召鄭運鵬代表民進黨參選桃園市長。謝子涵表示，民進黨上週進行桃園市對比式民調，鄭運鵬更遠遠領先鄭寶清高達10%，顯示鄭運鵬是民進黨內桃園市長最強候選人。</p>
+
+<p style="text-align: justify;">謝子涵表示，依據民進黨公職候選人提名條例第十二條，違紀參選者或不參選者，第三條第一、二、三類，逕由中央評議委員會，同條第四、五類逕由縣市黨部評議委員會於候選登記截止後，十日內從嚴議處。根據紀律評議裁決條例第十二條，本黨黨員未經提名違紀參選者，應予除名處分。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="754831335a466250744c675a52506c4d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

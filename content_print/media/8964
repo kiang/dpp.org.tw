@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-12-27</p>
+				<h2>周五晚北斗站台洪宗熠 卓榮泰：選情持續往上，再15天一定能選上</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(27)日與前行政院長游錫堃、黨秘書長羅文嘉、副秘書長林飛帆、前縣長魏明谷、立委陳素月、洪宗熠共同出席「護國保台巡迴助選團洪宗熠場次」為洪宗熠加油打氣。卓榮泰表示，洪宗熠雖然強敵環伺，但目前的民調已經五五波，我們趨勢持續往上，再15天一定能選上。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	游錫堃表示，陳素月是史學研究所碩士，文化教育是她的專業，而且兩屆立委任內，服務地方踏實，在立法院表現也很好；洪宗熠是四屆議員，地方基層歷練豐富，對這個選區也非常了解，做人腳踏實地，更是行政管理、企業管理雙碩士學位，在國會裡的表現更是優秀，被公督盟評鑑四次優質立委。2020年的大選，一定要發揮台灣人的骨氣和精神，讓兩位優質的立委，繼續為我們打拚、奉獻。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	游錫堃指出，2020年是台灣的關鍵，他舉香港反送中為例，正是因為香港上一代的菁英高唱回歸，接受一國兩制。反觀台灣八零年代，雖然發生了1979美麗島事件、1980年林宅血案、1981陳文成命案、1984江南命案，但是台灣人不畏不懼，繼續爭取自由民主，才有1986年民進黨組黨、1987解嚴、1992年萬年國會改選、1996年總統直選。所以我們這一代也要守護下一代，繼續過著民主的生活。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	陳素月表示，她與洪宗熠都是專職賺業的民意代表，每天通勤到台北開會，下午回到地方打拚，為的就是希望能延續所有民主前輩打拚的成果，讓台灣所有的福利制度可以更完整。蔡英文總統執政，在社會福利方面努力了很多，包括長照2.0、減稅、育兒津貼、托育補助等。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	陳素月呼籲所有鄉親，選舉剩下15天，時間越近，假消息、中傷、惡宣傳會越多，相信自己的雙眼和智慧，明年1月11號，選擇最有能力，最護主權的蔡英文，以及認真打拚，專職專業的洪宗熠、陳素月。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	洪宗熠表示，選舉剩下最後的15天，一路走來，他所面對的對手，壟斷媒體資源，進行一場不公平的選舉。但他認為，只要願意認真為鄉親服務，操守清廉，所有的鄉親一定會願意給來自平凡家庭的人機會參與政治。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	洪宗熠強調，這次的選舉是要保護台灣和對抗中國的選舉，除了要下架吳斯懷，更要把所有跟中國站在一起的政治人物下架，所以民進黨國會一定要過半，才能真正為台灣做實事。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，選舉剩下15天，一定要用選票，讓民主的國會過半。在場的鄉親都是陳素月、洪宗熠最可靠的好朋友，大家要顧票和拉票，呼籲所有的親朋好友，民主國會要過半，蔡英文總統才好做事。卓榮泰強調，這15天內，我們更要進入巷弄、社區及每個家庭裡面拉票，因為現在全國聚焦中彰投，一定要讓彰化四席立委過關當選。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6452554169746535586b733732794a71">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

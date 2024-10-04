@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-07-20</p>
+				<h2>相挺蔡適應 卓榮泰：民進黨徵召最好的立委，繼續為基隆打拚</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(20)日由基隆市長林右昌、基隆市黨部主委張錦煌、副秘書長郭昆文及地方黨公職陪同，出席「相挺適應 基隆必勝」記者會並至慶安宮參香。卓榮泰主席也致贈鳳梨給蔡適應立委，祝福蔡適應人氣更旺、選情更旺，並呼籲鄉親團結相挺蔡適應及蔡英文總統，讓兩人順利連任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰參香時提到，過去基隆的選舉，有好有壞，但只有林右昌創下民進黨第一次在基隆連任市長的紀錄。林右昌在基隆相當努力打拚，讓基隆風光改變，也有許多重大建設開始進行，甚至是完成。他強調，看港口、碼頭改建就知道，不用說發大財，自然大船就會入港，這是林右昌所做到的，讓基隆和過去不一樣。過去三、四十年來，基隆沒有改變，但現在在林右昌市長、蔡適應委員以及所有團隊的打拚之下，讓基隆大改變。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，在黨中央進行第一波立委徵召後，第一站他就抵達基隆，表達民進黨對基隆市以及蔡適應的責任，以及最全力的支持。他也特別對蔡適應說，「黨徵召，我驕傲，也是基隆人的驕傲。」民進黨徵召最好的立委，讓蔡適應繼續為基隆打拚。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，蔡適應除了長相像明星外，他也為基隆市做明星級的建設。基隆的建設需要中央、地方一起合作，有蔡適應和林右昌合作，基隆的港口、碼頭才能煥然一新，交通建設才能連成一線，才能貫穿全市。這就是明星級的立委，做明星級的建設，也是基隆市大家的光榮。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，卓榮泰也說，蔡適應和林右昌的成績，不只留在基隆、立法院，名聲也傳到海外。今天數十位遠從菲律賓回來的台灣同鄉，特別來此為蔡適應加油，祝福他高票當選。這也代表蔡適應這四年的成績，大家有目共睹，受到肯定。基隆不只需要中央、地方合作，也要台灣海內外的合作，讓蔡適應能夠繼續連任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，連任的責任不只在蔡適應的肩上，這個責任也在林右昌市長以及他所帶領的團隊，還有民進黨中央黨部以及基隆市黨部的身上。基隆最大的目標是全體團結一致，讓174天後的選舉，蔡適應順利連任外，蔡英文總統也能順利連任。如果兩位都連任，基隆的建設會進一步發展，中央、地方的合作可以進一步提升，也能達成保護台灣主權、海內外連成一條心的計畫、目的。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後卓榮泰也對蔡適應說，今天不是開心的時候，而是黨將責任交付給他，他要擔起責任，替民進黨留下這席立委席次，也要讓基隆市民驕傲，得到大家的支持與肯定。卓榮泰也拜託鄉親，讓蔡適應高票連任，也期待在林右昌的帶領之下，基隆市團隊可以在明年1月11日打一場漂亮的勝利，讓基隆市民再一次享受民主的成果。</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="54736a6a786568374e76674a4766344d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

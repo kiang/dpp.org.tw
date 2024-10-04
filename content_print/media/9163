@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-04-24</p>
+				<h2>出席「全國高中職國際知識競賽」 蔡英文：台灣要持續走向世界，就需要新世代來關心、了解、接棒</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨國際部與青年部首度舉辦「全國高中職國際知識競賽（World Quiz Championship, WQC）」，藉由競賽交流，提升學員了解當前國際社會情勢及台灣外交展望、拓展青少年的思辨及領導力。活動報名相當熱烈，初賽全台共有138隊參賽，最終由38隊晉級決賽，分別來自22校、11個縣市超過100位學員，並於今（24）日舉辦最終決賽，總統暨黨主席蔡英文也親自到場致詞勉勵及頒獎。蔡英文主席致詞表示，台灣需要培養出更多具有豐富國際觀的新世代年輕人才，促進台灣和國際的合作，並且讓台灣在未來的全球競爭當中，取得先機。相信各位同學在未來，一定可以扮演協助台灣走向世界的重要角色。台灣要持續走向世界，我們的對外表現，就需要新世代來關心、來了解、來接棒。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文致詞全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	首先，我要恭喜各位得獎人，也要肯定今天所有參加決賽的同學。大家是從全國將近140隊，超過400位的競爭者中脫穎而出，都非常厲害。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這是民進黨第一次舉辦「全國高中職國際知識競賽」，吸引到這麼多同學來參加，很高興看到這麼多年輕人，都對國際知識很有研究，也很有熱情。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台灣要持續走向世界，我們的對外表現，就需要新世代來關心、來了解、來接棒。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	從過去以來，台灣有許多領域的表現，在國際上一直非常亮眼。尤其去年開始，台灣的防疫成就，也受到世界的矚目和肯定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在經濟方面，台灣去年的經濟成長率3.11%，蟬聯亞洲四小龍第一，也領先全球許多國家。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	同時，台灣也已經在世界半導體供應鏈重組的過程中，扮演關鍵的角色。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在全球戰略當中，也有越來越多國家，強化和台灣的交流合作，把台灣視為共同維護區域和平穩定的重要夥伴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	未來，台灣和全球在各方面的合作，不論是經濟、國防、教育或是文化，包括氣候變遷的議題等等，都只會更頻繁、更緊密。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	所以，我們需要培養出更多具有豐富國際觀的新世代年輕人才，促進台灣和國際的合作，並且讓台灣在未來的全球競爭當中，取得先機。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	相信各位同學在未來，一定可以扮演協助台灣走向世界的重要角色。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這次國際知識競賽的內容包羅萬象，包括台灣外交、國際時事、近代世界史、國際政治、以及各國地理及人文知識等等。其中也有關於我們邦交國的知識，還有很多最近國際經貿的發展。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	大家能夠進入決賽，一定是平時就廣泛接觸各種國際新聞與脈動，才能應付這些困難的題目，我真的非常佩服。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	透過對國際脈動的深入了解，也會對大家思索台灣未來的走向，以及如何強化台灣的國際參與，非常有幫助。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我也希望各位同學，繼續累積這樣的實力，未來一定可以在不同層面、不同領域，為台灣盡一份心力。謝謝大家。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7957574a765253506d45614f4a485757">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

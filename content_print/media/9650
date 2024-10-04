@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-29</p>
+				<h2>民進黨婦女部舉辦選戰營 首度邀請新住民共拚選戰  </h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨婦女部今（29）日與明（30）日兩天，於嘉義縣舉辦「台灣女人戰出來」領袖決策營，集結全國各縣市200位台灣及新住民姐妹開授選戰特訓班，化女力為戰力，號召台灣與新住民姐妹共同投入年底九合一地方選戰。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	婦女部主任許嘉恬表示，台灣的性別平等指數已經是亞洲第一，台灣的女力更是選舉重要的戰力。此次營隊，正是台灣女力隊集結的第一步。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	許嘉恬提到，這是民進黨婦女部首次邀請新住民參加選戰營隊。民進黨近年來深耕新住民族群，此次選戰營邀請到70多位來自越南、印尼、泰國、緬甸、中國等國家的新住民幹部參與。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	來自中國的新住民王翎鳳分享自身長期投入社區營造工作的經歷，她指出，發現自己與民進黨本土理念與價值一致，所以願意站出來為民進黨推出的好人才輔選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外，來自越南、曾獲勞動部創業楷模的阮理厚表示，來台灣20多年對政治的觀察，民進黨是相當照顧新住民的政黨，也推出許多友善新住民的政策，因此，她在2020年願意投身輔選，擔任雲林縣小英新住民山線後援會會長，也將會支持民進黨推出的劉建國縣長候選人，讓好人才進入縣政府服務。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	本次女性選戰營邀請到蘇貞昌院長、翁章梁縣長、李俊俋市長候選人、沈伯洋教授、黃倩萍主播、林靜儀立委、羅美玲立委、中埔鄉李碧菁鄉長、林飛帆副秘書長、林鶴明副秘書長等，從政績、中國認知戰、選戰文宣策略到女力培力，為台灣及新住民幹部進行全方位授課，正式吹響選舉號角。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="55696933595769733869657379317957">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-26</p>
+				<h2>洪耀福：敗選責任在中央黨部，黨需要主委堅守崗位</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨秘書長洪耀福今(26)日主持任內最後一次主管會報，會中黨務主管就地方公職人員選舉結果交換意見。針對地方黨部主委紛傳請辭為敗選負責，洪耀福表達強力慰留，並強調敗選責任在中央黨部，請各縣市黨部主委不要過於自責，此時此刻黨更需要大家堅守崗位，繼續與黨內同志一起努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5a434b714b6a4869683951416d6b4236">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

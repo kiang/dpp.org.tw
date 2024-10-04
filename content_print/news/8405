@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-08</p>
+				<h2>那些年，國民黨的兩岸經濟美夢：2018美中貿易戰開打，夢該醒了！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	<span style="font-size:16px;"><img alt="" src="/upload/ckfinder/images/%E8%B2%BF%E6%98%93%E6%88%B01.jpeg" style="width: 848px; height: 1200px;" /></span></p>
+<p>
+	<span style="font-size:16px;">【那些年，馬政府的兩岸經濟美夢】</span></p>
+<p>
+	<span style="font-size:16px;">馬政府當年說，台灣一定要簽署兩岸服貿協議，加速兩岸經濟整合。</span></p>
+<p>
+	<span style="font-size:16px;">【夢該醒了！2018美中貿易戰開打】</span></p>
+<ul>
+	<li>
+		<span style="font-size:16px;">川普宣布對中國商品徵10-25%關稅，嚴重衝擊中國經濟。</span></li>
+	<li>
+		<span style="font-size:16px;"><span class="text_exposed_show">2018中國連續3季經濟成長率下降，創9年來最低。</span></span></li>
+	<li>
+		<span style="font-size:16px;"><span class="text_exposed_show">中國股市暴跌，上海股市2018年下跌3成，創4年來新低。</span></span></li>
+	<li>
+		<span style="font-size:16px;"><span class="text_exposed_show">至少40家台商規劃從中國回流台灣，返鄉投資熱潮新高！</span></span></li>
+</ul>
+<div class="text_exposed_show">
+	<p>
+		<span style="font-size:16px;">【雞蛋不能擺在同一個籃子裡】<br />
+		幸好，蔡英文政府減輕台灣對中國經濟的依賴，尋找更多國際經貿夥伴，避免台灣捲入經濟危機！</span></p>
+</div>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4b3137433855617a72703946376f6b43">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

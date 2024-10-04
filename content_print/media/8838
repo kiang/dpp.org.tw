@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-05</p>
+				<h2>反擊韓辦對《26條措施》樂觀其成    林飛帆：虛大於實、弊大於利</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國台辦宣布《26條措施》，民主進步黨副秘書長林飛帆今（5）日表示，昔有《對台31條》，今有《26條措施》，都是中共換湯不換藥的選舉迷湯。想必是中共支持的政黨不樂觀，才在打政治牌。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	對於韓國瑜辦公室以「樂觀其成」看待《26條措施》，林飛帆強調，《26條措施》虛大於實、弊大於利，完全是包裝一國兩制的行動方案。以香港作為前車之鑑，1997年香港回歸後，為收買香港人，中共同樣曾企圖給予香港人民同等待遇和各種經濟優惠，但實際上，香港在「一國兩制」下，如今已是優惠盡失。一國兩制是場騙局，中共想複製香港經驗，但台灣不是中共的白老鼠。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆提到，國民黨罔顧《26條措施》是包藏一國兩制的禍心，是26顆包著糖衣的毒藥。國民黨不僅支持不合時宜的馬政府靠中讓利政策，也把台灣帶進一國兩制的框架中。今天國民黨說民進黨政府遏止兩岸交流、把兩岸關係當選戰武器、付委中共代理人法，這些指控在在顯示，對於中共溫水煮青蛙式地吞食我國主權，國民黨毫無危機意識。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對今國台辦主任劉結一稱《26條措施》的理念是「兩岸一家親」、「親旺親好」和「為台胞做好事」，林飛帆說，這更證明中國企圖達到「一國兩制台灣方案」的兩項核心原則，包括所謂的「兩岸一家親」，我們不樂見有人呼應這樣的口號與論述。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆說，《26條措施》看似惠台，卻隱含很多矮化我國主權的陷阱，一不小心就會讓台灣受傷。他質疑，若中國心存善意想跟台灣交流、提出惠台措施，何必打壓演藝工作者參加「金馬獎」，強硬限制中客來台自由行？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆進一步表示，世界局勢跟過去已經不同，現在不是台灣鎖國，而是中國惡名昭彰的經濟操作，讓世界調整對中政策，美中貿易戰、印度退出RCEP、台商大規模回流都是案例。這不僅是世界趨勢，也是「美國隊」、「中國隊」的選擇。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆指出，民進黨政府不斷強化台灣自身經濟體，蔡英文總統執政三年來，發展新南向政策、促進產業轉型，而美中貿易戰態勢下，台灣經濟表現更逆勢成長，勝過其他亞洲國家。此外，民進黨今年公佈的《世代共贏決議文》也提及會繼續為台灣強化社會經濟體質，以及重新定位區域與國際角色。針對經貿，蔡英文總統也說過：「雞蛋不能放在同一個籃子裡。」作為區域樞紐，民進黨政府會避免台灣展業被中國市場左右，為台灣創造更多國際機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="586c726d385830636135567053717a4a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

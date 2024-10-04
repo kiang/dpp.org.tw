@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-26</p>
+				<h2>夏立言見國台辦高層 民進黨：敵我不分，向國際社會釋出錯誤訊息 </h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨副主席夏立言見國台辦副主任陳元豐，並一致認為「兩黨加強合作」，民進黨發言人林靜儀今（26）日表示，國民黨在中共當局對台極限施壓下執意訪中、與之唱和，完全敵我不分，向國際社會釋出錯誤訊號。</p>
+
+<p style="text-align: justify;">林靜儀指出，國民黨先前一再宣稱不見中共高官、不談政治議題言猶在耳，但卻連續會見中國海協會會長張志軍以及中國國台辦副主任陳元豐。顯示國民黨的各項發言與公開承諾都只是權宜之計，國民黨與朱立倫主席一再欺騙國人，毫無政治誠信。</p>
+
+<p style="text-align: justify;">林靜儀質疑，對於近期中國軍演與反制措施，中國國台辦副主任陳元豐公開宣稱「我們採取的反制行動是正當、正義之舉。」國民黨不僅沒有抗議還照單全收。在這種情況下，國民黨還同意「兩黨加強合作」！難道是要合作一起對台施壓嗎？<br />
+<br />
+林靜儀表示，夏立言是中國國民黨副主席，林祖嘉還在論壇上使用「朱立倫特別代表」的身分，朱立倫主席以最大在野黨的身分，毫不顧慮台灣全民的利益與尊嚴，在國際關注中國對台壓迫與威脅之際，與中國共產黨唱和，應該被唾棄。</p>
+
+<p style="text-align: justify;">林靜儀認為，夏立言見中共高官，表示國民黨與朱立倫之前說沒有見面行程的說法是徹頭徹尾的欺騙！配合中共當局演出政治戲碼，國民黨心中真的有台灣人民嗎？朱立倫與國民黨耍小聰明、以話術欺騙台灣人民，必須為此向國人道歉，給國人一個合理交代。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3255756e41597762664e57755a6e5554">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

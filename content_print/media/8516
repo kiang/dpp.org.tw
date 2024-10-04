@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-17</p>
+				<h2>民主進步黨第十六屆黨主席補選電視政見發表會協調會議新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨中央黨部今(17)日下午3點，邀集黨主席補選候選人游盈隆（指派代表范揚杰）、卓榮泰（指派代表吳振榜），就第十六屆黨主席補選電視政見發表會進行協調。會中決議召開二場電視政見發表會，分別在2018年12月29日(週六)下午2點於壹新聞(49頻道)、2019年1月4日(週五)下午2點於民視新聞台(53頻道)進行。此外，針對發表形式，雙方同意採用申論、交互詰問、結論方式進行。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7031486f5559456d4f73537542566256">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-08-03</p>
+				<h2>民主進步黨聲明稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對蔡易餘立委8月1日於臉書上發表【我們把陸配和外配差別待遇，剛剛好而已】一文，民進黨發言人吳思瑤今(3)日表示，民進黨無法認同此種說法，所有在台灣努力生活、為台灣共同打拼的新住民，包含陸配都是我們的家人，民主進步黨在此聲明。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	吳思瑤強調，自蔡英文總統上任以來，即揭示將努力照顧所有在台新住民的生活所需，包括開放陸配在公家機關工作之限制、開放陸配前婚姻子女在台生活、就學之便利等，亦積極研擬放寬陸配報考各類技術考試之限制、放寬陸配家屬來台探親資格之限制等，皆是希望陸配在台灣之各項權益與生活能獲得更多的保障及便利。此外，民進黨亦成立新住民事務委員會，希冀透過新住民委員的參與，能直接聽取包含陸配在內的所有不同國籍之新住民建議，作為與執政團隊之溝通平台與政策擬定之參考。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	吳思瑤表示，台灣是一個多元族群的社會，尊重多元族群亦是民進黨的基本理念。未來，民進黨將持續為在台灣之所有新住民，提供最好的生活照顧，讓每一個在台灣生活的人民都能安居樂業。然而，對於中國多次蠻橫打壓台灣的行為，我們也絕不會屈服，民進黨會持續捍衛台灣最為珍貴的民主價值。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6d5647533244324534444f3170676a41">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

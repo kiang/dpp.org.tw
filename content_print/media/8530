@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-15</p>
+				<h2>陪同黃振彥登記 卓榮泰呼籲選民為民進黨打下一劑強心針</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p class="p1" style="text-align: justify;">
+	<span style="font-size: 12px; -webkit-text-stroke-width: initial; color: rgb(34, 34, 34); font-family: &quot;PingFang TC&quot;;">民主進步黨主席卓榮泰今</span><span class="s4" style="-webkit-text-stroke-width: initial; color: rgb(34, 34, 34);">(15)</span><span style="font-size: 12px; -webkit-text-stroke-width: initial; color: rgb(34, 34, 34); font-family: &quot;PingFang TC&quot;;">日偕同立委黃秀芳、洪宗熠、彰化市長林世賢、前彰化縣長魏明谷、縣黨部主委邱建富及地方黨公職，陪同彰化縣第一選區立委補選參選人黃振彥完成參選登記，現場也有數十位支持者到場加油，展現團結氣勢。</span></p>
+<p class="p2" style="text-align: justify;">
+	&nbsp;</p>
+<p class="p3" style="text-align: justify;">
+	卓榮泰致詞表示，今天特別來到彰化，向鄉親推薦未來認真優質的立委黃振彥，過去黃振彥在地方服務的經歷，大家耳熟能詳，受過服務的人，對黃振彥都充滿信心。他相信，由黨所徵召的黃振彥，可以在彰化鄉親的再一次肯定，並賦予信諾的情況下，未來順利進入立法院。</p>
+<p class="p2" style="text-align: justify;">
+	&nbsp;</p>
+<p class="p3" style="text-align: justify;">
+	卓榮泰提到，雖然今天行程很滿，但無論如何都趕在登記前來到彰化，稍晚也要前往台中。他將今天定位為民進黨攻城掠地的一天，民進黨要在這次台中、彰化的立法委員補選中得到勝利，我們不僅要向選區的鄉親推薦，認真優質的好立委，也希望選民能在這次選戰中，為民進黨打下一劑強心針。卓榮泰強調，只有打下這支強心針，會讓我們感覺社會看到民進黨的反省、改革與改變，我們也一定深切將過去的反省放在心中，並對未來的檢討與改革，充滿信心。</p>
+<p class="p2" style="text-align: justify;">
+	&nbsp;</p>
+<p class="p3" style="text-align: justify;">
+	卓榮泰認為，唯有對鄉親的承諾，才是未來民進黨繼續得到信任唯一的方法。他與黃振彥一同向鄉親保證，會為地方建設提出最好的政見，並承諾一定做到，未來也會要求中央政府給予協助，共同完成對地方的承諾。他也代表黨中央，再一次拜託各位鄉親，在未來選舉給予黃振彥委員更多支持、熱情，我們一定用更實際的行動來回報大家。</p>
+<p class="p2" style="text-align: justify;">
+	&nbsp;</p>
+<p class="p3" style="text-align: justify;">
+	卓榮泰最後表示，民進黨在彰化縣的三位立委，也要將這場補選，當成自己的選舉，用聯合作戰、聯合服務的方式，把整個彰化當成共同選區來服務。他強調，這是一場關係民進黨再起的重要選舉，以黃振彥為代表，所有黨公職在選戰中不得缺席，一起努力，一定向鄉親提出最好的承諾，贏得信心。</p>
+<p>
+	<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 17.0px; font: 14.0px '.PingFang TC'; color: #444950; -webkit-text-stroke: #444950}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #444950; min-height: 14.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'PingFang TC'; -webkit-text-stroke: #444950}
+span.s1 {font-kerning: none; background-color: #f1f0f0}
+span.s2 {font: 14.0px 'Helvetica Neue'; font-kerning: none; background-color: #f1f0f0}
+span.s3 {text-decoration: underline ; font-kerning: none}
+span.s4 {font: 12.0px Helvetica}	</style>
+</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="74624465486679686a474f46336a4c4d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

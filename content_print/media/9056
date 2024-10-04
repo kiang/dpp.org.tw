@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-08-26</p>
+				<h2>民主進步黨第十九屆第二次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(26)日召開第十九屆第二次中執會，針對蘇震清中常委請辭後中常委暨中執委遺缺，其中中執委缺額，依第十九屆中執委選舉結果由蔡昌達同志依序遞補，並於今日宣誓就職；中常委缺額，會中推舉蔡易餘中執委出任中常委。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，會中邀請新境界文教基金會數位科技與創新組召集人陳正然以「5G產業發展趨勢與策略」為題進行專案報告，黨發言人顏若芳會後轉述蔡英文主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝謝新境界文教基金會陳正然召集人針對「5G產業發展趨勢與策略」所做的分析報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	資安產業不只關係到國家安全，更和整體產業經濟發展息息相關，我們必須秉持「資安就是國安」的精神，建立強有力的主動防禦系統，積極發展各項重要施政。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我們應提出公私協力策略，挹注新創服務、鞏固硬體及零組件商機，維持國家產業的核心競爭力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	「台美5G共同宣言」論壇活動也在今天舉辦，加強彼此在5G、人工智慧和數位貿易等關鍵科技領域的合作，攜手保障台灣5G的安全性與數位經濟發展，是我們的主要目標。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	未來我們也會持續透過產官學合作，加速5G智慧基礎建設發展；同時透過5G國家隊的力量，打進國際盃，讓台灣的5G連結以後的世界，開拓我們的眼界。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="30543343446c356646486756484b4b66">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

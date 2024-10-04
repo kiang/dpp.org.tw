@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-04-08</p>
+				<h2>民主進步黨第十八屆第五十六次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(8)日召開第十八屆第五十六次中常會，會中邀請中研院歐美研究所研究員林正義以「共機又來了：灰色地帶衝突案例」為題進行專案報告。黨發言人劉康彥轉述卓榮泰主席聽取報告後裁示如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝林正義老師，針對近來中國頻繁以軍機及艦艇擾台的意圖及因應，做了詳盡的分析及報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	當全球因武漢肺炎擴張，全力投入防疫之際，中國政府仍然持續對台進行各項文攻武嚇的統戰，目的是要藉由「灰色地帶」的衝突，以常態化、漸進式的軍機及軍艦航行台灣周邊，意圖改變現狀，已對亞太區域的和平及穩定造成威脅。對此，本黨呼籲國際社會正視並予以嚴正譴責。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台灣位居關鍵的戰略地位，除了持續提升我國的國防能力，料敵機先、想定對策、做好準備外，我們也應加強與所有擁有共同核心價值的國家合作，結合國際社會的力量，確保印太區域的民主及自由開放。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我們要感謝國軍，捍衛國家、寸土不讓的決心，在「不挑釁、不怯敵」的原則下，全程監控掌握，維護國家主權，以及國人生命財產的安全，也籲請國人要安心，政府會負起保家衛國的責任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此期間，防疫視同作戰，現階段國人必須保持高度的警覺心，尤其是連續假期剛結束，再次請國人及所有的黨員同志，務必配合中央疫情指揮中心的指揮，停止一切非必要的外出及群聚活動，落實防疫措施。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	過去，我們常常感佩醫護人員「視病如親」，此時此刻，全國人民更應該發揮視「醫護如親」的精神，自主管理、自我規範，不要耗用醫療資源，不要增加醫護人員負擔，才能共度難關。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最近以來，不僅口罩國家隊創造不可能的任務，獲舉世稱道之外，許多民間人士、團體、組織、基金會紛紛發起捐贈醫療物資，或者直接補助、獎助第一線防疫醫護人員的善舉，投入大量先進設備、物資與鉅額的善款，都是台灣人民團結與愛心的表現，令人敬佩。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我們絕不允許任何個人的疏忽、鬆懈，破壞整體努力的成果，籲請政府務必堅守所有的防線，不妥協、不手軟，提高要求、徹底執行，來維護每一個國民的健康、尊重生命。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，我們也希望不要因為疫情的關係，在國防的要求上打任何的折扣、有任何的閃失，政府跟人民在此時此刻必須通力合作才能度過這道難關。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4b7a655753335546314d5a6c79673158">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

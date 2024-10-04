@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-19</p>
+				<h2>《杜絕中國魔手伸入台灣－反介入、顧台灣》CF公布 蔡適應：面對中國介入，要團結對外，守護台灣民主</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(19)日發佈選前第二波電視CF《杜絕中國魔手伸入台灣－反介入、顧台灣》，民進黨發言人蔡適應表示，離投票日越來越近，相信國人也不斷感受到中國透過各式力量，嘗試干預台灣。這支CF也是向國人示警，不論是假訊息、網路霸凌，面對中國勢力對台灣的威脅與介入，我們更要團結一致對外，共同守護台灣民主。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡適應表示，主要內容就是希望藉著這支CF，提醒國人網路上許多假訊息，試圖影響我們對於民主自由的捍衛，讓國人清楚了解，這次除了是縣市長候選人的投票外，也是反對中國介入，保護台灣的投票。針對中國介入具體例子，在整個過程中，包括相關系統如國安會、國防部、外交部，以及行政院，都曾表達出許多關於假訊息介入的部分。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡適應提到，美國國務院副助卿巴斯比，在台美合辦的全球合作暨訓練架構演說中提及，根據美方了解，中國利用假訊息扭曲是非，試圖削弱民主制度。在各種網路社群平台，也都可以發現中國魔手已伸入台灣。透過大規模網軍，製造各種假新聞、釋放各種不實風聲、謠言，試圖影響政府施政、更嘗試干預台灣選舉的結果。蔡適應舉例，像是南海與國際輿論、介入美國政治、假斷交危機，亦或是不久前大阪風災的關西機場事件，帶風向文也證實來自北京。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，蔡適應提及，大規模的網路霸凌對台灣的威脅也不容忽視，從歌后詹雅雯為陳其邁演唱遭網路霸凌、到上週六在金馬獎奪下最佳紀錄片的導演傅榆，以及在臉書發表回應的鄭麗君部長，皆在網路遭到中國網友人身攻擊。藉著這支CF，就是為了告訴大家，不應有如此外力試圖干預選舉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，蔡適應表示，台灣民主得來不易，面對外來勢力利用台灣言論自由，打擊民主公眾意見、甚至導致台灣對立、破壞全民彼此間的信任的行為，相信國人與民進黨一樣不會縱容，更不會保持沈默。面對中國的各種威嚇，他也呼籲，11月24日，請國人一起用選票支持捍衛民主、堅守價值的民進黨候選人，民進黨一定與國人團結一致，共同抵擋中國勢力介入，捍衛台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="48796c3856766e6b4f68784f66586972">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

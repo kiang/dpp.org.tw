@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-12-07</p>
+				<h2>公投倒數11天　民進黨推越南、印尼、馬來西亞等多國新住民母語催票影片搶先曝光</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	距公投投票日倒數11天，婦女部今（7）日下午於臉書宣傳新住民公投催票影片，以越南語、印尼語、馬來西亞語、泰語、柬埔寨語等多國語言，號召新住民朋友12月18日踴躍出門投票，並投下四個不同意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	婦女部主任許嘉恬表示，這支催票影片特別邀請來自馬來西亞的立法委員羅美玲、越南新住民陳凰鳳、印尼新住民洪晶晶、泰國新住民合瓊玲及柬埔寨新住民洪玉等，在投票最後關頭，以新住民最熟悉的母國語言，號召把台灣作為新故鄉的新住民朋友們於12月18日踴躍投票，為台灣及下一代投下四個不同意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	距離12月18日公投僅剩倒數11天，許嘉恬主任再次拜託所有女性朋友，不分族群、不分地域，為了自己、為了孩子、為了台灣，現在就開始動起來，打電話、傳訊息大力催票，拜託身邊的親朋好友12月18日一起出來投下四個不同意，讓台灣更有力！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/yeLNnp9dbe8" title="YouTube video player" width="560"></iframe></div>
+<div style="text-align: center;">
+	&nbsp;</div>
+<div style="text-align: center;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4446673849534d345852553066355953">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

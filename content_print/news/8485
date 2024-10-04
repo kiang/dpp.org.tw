@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-10-10</p>
+				<h2>民進黨：期待朝野政黨共同約定信守四個堅持</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統蔡英文在國慶演說拋出「四個堅持」，國民黨主席朱立倫質疑是否能「說到做到」，對此，民進黨發言人顏若芳今(10)日回覆，今天是國慶日，更是朝野政黨應該團結一致，向世界展示我們捍衛國土，堅持自由民主意志的日子，國民黨朱立倫主席不用酸言酸語，蔡英文總統一定做得到，而這也是蔡總統上任後一直努力的方向。我們也期待在野黨一起約定信守四個堅持，宣示與中華人民共和國互不隸屬、主權不容侵犯併吞、回應台灣主流民意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文總統今天在國慶大會發表演說，就兩岸部分提出「四個堅持」，堅持自由民主的憲政體制，堅持中華民國與中華人民共和國互不隸屬，堅持主權不容侵犯併吞，堅持中華民國台灣的前途，必須遵循全體台灣人民的意志。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡總統也提到，會確保沒有人能逼迫我們走向中國所設定的路徑。因為中國所設定的路徑裡頭，不會有台灣民主自由的生活方式，更不會有兩千三百萬人的主權。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，今天是中華民國的國慶日，是國家重要的節日，不過近期對岸卻不斷進行文攻武嚇，威脅我國安全。在這樣的時刻，我們樂見朱主席願意提到「中華民國是主權獨立的國家」，也希望國民黨與朱主席面對中國打壓我們的時候，能夠挺直腰桿，堅持這樣的論述。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對朱主席提到「蔡總統忽略中華民國」、「國民黨最捍衛中華民國」等相關言論，顏若芳表示，朱立倫主席不用酸言酸語，蔡英文總統今日就是以中華民國總統身分發表國慶演說，蔡總統就任六年以來，中華民國沒有不見，國旗還更大面，蔡總統領導的民進黨政府堅持推動改革，推動國防自主、國機國艦國造，提升國軍裝備，強化自我防衛意識，就是守護這個國家、捍衛國土最具體的表現。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="317a6f744b38307971716f414e6e5476">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

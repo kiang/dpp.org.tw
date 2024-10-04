@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-14</p>
+				<h2>卓榮泰：讓黃振彥勇敢承擔，為彰化努力</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(14)日傍晚陪同彰化縣立委候選人黃振彥進行「彰化要燈會」徒步掃街至「為台灣 行作伙」活動會場。會中卓榮泰由立委黃秀芳、陳素月、洪宗熠、施義芳、何欣純、前彰化縣長魏明谷、黨秘書長羅文嘉、縣黨部主委邱建富等地方黨公職陪同出席，總統蔡英文也到場力挺，現場民眾士氣高昂，熱情揮舞旗幟，除高喊「彰化要燈會」外，當選聲也不間斷，營造勝選氣勢。卓榮泰表示，後天就要投票了，拜託各位鄉親，「3號黃振彥，送進立法院」，讓黃振彥勇敢承擔這項工作，為彰化努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，選舉剩最後一天，今天除了懇請大家幫忙拉票、顧票以外，他也要請問身為伸港人的柯呈枋三件事。首先，「你是誠實還是說謊？」，若要辭官參選，就乾乾淨淨，又或是誠實地說明，要去台中上班，然後請假回來參選。但結果卻是說要辭官參選，但偷偷跑到台中上班，在請假回來參選，領台中的薪水，選彰化的立委，這就是說謊。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰接著說，去年11月24日，我們選出了新的縣長，王惠美當選後，卻變成了「燈會沒」，我們也要問當過副縣長的柯呈枋，當王縣長放棄燈會的時候，有沒有盡到責任為彰化鄉親發聲，告訴王惠美，這樣是不好的，「你敢說嗎？你有說過嗎？」。柯呈枋一定不曉得影響這麼大，因為他沒有像黃振彥有辦過大活動的經驗。結果也讓彰化縣民失去了光榮、驕傲的機會，這個機會就讓黃振彥來討回來。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也提到，未來彰化最大的商機，就是離岸風電、能源轉型，世界各國的大公司，都要來彰化風場投資。但現在的彰化縣政府，一下要，一下不要，搖擺不定的態度。為了彰化的發展，他也要請問柯呈枋，「你有沒有告訴王縣長，一定要讓彰化的離岸風電，繼續發展下去？你有沒有能力，爭取中央跟彰化來合作？」。如果沒有，就讓黃振彥與其他三位在地委員，共同向中央爭取，一定會獲得中央全力協助，只要給黃振彥機會，他一定能達到。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，卓榮泰特別提到，彰化最近都在談論燈會，今天他也特別由兩台花燈車陪同，徒步走到這會場，就是要向彰化百萬縣民說，拜託大家把黃振彥送到立法院，「彰化要燈會，振彥來實現」。卓榮泰也再次強調，後天就是投票日了，拜託大家支持黃振彥，讓振彥在當鹿港鎮長時的好經驗，也讓彰化的鄉親看得見。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="576a7a5a51703844325437414f32706d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

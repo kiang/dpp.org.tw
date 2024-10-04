@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2011-04-08</p>
+				<h2>潛在威脅圈：從福島核災看福爾摩沙</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>在準備這一篇之際，我在<a href="http://drspieler.blogspot.com/"><span style="color: rgb(51, 102, 255); ">Spieler的部落格</span></a>上看到一張<a href="http://drspieler.blogspot.com/2011/03/blog-post_26.html"><span style="color: rgb(51, 102, 255); ">標有核四為圓心的台灣地圖</span></a>。那一張圖的製作水準頗高，且內容極具參考價值，連水庫的位置都標出來，值得推薦給每位居住在台灣的人，尤其居住在雲林與花蓮玉里一線以北者。感謝製圖者的用心與Spieler的介紹解說。&nbsp;<a href="http://blog.roodo.com/elysii/archives/15507085.html"><span style="color: rgb(51, 102, 255); "><span style="font-size: small; ">閱讀全文...</span></span></a><span style="color: rgb(51, 102, 255); "><span style="font-size: small; ">&nbsp;&nbsp;</span></span>by&nbsp;<span style="font-size: small; ">&nbsp;</span><a class=" aptureTMMSelection" accesskey="1" href="http://blog.roodo.com/elysii"><span style="font-size: small; "><span style="border-collapse: collapse; clear: none; cursor: auto; float: none; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; letter-spacing: inherit; margin-top: 0pt; margin-right: 0pt; margin-bottom: 0pt; margin-left: 0pt; outline-width: medium; outline-style: none; outline-color: initial; position: relative; text-decoration: inherit; text-indent: 0pt; text-transform: inherit; vertical-align: baseline; white-space: inherit; word-spacing: inherit; background-color: transparent; background-image: none; border-top-width: 0pt; border-right-width: 0pt; border-bottom-width: 0pt; border-left-width: 0pt; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-color: initial; display: inline; padding-top: 0pt; padding-right: 0pt; padding-bottom: 0pt; padding-left: 0pt; line-height: inherit; "><span style="border-collapse: collapse; clear: none; cursor: auto; float: none; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; letter-spacing: inherit; margin-top: 0pt; margin-right: 0pt; margin-bottom: 0pt; margin-left: 0pt; outline-width: medium; outline-style: none; outline-color: initial; position: relative; text-decoration: inherit; text-indent: 0pt; text-transform: inherit; vertical-align: baseline; white-space: inherit; word-spacing: inherit; background-color: transparent; background-image: none; border-top-width: 0pt; border-right-width: 0pt; border-bottom-width: 0pt; border-left-width: 0pt; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-color: initial; display: inline; padding-top: 0pt; padding-right: 0pt; padding-bottom: 0pt; padding-left: 0pt; line-height: inherit; ">Passion: 慕容理深のblog</span></span></span></a></p>
+<p>&nbsp;</p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6e54744f6f393142594d517552314959">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

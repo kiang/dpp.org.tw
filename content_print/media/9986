@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-02-19</p>
+				<h2>民進黨：林明溱是「插隊魔人」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民進黨副秘書長黃建嘉今（19）日爆料，林明溱在2021年8月看診時，曾經特權插隊，直接進入診間。黃建嘉表示，林明溱熱愛插隊，看醫生的時候要插隊，兒子民調落後的時候也要插隊，證實了林明溱心中非常自私，一切以自身利益為優先。</p>
+
+<p style="text-align: justify;">黃建嘉指出，影片中其他病患都在排隊等看醫生，林明溱一進來就直衝診間，牆上號碼也都沒動，過了15分鐘才戴著鴨舌帽、口罩，頭低低、心虛地快步離開診所。請問林明溱，敢插隊為什麼不敢面對？</p>
+
+<p style="text-align: justify;">黃建嘉直言，林明溱團隊說他有請幕僚事先預約看診，是又在欺騙社會。其實，看著牆上的號碼，就可以知道林明溱是「1」號，而且即便是預約也要等叫號，不能直接走進去診間。林明溱可否開班教學南投鄉親，要如何每次預約都是1號？也請教導鄉親要如何直接衝進診間而不會被醫生趕出去？</p>
+
+<p style="text-align: justify;">黃建嘉認為，林明溱就是耍特權。特權黑官、特權停車位，如今還被發現看醫生也有特權。請林明溱向南投鄉親解釋清楚，任內濫用幾次特權看醫生？要不要向守秩序好好排隊的鄉親道歉？</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="686665525538744e746b727639744577">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

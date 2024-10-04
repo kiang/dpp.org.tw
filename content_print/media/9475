@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-03-30</p>
+				<h2>民主進步黨第十九屆第十二次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(30)日召開第十九屆第十二次中執會，會中通過徵召提名江聰淵同志參選宜蘭縣長、蔡培慧同志參選南投縣長。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，會中准予核備「新竹縣黨部第四、五類公職候選人提名辦法」、「高雄市黨部第四、五類公職候選人提名辦法」、「嘉義縣黨部第四、五類公職候選人提名辦法」，另准予核備變更苗栗縣議員第5選區提名名額。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	會中也對參與2022年直轄市議員提名初選登記的256人進行資格審查，並通過23個同額競選選區停辦民意調查作業；另通過新北市第1選區、新北市第3選區、台中市第3選區、台南市第1選區，經協調後共4人退選，其中新北市第1選區、台中市第3選區，經協調退選後形成同額競選，一併停辦民意調查作業。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	發言人謝佩芬補充說明，針對直轄市議員初選民調執行順序，經會後抽籤，4月11至17日執行高雄市；4月18至24日執行台南市；4月25至5月1日執行台北市與桃園市；5月2至8日執行新北市；5月9至15日執行台中市。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="45376453514f365a4657595437544c58">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

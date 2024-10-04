@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-02-01</p>
+				<h2>國民黨「不演了」，推罷免吳思瑤  顏若芳：證明國民黨就是「假罷免，真鬥爭」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨今(1)日正式成立罷免立委吳思瑤總部，民主進步黨發言人顏若芳表示，從過去桃園中壢、高雄鳳山市議員的罷免案，到今天國民黨直接由黨籍市議員領銜成立罷免吳思瑤立委總部，證明國民黨終於「不演了」，也證實這些罷免案背後都是國民黨在主導的報復性罷免行動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，吳思瑤立委不僅是公民團體公督盟與口袋國會評鑑表現優秀的立委，也為士林北投爭取許多建設資源，像了解年輕父母的辛苦，在四年內成功爭取公立和非營利幼兒園增設1551班、4.1萬個名額，第一個提出『學校飲食法』的立專法為校園食安把關，為士林北投的學校爭取耐震補強、老舊廁所與運動空間等改善工程，也促成新北投車站歸鄉、北投影視音產業園區招商、中心新村眷村文化保留，以及修復士林北投文化資產十餘處等，不論是立院問政，還是爭取地方建設，吳思瑤的優秀表現都是有目共睹。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，國民黨透過士林、北投區的市議員，直接發動罷免同選區的立委吳思瑤，而這幾位國民黨市議員罷免吳思瑤的舉動，更直接與他們未來政治利益相符，如此露骨的政治鬥爭行徑，不但令人遺憾，更證明國民黨一連串針對無黨籍與民進黨籍的民意代表的罷免活動，其實是「假罷免，真鬥爭」的政治性報復行動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳說，國民黨不但傾全黨之力支持不具正當性的黃捷罷免案，現在更直接由國民黨地方議員成立罷免吳思瑤立委總部，要罷免一位優質的民選立委，這樣是非不分、只為政黨利益的罷免行動，也說明了國民黨在江啟臣的主導下，已經走上非理性鬥爭路線。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳說，像吳思瑤如此優質的立委，問政成績備受公民團體好評，為地方爭取建設不遺餘力，卻還遭到國民黨惡意操作報復性罷免，相信民眾自有公評，這種不理性、只為政黨利益的政治操作終將不會獲得支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4b67454e384c77744f5466697a766b61">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

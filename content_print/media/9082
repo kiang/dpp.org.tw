@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-11-09</p>
+				<h2>國民黨美豬誘導式民調超前佈署，江啟臣反川普也反拜登？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨今(9)日召開記者會誣稱民進黨政府押錯寶，有六成民眾盼暫緩美豬進口，民主進步黨發言人顏若芳表示，美國總統大選甫底定，國民黨竟能「超前佈署」在大選結束前就做出民調結果，明顯「先射箭後畫靶」，政治操作動機毫不遮掩，難道國民黨不但反川普，也要反拜登？江啟臣主席真的押寶中國？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，美國總統大選直至昨(8)日，拜登才宣布勝選，各國領導人也表示祝賀之意。但國民黨卻在5-6日就用誘導式的預設民調題目製造民意，企圖帶風向，坐實了國民黨滿腦子只有政黨利益盤算，卻絲毫沒有將台灣國際經貿的發展放在心上。按照國民黨的立場，不但是反川普，更反拜登。更無視歷經好幾任美國總統，不管是民主黨，還是共和黨執政皆曾向台灣政府表達開放肉品的一貫立場，</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳說，2012年，馬英九前總統在CODEX還未訂定出標準前，就急於想開放含萊克多巴胺美國肉品進口，甚至說出「談判TIFA，美牛非過不可」。如今，國民黨面對同樣含萊劑美豬卻昨是今非，為反而反。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，對於放寬美國含萊克多巴胺豬肉進口，我們的立場始終一致，依照國際標準，守護國民健康，保障國內畜牧產業。呼籲國民黨應停止政治操作的行為，回歸理性討論，摒除自身政黨利益的盤算，以合作取代對抗，一同讓台灣在國際上更有信用，跟世界各國接軌。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="73384a4f67354443667959464659756c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

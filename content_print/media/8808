@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-14</p>
+				<h2>卓榮泰：把蘇巧慧、吳琪銘留在國會為大家服務 讓「總統連任、國會過半、政黨票支持民進黨」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(14)日在立委蘇巧慧、議員廖宜琨、樹林濟安宮董事長陳黃綠妹陪同下，出席「蘇巧慧幹部輔選座談會」。濟安宮志工團與百位鄉親也到場，高喊「台灣要贏，樹林先贏」為蘇巧慧加油打氣。隨後，他也在立委吳琪銘、議員林銘仁、彭成龍、廖宜琨與地方黨公職陪同下，出席「蔡英文總統、吳琪銘立委候選人聯合競選總部輔選幹部座談會」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，蘇巧慧委員過去不管是法學素養、問政實力，在國會多方面的涉略，在政策討論上也非常深入、專業，今天看到蘇巧慧的扇子，都是她的政績，上面所寫的、所做得事情，都代表她過去的努力、汗水與未來，希望大家人手一扇，用扇子來拉票，為蘇巧慧爭取更多選票。他拜託大家，一定要把樹林與這區守住，為樹林共同努力，把蘇巧慧委員留在國會，讓好的立委繼續留在國會發光發熱，讓好的立委在地方創造更多福利。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，吳琪銘過去擔任三屆議員都高票當選，他最知道地方的需要，是一位很踏實服務的立委，這個選區有很多過去長年以來的問題，在吳琪銘委員這幾年的努力下，都一一得到很好方向來改善，他也拜託大家「固土城、拚三峽」，「固土城、拚三票」，把這三張票固好，讓「總統連任、國會過半、政黨票支持民進黨」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，新北市是兵家必爭之地，民進黨在新北市也有一個大的戰略，用決議文的行動綱領來做為大戰略，新北市的立委候選人要聯合作戰，所提出的12位立法委員候選人，要合作一體，不分彼此，把新北市當作大戰區，大家互相拉抬、互相支援、互相拉票。只有如此，我們的票數才能堅固，繼續往上升，用靈活的戰術來打贏這場選戰。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，卓榮泰也對濟安宮志工團呼籲，在中國，宗教是沒有選擇的，中國政府想要怎麼處置就怎麼處置，他們的宗教沒有未來也沒有方向，而這就是政府要保護的，保護台灣的主權與安全，讓人民能夠安居樂業，保護人民有選擇宗教信仰的權利。所以，一定要讓蔡英文連任，讓民主的國會過半，給總統有力的支柱，保住台灣的主權。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="746f387545483775776539706432464b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

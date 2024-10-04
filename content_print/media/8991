@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-03-11</p>
+				<h2>民主進步黨第十八屆第五十四次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(11)日召開第十八屆第五十四次中常會，會中通過於3月18日（三）召開中執會，此外，會中邀請中央研究院社會學研究所副所長陳志柔以「台灣政治版圖變動：機遇、結構、意識形態」為題進行專報告。黨發言人李晏榕轉述卓榮泰主席聽取報告後裁示如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	陳副所長詳細說明長期以來，「台灣社會意向」的變動與觀察，讓我們對台灣民意長期的趨勢，有更深刻的瞭解。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	從過去的台海危機，到2019年習近平「一國兩制 台灣方案」、香港「反送中」運動，乃至目前的武漢肺炎疫情蔓延，中國持續操弄輿論、打壓台灣，造成對立，破壞我們的民主自由，台灣的生存與民主發展，面臨極大的威脅。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	陳教授的報告，讓我們深刻瞭解，此次2020的大選，世代跟階級兩個關鍵因素，左右了選舉結果。而在總統大選部分，蔡總統雖獲得史上最高選票的支持，但我們也體悟，許多國內重大議題諸如低薪、高房貸、環境生態保護是未來我們必須繼續努力，不可迴避的挑戰。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	本黨堅持台灣主體，捍衛國家主權與安全，不容挑戰，會在「和平、對等、民主、對話」基本原則下，繼續開展兩岸交流，維護亞太地區的和平與穩定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨長期追求並實踐進步價值，我們期望透過執政，將更多的資源，挹注到托育、居住正義、長照、弱勢照顧等等，讓這些人民關注的議題，獲得改善。同時，我們也將持續提高與擴大青年參政，讓年輕的聲音被聽到與重視。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨深刻體會，唯有不同世代間同心協力，台灣社會才能全面進化，真正達成「社會同行，世代共贏」。而在改革與發展中必有衝突，這些都需要仰賴溝通與和解，才能團結台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，有關於紀念版飛行夾克後續相關狀況，李晏榕說明，紀念版飛行夾克最終收到逾一萬兩千件之預定，扣除相關製作成本後，結算本次政治獻金收入777萬元將全數捐助衛福部疾病管制署，指定做為防治「嚴重特殊傳染性肺炎工作」使用，也希望可以透過這樣子的行動，感謝所有第一線防疫工作人員及行政團隊，共同守護台灣，為人民健康把關。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6978386a6373647555326c377a615872">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

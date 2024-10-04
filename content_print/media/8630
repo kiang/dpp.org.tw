@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-12</p>
+				<h2>民主必須自我保衛  譴責一國兩制遊行</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對中國統促會宣揚「一國兩制、九二共識」的集會遊行，民主進步黨發言人李明俐今（12）日表示，中國正利用台灣民主自由所賦予的空間，透過此類的行動，分化台灣社會，以加速其意圖併吞台灣的進程。對於中國全面思想滲透的行為，我們都必須嚴肅以對，不可掉以輕心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李明俐指出，台灣是保障言論自由與集會遊行自由的國家，但一如傷害台灣主權與民主的假新聞是言論自由的濫用，協助併吞台灣的集會遊行，亦非集會自由的正確行使，我們的社會不能加以鼓勵，必須予以抵制。中國不論是收買主流媒體、網路社群，以假新聞、假訊息操弄輿論方向，分化台灣社會，還是透過特定的政治組織，以辦活動為由，宣揚中國的一國兩制的思想，粉飾中國友善的假象，就是利用台灣民主自由的制度，來破壞台灣民主自由的價值，遂行中國終極統一台灣，實現國家強權擴張的目的。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李明俐表示，中國的併吞野心顯而易見，但仍有部分政治團體與人士配合中國來傷害台灣，像是台中市盧秀燕市長，作為依台灣民主制度，由台灣人民選舉而出的市長，一方面說不願協助台灣民選總統的維安交管，另方面卻同意市警局核准支持中國併吞、武統台灣的集會遊行。不為總統開路、卻為中國帶路，如此行為讓人感到非常荒謬錯亂。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李明俐強調，面對中國對台灣日趨張牙舞爪的侵略態度，不管是明目張膽的輿論恐嚇，還是暗地的思想分化，我們都必須提高警覺，昨日政府針對主張的中國武統學者，假借旅遊觀光名義，企圖違法參與政治活動，明快將其驅離出境，民進黨給予正面的肯定與支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，李明俐表示，我們台灣人要勇敢的對中國說，民主、自由是台灣人民最寶貴的資產，我們絕不退讓，更不容許中國利用來進行思想滲透、社會分化的行為，也鄭重呼籲一些特定政治團體與人士，不要唱和、協助中國的併吞行為，利用台灣的民主自由，來傷害民主自由本身。呼籲社會大眾對相關行動提升警覺、共同譴責，讓我們的民主，能夠有自我保衛的機制。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d5935677038435865376b6c3535674f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

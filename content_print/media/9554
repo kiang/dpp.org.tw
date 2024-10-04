@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-05-26</p>
+				<h2>民進黨：國民黨拿缺電恐嚇國人、錯誤類比誤導視聽</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨立法院黨團今（26）日召開記者會抨擊民進黨的能源政策，民進黨發言人李妍慧回應，一直以來國民黨不斷拿「缺電」恐嚇國人，事實上，台灣這幾年來用電需求確實增加，主因是我們經濟的優異成長，連帶也帶動用電成長，國民黨以「發展中國家基礎建設不足」的概念來做錯誤類比，是在誤導視聽。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李妍慧指出，除了持續推動節能外，電力需求增加與否，反映出一個國家的經濟狀況好壞，國民黨吹噓在其執政時期，沒有所謂「缺電」問題，其實真相是該時期經濟低迷、產業大量出走，讓國內失業率飆高，當然也不需要積極發展供電建置，國民黨的說法根本是倒果為因。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李妍慧進一步說到，國民黨指責政府能源政策錯誤，過去自己卻因錯誤政策嚴重影響台灣經濟發展，阻礙台廠與國際潮流接軌。其中包括「怠於新電源開發」、「疏於電網更新維護」、「忽視再生能源發展」等三大能源怠惰。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在「怠於新電源開發」方面，李妍慧指出，馬政府任內僅核定317.6萬瓩的電力興建，供電能力僅增加168萬瓩，相較之下，蔡政府光第一屆任期內就核定了1767.8萬瓩的電力興建，供電能力也增加了433萬瓩。在「疏於電網更新維護」部分，馬政府更新電網的預算從2010年的295億，到了2016年僅剩135億，致使許多地方因為輸電線路的問題嚴重限制發展。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	關於「忽視再生能源發展」，李妍慧表示，馬前總統過去曾公開表示再生能源的定位是「丑角」，只在意核電發展，耗費國家鉅額經費於危險核四廠錢坑上，換來的是，讓台灣在能源轉型與再生能源發展嚴重的落後，差點讓台灣錯失掉與世界大廠和國際供應鏈接軌機會，嚴重影響自身競爭力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李妍慧強調，在全球淨零轉型的趨勢下，綠電供應已是許多國際知名大廠投資與否的重要指標，相對於國民黨對綠電發展的短視，蔡英文總統上任後，積極推動能源轉型，全力發展綠能產業，像是Google、亞馬遜、微軟等加碼投資台灣，若依照國民黨過去在單押在核電，輕視綠電發展，別說國際大廠不會來台投資，就連擁有半導體先進製程的台積電，恐也無法滿足上游廠商綠色供應鏈需求，遑論擴大在台投資，不知國民黨有什麼立場，拿廠商出走的說法來威脅政府。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="30633070746677627338314c5a516a48">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

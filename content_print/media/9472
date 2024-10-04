@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-03-17</p>
+				<h2>包場觀看《時代革命》 蔡英文：香港經驗告訴我們，民主自由是我們堅守的價值</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民主進步黨主席蔡英文今(17)日邀請國策顧問、小英之友會、小英志工團朋友們，以及圖文作家A RAY、YouTuber鍾明軒、含羞草日記草爺、藝人郭昱晴一同包場觀賞電影《時代革命》，以行動力挺香港。此外，受邀出席本次《時代革命》觀影活動的貴賓有文化部長李永得及《時代革命》台灣發行商代表。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文主席致詞全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	《時代革命》紀錄片發行團隊、陳義丕總團長、陳茂仁總會長、李永得部長、賴正時總會長、我們的黨工夥伴和家人、小英志工團的朋友，現場還有好幾位國策顧問和我的KOL朋友，就不一一問候了，大家晚安，大家好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	歡迎大家一起來看《時代革命》。這部紀錄片，真實呈現香港反送中運動的過程，在2月25號上映之後，短短不到一個月，就成為今年最賣座的紀錄片，也獲得很大的迴響和關注。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	包括賴副總統、蘇院長、游院長，還有我們的執政縣市首長，都紛紛包場響應。我也在社群平台上，用中文和英文，推薦大家走進電影院，一起支持《時代革命》。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在這段時間，有許多網友留言給我，他們跟我分享，看完這部紀錄片，對香港徹底改觀，尤其是看到香港年輕人，用血淚和生命對抗威權，勇敢地為自己，也為香港爭取民主自由，令人非常敬佩。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	也有許多朋友建議，一定要帶面紙進場，片中有好幾幕抗爭的場景、手足奮戰的情誼，都讓人感動落淚。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我相信，這是每一位台灣人，都應該來看的紀錄片；這也是所有關心香港前途、民主發展的人，都應該來看的紀錄片。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	藉著這個機會，我要謝謝周冠威導演，以及跟他一起拍攝後製，卻無法具名的團隊成員。他們冒著很大的風險，才能完成這部紀錄片。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我也要謝謝台灣的發行團隊，大家都很熱血，也為了香港，多盡一份心力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台灣是全世界唯一上映《時代革命》的國家，這段時間也有很多香港網友留言給我，他們很謝謝台灣上映《時代革命》，讓更多人知道香港的真實處境，他們也希望疫情結束以後，能有機會來台灣看這部片紀錄片。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台灣也走過漫長的民主化道路，對香港朋友的經歷，我們更能感同身受，也讓我們更加珍惜得來不易的民主自由。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此時此刻，面對全球威權主義持續擴張，香港的經驗告訴我們，民主自由是我們堅守的價值，也是社會最大的共識，沒有任何退讓的空間。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	未來，台灣會繼續深化民主、捍衛價值，也要呼籲國際民主陣線的盟友，一起來撐香港、關心香港，給港人最大的支持和聲援。謝謝大家。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="714c5351785357666b65326b7174714a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

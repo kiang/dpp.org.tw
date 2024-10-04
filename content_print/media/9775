@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-29</p>
+				<h2>國務青「繽紛18路」嘉義噴水圓環開講 李俊俋攜「嘉義隊」作伙相挺18歲公民權</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民進黨青年部「繽紛18路」行動今（29）日來到嘉義市噴水圓環，與嘉義市長候選人李俊俋以及「嘉義隊」議員黃露慧、蔡文旭、黃大祐、凌子楚、議員候選人黃盈智、許明對、陳品蓁、林煒軒等到場力挺，一同宣傳18歲公民權修憲複決。</p>
+
+<p style="text-align: justify;">除了在噴水圓環宣講外，國務青與在地青年也走進文化夜市，透過活潑生動的快閃舞蹈，宣揚年輕人的心聲，號召攤商與民眾一起支持18歲公民權。</p>
+
+<p style="text-align: justify;">李俊俋表示，這次宣講特別挑在噴水圓環，不僅呼應嘉義每次選前拚場的「噴水之夜」，更凸顯嘉義作為民主聖地，相挺年輕人掌握自己未來的決心，補足青年公民權的最後一塊拼圖。</p>
+
+<p style="text-align: justify;">李俊俋強調，他以往在立法院就是修憲小組、修憲委員會的召集人，18歲公民權就是其中一個耗費眾多心力的案子，這次終於進入公民複決，一定要一鼓作氣通過18歲公民權，不讓年輕人的期望落空。</p>
+
+<p style="text-align: justify;">李俊俋表示，民主社會不能缺少年輕人的參與，這次必須要還給青年應有的政治權利，呼籲市民一起支持18歲公民權，讓國家持續進步。</p>
+
+<p style="text-align: justify;">民進黨青年部主任蔡沐霖表示，國務青「繽紛18路」行動累計已在超過18種場所進行宣講，證明「國務青」年輕夥伴不只是喊口號，更能用實際行動證明支持18歲公民權的決心。蔡沐霖表示，接下來國務青會再接再厲挺進更多不同縣市，在不同場所爭取不同年齡層民眾的支持，共同來達成18歲公民權修憲的目標。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="343059304438564e62466454564b764b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

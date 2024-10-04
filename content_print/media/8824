@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-24</p>
+				<h2>展開兩天台中輔選行程 卓榮泰：把何欣純、張廖萬堅留在國會「護國保台」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(24)日在立法委員何欣純與地方黨公職陪同下，出席「何欣純與黨員同志座談會」。卓榮泰表示，何欣純離開舊選區，依然感念著舊選區，不管未來在哪裡，心會一直在大里，只要各位鄉親投她一票，何欣純會一直服務大家，現場也響起熱烈掌聲表示認同，支持何欣純繼續留在國會。結束大里座談後，隨即在立委張廖萬堅、議員林祈烽、台中市黨部主委何明杰等地方黨公職陪同之下，前往西屯廣興宮參拜，出席「張廖萬堅委員與民有約座談會」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，這次民進黨在全國提名70位立委參選，其中有46位是現任立委，民進黨尋求連任的委員在各個選區當中都有非常傑出的表現，過去他在行政院的時候，看到何欣純委員對中小企業、勞工、婦幼兒童、交通預算爭取等方面都讓他記憶深刻。他提到，何欣純委員在這次選舉聽起來比較安全，但是不能這麼講，距離投票還有將近三個月，三個月的變化是千變萬化，拜託大家一定要用選票給何欣純肯定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，張廖萬堅委員在立法院，關心年輕人所關心的體育活動，推動國民體育法，讓體育界煥然一新，增加很多活力、人才、政策，所以稱呼他為體育立委，年輕人才知道年輕人的需求，張廖萬堅有股年輕的氣力。此外，更是四年獲得四次優質教育文化立委。另外，張廖萬堅也是一位照顧環境的環保立委，對水環境的維護，爭取前瞻基礎建設，整治改善惠來溪、潮洋溪、筏子溪、黎明溝等，讓台中生活環境品質愈來愈好。如此優質的立委值得大家再繼續支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，這次整體選戰的定調是「護國會、保台灣」，他拜託大家，在1月11日走進投票所，蔡英文總統一票、何欣純、張廖萬堅立委一票、政黨票投給民進黨，讓能夠保台灣的蔡英文總統連任、民進黨在國會過半，才能讓蔡英文總統及執政團隊的政策推動更順利。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="74487839456156544572385153505058">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

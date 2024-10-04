@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-06-27</p>
+				<h2>民進黨：支持電價合理調整　全台住宅用電有97%用戶不受到影響</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對電價審查會議今（27）日公布的電價調整結果，民進黨發言人周江杰表示，這波調整中，全台住宅用電有97%用戶不受到影響，許多工業用電廠商也已經表達支持合理調整的意見。台灣的民生用電為全球第四低、工業用電排名全球第六低，民進黨支持適度調整電價以反映實際成本和使用者付費原則，兼顧民生、穩定物價、節約能源與強化電網的目標。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，受到俄烏戰爭等因素影響，燃煤價格成長290%、天然氣價格成長102%，今年各主要國家皆已大幅度調整電費，如美國調漲12.9%、日營的東京電力公司調漲約32.6%、中國漲足上限20%，南韓與新加坡分別調漲5%與23%，澳洲的電價更是直接翻倍，各國都因應國際情勢進行調整。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，民進黨執政六年以來，這次是首度調漲電價，顧及民生需求與物價，漲幅相對較低，對比於相較於馬英九政府任內兩次調整電價，且連同民生用電也大幅調漲，衝擊人民生活更大。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰進一步說，近年來台灣的經濟成長良好，外銷訂單持續增加，企業界多半也表示可以承受適度的漲幅，這是民進黨相對於過去馬政府在經濟低迷下還要調漲電費的最大差距，目前檯面上許多的企業經營者，例如台塑集團、台泥、和碩、環球晶圓、遠東集團，皆願合理負擔用電成本。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，針對國民黨人士稱「因為廢核才導致電價調漲」、「廢核造成台灣缺電」，周江杰表示，世界許多有使用核電的主要國家，例如英國、法國、中國、日本，他們的電價都明顯高於台灣，今年也有多個國家調整電價，核能多寡與電價高低並無直接關係，國民黨政府任內沒有積極的能源開發，也疏於維護電網，把希望單押在蓋不好又動不了的核四，才是拖垮台灣電力供應的錯誤政策。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4959636d30435352595261506d49396c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

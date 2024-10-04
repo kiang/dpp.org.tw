@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-19</p>
+				<h2>核電問題轉轉轉 主權問題閃閃閃 朱立倫才是真正騙騙騙</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對新北市前市長朱立倫的「騙騙騙」之說，民主進步黨發言人周江杰今（19）日回應表示，請朱立倫先生在批評民進黨之前，自己是不是要先為自己之前反核，現在擁核，立場飄移不定，態度反覆，跟台灣人民講清楚說明白，到底過去反核的新北市朱立倫市長，現在為爭取國民黨總統提名而擁核的朱立倫前市長，哪一個才是真正的朱立倫？朱前市長自己昨是今非，還想擾亂是非，毫無誠信可言。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰提到，當台灣受到中國武力威脅，用「一個中國原則」打壓國際參與，國民黨的「一中各表」被中國打臉時，我們都未曾看到朱立倫前市長為台灣發過聲，捍衛台灣國家主權，更未見到朱立倫跟台灣人民站在一起，向中國要求放棄武力威脅台灣，要求中國承認台灣是一個主權獨立的國家，與台灣是以對等地位進行交流。另外，東亞各國境內空氣品質，受到中國的空污外移嚴重影響，紛紛向中國提出要求改善其境內空污問題時，朱立倫是不是也該為台灣人民的健康，向中國政府提出抗議，要求中國改善其國內空污問題呢？而不是只會對內嘲諷，抹煞民進黨要用綠能解決空污問題的努力及決心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰進一步指出，2020年台灣將進行總統及立法委員選舉，台灣人民能夠行使投票權，選出自己國家的總統及國會議員，就是代表一個國家主權獨立的表徵，朱立倫先生，2016年曾代表中國國民黨參選總統，現在又要爭取國民黨總統提名，他不知道選舉是國家憲法賦予人民的權利，而國家憲法所代表的是一個國家主權獨立的事實嗎？當他否定台灣是主權獨立的國家時，那他又何必要爭取國民黨總統提名，又希望台灣人民支持他選總統呢？他的立場跟說法，矛盾到讓人有霧裡看花的感覺。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰強調，不管是國家能源政策，台灣是一個主權獨立的國家，民進黨跟蔡英文總統的立場跟態度從未改變過，非核家園是台灣社會普遍的期望，台灣必須要能源轉型，用綠能取代核電，讓台灣人避免核安的恐懼，也透過綠能發展，才能真正的解決台灣空污問題。而朱立倫這樣，面對核電問題「轉轉轉」，面對主權問題「閃閃閃」，堪稱政壇七彩霓虹燈，誰才是典型的騙騙騙，相信台灣人民都很清楚，請朱立倫先生不要為個人想爭取國民黨提名，卻無的放矢地批評民進黨，朱先生是不是該先跟台灣人民說清楚，面對中國強權的威逼下，他是不是也認同要簽署投降式的和平協議呢？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="576a524731346a6c4f41415744303034">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

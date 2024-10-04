@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-05-05</p>
+				<h2>出席碧龍宮八卦祖師聖誕 賴清德：深化台灣民主、維持兩岸和平、發展經濟</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨主席暨總統候選人賴清德今（5）日出席鶯歌碧龍宮八卦祖師聖誕慶典並進行參拜，賴清德表示，感謝鄉親熱烈歡迎，希望未來和大家並肩作戰，在蔡英文總統的基礎上，繼續努力讓台灣民主深化、維持兩岸和平、發展台灣經濟。</p>
+
+<p style="text-align: justify;">賴清德主席由立法委員蘇巧慧及地方黨公職陪同，到場就受到數百位信眾及支持者熱烈歡迎，紛紛高喊「凍蒜」、「總統好」，廟方則致贈金龜並附上寫有「眾望所歸、心想事成」字卡，祝福意味濃厚，賴清德也和信眾合影留念，場面熱絡。</p>
+
+<p style="text-align: justify;">賴清德致詞時，除先對廟方的邀請和民眾的熱烈歡迎表達感謝，也講述過去的成長歷程，以及為何從政的原因。賴清德表示，自己是在新北市萬里區的一個礦區長大，父親在從事礦工工作時意外過世，由媽媽養育成長，從小就立志擔任醫生，在認真打拚讀書之下，終於擔任成大內科總醫師，但當時社會變化很大，特別是中國發射飛彈到台灣，覺得國家有危機，所以和很多年輕朋友一起投入選舉到現在，承蒙大家的疼惜。</p>
+
+<p style="text-align: justify;">賴清德強調，希望未來和大家並肩作戰共同打拚，在蔡英文總統的基礎下繼續努力，深化台灣民主、維持兩岸和平、發展台灣經濟。特別是黑金、槍、毒一定要解決，「讓社會安定和諧、充滿公益，讓年輕人可以看到希望，壯年人可以實現理想，長者可以得到照顧，弱勢可以得到幸福」。</p>
+
+<p style="text-align: justify;">最後賴清德也表示，碧龍宮是在地的信仰中心，也是公益化身，在周德永主委的帶領下，時常幫忙協助弱勢和解決地方的種種問題，讓他很敬佩，「他會秉持這樣的精神服務社會、推動國家建設」。賴清德也向鄉親懇託支持，希望大家可以支持他和立法委員蘇巧慧。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4e417366647a6e435468747970487656">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

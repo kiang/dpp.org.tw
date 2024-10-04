@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-18</p>
+				<h2>針對《上報》報導之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	針對昨日《上報》報導指出「李余典補選之戰被勸退，黨中央承諾下屆推他卻跳票」一事，民主進步黨發言人李明俐今(18)日表示，報導內容與事實不符，絕無此事。三重原本就是黨內初選選區，該區初選結果由余天勝出，代表本黨參選該區立委席次，過程皆依照黨內民主機制進行。為避免錯誤訊息淆誤輿論，特此說明。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6e4153494d656d30736d6b4148583048">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

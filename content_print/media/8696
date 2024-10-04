@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-06-12</p>
+				<h2>民主進步黨第十八屆第三十三次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(12)日召開第十八屆第三十三次中常會，會中通過下週三（6月19日）召開第十八屆第十三次中執會，另本次中常會邀請中華經濟研究院經濟法制中心副主任顏慧欣以「美中經貿對抗發展動向及影響因應」為題進行專案報告，發言人李明俐會後轉述卓榮泰主席於會中裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝中經院顏慧欣博士針對美中貿易戰的最新情勢，以及對台灣還有台商的影響，在常會中做了詳盡的分析。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	美中經貿戰可能陷入長期對抗的局面，形成新的國際經貿秩序，對台灣經濟以及台商的全球營運造成衝擊，但同時也會帶來新的契機。全球供應鏈重組、台商回流，將為台灣經濟注入一股新的投資動能，也會加速台灣經濟的蛻變升級。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	事實上，自民進黨上任以來，一方面積極推動5加2產業創新計劃，大力排除投資障礙；另一方面，啟動新南向政策，並爭取台灣參與CPTPP、印太經貿合作體系，深化台灣經貿的全球布局。因為我們深信，唯有持續強化自身的競爭優勢，建立台灣在全球供應鏈的關鍵地位，才能讓衝擊降到最低。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	三年來政府大力推動經濟轉型，打造更優質投資環境，已經逐漸開花結果，回台投資成為許多台商的最佳選項。今年初開始推動的「歡迎台商回台投資方案」，目前通過審查的投資金額已達3,690億元。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	國安會及行政團隊早在去年3月，已開始召集會議研商，擬定因應戰略。目前在參選國民黨總統提名的參選人中，有人才提出要召開相關會議的主張，顯然是對政府已經在運作中的因應機制毫無所悉也欠缺關心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	請中央黨部文宣部及網路部加強相關政策的宣傳，以擴大民間參與的能量，讓政府的施政發揮最大的效果。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	再次感謝顏慧欣博士的精闢分析與建言，謝謝。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="626263477a585a4c624a335776666574">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

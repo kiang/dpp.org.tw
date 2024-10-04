@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-05-27</p>
+				<h2>李明哲先生遭中共政權以「顛覆國家政權罪」逮捕 民進黨：表達嚴正抗議</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 針對台灣NGO人士、本黨前同志李明哲先生被中共政權以「顛覆國家政權罪」逮捕一事，民主進步黨發言人張志豪今（27）日表示，李明哲先生長期致力關心中國民主化運動，令人感佩。惟中國大陸的有關部門以充滿爭議的處置方式，未公開任何事證，拒絕透過《兩岸共同打擊犯罪及司法互助協議》通報我政府相關訊息，即逕自逮捕李明哲，令人憤怒與不滿。對此，民進黨表達嚴正抗議。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 張志豪表示，中國大陸忽視人權的不當作為，勢必讓台灣人民產生寒蟬效應，嚴重破壞兩岸社會的正常往來，不利兩岸人民交流，亦傷害了中國大陸的國際形象。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 對此民進黨亦做出三項嚴正要求：</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 一、中國當局應以文明法治國家的態度，公開所有證據資料及公開審理該案，而非以黑箱作業處置該案；</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 二、中國司法部門必須確實維護李明哲的人權和健康，他有權利聘請律師進行辯護，保障其司法權益；</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 三、北京當局應盡速依循正當合法管道，與我政府密切聯繫與合作，協助家屬赴中探視，避免讓兩岸關係更形惡化。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6d4e4c7a4972646d6734346a76627049">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-06-13</p>
+				<h2>2020總統暨立委選舉提名初選民意調查委員會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	關於本黨總統初選民調期間，一位吳女士在臉書上發文表示接到初選民調電話，但訪問卻三問蔡、韓、柯支持哪一位，並在她三次表示唯一支持賴清德後被掛斷電話一事。</p>
+<p style="text-align: justify;">
+	今日拆封計分完成後，民調委員會隨即召開會議討論本案。經調閱相關資料，吳女士提供的市話號碼確實為本次初選民調的受訪樣本，經查訪問記錄，吳女戶籍在苗栗，唯一支持賴清德候選人，年齡是50-54歲，完全記錄了吳女士的回答，而且是成功樣本，應為受訪者理解有誤，確認無任何作弊情事。</p>
+<p style="text-align: justify;">
+	本次初選競爭激烈，支持者莫不熱情在家顧電話，接通時有時會太過興奮或心急，所以沒有好好聽清楚訪員念題，或是不熟悉初選民調題目或追問規則，經傳播後易造成誤解。因此卓榮泰主席及羅文嘉秘書長在初選期間走訪五家執行單位，確認所有訪員皆經過嚴格的訪問訓練，不容許有任何差錯。</p>
+<p style="text-align: justify;">
+	本黨一向秉持公平、公正、公開的原則辦理選務，更以高規格標準處理本次總統初選民調。在收到吳女士陳情後，卓榮泰主席及羅文嘉秘書長皆十分重視，第一時間致電吳女士關心受訪過程及內容，並要求民調中心加強對訪問品質的控管。本黨非常感謝吳女士對民進黨的關心及愛護，未來民進黨會繼續謹守原則辦理黨務，也希望總統初選和平落幕後，所有黨內外同志能團結一致，2020繼續與民進黨站在一起。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="68645542674c59695557584771385a75">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-10-31</p>
+				<h2>青年部萬聖節發布影片 好兄弟分享公投連署經驗！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨青年發展部今（31）日於「民進黨青年部」臉書專頁發布影片「陰陽一線牽，連署一起簽」，致敬全聯今年中元節爆紅廣告，「獨家邀請」好兄弟於萬聖節前夕，現身說明自己與其他一萬八千多名好兄弟如何簽署公投連署書。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	先前中選會清查國民黨「反空汙」、「反深澳電廠」、「反核食」三公投案第二階段連署書，發現不僅出現大量抄寫情況，甚至有許多連署人早在提案前便已死亡，民進黨影片以幽默手法諷刺此一「死人公投」現象。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	影片一開始，一位中年男子坐在沒倒影的鏡子前，述說大家都很期待每年一個月的透氣時間，沒想到今年沒收到紙錢，而是一整疊空白連署書、整排大型影印機，以及各種不同類型的原子筆。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	男子抱怨，大家寫到汗流浹背，本以為寫完就可以用餐，沒想到卻只有一桌，甚至不是給他們享用的，並鼓掌感嘆：「可以讓我們這一萬八千多名好兄弟來連署，也不是一件簡單的事，選舉選到這樣，真的要給他們鼓掌。」最後，男子回頭對背後兩名黑衣男子說：「台中的，抄好了沒？總共有三份要抄喔！」而兩名男子則竊竊私語討論正在抄寫的連署書：「這個陸皓東是那個陸皓東嗎？」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨青年部臉書貼文表示，當好兄弟都關心公共事務，還在人世間的我們，也不應再政治冷漠，希望透過這部影片，呼籲大家11/24要記得返鄉投票，別讓好兄弟決定台灣的未來。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="78726c31596c4f554565444b4452314c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

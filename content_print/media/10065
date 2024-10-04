@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-03-29</p>
+				<h2>民主進步黨第二十屆第二十四次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨今(29)日召開第二十屆第二十四次中常會，會中邀請打擊詐欺犯罪中心執行秘書黃國師以「詐欺犯罪打擊與預防」為題進行專案報告。</p>
+
+<p style="text-align: justify;">黨發言人張志豪會後轉述賴清德主席聽取報告後裁示，全文如下：</p>
+
+<p style="text-align: justify;">感謝刑事警察局打擊詐欺犯罪中心黃國師大隊長針對「詐欺犯罪打擊與預防」所做的簡報。</p>
+
+<p style="text-align: justify;">現在的詐騙手法相當多元，很多是利用話術、網路、投資、簡訊、即時通訊等釣魚的方式，誘騙民眾上當。剛才黃大隊長分享民眾在消息後端如何保護自己，這些實務經驗非常珍貴，可以提供社會大眾來參考運用；王定宇常委提供的意見是從訊息端，做根本的溯源處理，避免受害者接受到這種訊息然後被騙；另外，蔡易餘常委分享的是，一旦如果事情發生，民眾求助無門，這時候如果國家能夠用一套制度，讓檢察官來幫忙，幫助受害民眾，這些都是很寶貴的意見。</p>
+
+<p style="text-align: justify;">上週四行政院會也通過刑法修正草案，增訂加重剝奪行動自由罪、加重詐欺類型及加重結果犯，請柯建銘總召跟黨團同仁協助修法，建立一個更完善的制度，來解決這個非常嚴重的社會問題，避免民眾持續受害。</p>
+
+<p style="text-align: justify;">此外，張志豪轉述賴清德主席於會中致詞，全文如下：</p>
+
+<p style="text-align: justify;">感謝黨內同志能夠響應中執會通過的「誠信條款」，上週立委登記已經完成，在57個初選選區中，有15個選區兩人以上登記必須要進行初選，有3區無人登記。也就是中執會所通過的「誠信條款」，黨內有許多同志響應，我要利用中常會感謝支持中執會通過「誠信條款」的同志，謝謝你們。</p>
+
+<p style="text-align: justify;">後續就要麻煩2024大選提名策略小組的委員，進行這15個選區的協調，以及對3個無人登記的選區，進行徵召的作業，這些對本黨還有明年初的大選，影響非常深遠，請大家幫忙。</p>
+
+<p style="text-align: justify;">此外，我特別要勉勵黨內的同志，過去我們為民主打拚，未來我們的使命就是要面對中國極權主義的威脅，在這種狀況之下，我們希望能夠多以大局為重，現在不是快意恩仇的時候，現在是要共同面對這一個艱困大局的時候。戰士沒有選擇戰場的權利，希望每一個人都在最適當的戰鬥位置，守護台灣，後續就請各位委員能多費心力，謝謝你們。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6779396f716f786e74626170347a4666">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

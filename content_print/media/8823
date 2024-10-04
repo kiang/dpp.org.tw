@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-24</p>
+				<h2>民主進步黨第十屆不分區立委提名委員會第一次會議新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨第十屆不分區立委提名委員會，今日(24)召開第一次會議。會中針對提名作業時程，以及提名原則，達成高度共識。首先，在提名時程方面，有鑑於中選會將在11月18日開始受理登記，時間緊迫，大家同意加速提名作業，以將提名名單，在11月6日送中執會決議通過為目標。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	其次，針對提名原則，成員達成共識如下：第一，不分區立委的提名人選，整體要有助於贏得「國會過半」的最高目標，讓蔡英文總統連任後，在立法院多數支持下，深化改革，讓台灣真正脫胎換骨；第二，不分區的提名應廣納社會各界意見。故提名委員會今天決議，除黨內舉薦外，即日起，擴大接受社會各界，舉薦優秀不分區立委的提名人選，供委員會審議。收件截止日期為10月30日。第三，不分區立委的提名要有亮點，以強化社會支持與認同。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此次民進黨不分區立委提名委員會提名委員，包括卓榮泰、林右昌、林錫耀、陳菊、陳博志、陳傳岳、鄭麗君，以及蘇貞昌，今天全員出席。在熱烈交換意見，達成上述共識後，召集人卓榮泰黨主席，再次期許，本屆被提名的民進黨不分區立委，一定要具備國會戰力、能貫徹民進黨基本主張，並能夠以國家整體利益為優先考量。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3152613048704b5635397534444d4237">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

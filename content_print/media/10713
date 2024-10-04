@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-02-15</p>
+				<h2>民進黨黨務主管到位 今宣布第三波黨務新任人事</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>民主進步黨今（15）日由發言人吳崢公布中央黨部主管人事，吳崢表示，賴清德主席持續推動黨務革新，在黨中央的人事安排方面，除了農曆年前公布兩位新任副秘書長外，今再宣布由李問同志接任國際事務部主任並兼任發言人、而年前宣佈的江志銘同志擔任社會運動部主任，也於今日正式報到就任。</p>
+
+<p>吳崢表示，李問同志不僅學歷優秀、也曾擔任過台北時報的記者，於國際部擔任政策幕僚，又在國安外交單位服務過，是該領域優秀的青年專業人才。民進黨希望借重李問專業的國安外交經驗，推動政黨外交、智庫學者交流、並結合民間團體力量推動公民社會的國際交流。</p>
+
+<p>吳崢接著表示，江志銘同志曾任多次地方議員，希望透過其過去的豐富地方經驗，持續與各全國性社團聯繫互動，深化與社會百工百業對話，廣納各界建言，凝聚社會各界的共識與支持。</p>
+
+<p>吳崢強調，民進黨黨務主管都已陸續到位，未來將持續進行包括組織改造、社群溝通、社會對話，三大面向啟動黨務革新，已回應社會對民進黨與新執政團隊的期待。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f6b57526f745052327a4c4139744766">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

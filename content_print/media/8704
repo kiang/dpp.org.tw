@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-06-21</p>
+				<h2>防制中共對台滲透，執政團隊持續強化民主防衛機制，確保台灣民主自由</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對6月23日反親中媒體遊行一事，民主進步黨發言人李晏榕今（21）日表示，越來越多的人對中共在媒體、政治滲透的問題，有更多的重視與警覺。面對中共對台滲透，民進黨與執政團隊會從法制、教育等各領域，以整體思考做因應，持續完善反制滲透的相關修法，強化民主防衛機制，確保台灣的民主與自由不受中共侵害。李晏榕也說，6月23日反親中媒體遊行，民主進步黨將會派代表出席，支持反滲透的主張。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕指出，中共對台灣的滲透是無孔不入的，涵蓋許多層面，尤其是在媒體的滲透，日益嚴重，中共利用親中媒體操弄輿論，製造社會對立，破壞台灣民主制度。面對中共對台滲透危害，日前，蔡英文總統已召開「國家安全會議」，提出三道防護網，要求國安團隊及行政院要加速完成相關的立法工作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕表示，執政團隊已陸續修正《國家安全法》、《兩岸人民關係條例》、《災害防救法》、《刑法》、《國家機密保護法》等防制中共滲透的相關修法。本次立法院臨時會也排入迫切需要完成的重要修法。本周，立法院已三讀通過《國家安全法》的修正草案，也通過附帶決議，下會期將會處理境外勢力傳播不實訊息的相關規範及配套措施，完備防堵境外勢力滲透與介入的機制。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f4961436748455265795175576b475a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-06-03</p>
+				<h2>魏鳳和的「不惜一戰」，凸顯出中共窮兵黷武的本質，中共和平崛起都是欺騙</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對中國國防部長魏鳳和發言威脅對台不惜一戰，民主進步黨發言人周江杰今（3）日表示，魏鳳和的發言彰顯了中共政權窮兵黷武的本質。中共不只把槍口對向自己人民，也對向台灣人民。中共為了鞏固極權政體，寧可犧牲台灣人民的自由與民主制度，也讓中國的「和平發展論」淪為一起國際笑話。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，六四事件三十周年前夕，魏鳳和竟聲稱六四事件是「政治動亂」，中共中央採取行動阻止這場動亂，是正確決策。這種說法令世界感到極為震驚和不可思議。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰認為，一個正常、文明、法治的國家，軍隊不會把槍口指向人民；唯有極權政體才會為了政權的生存，不惜屠戮百姓、把人民當敵人。日前，美國國務院發言人歐塔加斯更主動以「屠殺」形容六四事件，強調這場大屠殺源於中共「系統性踐踏人權」，即可得知世界民主國家是如何看待中共的殘暴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，中共在國內實行「歐威爾式」的嚴密監控，大舉關押維權人士、毀滅各類宗教的信仰、在新疆大量設置集中營、實行社會信用制度監控人民、嚴格縮限言論自由和學術自由，讓中國宛如成為一座關押14億人口的大型監獄，政權本質與法西斯無異。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，一個會用殘酷手段鎮壓自己百姓的極權政體，何以讓人信服該政權會和平、平等對待世界上其他國家人民？何以讓外界相信，以政權利益為優先的共產黨會遵守國際規範和世界秩序？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰強調，台灣的民主自由和國家主權不會因中國共產黨的脅迫而屈服，我們會堅持強化自我防衛能力、堅守國家主權及民主體制，積極和美國在內的文明國家深化合作，扮演區域和平穩定者的角色。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="66434f5a536132436845375370383969">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

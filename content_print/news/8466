@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-09-19</p>
+				<h2>2020年第10屆立法委員徵召候選人名單(5)</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	<img alt="" src="/upload/ckfinder/images/69672585_696833297459288_7654439183913582592_n.jpg" style="width: 800px; height: 1131px;" /></p>
+	                	                	                <p>檔案下載：<a href="https://www.dpp.org.tw/upload/news/20190919155237.pdf" target="_blank">20190919155237.pdf</a></p>
+	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="506154384b30546e4164714251653753">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

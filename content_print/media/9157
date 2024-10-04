@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-04-14</p>
+				<h2>國民黨反對核廢水排放卻支持重啟核四製造核廢水 民進黨：人格分裂</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對日本政府宣布2年後福島第一核電廠廢水排放案之議題，民進黨發言人謝佩芬今(14)日表示，不論是總統府和行政院都已清楚表示，包含外交部、駐日代表處、農委會等相關部門，都多次向日方傳達國人跟環保團體的憂慮，原能會也正式向日方表達反對意見，要求日本政府需正視各界的多元意見，也會持續關注日方與國際原子能總署（IAEA）等後續因應作為，並與日方更加緊密進行相關技術交流與資訊分享。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬表示，民進黨對於核能的立場從未改變，從蔡英文總統、蘇貞昌院長到民進黨皆堅定表明非核的立場，2011年8月，民進黨就將非核家園的主張，落實到現實政策的規劃當中，並且從2016年民進黨重返執政以來，政府各部門也持續大力推動台灣的能源轉型，「非核、減煤、增氣、綠能」一直是政府推動能源轉型的重要方向。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，很遺憾的是，我們卻看到國民黨又在借題發揮，進行政治鬥爭的操作，像是王育敏在記者會上以列表舉例，企圖意指原能會僅表示遺憾，但事實上，原能會不但在日方尚未做決定前已表達反對意見，要求日本政府需正視各界的多元意見，並向我方提供後續安全處置措施之完整資訊。由此可見，民進黨政府都有第一時間反應，反觀國民黨卻是第一時間帶風向。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬表示，民進黨非核家園態度清楚明確，且若國民黨如此反對日本排放核廢水，為何國民黨還要支持重啟核四然後再製造核廢料和核廢水？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬表示，對於重啟核四的議題，請國民黨不要再顧左右而言他，不要再模糊焦點。國民黨一邊在抗議日本排放核廢水，然後又支持台灣要重啟核四，國民黨有事嗎？國民黨和支持核電的特定人士不但在台灣大肆宣傳核電有多好多安全，還要把封存的核四重啟，現在又故作矯情批評民進黨政府沒有抗議日本，國民黨根本就是人格分裂。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="54564145714b626652584a496e553172">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

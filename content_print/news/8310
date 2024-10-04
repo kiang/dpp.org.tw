@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-02-08</p>
+				<h2>【謠止步】雲門翠堤大樓受損情況受嚴密監控 勿散播不實謠言影響救災</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                	                <p class="text-center font_green">
+		                <i>
+		                	〞雲翠大樓震災現場外圍，皆有建築師公會監測人員支援，嚴密監控雲翠大樓建築物情況，在穩定安全的狀態下，才會讓救難人員進入〞
+						</i>
+					</p>
+										<hr>
+	                <p style="text-align: justify;">
+	<strong>《謠言》</strong></p>
+<p style="text-align: justify;">
+	網路謠傳「雲門翠堤 每小時斜5公分」，並有其它謠言指出「政府罔顧人員安全，讓救難隊員在受損且持續傾斜的雲門翠堤大樓（雲翠大樓）中執行救援任務，使救難隊員生命飽受威脅」一事為不實指控，與事實不符。</p>
+<p style="text-align: justify;">
+	<img alt="" src="/upload/ckfinder/images/line_%E5%9C%B0%E9%9C%87%E8%AC%A0%E8%A8%80-01.jpg" style="width: 955px; height: 500px;" /></p>
+<p style="text-align: justify;">
+	<strong>《事實是》</strong></p>
+<p style="text-align: justify;">
+	雲翠大樓震災現場外圍，皆有建築師公會監測人員支援，嚴密監控雲翠大樓建築物情況，在穩定安全的狀態下，才會讓救難人員進入到建築物中進行搜救工作，並非網傳描述情況。政府目前正全心投入救災工作，協助花蓮在最短時間內走出地震陰霾，也期盼各界伸出援手，提供花蓮民眾實質幫助，也幫救難人員加油打氣。</p>
+<p style="text-align: justify;">
+	政府持續全力救災，勿散播不實資訊造成無謂恐慌，中央災害應變中心也會持續更新最新訊息，相關防災資訊和物資需求，請務必以官方訊息為準，並請大家密切關注。</p>
+<ul>
+	<li>
+		<a href="https://goo.gl/nnMkks">行政院臉書專頁</a>（不斷更新）</li>
+	<li>
+		<a href="http://www.emic.gov.tw/">中央災害應變中心網站</a></li>
+	<li>
+		<a href="http://www.emic.gov.tw/9/index.php?code=list&amp;ids=368">0206花蓮地震工作會報</a>（資料來源：中央災害應變中心）</li>
+	<li>
+		<a href="http://www.emic.gov.tw/9/index.php?code=list&amp;ids=369">0206花蓮地震應變處置報告</a>（資料來源：中央災害應變中心）</li>
+</ul>
+<hr />
+<p>
+	相關新聞連結：</p>
+<ul>
+	<li>
+		<a href="https://udn.com/news/story/11808/2975268?from=udn-ch1_breaknews-1-cate1-news">雲翠大樓每小時傾斜5公分？消防署長：誇大！絕無此事</a></li>
+	<li>
+		<a href="https://tw.appledaily.com/headline/daily/20180208/37927779">雲門翠堤 每小時斜5公分</a></li>
+</ul>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3853794f695a63386b53524f37554a72">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-11-20</p>
+				<h2>國民黨抹黑攻擊蕭美琴 民進黨：侯友宜是選正的還是副的？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對國民黨稍早對本黨副總統參選人蕭美琴的不實攻擊，民進黨發言人張志豪表示，奉勸國民黨先不要氣急敗壞，先關心自己的內憂外患。</p>
+
+<p>張志豪奉勸國民黨，選舉絕不是一昧的靠抹黑攻擊，甚至配合中國造謠。賴清德主席日前媒體專訪時強調，他若當選總統，中華民國國號依舊在，國旗依舊隨風飄揚，而且他當總統，「兩岸發生戰爭的機率是最低的」，因為他最有能力守護國家的安全。國民黨與其他在野黨並不符合民主精神，實在沒什麼志氣，利用中國的武力威脅，來指責他會給台灣帶來危險，是附和中國對台灣統戰口號。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="483744526e395973454f7a72644b6c63">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

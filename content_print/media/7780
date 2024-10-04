@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-05-17</p>
+				<h2>民主進步黨第十七屆第三十七次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 民主進步黨今(17)日召開第十七屆第三十七次中常會，會中邀請立法院黨團總召柯建銘以「執政週年立法院通過之重大法案及影響」為題進行專案報告。黨發言人吳沛憶會後轉述蔡英文主席聽取專案報告後裁示，全文如下：</p>
+<div>&nbsp; &nbsp; &nbsp; 我們謝謝柯總召的報告。這一年來，我相信大家都感受到執政的責任跟壓力。在外部，國際環境正在變化，每一個國家都在尋找因應之道。在內部，人民對改革的期盼，非常急切，但改革工作確實經緯萬端，必須穩扎穩打，才能夠實現。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 我們首先要感謝立法院黨團，透過總召和黨團幹部的領導，推動了許多重要法案的修正。住宅法的推動，讓社會住宅政策能往前推進一大步。爭議多年的電業法的修正，為台灣的綠能發展也開啟了一個新的機會。前幾天，前瞻基礎建設條例也在大家的努力之下送交協商。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 這一段時間以來，黨團同仁經常早上六點鐘就被動員，非常辛苦，但為了國家的發展，辛苦一點是值得的。我們是執政黨，我們自然要多承擔一些。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 我也要再一次強調，我們是執政黨，我們要對改革負起完全的責任。我們歡迎監督、我們願意討論，但討論不是拖延，監督也不是阻擋。我也趁這個機會，呼籲所有的在野黨，改革不能延緩，建設不分藍綠，這些都是全體人民要共同承擔的事，我們停止惡鬥、放下成見，團結在一起，國家才會往前進。</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="724a61774749385443674f48346c6972">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

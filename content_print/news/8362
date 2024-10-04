@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-06-19</p>
+				<h2>【謠止步】關於政府開發協助（ODA）計畫 你又被不實謠言誤導了嗎？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                	                <p class="text-center font_green">
+		                <i>
+		                	〞ODA資金來自我國商業銀行，35億美元是銀行融資額度，本計畫所運用資金和政府預算無關，承作的商業銀行資金來源亦廣泛充足。〞
+						</i>
+					</p>
+										<hr>
+	                <p>
+	<strong>《謠言》</strong></p>
+<ul>
+	<li>
+		外界謠傳：政府匡列35億美元（約1000億台幣）中央銀行存戶存款推動「政府開發協助（ODA）計畫」，由指定的金融機構提供優惠策略性貸款，但銀行的錢來自於人民存款，中央銀行外匯豈能動用！？</li>
+	<li>
+		外界謠傳：接受援助的邦交國及新南向國家，不必用主權擔保作為融資，要是出狀況政府將沒有能力解決，且ODA方案可能淪為洗錢工具！？</li>
+</ul>
+<p>
+	<img alt="" src="/upload/ckfinder/images/%E8%AC%A0%E6%AD%A2%E6%AD%A502-%E6%96%B0%E5%8D%97%E5%90%91ODA.jpg" style="width: 900px; height: 900px;" /></p>
+<p>
+	<strong>《事實是》</strong></p>
+<ul>
+	<li>
+		<p>
+			<strong>中央銀行匡列35億美元外匯給予ODA運用？&nbsp;</strong>ODA資金來自我國商業銀行，35億美元是銀行融資額度，本計畫所運用資金和政府預算無關，承作的商業銀行資金來源亦廣泛充足。且中央銀行與一般商業銀行不同，其主要功能為發行貨幣與維持物價及金融穩定。</p>
+	</li>
+</ul>
+<ul>
+	<li>
+		<p>
+			該計畫將以債信良好的國家為主，透過嚴謹的政策與專業評估，並要求該國的工程主管機關及外匯主管單位出具保證，同時透過商業保險產品降低承作風險，有效將融資風險降至最低。該計畫所有相關案件資訊，將公布於網站。</p>
+	</li>
+	<li>
+		<p>
+			政府對於ODA的說法一致且清楚，ODA是政府開發協助計畫，係我國政府與民間合作，擴大參與海外工程建設。可增進與友好及邦交國家的關係，帶動我國工程產業及相關產品的國際發展空間。</p>
+	</li>
+	<li>
+		<p>
+			ODA計畫內容公開透明於<a href="https://www.moea.gov.tw/MNS/otn/home/Home.aspx">行政院經貿談判辦公室</a>的網站上，包括ODA說帖、擴大參與海外工程商機的做法，台灣公共工程業者的SWOT分析、策略做法和預期亮點均完整揭露。<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			延伸閱讀:&nbsp;<a href="https://www.dpp.org.tw/news/contents/8349">關於外交合作與政府開發協助(ODA)計畫介紹：國民黨做不到的，我們一起做到了！（五）</a></p>
+	</li>
+</ul>
+<p style="text-align: center;">
+	<img alt="" src="/upload/ckfinder/images/ODA%E8%AA%AA%E6%98%8E.jpg" style="width: 675px; height: 676px;" /></p>
+<p style="text-align: center;">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	資料來源：</p>
+<p>
+	<a href="https://www.ey.gov.tw/Page/9277F759E41CCD91/25d6b04c-73cb-47aa-9eeb-d5c7a447730e">行政院新聞稿</a><br />
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="656a4479597759387131634334726569">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

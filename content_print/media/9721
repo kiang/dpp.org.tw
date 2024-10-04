@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-01</p>
+				<h2>鬼門關前走一遭！南投蔡培慧煮一碗「重生」的香椿拌麵</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">這是一碗「笑中帶淚」的香椿乾拌麵！民進黨南投縣長候選人蔡培慧上民進黨網路實鏡節目《一碗麵的時間》今（1）日播出，她一講到「吃」就滔滔不絕，還分享自製「牛奶吐司葡萄乾」等DIY糕點小撇步，也坦言「偶爾」愛吃宵夜，大約是兩天一次，馬上被民進黨發言人黃彩玲笑回「這根本不叫偶爾！」不過，當黃彩玲拿出「秘密武器」時，蔡培慧瞬間飆淚，原來是代表「公嬤記憶」的伯朗咖啡，讓蔡培慧瞬間淚灑廚房。</p>
+
+<p style="text-align: justify;">蔡培慧說，她在不靠海的南投長大，小時候唯一吃過的海鮮「好料」是蚵仔，所以這碗蚵仔香椿乾拌麵，乘載著她的兒時記憶。她回憶，阿嬤還在世時，會於過年期間準備一整箱的伯朗咖啡，讓她現在看到都會忍不住潰堤，而一旁的黃彩玲也被蔡培慧的情緒感染，幾度哽咽說自己不能邊主持邊哭，但也提到：「不管香椿拌麵、還是咖啡，都是蔡培慧對阿公阿嬤、對家鄉南投的一份思念、執念與堅持，你用你的方式證明，一路走來沒有白走」。</p>
+
+<p style="text-align: justify;">被爺爺奶奶帶大的蔡培慧，想起初到台北時，看見大家口中那個代表繁華、進步與未來的城市，可她卻打從心底不認同；相反地，更加深「南投才是我的家」的想法。後來，碰上一場嚴重車禍，蔡培慧在鬼門關前走了一遭，昏迷指數一度只有３，好不容易康復，她卻不願承認自己「口語表達障礙」等後遺症，黃彩玲說：「這是你第二次的叛逆武裝，不服輸、不投降，最真實的蔡培慧」。</p>
+
+<p style="text-align: justify;">蔡培慧說，站在苦難與挫折前，就必須要有更堅毅的意志力。當年921地震，看著心愛的家鄉被天災摧殘，她選擇加入921重建基金會協助家園，但卻在一次訪視鄉親的路上，開車開到「在路邊爆哭」，除了因為蔡培慧也是災民，更因為她發現「問題不會如你所想，今天出門、明天就解決」，所以她不斷提醒自己，「要有堅強的意志力」。爾後，她加入農村陣線、被民進黨提名不分區立委，都是同樣的信念在支撐她。</p>
+
+<p style="text-align: justify;">蔡培慧坦言，人生面對挫折的最好方法，就是直球對決！社運不是一次抗爭就會成功，但如同當年對抗前苗栗縣長劉政鴻強拆大埔四房，蔡培慧「有勇有謀」衝在最前頭抗議，因為她知道「堅持」就有成果；她補充，就像在玩遊戲「打怪」 一樣，打倒不公不義然後升級，「南投長期被國民黨地方派系把持、官官相護不用心建設，但我相信我這次一定會贏，這是一場過去和未來的戰爭，我看得見最真實的南投」。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/cGzCtqVxhZI" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="636e4b57486b7062314d4b4b6b55624b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

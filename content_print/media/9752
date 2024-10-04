@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-17</p>
+				<h2>各項照顧青年政策比一比　民進黨：國民黨不要選舉才想到年輕人</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><strong>針對國民黨今（17）日召開青年記者會，民進黨發言人黃彩玲表示，民進黨政府的育兒津貼補助、租屋補貼都是國民黨執政時期的數倍，基本工資年年調漲，證明民進黨平時執政就認真照顧年輕族群福利，反觀國民黨根本沒有認真在推動十八歲公民權，還想要用選舉口水帶風向，請國民黨挺青年不要只會出一張嘴，不要每次都是選舉時又想消費年輕人。</strong></p>
+
+<p style="text-align: justify;"><strong>黃彩玲表示，為照顧青年族群，減輕年輕爸媽負擔，民進黨政府推出一系列政策，在育兒政策部分，蔡政府2023年編列1088億預算，是國民黨時代154億的7倍，其中包括育兒津貼從3500元增加到5000元；公共化幼兒園增加3000班，在今年9月份已經提前達標，還有增加平價托育、擴大不孕症補助、增加產檢假、提高育嬰留停薪資補貼等等。</strong></p>
+
+<p style="text-align: justify;"><strong>另外在居住正義部分，黃彩玲表示，民進黨政府比國民黨執政時更重視青年居住問題，除了興建社會住宅，同時也大力推動社會住宅包租代管，今年更宣布300億中央擴大「租金補貼」專案，預估將有50萬戶受惠，減輕年輕人租屋負擔。不過我們看到國民黨籍的新北市長侯友宜，還被媒體爆出要將社會住宅給財團賣。</strong></p>
+
+<p style="text-align: justify;"><strong>針對薪資部分，黃彩玲表示，政府帶頭加薪，年年調升基本工資，軍公教今年調薪4%。而國民黨不僅在18歲公民權推動上虛晃一招、國民黨台北市長候選人蔣萬安等國民黨立委配合國民黨團，阻擋包括不孕症補助的預算，現在又要為了選舉潑髒水，實在是非常不可取。現在又要選舉了，國民黨又想出一張嘴消費年輕人，只會被看破手腳，證明國民黨根本說一套、做一套。</strong><br />
+&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="563233785a6135304a413668435a5642">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

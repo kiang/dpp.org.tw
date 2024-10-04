@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-06-25</p>
+				<h2>開齋節同樂 民進黨新住民座談會前進台南</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 正逢印尼開齋節，民進黨中央黨部婦女部、民進黨新住民事務委員會與民進黨台南市黨部今(25)日在赤崁里活動中心熱鬧舉行「東南亞風味下午茶～新住民座談會」台南場，現場除了有印尼歌舞表演，還有許多東南亞風味點心及童玩，全場共近百位新住民朋友與家人們一起出席同樂。座談會上新住民朋友們熱烈反應新住民在台灣生活遇到的種種困難和心境，主辦單位也予以立即回應、記錄並處理，協助新住民能夠解決生活上面臨的困難，更快融入台灣快樂生活，現場互動熱絡，還有新住民現場上台秀歌技，相當熱鬧溫馨。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 與會貴賓包括民進黨副秘書長徐佳青、民進黨中央黨部婦女部主任蔡宛芬、民進黨台南市黨部主委顏純左、民進黨新住民事務委員會洪晶晶、陳麗君、寧家榮委員、台南市政府社會局顏靚殷副局長，以及陳亭妃立委、黃偉哲立委、葉宜津立委、邱莉莉議員、黃偉展里長也都親自出席關心，與大家同樂。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 新住民朋友於座談會上反應了許多生活上遇到的問題，包括家屬來台探親時限、各種文件辦理管道、通譯工作待遇問題、東南亞語言教學師資培訓，以及生活上遇到的刑民事等問題，徐佳青副秘書長、蔡宛芬主任及寧家榮、陳麗君和洪晶晶委員也都予以立即詳細回覆，這些問題政府已經注意並處理，有些則在進行修法以及加強宣導中，也成立工作小組與各委員會溝通，加快解決新住民面臨的各種生活上的不便，務求保障新住民的各項權益。&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 台南市黨部主委顏純左也於會中表示，很高興能夠舉辦今天這場活動，和新住民朋友面對面溝通，了解大家實際需求，他另外也特別提醒夏季登革熱好發時期，請大家出入境時特別小心，如有發燒要立即就醫診斷。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 活動現場除了有親子組團上台演唱母國歌曲，也有新住民姐妹大秀手藝準備東南亞點心，包括千層糕、素食餅、香炸蔬菜捲、摩摩喳喳甜湯等，並從家鄉帶來她們的童玩分享，也讓座談會更加溫馨熱鬧。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4e68326339774c47376b4a51397a7262">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

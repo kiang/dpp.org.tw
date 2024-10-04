@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-25</p>
+				<h2>國民黨稱造假只是枝微末節！？ 顏若芳：「造假累犯」江啟臣主席應向全民道歉</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	國民黨主席江啟臣昨（24）日於國會中公然播放造假影片，被抓包後竟稱造假事情只是「枝微末節」，民進黨發言人顏若芳表示，不論是政黨、政治人物的「誠信」是最基本的條件，而今天江啟臣主席並非第一次用造假影片來做政治操作，企圖誤導民眾，國民黨江啟臣主席可說是造假累犯。</div>
+<div>
+	&nbsp;</div>
+<div>
+	顏若芳指出，造假影片中將2009年蔡英文主席出席因「狂牛症」反對美牛進口活動中的談話，以「消音」、「上字幕」的造假方式，惡意連結與活動毫無相關的萊劑問題，用錯假資訊扭曲事實真相，企圖誤導大眾，是完全讓人覺得不齒的行為。請江啟臣主席勇敢想起2012年，他與馬前總統共同開放含萊克多巴胺的美牛來台，國民黨才是堪稱「萊劑始祖」。</div>
+<div>
+	&nbsp;</div>
+<div>
+	顏若芳強調，江啟臣主席昨是今非，現在為了個人政治利益，忘記自己過去開放萊劑的立場，公然用造假影片在國會殿堂造謠，還妄稱是「枝微末節」的事情，這種惡意造假的行為，為2020年的台灣政治劃下了最難看的一頁，民進黨再次嚴正抗議並要求江啟臣主席及所帶領的國民黨為一再造謠、抹黑的行為向全民道歉。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="376179685a346c396f4555616a4f716b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-18</p>
+				<h2>陪同登記參選 卓榮泰：讓有氣魄的鄭宏輝進入國會 展現新竹光榮</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	民主進步黨主席卓榮泰今(18)日，陪同立委候選人鄭宏輝於新竹市選舉委員會登記，新竹市長林智堅、立委柯建銘、新竹市黨部主委翁枝弘及地方黨公職也到場陪同。現場支持者更齊聲呼喊「鄭宏輝 凍蒜」，給予熱情鼓勵與支持。卓榮泰致詞表示，鄭宏輝擔任五任議員，本可連任，但他選擇幫助新人，現在則準備直攻國會，這樣擁有氣魄與氣度的人，最應該進入國會。</div>
+<div>
+	&nbsp;</div>
+<div>
+	卓榮泰表示，柯建銘總召仍是不分區裡的一位戰將，對他是亦師亦友的存在，若香港立法會有柯總召，許多事在國會就可以處理好。未來柯建銘顧全國，鄭宏輝新竹專屬，為新竹服務。</div>
+<div>
+	&nbsp;</div>
+<div>
+	卓榮泰提及，林智堅市長的大車站計畫、南寮漁港、隆恩圳等許多工程，會持續與中央合作，加上柯總召、鄭宏輝，這個黃金鐵三角才能夠完整成形，繼續向前走，是新竹市需要的堅強隊伍，也是新竹市的光榮。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="57775930656453664b3567556374746d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

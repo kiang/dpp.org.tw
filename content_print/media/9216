@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-07-14</p>
+				<h2>民主進步黨第十九屆第四十五次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	民主進步黨今(14)日召開第十九屆第四十五次中常會，因應疫情嚴峻時刻，配合防疫升級，本週中常會採用線上視訊會議方式進行。黨發言人周江杰會後轉述蔡英文主席致詞，全文如下：</div>
+<div>
+	&nbsp;</div>
+<div>
+	從昨天開始，全國三級警戒延長到這個月26號，因此今天，我們還是透過視訊舉行中常會交換意見。</div>
+<div>
+	&nbsp;</div>
+<div>
+	這幾天大家應該都發現，因為疫情稍微緩解，路上的人車變多，許多前陣子居家辦公的民眾，也都開始回到工作崗位上。</div>
+<div>
+	&nbsp;</div>
+<div>
+	隨著疫情緩解，指揮中心也在三級警戒下，提出適度鬆綁措施的指引。接下來，如何在生活便利和防疫周全之間，找到新的平衡，是我們的挑戰，也需要大家一起努力。</div>
+<div>
+	&nbsp;</div>
+<div>
+	我也要在這裡提醒大家，雖然台灣疫情有稍微緩解，但近期的國際疫情，尤其是Delta病毒擴散，一直在升溫當中，我們絕對不能掉以輕心。</div>
+<div>
+	&nbsp;</div>
+<div>
+	昨天日本政府再一次宣布提供台灣將近一百萬劑疫苗，台積電和鴻海/永齡基金會規劃購買BNT疫苗來捐贈給政府，也已經順利簽約。</div>
+<div>
+	&nbsp;</div>
+<div>
+	我要再次感謝各方的努力，讓台灣能夠取得更多疫苗。政府和民間能夠攜手，正是「團結防疫守台灣」的具體表現。</div>
+<div>
+	&nbsp;</div>
+<div>
+	隨著更多疫苗陸續到貨，我們大規模施打正在進行當中。預計在這個禮拜五，第九、第十類民眾將開始接種疫苗。從昨天起，也開放18歲以上的民眾，可以進行接種意願登記。</div>
+<div>
+	&nbsp;</div>
+<div>
+	我也要再次呼籲國人，請踴躍登記，收到簡訊通知後，也請儘早完成預約。我們儘快把整體疫苗覆蓋率提升起來，增加社會總體防疫保護力，這樣子我們距離警戒降級的日子，才會越來越近，謝謝大家。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="49703276745450577158453342723871">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

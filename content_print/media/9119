@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-24</p>
+				<h2>立法院通過有關進口含萊克多巴胺美豬、30月齡以上美牛的9項行政命令審查之回應</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對立法院院會今（24）日表決通過有關進口含萊克多巴胺美豬、30月齡以上美牛的9項行政命令審查，民主進步黨發言人顏若芳表示，支持政府在依據科學證據與國際標準放寬美豬牛進口的政策，為了台灣的國家經貿發展，感謝立法院順利完成民主審查程序，通過9項行政命令，並且完備相關法令。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	特別感謝，所有為了國家整體經貿戰略發展，共同承擔且堅持到最後的民進黨立院黨團立委們的付出。這段時間以來，對於許多美豬不實謠言的紛擾，協助行政部門與社會進行溝通，並在今日共同促成台美關係更進一步的發展，使得台灣在國際經貿上有更寬廣的空間，來爭取更多國際支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，面對今年武漢肺炎疫情影響，世界各國經濟普遍受挫的情況下，雖然今年台灣的經濟有不錯表現，但面對未來全球供應鏈的重組，對台灣而言，是很大的機會，也是很大的挑戰，如何站上國際貿易的舞台，讓經濟持續成長，台灣一定要積極面對，努力尋求更多經貿發展的機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	當台美關係正穩定往更好的方向發展的時刻，尤其是美國國內，從國會到產業界都明確傳達，期待與台灣有更廣泛且深化的經貿往來，因此，放寬美豬牛進口就是為了國家整體最大的利益。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，今年台灣終於從口蹄疫區除名，台灣優良豬肉不只能在國內銷售，也可以外銷到國際，帶給豬農更大的利潤，因此，政府在衡諸國際經貿情勢、國內養豬產業的需要，以及維護國人健康的最高原則下，依國際標準開放美豬牛，不僅有助於達成台美雙邊貿易的進展，為雙方帶來更多的商機，加速國內產業與國際接軌、拓展台灣國際經貿地位，讓台灣脫胎換骨，創造雙贏的發展。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳強調，為了提升國內養豬產業競爭力，政府已經編列百億養豬產業基金，4年總經費130億元，將全力輔導養豬場現代化升級、推動屠宰場導入HACCP及肉品市場導入冷鏈設備、策略性擴大出口拓銷台灣豬、保障豬農收益及產銷秩序、擴大補助豬隻死亡強制保險等措施。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳重申，台灣是自由市場，美豬美牛的開放，是讓市場多一個選擇，並不是要求國人一定要食用。明年開放進口後，政府一定會盡最大的努力，以最嚴謹的態度為國人的健康把關，保障國人選擇自由，同時保護豬農生計。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	從過去非洲豬瘟的防範、武漢肺炎的防疫，在在證明民進黨政府有能力做好把關，政府也已提出五大管理措施，包括赴美查廠、新增貨號、逐批查驗、清楚標示、嚴格稽查，就是政府強化食安管制、確保食安管理，讓國人能夠安心的具體作法。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，衷心期盼社會各界不分朝野黨派，一起為國人健康與國家長遠利益努力，讓台灣在變動局勢裡面能穩定前進、走向國際，並讓國際繼續肯定台灣。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6859327a6975625239316d4239546c65">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

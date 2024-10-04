@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-10</p>
+				<h2>江永昌競選總部成立　卓榮泰：江永昌靠深耕基層打破中永和艱困結構</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今（10）日與蔡英文總統偕行政院副院長陳其邁、內政部次長花敬群、黨副秘書長林飛帆及地方黨公職，赴新北市中和區出席立法委員江永昌競選總本部成立大會，現場超過一萬名民眾到場，相挺蔡英文及江永昌雙雙連任成功。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰致詞時表示，本來要從後面進場跟鄉親一一打招呼，但是現場的支持者實在太多，完全沒有可以行走的空間，所以才直接上台，現場感受到支持者的熱情。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，全國有73個選區，目前已親自走訪完49個選區，剩下的24個也會一一走遍。這些選區中有現任立委要競選連任，也有新人要參選力拚突圍，其中新北市第八選區的江永昌就是要拚連任的衛冕者，「衛冕者就要登上衛冕者寶座，要把江永昌留在國會」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰接著說，中永和地區是過去民進黨很難經營的，江永昌從基層做起，一直到現在擔任立委都相當稱職，是靠勤快打拚、努力實在，一票一票跟鄉親懇託來的，這突顯了江永昌紮實的基層服務，而不是依靠選區結構的有利。卓榮泰說，中央黨部全力支持江永昌，讓江永昌在這個地方再贏一次。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f7a6d577a6336704230324179474379">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-04-18</p>
+				<h2>民進黨：侯友宜究竟有沒有跟羅友志見面談500萬？很難回答嗎？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨籍新北市長侯友宜今(18)日稍早受訪及新北市政府發布新聞稿內容，民進黨發言人張志豪表示，很遺憾的，侯市長仍是避重就輕，還是沒有回答到底有沒有跟羅友志見面？當年若沒有擔任選務工作，還開價500萬喬選舉？根據羅友志先生的爆料內容，您不只違反行政中立，更是違反刑法搓圓仔湯。侯市長究竟有沒有跟羅友志見面？這麼難回答嗎？</p>
+
+<p style="text-align: justify;">為此張志豪呼籲，侯友宜市長敢做要敢當，這是法律問題，不是政治問題而已，不要企圖用市府發布新聞輕描淡寫帶過，還有稍早受訪又三言兩語想粉飾太平，這都不是正辦。侯市長既然明天就要跑去新加坡避風頭，仍有一堆爭議跟疑點沒有說清楚，違反《選罷法》是公訴罪，面對被指違法關說者，請侯友宜在出國訪問前，誠實面對司法，一次說清楚。<br />
+&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6c747171385a353761494f6c61654371">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

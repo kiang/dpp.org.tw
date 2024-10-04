@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-12-14</p>
+				<h2>民主進步黨第二十屆第十八次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨今(14)日召開第二十屆第十八次中常會，黨發言人謝佩芬會後轉述陳其邁代理主席裁示，全文如下：</p>
+
+<p style="text-align: justify;">一、正副議長選舉督導小組增加翁章梁縣長為督導小組成員</p>
+
+<p style="text-align: justify;">二、針對本週日12月18日嘉義市長選舉，我要請所有黨公職同志，展現民進黨團結氣勢，成為嘉義隊的一員，在倒數4天的最後關頭，大家共同協助，匯集改變的力量，積極在社群平台幫忙轉發李俊俋候選人「翻轉嘉義，票投2號李俊俋」相關催票圖卡及臉書文章，讓支持者能夠提醒親朋好友，吸引在外地打拚的選民注意，呼籲大家幫忙催票、固票，讓支持者回家投票、出門投票，一人拉一票，12月18日，讓民進黨再起，取得勝利，讓嘉義更好。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4375434c41747a49453539313330324c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-05-31</p>
+				<h2>民主進步黨第二十屆第十五次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨今(31)日召開第二十屆第十五次中執會，會中通過7月16日(週日)於台北圓山大飯店12樓大會廳召開第二十屆第二次全國黨員代表大會，並通過全代會大會程序、工作組織架構、指派工作人員，其餘相關細節規劃，則授權中常會決定。</p>
+
+<p style="text-align: justify;">此外，針對2024年第11屆台北市、桃園市、高雄市及苗栗縣立委徵召選區之提名，經評估整體選情後，會中通過徵召林飛帆同志為台北市第三選區立委候選人、吳沛憶同志為台北市第五選區立委候選人、王閔生同志為台北市第八選區立委候選人、劉仁照同志為桃園市第五選區立委候選人、康世明同志為苗栗縣第一選區立委候選人、李柏毅同志為高雄市第三選區立委候選人。</p>
+
+<p style="text-align: justify;">此外，黨發言人張志豪轉述賴清德主席致詞，全文如下：</p>
+
+<p style="text-align: justify;">兩週前我說台灣2024總統與立委的選舉是一場建立民主共識的團結運動，因此我們提出了民主大聯盟的構想。</p>
+
+<p style="text-align: justify;">這個構想有幾點意義：</p>
+
+<p style="text-align: justify;">一、任何政黨要得到人民的支持，一定要貼緊社會的脈動，抓緊社會的需求。所以，不論人才的甄選、觀念的溝通、政策的形成，都必須要打開政黨的藩籬，廣納百川。</p>
+
+<p style="text-align: justify;">二、當全世界民主國家站在一起肯定台灣的民主自由，支持台灣的穩定與安全，而形成世界民主自由聯盟的同時，我們也要透過選舉的過程，打造台灣的民主大聯盟。</p>
+
+<p style="text-align: justify;">三、觀念變革與行動一樣重要，在新的政治變局下，我們秉持「以今日之我勝昨日之我，以明日之我勝今日之我」。政治工作者要有接受新觀念的勇氣，我們希望讓不同視角的經驗與看法，進入民進黨的決策思維裡。因此，民主大聯盟除了推出立委候選人之外也有社會各界有志之士的加入。下週起我們將在中常會裡陸續安排「民主大聯盟系列講座」，為觀念變革增添柴火，延續改革。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="514f61796774596a7336674a4c4a534b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

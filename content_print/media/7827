@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-07-13</p>
+				<h2>民進黨：強烈譴責國民黨暴力杯葛</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 針對國民黨立院黨團今(13)日暴力杯葛議事並攻擊本黨立委同志，民進黨發言人阮昭雄表示，本黨對國民黨立委上午的離譜行徑表示強烈譴責，並要求恣意施暴的立委立刻道歉！</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 阮昭雄表示，這次前瞻建設的討論過程中，看到各地民意對於區域發展的重視與期待。未來無論在「綠數水道鄉」任何一個領域的投資建設上，政府都會秉持審慎、透明並且拿出最好的執行力，在未來八年讓相關建設儘速並且高品質的到位，讓國家的每一分投資都發揮最大的效果，帶動國家的前進與發展。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 阮昭雄呼籲，對於即將在臨時會審查的前瞻基礎建設預算，本黨期待預算審查能夠理性討論，不分朝野、化異求同，為人民生活品質與國家建設攜手努力。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="397847415973316a66556b30324d4534">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-06-18</p>
+				<h2>援港專案，即刻啟動！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	為援助港人，陸委會今(18)日正式公布「香港人道援助關懷行動專案」。民進黨發言人廖泰翔表示，感謝陸委會及長期協助政府援助香港朋友的民間團體，延續政府自去年已展開的人道援助港人行動，進一步讓「撐香港」措施機制化。民進黨支持陸委會，在現有的法律基礎上，即刻啟動人道援助港人專案，並持續協助民間與政府對話，為完善協助港人措施與因應香港情勢變化提供更多可行建議。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	廖泰翔指出，從去年香港反送中事件到中國人大通過「港版國安法」，已掀起香港社會恐慌，凸顯中共對香港「一國兩制」的承諾形同廢紙。中國人大常委會也於今日正式將「港版國安法」排入審議程序，預計近日即將通過法案。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	對此，廖泰翔表示，民進黨再次表達強烈譴責，並呼籲中國政府立即停止對香港的人權、自由與民主法治的戕害。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	廖泰翔重申，香港正面臨危急存亡的關鍵時刻，民進黨支持香港的自由、民主、人權和法治，以及照顧關懷香港人民的決心，不會改變。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	面對香港情勢，民進黨政府自去年六月香港反送中運動以來，除了積極表態，也積極進行必要的人道協助。民進黨強調，撐香港，「說跟做，都重要！」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	廖泰翔表示，協助港人的工作，確實不容易，不僅需要政府跨部會的協處，也需要公私之間的協力進行。對於自去年六月以來，臺港民間團體的通力合作，幫助政府提供必要的協助，民進黨致上誠摯謝意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	前一個階段協助港人的工作，民間團體負擔相當多的心力。依循蔡英文總統與行政院蘇院長的指示，陸委會最新公布的行動專案，將由政府主導，成立「臺港服務交流辦公室」，提供實質人道援助，強化對港人的關懷服務及照顧；提供港人就學、就業、投資創業、移民定居等專業諮詢，以及專案管理，以公私協力，整合政府與民間資源，關心在台港人，協助解決各式問題。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	廖泰翔表示，我們期盼陸委會的援港專案能適時讓香港朋友感受到台灣的溫暖，也讓世界看見，民主自由是台港之間共同堅持的價值，當香港人民有難，「Taiwan Can Help！」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，針對過去一段時間，民間團體和在台港人對政府援助港人工作的協助和理解，民進黨也表達感謝之意。政府已展開實質協助，民進黨亦會透過黨的平台與「香港情勢因應小組」持續與民間對話，密切關注情勢演變，協助未來政府援港工作的落實，堅定聲援香港爭取民主自由的聲音。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="57683953456f7572344f344332755674">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-12-09</p>
+				<h2>首場縣市黨部主委檢討會議召開  鄭文燦：充分反映、彙整第一線輔選幹部建言，讓黨更貼近地方</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民進黨九合一大選檢討會議於9日由檢討小組召集人鄭文燦邀集各縣市黨部主委，共同就本次選舉過程中的各項觀察及問題，仔細聆聽各項建議、深刻檢討各種缺失，彙整出未來黨務、選務及執政方向的具體建言，重新贏回人民的支持，務求在未來的選舉中，讓民眾看到民進黨最好的進步。</p>
+
+<p style="text-align: justify;">鄭文燦說，在本次的檢討會議中，地方黨部幾乎全數出席、暢所欲言，主委的檢討報告，除了書面檢討報告之外，針對執政成果、議題攻防、網路訊息、輔選策略、選區經營及提名過程等多方面的議題，都提供非常具體的建議，讓我們深刻反省，因為各種不同因素的綜合影響，導致過去較為支持民進黨的選民，在投票意願、傾向和候選人選擇上有所變化，包括投票率的下降，讓民進黨所提名的縣市長候選人整體的得票數不理想。這些來自地方黨部的寶貴意見，都是民進黨未來在政策落實、基層經營、候選人提名時機等面向最好的參考。</p>
+
+<p style="text-align: justify;">鄭文燦表示，中央黨部各部門在最短的時間內，已經提交了這次輔選的書面檢討報告。今天各縣市黨部主委的建言，全國一致的共同問題會彙整釐清、檢討原因，縣市個別問題會再深入討論，找出癥結。今天所邀請的地方黨部主委，幾乎都親自出席，對於蒐集第一線的輔選意見與問題有很大的助益。這只是第一場的檢討會議，接下來檢討小組會針對輔選團隊、社會力領域持續進行座談，也會與不同的社會群體進行對話，廣納各種不同的意見，期盼能讓執政團隊與未來的黨務改革發展，更貼近地方，也更符合民意。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="35544d6f4a58456b356432764a717a63">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-05-30</p>
+				<h2>一個半月共開85槍 民進黨：新北沒政府！侯友宜主政下黑道最猖狂</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>繼新北三峽槍擊案後，三重再開13槍，民進黨發言人林楚茵今（30）日痛批，自從侯友宜荒廢市政選總統後，新北市接二連三發生槍擊事件，日前三峽槍案後換三重，從4月19日板橋槍擊案11槍開始，到今天共一個半月，新北市共開了85槍，請問治安不安，市民怎能心安，侯市長聲稱的治安專業可說是千瘡百孔，如果侯市長無心市政，請盡快辭市長，讓新北市恢復正常治理，讓市民安居樂業。</p>
+
+<p>林楚茵指出，根據遠見最新調查顯示，將今年和2020年比較，新北市警政治安退步9名，淪六都3，這都是侯友宜不專心市政的鐵證。從4月19日板橋槍擊案11槍，4月20日土城槍擊案51槍，4月30日八里槍擊案4槍，5月10日五股行刑式槍決，5月28日三峽槍擊案6槍及今天三重槍擊案當街狂掃13槍彈殼滿地，短短一個半月，新北市共85槍，每一槍都讓市民恐慌，每一槍都讓人民看清侯友宜的真面目。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="674f72695933426f6d6c634c6b453670">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

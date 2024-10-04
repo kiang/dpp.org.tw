@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-28</p>
+				<h2>民主進步黨第十八屆第十六次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(28)日召開第十八屆第十六次中常會，由於蔡英文主席請辭黨主席職務，會中通過於新任黨主席選舉產生之前，由林右昌同志代行職務。另針對2018年第十六屆黨主席補選一案，將依照民進黨選舉相關期程，由幕僚單位於下週提出期程規劃，並請代理黨主席與中央黨部進行黨主席改選事宜。此外，臨時動議提案，有關台北市第二選區及台中市第五選區立委補選案，會中決議先成立「立委補選提名協調小組」，由鄭文燦中常委、高志鵬中常委、鄭運鵬中常委擔任小組成員，並由鄭文燦市長擔任小組召集人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另針對新北市黨部主委余天請辭案，洪耀福秘書長於會中報告，11月24日余主委為承擔輔選新北市選戰的結果，表達請辭，洪耀福秘書長當天已向各黨部主委表達這次的敗選應由中央黨部負起最大責任，也請全國各縣市黨部主委共同承擔這樣的責任，雖然他的請辭案不是中常會的職責，也會建請新北市黨部執委會予以慰留，所有政治責任由中央黨部承擔。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	代理主席林右昌於常會致詞時表示，在民進黨這個艱困的時刻，黨需要他，他必須勇敢承擔。民進黨的敗選，給了我們一個非常大的反省機會，民進黨也唯有反躬自省，才能有進步的空間。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	他也提到，重點並不在於世代交替，我們必須深切檢討，到底是哪裡做錯？或是做壞了，要一起承擔，共同來面對，互相補位，而不是互相卡位。民進黨在地方選舉挫敗，不過民進黨仍然是執政黨，對於社會有重大的責任，台灣人民及所有的支持者，都在看民進黨是不是一個成熟且負責任的政黨，我們有責任盡快安定社會和民心，並且在執政及行政上面進行檢討及改進，在最短的時間內，調整府院黨的腳步。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林右昌呼籲從政同志以及各級黨務主管幹部，在這麼艱困的時刻，更應該團結一致，互相勉勵，安撫並且鼓舞黨員和支持者，切不可失了意志和志氣。他說，代理黨主席的職務，是職務性的代理，最主要有兩項工作，新任黨主席產生的期間內，協調整合，首先是盡快進行黨主席補選作業及程序；第二，台中市、台北市兩席立委補選提名作業。他強調，這兩項工作的時間都非常緊迫，將是他目前最重要的任務。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d72534874715949586e3469794c4557">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

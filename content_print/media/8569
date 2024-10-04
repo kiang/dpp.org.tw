@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-02-24</p>
+				<h2>針對近日部分媒體報導之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	有關媒體報導民主進步黨卓榮泰主席「要求台南的立委與議員出席，結果卻湊不夠人數，造成會議流會」云云，民主進步黨發言人李晏榕今(24)日表示，部分媒體報導引述國民黨謝龍介議員在某政論節目的談話片段，報導內容毫無根據，所言指涉均非事實，應即刻予以澄清更正，以端正選風。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕表示，卓榮泰主席今日出席台南市第二選區立委候選人郭國文競選總部成立大會，現場五千名鄉親及行政院副院長陳其邁、台南市長黃偉哲、前行政院長賴清德、立委林俊憲、陳亭妃、王定宇、葉宜津等黨公職均到場力挺郭國文，展現台南市立委補選聯合作戰的「大團結」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕強調，台南鄉親具有極高的民主素養，不會接受信口開河、胡謅亂蓋的候選人，本黨拒絕惡意抹黑的惡質選舉手法，並呼籲台南市議員謝龍介應該「管好自己的嘴」，不要「ㄧ支嘴，胡纍纍」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="58383047484633744534563430383772">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

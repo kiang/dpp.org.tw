@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-07-11</p>
+				<h2>民進黨籲李乾龍多花心思穩固國民黨 惡意抹黑無助提升政治文化</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對今（11）日國民黨秘書長李乾龍以「案底黑漆漆」抹黑陳菊前秘書長，民主進步黨發言人顏若芳表示，不管是民進黨，還是陳菊前秘書長辦公室，早已多次說明過，陳菊前秘書長一生只有在威權時代，被國民黨關了六年的政治黑牢，根本從未被司法判刑過，更從未被彈劾，而監察院現在也沒有高雄市政府任何相關的案件在調查中。她說，今天李乾龍這種毫無事實根據的惡意中傷，也只再次證明，國民黨的改革根本就是假的，「反民主」依然是國民黨的政黨價值。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，國民黨一直用莫須有的罪名，對陳菊前秘書長進行政治抹殺，一個政黨的秘書長發言若連基本的事實都可以扭曲，這樣的發言水準令人遺憾，更無助於台灣政治文化的提升。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	她也呼籲，李乾龍秘書長應多花點心思，協助江啟臣主席團結國民黨各派系，穩固內部，如果一再用這種抹黑的言論，不但會破壞國民黨形象，難保國民黨內有心人士不會見縫插針。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，顏若芳表示，雖然知道一再奉勸國民黨不要潑髒水、抹黑，猶如對牛彈琴，但我們仍秉持著不斷良善勸導，即使是頑石也會點頭的精神，再次奉勸，國民黨應停止不被社會所認同的抹黑行為，及無理杯葛的手段，依循立院議事程序進行同意權的審查。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4b32656d506f494a6d63324e77525074">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

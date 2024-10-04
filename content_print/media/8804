@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-13</p>
+				<h2>偕高嘉瑜訪新創產業　卓榮泰：設籍內湖南港區　立委票一定投給高嘉瑜</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p dir="ltr" style="text-align: justify;">
+	民主進步黨主席卓榮泰今（13）與立法委員參選人高嘉瑜一同前往位在內湖的台北創新實驗室參訪，執行長黃晨淳親自出面接待。卓榮泰與高嘉瑜除與青年朋友就現今新創與青創的現況、現行法規所遇到的困難討論外，也聆聽投入新創與青創的心得及想法。</p>
+<p style="text-align: justify;">
+	卓榮泰表示，看到年輕人充滿活力，在自己熟悉的領域上有很好的表現，他都覺得非常高興，如同民進黨此次提名相當多年輕立委參選人上陣，也是秉持同樣的想法。</p>
+<p style="text-align: justify;">
+	卓榮泰接著說，如何協助年輕人工作更順暢，就是他所要承擔的責任，因此去年擔任行政院秘書長時，就相當關心新創產業，無論早期協助至技術合作，現今政府的政策都努力投入，今天聽聽大家的意見，未來高嘉瑜進入立法院，一定會在政策面上做更多、做更好。</p>
+<p style="text-align: justify;">
+	會後接受媒體訪問時，卓榮泰針對立委選舉表示，這次民進黨的競選主軸是「台灣要贏世代共贏」，這背後的意涵除了要世代交替以外，也要讓任何世代在改革進行的同時都不會缺席，更不會受到傷害。</p>
+<p style="text-align: justify;">
+	卓榮泰說，全國73個選區的立委輔選總動員正持續進行，然而唯有內湖南港區最不一樣，因為他的戶籍地就在此，一定會把票投給高嘉瑜，讓其順利進入立法院，另外也會與高嘉瑜攜手合作，一起完成蔡英文總統連任、衝高政黨票的一致目標。</p>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="423967704f643735543762714f673964">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

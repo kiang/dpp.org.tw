@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-05-16</p>
+				<h2>民主進步黨選舉對策委員會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	針對台北市長候選人徵召事宜，民進黨發言人鄭運鵬今(16)日轉述選對會中結論如下：</p>
+<p style="text-align: justify;">
+	一、選對會近來針對本黨在台北市基層黨公職幹部，包括現任市議員、通過初選的市議員參選人、黨籍里長及市黨部執評委等進行座談。多數與會幹部認為民主進步黨應提出自己的市長候選人，讓中央與地方執政同步，貫徹本黨對人民的改革承諾，實踐民進黨對首都的市政願景。</p>
+<p style="text-align: justify;">
+	二、2014年民進黨在野時，選擇與無黨籍的柯文哲市長合作，以在野大聯盟的形式，順利打敗國民黨，實現首都政黨輪替的艱難目標。如今，民進黨已在中央執政，並於國會過半。在改革進入最關鍵的時刻，本黨應承擔更大的責任。我們認為，未來的市長應當充分理解本黨目標，體現本黨價值，並與中央執政一致，共同推動政策，實踐改革理想。</p>
+<p style="text-align: justify;">
+	三、基於上述評估，針對台北市長候選人徵召事宜，選對會將向主席提出建議，依「民主進步黨2018直轄市長暨縣市長提名特別條例」之規定，啟動徵召的程序，開始評估人選。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4241676634485730513152434d6c5558">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

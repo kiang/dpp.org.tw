@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-09</p>
+				<h2>出席陳癸佑竹山競選後援會成立 卓榮泰：這場大選是惺惺作態和實在做事的選擇</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(9)出席南投縣第二選區立委參選人陳癸佑竹山競選後援會成立大會，親自授予候選人護國保台戰旗，行政院中部聯合服務中心副執行長湯火聖、台灣車輛公司董事長蔡煌瑯及南投縣議員賴燕雪、陳昭煜、羅美玲、陳翰立也到場站台力挺。卓榮泰致詞表示，這次的選舉到現在，已經不是權貴或是庶民、高尚或不高尚的選擇問題，而是惺惺作態和實在做事的選擇，陳癸佑做事實實在在，很會持家。任如果陳癸佑能夠進入國會，一定可以替鄉親爭取預算，好好替地方做建設，每筆錢都用在刀口上，這才是我們所寄望的。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	他進一步表示，陳癸佑在鄉長任內所舉辦的水里玩水節，創造的收入遠遠超過過去，代表陳癸佑用心替南投開發地方創生和產業，這也是未來南投要繼續發展，最重要的基礎。此外，陳癸佑還建置水岸環鄉自行車道，讓鄉親能有一個健康活動的地方。從過去的政績來看，陳癸佑是一位稱職、有行政經驗的地方行政首長，未來如果進入國會，更能幫助蔡英文總統和行政院，推動所有的建設。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰說，這次選舉，蔡總統選情穩定領先，但不敢鬆懈，而立委的部分則正在繼續努力，但我們最大的危機感，就是大家的投票意願，如果大家有決心要讓陳癸佑當選，明年1月11日一定走向投票所，真正站出來投 票做出選擇，而大家前往投票所的那條路，正是台灣民主的出路。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，他訂定了全台灣四大選區，攻下北台灣，國會就過半；守住南台灣，就守住大台灣；贏得中部，就不會輸給中國；看好花東，就能翻轉就成功。而南投位於中部，贏得中部，就不會輸給中國，就能讓所有來自中國的威脅，以及台灣內部與中國裡應外合的聲音知道，大家的選票有很大的力量，可以向全世界宣布，我們拒絕一國兩制台灣方案、26條措施，中國就是想掐住台灣的脖子，使台灣無法呼吸，所以我們要掙脫這樣的威脅。讓陳癸佑用過去服務鄉親的精神，帶著鄉親的祝福和託付，走向國會，發揮他的正義感，替南投展現出新的未來和期望。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="596b4352476f3134744e424453784546">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-12-03</p>
+				<h2>李旻蔚競選團隊稱民進黨同意合掛與蔡英文總統同框看板　民進黨：說謊</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	根據中央社報導，民眾黨立委候選人李旻蔚競選團隊，在新北市三重區街頭上，掛起數個與總統蔡英文合照看板，且宣稱有經民進黨同意。民進黨發言人何博文今（3）日鄭重駁斥，不管是蔡英文總統還是民進黨，在三重選區唯一支持的候選人是本黨籍現任立委余天，絕無可能同意李旻蔚可合掛蔡英文總統看板情事，請李旻蔚候選人、團隊及相關後援會自重，莫要持續散播不實言論之劣等選舉謊話。</p>
+<p style="text-align: justify;">
+	民進黨發言人何博文表示，這是標準的說謊行為。早在上個月1日就有許多支持者跟黨中央表示，網路上流傳民眾黨立委參選人李旻蔚及蔡英文總統的文宣合照，為其立委選舉作宣傳，已嚴重混淆民進黨支持者的認知。當時民進黨中央已嚴正聲明，余天委員為本黨新北市第三選區立委參選提名人，也是蔡英文總統及民進黨全體於此區唯一支持的參選人。未料李旻蔚團隊不僅沒有悔意，反將網路文宣實體化，陸續在三重街頭林立與蔡英文總統的合照看板及宣傳物，企圖持續造成蔡英文總統在該選區並非只有支持余天一人的假象，同時謊稱是經民進黨同意的行為。何博文表示，我們歡迎他黨候選人表達對蔡英文總統的支持，但對於這樣的選舉騙術，完全難以苟同。</p>
+<p style="text-align: justify;">
+	何博文表示，民進黨新北市黨部評委會已通過李旻蔚脫黨代表他黨參選除名一案，已轉交黨中央中評會，全案按本黨相關作業程序進行中。呼籲新北市三重區支持者唯一支持蔡英文總統、卓榮泰主席及民進黨全體力挺的余天立法委員。</p>
+<body id="cke_pastebin"></body>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="523173517057567367653363536a6c6c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

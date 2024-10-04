@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-14</p>
+				<h2>馬英九問「有這麼嚴重嗎？」 李明俐：請馬前總統摸摸良心，難道國民黨要到台灣被統一才覺得「嚴重」嗎？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對馬英九前總統昨日對中國加速侵台嘲諷表示「有這麼嚴重嗎？」，民主進步黨發言人李明俐今（14）日表示，馬英九過去執政時的情況證明，就是有這麼嚴重。若國民黨再度執政，中國對台灣的控制必然快速且全面加強，台灣國際地位與國家安全亦必將持續下降。李明俐反問：「這怎麼會不嚴重？」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李明俐指出，馬英九執政期間，在政治作為上，承認「九二共識」、推動外交休兵、兩岸互不否認，以及定位兩岸關係是「一中原則」下的「區與區關係」，導致台灣國際地位江河日下。經濟上，積極與中國簽訂ECFA，促使中國從過往的政治、軍事對台灣恐嚇，轉變為「經濟統戰」模式，將台灣推往「一中市場」和「一中框架」邁進，套牢在「一個中國」的政治目的泥淖。馬英九的執政末期，更加速傾中腳步，罔顧台灣人民意願，強行推動服貿協定，最終引發台灣人民反抗，才爆發318太陽花學運，這難道不嚴重？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李明俐表示，總結馬政府八年，在在顯示，國民黨上台，就是持續將台灣「中國國內化」，而現在國民黨競逐總統提名的太陽們，競相拋出「和平協議」等議題，爭先恐後對中國獻媚的態度，比起馬英九更是有過之而無不及，國民黨若再次執政，傾中態勢必然更快更猛，這難道不嚴重？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李明俐也表示，中國一直用「一個中國」原則，壓縮台灣的國際參與，以及透過新聞、網路進行與論操弄，軍事繞台的威逼，種種強權威逼行為，都是昭然若揭的事實。在習近平發表「告台灣同胞書」後，中國為促使加速統一進程，對台統戰態度越加強硬、不友善，在這樣的情況下，國民黨在中國文攻武嚇時，不但噤若寒蟬，甚至反過來為中國幫腔恐嚇台灣，這難道不嚴重嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，李明俐強調，中國在習近平全面掌政的體制下，為加速「一國兩制」的統一進程，對台灣的威脅及利誘更是無所不用其極，全方位的滲透，蔡英文總統提出反制一國兩制七大綱領，就是為了維護台灣國家安全與社會安定，防制中國破壞民主制度。她重申，面對中國無孔不入的威脅，我們大家必須更重視自由生活的可貴，民主政權鞏固的重要，團結一致不畏中國強權，反制滲透分化。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="444b6d504d41786131306c3539773357">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

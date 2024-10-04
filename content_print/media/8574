@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-02-27</p>
+				<h2>民主進步黨第十八屆第二十四次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(27)日，卓榮泰主席偕同全體中常委與黨務主管，由立法委員候選人郭國文及地方黨公職陪同，於台南市麻豆代天府召開第十八屆第二十四次中常會，會中邀請台南市黨部主委黃先柱以「台南市第二選區立法委員補選選情分析」為題進行專案報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰主席致詞表示，古今內外，歷史上有很多重要的會議，可以改變一場戰役，改變一段歷史，而今天的代天府會議，能夠改變台南這場戰役，改寫台灣的歷史，能否成為未來典範，就看我們接下來的努力。這場選戰，不是一人、一派、一黨的選舉，而是一場關乎全台灣的選舉，是民主進步黨為了延續台南民主香火的重要一戰。我們所徵召的候選人，就一定要讓他當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰分析，台南市多年來一直是民進黨耕耘最深、組織最強、綠色版圖最健全的地方。在去年那樣大環境不利的情況底下，又遭受到網戰的侵襲，我們還是成功守住台南，而且如今我們已經知道對手操作的方式，我們的基層組織又還在，只要團結一致，全力動員支持者和理性選民出來投票，堅定支持郭國文，就一定能取得最後的勝利。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰指出，所有的民調顯示，民進黨並不是落後，而是原本不必要打得這麼辛苦。在這種接近的情況下，只要成功地團結整合，郭國文就一定能勝出。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，國民黨提名的謝龍介才剛當選議員三個月，就違反對選民的承諾，跨區參選立委，不但無法對原選區的選民負責，跨區的選民又怎麼可能認同、接受這樣的候選人。謝龍介應該展現氣魄，辭去議員，才是負責的態度。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也指出，民進黨公職人員提名作業是公平、公正、公開的，不應該受到不理性的質疑。同時，民進黨也是最支持、最栽培青年參政的政黨，制度也最完整，希望退黨參選的候選人，能好好思考，不要傷害民進黨。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，未來還有兩個禮拜的時間，讓人民感受到我們所做的努力，也懇請台南市第二選區的選民，繼續信任民進黨、支持民進黨，這一次立委補選，團結再團結，全力相挺咱自己栽培出來的郭國文，讓他順利進入國會，為台南市民的福利、台南市的發展和台灣的前途打拚。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後卓榮泰主席裁示，一、中央黨部全力投入這場選戰；二、從中央到地方黨公職全力組織動員；三、全力傾聽農漁民、勞工的心聲，在短時間內，提出對現行政策的檢討以及擬定未來確實可行的政策方向；四、民調中心持續提供專業及正確的民調數字，隨時掌握戰情，並做出有利的分析及對策處理。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="527255374e583679746e345570425134">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

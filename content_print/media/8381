@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-08-28</p>
+				<h2>南台灣暴雨蔡令怡稱老天有眼 何孟樺：惡意言論，應立即對災民致歉</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對今(28)日國民黨主席吳敦義夫人蔡令怡出席活動，稱大雨打臉民進黨是老天有眼，民進黨發言人何孟樺表示，南台灣現在仍受暴雨影響，當中央和地方政府正積極解決問題，全力優先為災民恢復生活時，蔡令怡卻在天災發生時幸災樂禍，稱這是「老天有眼」。何孟樺批評，救災不分藍綠，過去吳敦義主席也曾擔任過高雄市長，吳夫人看到淹水的情況竟然未苦民所苦，還發表此番惡意言論，對災民而言形同二次傷害，本黨強烈呼籲，救災優先，不要再噴政治口水造口業，吳主席與蔡令怡應向災民致歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="49335639664d7479335a6a6a396e4169">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

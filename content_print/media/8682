@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-05-24</p>
+				<h2>國際友人在WHA為台灣執言，中國阻擾違背WHO的根本宗旨</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	感謝許多國際友人在本屆世界衛生大會（WHA）發聲力挺台灣。民主進步黨發言人李明俐今（24）日表示，第72屆世界衛生大會將於28日閉幕，台灣此次再度因中國政治因素阻擾未能參加。但台灣並未因打壓而受挫，衛福部部長陳時中率世衛行動團赴瑞士日內瓦，截至23日已舉行超過71場雙邊會談，成果已超過去年，也獲得16個友邦及8個理念相同的國家發聲力挺台灣參與WHA。此外，有14個友邦提案「邀請台灣作為觀察員參加WHA」。對於許多挺台灣仗義執言的國際友人、陳時中部長率領的政府行動團及這段期間努力奔走的民間自發性世衛宣達團，民主進步黨要特別表達感謝之意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李明俐表示，此次的世界衛生大會的主題是：全民均健，不遺漏任何一人（Universal Health Coverage-Leaving no one behind），台灣不論是醫療技術，還是公衛水準，絕對是全球衛生體系中重要的貢獻者，而台灣人民的健康人權也絕不能因中國因素而被排除在外。在這次的大會舉行期間，除了台灣的友邦為台灣講話，美、德、英等國家也站出來力挺台灣，表示支持台灣取得先前在世界衛生大會所享有的身分。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李明俐進一步指出，我們大家都有看到聖文森衛生部長布朗（Luke Browne）繼去年在全會2對2辯論發言力挺台灣，強調「不能允許在全球健康議題上操弄政治」，今年不但再度為台灣執言，斥責中國反對台灣參與WHA，「只是因為北京不喜歡現任政府」，並質疑「難道台灣2千3百萬人的利益該被政治偏見綁架嗎？」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李明俐強調，對於中國連三年用「一個中國」原則阻擾台灣參與WHA，聖文森衛生部長布朗在會中以「一個加勒比海」理念駁斥，並提出「台灣從未被定義為中國的一部分，也不適合將其如此認定，因為這兩個地區擁有分開、自主、獨立且不同的政府。」邀請台灣以觀察員身分參與WHA，完全符合世衛的規定或決議。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，李明俐表示，感謝國際友人透過全會辯論讓全世界知道，「全民均健，不遺漏任何一人」。WHO應捍衛所有人的健康權益，而非屈從於政治。世界衛生大會不應被中國綁架，中國不該在全球健康議題上操弄政治，把台灣排除於世界衛生體系之外。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5a6e54677239724e3773483053525836">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

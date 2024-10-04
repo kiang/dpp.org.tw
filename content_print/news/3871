@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2011-02-01</p>
+				<h2>GDP與GNP的文字遊戲</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <h2><span style="color: rgb(255 0 0); "><img width="0" height="0" src="/upload/Image/2011banner/GA_ICON/SUBING.png" alt="" /><a href="http://networkedblogs.com/dIVC4" target="_blank"><span style="color: rgb(255 0 0); ">GDP</span></a></span><a href="http://networkedblogs.com/dIVC4" target="_blank"><span style="color: rgb(0 0 255); ">與</span><span style="color: rgb(255 0 0); ">GNP</span><span style="color: rgb(0 0 255); ">的文字遊戲</span></a></h2>
+<p><a href="http://blog.roodo.com/subing" target="_blank"><strong><span style="color: rgb(0 102 51); ">酥餅（SUBING）</span></strong></a></p>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;&nbsp; &nbsp;馬政府在舊曆年的前夕透過主計處放出一則<strong><span style="color: rgb(255 0 0); "><a href="http://tw.news.yahoo.com/article/url/d/a/110201/4/2ls0x.html" target="_blank"><span style="color: rgb(255 0 0); ">今年台灣平均所得超過兩萬美金</span></a></span></strong>的消息，由於這則消息與民眾的生活經驗實在相距太遠，因此引起許多討論，除了美金貶值所以以美金計價的國民所得換算成美金後自然會增加外，大部分的說法都認為民眾感受不到平均所得成長的原因在於分配不均，平均數的成長主要是極少數人的收入大幅增加，一般大眾的收入不但沒有增加甚至還減少。......(後略)</div>
+<div>&nbsp;</div>
+<div>&nbsp;&nbsp; &nbsp;說到底，經濟是民眾真實的生活，而不是單純的GDP或GNP，GDP作為經濟指標其實都有許多謬誤了何況是已經公認沒有代表性的GNP，真的要量化經濟指標的話，政府更應該關心的是到底有多少台灣人能夠有尊嚴，有保障的做他們喜愛的工作以及他們的收入是不是足夠照養他們所愛的人。</div>
+<div>&nbsp;</div>
+<div><a href="http://networkedblogs.com/dIVC4" target="_blank"><span style="font-size: larger; "><span style="color: rgb(0 0 255); ">---精彩完整文章請見原出處---</span></span></a></div>
+<p>&nbsp;</p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="71437a48304e674257794c6970466b39">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

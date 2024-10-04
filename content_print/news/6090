@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2014-04-09</p>
+				<h2>2014年第15屆黨主席暨第16屆全國黨員代表選舉公告</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp;2014年第15屆黨主席暨第16屆全國黨員代表選舉公告</p>
+<p><a href="http://www.dpp.org.tw/upload/news/20140409151418_link.pdf" target="_blank"><img src="http://www.dpp.org.tw/upload/Image/2014ANNO/2014chairmanELE-01.png" width="595" height="842" vspace="5" alt="" /></a></p>
+<p><a href="http://www.dpp.org.tw/upload/news/20140409151418_link.pdf" target="_blank"><img src="http://www.dpp.org.tw/upload/Image/2014ANNO/2014chairmanELE-02.png" width="595" height="842" vspace="5" alt="" /></a></p>
+<p>注意事項：</p>
+<ul>
+    <li>參選領表請先洽組織部。<br />
+    02-2392-9989 #420<br />
+    &nbsp;</li>
+    <li>登記地點設於八樓大會議室，建議事先聯繫。</li>
+</ul>
+<p>&nbsp;</p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="437063734b68794b324e314f4e565658">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

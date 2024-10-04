@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-06-16</p>
+				<h2>台灣名列2022世界競爭力年報第7名 李妍慧：肯定過去台灣人民努力不懈的成果</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對2022世界競爭力年報發布，台灣在63個受評國家中位列第7名的消息，民進黨發言人李妍慧今(16)日表示，瑞士洛桑管理學院評比結果說明了過去二年，台灣民眾團結防疫，除了在國際防疫成績有好的表現，也具體展現出在國家競爭力的強大韌性。這對努力不懈的政府團隊與台灣人民來說，是一個令人振奮的肯定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李妍慧表示，2021年對全台灣人來說都是辛苦的一年，受疫情影響進入三級警戒，國人同胞們都犧牲了許多生活與工商業運作上的便利來協助防疫，造成經濟上的衝擊，這也是我們在評比上少數明顯被扣分之處。儘管如此，自疫情開始後，全球原物料與農糧陸續遇到產能、運輸及戰爭等因素影響，價格不斷上漲，但政府仍控制住通膨水準，使一般物價不至如多全球各地般飆升，照顧好國人的民生需求。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李妍慧指出，台灣的競爭力排名已連續四年進步，這幾年在全球歷經動盪與危機中，仍然表現亮眼，相較於如韓國這些鄰近的競爭夥伴，我們就因政府效能與企業效能這些項目表現較為優異，才能在排名上略勝一籌，且在2000萬人以上的經濟體中連續兩年榮登世界第一，這是台灣人民展現強大韌性的結果。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李妍慧進一步指出，民進黨政府對於國內經濟、就業狀況的施政成績都有顯著進步，特別是財政方面的指標，在預算餘絀與債務占GDP比率這些細項的排名提升，顯示我們即便展開大規模紓困與振興，財政狀況仍然保持穩健，許多國際信用評鑑機構也陸續提升台灣的信用評等，不僅是瑞士洛桑管理學院(IMD)，世界經濟論壇(WEF)等組織也對我國的創新能力給予名列前茅的評價。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李妍慧表示，過去幾年來，政府積極布局與全世界許多國家的經貿交流，如今有許多努力已經獲得成果，例如去年建立的台美科技貿易暨投資架構、中美洲銀行設立駐台辦事處，以及今年開展的台美21世紀貿易倡議、台灣歐盟經貿部長級對話等，都會幫助在疫情下漸漸邁入正常生活的台灣，隨著經濟活動復甦及淨零趨勢帶來的產業轉型，更加融入國際自由貿易的市場，迎來新的發展高峰。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="374e495a474b5568496949716f687a4d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

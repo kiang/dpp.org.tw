@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-03-03</p>
+				<h2>朱立倫再用「全動法」扭曲造謠 民進黨：恐怕是林明溱選情告急！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨主席朱立倫今（3）日在林明溱晚會再次用「全動法」扭曲造謠中傷蔡培慧，民主進步黨新聞部主任張志豪痛批，朱立倫根本就是氣急敗壞，恐怕是林明溱選情告急，說不出自己候選人的政績，才一再造謠抹黑，國民黨從頭到尾用不實言論恐嚇人民，根本就是嚴重失格的黨主席。</p>
+
+<p style="text-align: justify;">張志豪表示，「全民防衛動員法」修法並沒有時間表，目前也還在預告階段，包括蔡英文總統及行政院長陳建仁都已清楚說明。此法只適用在實施動員時期的「戰時」，「平時並不適用」，所以絕對不會影響或損及人民平時的自由和權益。</p>
+
+<p style="text-align: justify;">張志豪表示，朱立倫作為最大在野黨主席，一再昧於事實，選前最後時刻再次用「全動法」來扭曲造謠，惡意攻擊中傷蔡培慧、批評民進黨，看來是林明溱選情告急，才不斷積非成是，用恐嚇人民的方式，企圖製造社會恐慌。對此本黨予以最嚴厲的譴責。<br />
+&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="56746d6445577a364b444b7550574865">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

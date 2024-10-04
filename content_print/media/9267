@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-10-05</p>
+				<h2>中共接連軍事恫嚇台灣，已成為國際社會的麻煩製造者</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對中共解放軍連日入侵台灣西南空域，昨（4）日更有高達56架共機侵擾。民進黨表示，中共當局接連的軍事恫嚇行徑，不僅衝擊兩岸關係，更破壞區域和平穩定現狀，民進黨要予以強烈譴責，並要求立即停止這類不負責任的挑釁作為。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨指出，蔡英文政府執政以來，始終秉持「遇到壓力不屈服，得到支持不冒進」的原則，積極維持兩岸與區域和平現狀。可是中共當局卻不斷以軍事、外交和經濟手段施壓及威嚇台灣，近期更不斷升高對台的武嚇力道，已引起國際社會的關注和譴責，成為印太地區的「麻煩製造者」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨認為，和平是我們最高的價值之一，但對於試圖併吞我們的人卑躬屈膝、抱有不切實際的期待與幻想，並無法保障國家安全，更是無法換取和平的。唯有積極提升自我防衛能力、堅定捍衛國家主權的立場，才能守護台灣現有民主自由的生活方式。這也是蔡英文總統就任以來，民進黨政府全力以赴的目標。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨表示，面對中共當局不斷升高的軍事恫嚇，台灣人民擁有捍衛自由民主的堅定意志。民進黨要正告中共當局，切勿誤判情勢、試圖破壞台海現狀。民進黨也呼籲不分朝野黨派此時此刻應與國人共同站在一起，表達台灣絕不接受中共武力侵略的態度，共同捍衛台灣主權與安全。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="414e6442464c5a51716d78434d77356a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

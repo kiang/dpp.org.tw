@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-10-23</p>
+				<h2>有關宜蘭縣長提名 民進黨: 回歸初選機制，推出最強的人選</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 針對今(23)日媒體報導「傳出陳金德將接任宜蘭縣代理縣長，為明年縣長選舉鋪路」一事，民進黨發言人張志豪表示，黨有黨的提名機制，包括宜蘭縣等四個縣市，均依照「民主進步黨2018年直轄市長暨縣市長提名特別條例」規定進行初選，選對會也決定在農曆年前後完成初選提名。選對會表示，為了避免黨內過度競爭，仍是希望經由協調產生共識人選，協調不成，最終還是以初選民調產生人選。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 選對會認為，不論是代理縣長吳澤成或是前中油董事長陳金德，都經過中央及地方完整歷練，而且都是表現非常傑出、勇於負責的優秀人才，都是民進黨的資產。相信政府對於他們的職務安排，都是以推動施政、為民謀福作為優先的考量。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 張志豪表示，宜蘭雖然是民進黨長期執政的縣市，但並非每一次的選舉都可以那麼順利，如2005年也曾經敗選，這次的選情仍不容樂觀。為此選對會認為，面對這次選舉，本黨必須具高度危機意識，團結絕對是勝選的基礎。未來只有全黨團結一致，才能完成共同目標。為此民進黨會依初選機制推出最有勝選機會的人選，承擔責任與使命，繼續推動宜蘭進步與發展。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="62514f38385336414e4e617368327151">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

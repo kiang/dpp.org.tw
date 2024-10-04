@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-03-20</p>
+				<h2>公告民主進步黨美德青年育才計畫獎助規定</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p><img alt="" src="/upload/ckfinder/images/%E6%B0%91%E9%80%B2%E9%BB%A8%E7%BE%8E%E5%BE%B7%E9%9D%92%E5%B9%B4%E8%82%B2%E6%89%8D%E8%A8%88%E7%95%AB%E7%8D%8E%E5%8A%A9%E8%A6%8F%E5%AE%9A_0312_page-0001.jpg" style="width: 848px; height: 1200px;" /><img alt="" src="/upload/ckfinder/images/%E6%B0%91%E9%80%B2%E9%BB%A8%E7%BE%8E%E5%BE%B7%E9%9D%92%E5%B9%B4%E8%82%B2%E6%89%8D%E8%A8%88%E7%95%AB%E7%8D%8E%E5%8A%A9%E8%A6%8F%E5%AE%9A_0312_page-0002.jpg" style="width: 848px; height: 1200px;" /><img alt="" src="/upload/ckfinder/images/%E6%B0%91%E9%80%B2%E9%BB%A8%E7%BE%8E%E5%BE%B7%E9%9D%92%E5%B9%B4%E8%82%B2%E6%89%8D%E8%A8%88%E7%95%AB%E7%8D%8E%E5%8A%A9%E8%A6%8F%E5%AE%9A_0312_page-0003.jpg" style="width: 848px; height: 1200px;" /></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="377061613034794d505a6579436f4b4d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

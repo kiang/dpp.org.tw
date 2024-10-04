@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-12-16</p>
+				<h2>賴清德全程「海陸腔客語」宣講公投　林光華籲客家鄉親投下四個不同意</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	距離1218公投倒數兩天，民進黨客家部「義民護台灣」最終場今（16日）來到新竹關西太和宮，活動邀請副總統賴清德全程以「海陸腔客語」說明公投議題，現場民眾也以客語鼓勵並報以掌聲，賴清德感謝鄉親的支持，現場互動熱烈。新埔義民廟董事長林光華也呼籲鄉親，要發揮義民爺精神，團結起來，投下四個不同意！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	活動由前議員嚴永秋、連忠進代表、葉來富代表、葉明璋里長、行政院顧問黃源慶共同發起，邀集民眾參加，現場逾300位民眾高唱客家本色，並且在最後喊「四個不同意」！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	賴清德全程使用海陸腔說明四個公投的重要性，他表示，客家鄉親非常團結、敢拚敢衝，保衛家園的義民精神，就是團結，愛民愛鄉，請鄉親集結彼此的力量，一起來保護家園，守護台灣！民眾不時熱情掌聲，或是給予客語提示，最後副總統笑說，下次來就會唱歌了。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	身為醫師公會理事長的立法委員邱泰源呼籲，除了露出手臂施打疫苗，更是要在1218拿出一臂之力，投下四個不同意。新竹縣議員吳傳地，本來公投是展現民意最好的制度，但是國民黨卻操弄成政黨對決。新竹縣議員張珈源說更強調，公投四個議題都是假議題，我們不能讓國民黨的詭計得逞。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	新埔義民廟董事長林光華說，不能讓國民黨來亂，加上四個議題對臺灣的未來有很大的影響，臺灣的經濟要發展，環境要安全，貿易要前進，民主要守護，現在也是我們發揮義民爺精神的時候，團結起來，投下四個不同意。新竹縣黨部主委彭瑞德，邀請黨公職一同上台，呼籲民眾我們要「國泰民安」，需要請大家幫忙投下不同意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	客委會主委楊長鎮，我們台灣的經濟常跟韓國比較，這兩年國民所得我們確定會超越韓國，但主委強調，為了國家經濟貿易穩定，萊豬公投若卡關，我們的經濟不能前進，萊豬開放不會影響我們的生活，但不開放萊豬我們的經濟發展還有就業機會就一定會受到影響，主委強調這題一定要請鄉親投下不同意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	現場還有許多地方團體一同來響應1218四個不同意，並帶來精彩的表演活動，包含百樂門音樂玩家協會、石岡社區舞蹈班、鹹菜甕合唱團、石岡社區鐵馬社與東光舞蹈社，現場氣氛熱鬧，呼籲鄉親呼朋引伴，年滿18歲的民眾，1218台灣隊站出來，一起投下四個不同意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="444c4a36774c4b796749746561654377">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

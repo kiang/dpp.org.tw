@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-02-26</p>
+				<h2>赴南投名間、水里、集集參香祈福 賴清德：如果蔡培慧當選要建設南投，算他一份</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨主席賴清德今（26）日南投輔選行程滿檔，賴清德參香後致詞表示，靠神也要靠人，要有神明保佑，也需要找一個認真打拚的人來做祂的「腳力」，可以和當地民代合作共同建設合作，大家可以得到幫忙，這個好人才就是蔡培慧。</p>
+
+<p style="text-align: justify;">賴清德主席在立委候選人蔡培慧，立委羅美玲、南投縣議員沈夙崢、吳棋楠、王秋淑、名間鄉鄉長陳翰立、水里鄉鄉長葉銘豐及前草屯鎮長洪國浩、前集集鎮長陳紀衡等黨公職陪同下，接連至名間鄉赤水北天宮、水里鄉永豐宮、集集鎮長安寺拜廟祈福，向神明祈求國泰民安，也為黨籍候選人蔡培慧加油，希望鄉親支持，一起讓蔡培慧高票當選，「為南投爭一口氣」。</p>
+
+<p style="text-align: justify;">賴清德表示，這段時間幾乎每周都來幫蔡培慧助選，不論到哪裡她都可以講出為地方解決的問題和爭取的建設，也得到當地民代、鄉親的感謝，「所以拜託大家支持蔡培慧，希望大家給南投機會，南投不能四處出問題」。</p>
+
+<p style="text-align: justify;">賴清德進一步表示，我們在地的鄉長、民代很認真，大家共同建設地方，地方就會進步，「同樣的道理，南投要進步、種種問題要解決，譬如說垃圾的問題，大家希望可以有大間醫院可以照顧我們的健康，或者是要發展觀光，這都需要好人才，需要可以解決問題的好立委蔡培慧」。</p>
+
+<p style="text-align: justify;">賴清德強調，過去縣長帶領的縣府很像放空城，才會二、三十年問題都沒辦法解決，要人沒人、要經費沒經費，是這兩、三年來蔡培慧擔任委員、執行長，一起和羅美玲委員、當地民代一起幫忙解決，「南投還有很多問題要解決，所以讓蔡培慧當選來解決各地問題，就是給南投一個機會，讓她當選，她會主動常來這裡幫忙解決問題」，如果蔡培慧當選要建設南投要算賴清德一份。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3550525045634165344559517666554c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

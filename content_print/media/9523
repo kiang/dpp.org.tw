@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-05-06</p>
+				<h2>新北市議員第五選區初選民調結果新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨2022年直轄市議員提名初選民調作業，今（06）日公布新北市議員第五選區民調結果(本選區提名5席，含女性保障1席)：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	<img alt="" src="/upload/ckfinder/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-05-06%20115933.png" style="width: 1468px; height: 758px;" /></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	註1：提名名單以民進黨中執會正式通過公告為準。</div>
+<div style="text-align: justify;">
+	註2：候選人姓名前標註*為符合《2022年直轄市議員提名特別條例》所訂條件之新人，標註**者為新人且具青年或新住民身份。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c4b6970623931544172424268754838">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2016-06-02</p>
+				<h2>2016年第17屆中執評委選舉公告</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp;<span style="color: rgb(34 34 34); font-family: arial sans-serif; font-size: 14px;">今日發布2016年第17屆中執評委選舉公告，</span><wbr style="color: rgb(34 34 34); font-family: arial sans-serif; font-size: 14px;"></wbr><span style="color: rgb(34 34 34); font-family: arial sans-serif; font-size: 14px;">訂於6月13日至17日於中央黨部辦理候選人登記申請，</span><wbr style="color: rgb(34 34 34); font-family: arial sans-serif; font-size: 14px;"></wbr><span style="color: rgb(34 34 34); font-family: arial sans-serif; font-size: 14px;">詳情請見附件之選舉公告。<br />
+</span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(34 34 34); font-family: arial sans-serif; font-size: 14px;"><img src="http://www.dpp.org.tw/upload/中執評委選舉公告1.jpg" width="600" height="849" align="absMiddle" alt="" /></span></p>
+<p><span style="color: rgb(34 34 34); font-family: arial sans-serif; font-size: 14px;"><img src="http://www.dpp.org.tw/upload/中執評委選舉公告2.jpg" width="600" height="849" alt="" /></span></p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="48704678756a6f44584d474c6e35446d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-08-04</p>
+				<h2>【馬英九你又失憶了嗎？】減核主張昨是今非！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                	                <p class="text-center font_green">
+		                <i>
+		                	〞馬英九執政說要減核，卸任後卻放棄自己當初的政策，反過來批評同樣也想要減核的執政者，到底是為了哪樁？〞
+						</i>
+					</p>
+										<hr>
+	                <p>
+	<img alt="" src="/upload/ckfinder/images/WhatsApp%20Image%202018-08-04%20at%2012_00_15%20PM.jpeg" style="width: 800px; height: 800px;" /></p>
+<p>
+	前總統馬英九和前行政院長江宜樺最近召開記者會，大動作挺核能，並說反核不是趨勢。他們表示，執政時沒說核一、核二與核三廠將不再延役，不要栽贓他們。<br />
+	<br />
+	但馬英九可能忘了，他在執政時，召開能源政策記者會，宣布核一、核二與核三廠將不再延役，且說要穩健減核。<br />
+	<br />
+	馬英九執政說要減核，卸任後卻放棄自己當初的政策，反過來批評同樣也想要減核的執政者，到底是為了哪樁？<br />
+	<br />
+	【改革，他們都說過，但只有我們真正做到！】<br />
+	<br />
+	【延伸閱讀】2011年總統府新聞稿：總統召開「能源政策」記者會<br />
+	<a href="https://www.president.gov.tw/NEWS/16016">https://www.president.gov.tw/NEWS/16016</a><br />
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4b78327a39644135443934443635736d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

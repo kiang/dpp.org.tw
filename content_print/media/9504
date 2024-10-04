@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-04-27</p>
+				<h2>五歲就開始輔選 蘇巧慧從父親和漫畫「進擊的巨人」中領悟民主自由！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	「蔡英文&amp;DPP」的Podcast頻道「耳朵出遊不出油」，今（26）日釋出立法委員蘇巧慧的專訪，提及自小跟著父親蘇貞昌經歷政治肅殺的年代，從五歲便開始輔選工作，說道自己從政有部分原因是以父親為榮，因此也想投入推動台灣的民主與自由，面對政二代的標籤，蘇巧慧表示不會有壓力，但努力不落人後，笑稱現在不會有人說她是蘇貞昌的女兒，而是會認為蘇貞昌是「蘇巧慧的爸爸」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蘇巧慧除了立法委員的身份之外，同時也是podcast《水獺媽媽巧巧話》的主持人，透過兒童床邊故事來推廣母語教育，受到極大的迴響與肯定。而從小愛看漫畫的她，也細數各種漫畫，更透露賴品妤是「老靈魂」，常常一起討論各種不同的動漫。蘇巧慧認為漫畫不該再被視為洪水猛獸，也可是教育的載具之一，能推介台灣的文化，或是傳遞正面的教育意義，她便從漫畫「進擊的巨人」當中，省思到人人都可以是英雄，為了追求自由，我們必須要付出更多的力量去進行遊說和廣交盟友。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蘇巧慧也在節目中談到自己對影視產業的願景，像《全明星運動會》這樣結合運動的綜藝類節目，結合造星創造出觀眾喜歡的內容非常厲害。她看好台灣的綜藝類節目的發展，也期待能有更多元的綜藝類節目，才能夠打造台灣自己的舞台，發揮本土娛樂產業的軟實力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	經歷了各種不同的人生經歷跟身份的轉換，蘇巧慧認為「看事情的角度會不一樣」並以自身經歷和家長分享，親職教育的重點在於鼓勵小孩多做嘗試，家長也盡量與時並進，去接觸新的、不一樣的事情。越豐富的生活經驗、知識的累積，都能轉化成成長過程看待這個世界能夠有更圓融的角度。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨網路社群中心范綱皓主任表示，「耳朵出遊不出油」收聽群眾穩定上升，透過不同媒介去接觸不同的選民，正如蘇巧慧委員強調的，以不同載體去傳達公共事務與政策立場，范綱皓認為這是民主政治的正面互動，民進黨也會以不同的網路社群平台去進行溝通，讓選民能夠更清晰理解政治運作，並滿足不同年齡層、不同網路社群使用者的習慣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	收聽連結如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	＊Apple ：<a href="https://reurl.cc/951yda">https://reurl.cc/951yda</a></div>
+<div style="text-align: justify;">
+	＊Spotify：<a href="https://reurl.cc/6DLe2M">https://reurl.cc/6DLe2M</a></div>
+<div style="text-align: justify;">
+	＊KKBOX：<a href="https://kkbox.fm/0t0h3i">https://kkbox.fm/0t0h3i</a></div>
+<div style="text-align: justify;">
+	＊Google：<a href="https://reurl.cc/kLn6QG">https://reurl.cc/kLn6QG</a></div>
+<div style="text-align: justify;">
+	＊Firstory：<a href="http://dpppodcast.firstory.io">http://dpppodcast.firstory.io</a></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="58366b4773776c5633345a4d6b314f4e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

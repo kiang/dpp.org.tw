@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-02-26</p>
+				<h2>有關「民進黨中國事務部主任出席兩岸學者視訊座談」的說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>有關媒體報導「民進黨中國事務部主任出席兩岸學者視訊座談」，民主進步黨發言人吳崢今（26）日表示，閉門會議內容，遭媒體下標片面解讀，民進黨的重要文件皆有公開資訊，也有清楚的歷史脈絡，有關台灣主權應由台灣人民共同決定，是台灣人的共識。</p>
+
+<p>吳崢表示，民進黨對於兩岸互動的態度，就是保持善意，願意與中國進行更多的溝通與對話，基於此立場，吳峻誌主任受邀參與會議，表達立場。</p>
+
+<p>此外，針對國民黨主席朱立倫對此事的相關回應。吳崢也表示，民進黨中國部主任出席學者座談，相關發言都有其歷史脈絡，請朱主席不需要見縫插針、隨之起舞。他強調，賴清德主席已多次公開表示，中華民國台灣是主權獨立的國家，沒有另行宣布台獨的必要，呼籲國民黨及朱立倫主席，早日放棄一中框架的九二共識，可以和民進黨共同主張，中華民國台灣就是一個主權獨立的國家。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="717535664e7336566b6e7330626b5061">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

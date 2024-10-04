@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-25</p>
+				<h2>搶攻台中豐原、北屯選票 卓榮泰陪翁美春、莊競程市場掃街拜票</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨主席卓榮泰今(25）早陪同立法委員參選人翁美春於台中市豐原第一市場掃街拜票，台中市議員謝志忠及地方黨公職皆到場陪同。卓榮泰於市場內廣播，並逐攤握緊每一雙手，懇請大家用選票支持已在地服務多年的翁美春進入國會，為全國人民服務，現場也有民眾致贈粽子、蔥，為民進黨與翁美春加油打氣。結束稍早輔選行程，卓榮泰隨即陪同立法委員參選人莊競程於台中市北屯市場掃街拜票，隨後來到北屯由第四代經營的80年老店「阿旺爺爺」大啖台中美食並直播進行快問快答，現場反應鮮活逗趣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰說，全國七十三個選區總動員輔選，今天剛好跑到進度的一半，翁美春長期深耕台中基層，地方服務非常扎實，深得大家支持，期勉他能善用過去的專業與熱忱，為民進黨開拓票源。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，今天很高興來到豐原，第一市場非常活潑熱鬧。首先懇求頭家全力支持蔡英文總統，讓他能連任繼續為國家服務。同時，翁美春多年來盡心於地方服務，向大家拜託，讓他有機會進國會為人民打拚。最後，民進黨政黨票也需要鄉親幫忙，誠懇大家，總統連任一票、翁美春一票，民進黨一票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	翁美春受訪時表示，感謝主席以及一起在基層打拚十三年的謝志忠議員到場加油，這四個月來，走訪各地聽到很多聲音，尤其農民有很多心聲，希望能進國會為農民爭取更多福利還有還有補助。今天來到第一市場，未來要繼續往前衝，台中第八選區一定要贏。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，未來各地的競總會跟總統及立委的競總聯合作戰，會陸續依照競總安排的時間，跟每個委員來做時間上的搭配，努力的來達到最後勝選的目標。他強調，莊競程一定能有志者事竟成，台中要贏，北屯區就必須是莊競程贏。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	莊競程表示，這場選舉，雖然這邊對民進黨算是艱困選區，但他就是堅持勤走基層，握遍每一雙民眾的手，向所有民眾說明他的專業、理念、抱負，做對台灣好的事，最重要的是我們會堅持守護台灣的主權和自由民主，他相信在這樣的前提之下，會獲得選民最大的支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="593830477948494a713344434237416b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

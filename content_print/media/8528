@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-09</p>
+				<h2>卓榮泰：讓優秀、努力、誠懇的王義川拿下這席，將是民進黨最好的一劑強心針</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	卓榮泰：讓優秀、努力、誠懇的王義川拿下這席，將是民進黨最好的一劑強心針</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(9)日就職黨主席，甫結束台北市士林大同區立委候選人何志偉輔選會議行程，馬不停蹄，在立委黃國書、何欣純、前台中市長林佳龍、黨副秘書長高幸雪、徐佳青、台中市黨部主委何明杰、台中市議員賴佳微、曾朝榮，及地方黨公職陪同，來到台中市北屯區出席黨籍立委候選人王義川輔選會議。卓榮泰表示，讓優秀、努力、誠懇的王義川拿下這席，將是民進黨最好的一劑強心針。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，今天第二個行程，立刻來到台中，代表從中央到地方，都對於王義川立委候選人在這一段時間的表現，給予最高的肯定，因為他活力十足，充滿了戰鬥的氣息，對地方又非常的嫻熟。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰說，他從不相信沒有任何一個地方是不能翻轉的，因為只要候選人夠優秀 、努力、誠懇，拿出他的實力，都是大有可為。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	他也提到，林佳龍市長的團隊、台中市各公職人員以及所有的力量，在這一次的競選當中，也紛紛的投入。今天在中央改組完成之後，全部的力量要再跟地方做結合，配合地方總部所設定的選舉步驟，一起來行動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰指出，台中這一席的立委補選，如果可以在這樣的環境下，靠我們的候選人王義川，把這席拿下來，將是我們在1124選後到現在，最好的一劑強心針。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後他強調，黨中央將會擬定一個大戰略、大戰區聯合作戰計畫，用一個真正大感動的行動，來感動選民。希望候選人一定要讓大家知道他的實力，但是最重要的是，他有多少的努力要呈現在市民朋友面前。除了創意之外，也要有誠意，讓市民感受到候選人對地方的瞭解，以及台中市未來的建設，如何經由他的當選，來跟中央做配合。所以，要從創意、實力、努力，多方面來形成一個大感動的計畫。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="46334370617267486a69646c77504f4f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

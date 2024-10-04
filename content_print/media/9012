@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-06-17</p>
+				<h2>民主進步黨第十八屆第六十二次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(17)日召開第十八屆第六十二次中常會，會中通過高雄市第三屆市長出缺補選本黨提名候選人徵召人選同意案，徵召陳其邁同志為本屆高雄市市長補選本黨提名候選人。此外，會中由中華經濟研究院經濟法制研究中心副主任顏慧欣，以「美中對抗情勢及台灣因應之道」為題進行專案報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝謝中經院顏慧欣博士針對美中對抗的最新情勢，以及台灣如何因應，為我們做了相當精闢的分析。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	面對現在美中關係變化、經濟情勢變化，隨時掌握最新情勢，確實是我們應該要做的功課。相信我們所有部會也都會緊鑼密鼓地做因應對策、掌握情勢。也希望在每一個階段，我們的對策都會是最好的對策。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，美國商會在《2020台灣白皮書》中，不僅肯定台灣對於武漢肺炎疫情的有效控制，是世界上最安全的地方之一。這樣的成果更有助於台灣爭取更多跨國企業來台投資佈局的機會，也證明台灣是國際民主陣營在印太地區的可靠夥伴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	非常感謝今天顏博士對未來因應策略做了許多建議，包括協助產業加速分散式供應鏈的布局、儘速參與亞太各國「經濟安全互信聯盟」，持續強化自身經濟產業的全球競爭力等，這些都是很好的觀察點與建議。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="796e4f4a34515750566a796c36664e55">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

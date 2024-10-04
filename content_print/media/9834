@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-02</p>
+				<h2>民主進步黨第二十屆第十三次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨今（2）日召開第二十屆第十三次中常會，會前由黨主席蔡英文與宜蘭縣長候選人江聰淵、苗栗縣長候選人徐定禎、南投縣長候選人蔡培慧召開「終結黑金 贏回正義」記者會，三位候選人也在蔡英文主席見證下簽署「拒絕黑金宣言」，向國人宣示他們會秉持民進黨「清廉、勤政、愛鄉土」的信念，這次1126的選舉，要終結黑金、贏回家鄉的決心。</p>
+
+<p style="text-align: justify;">蔡英文主席呼籲每一位選民，為自己家鄉，為台灣未來民主發展，投下關鍵且正確的一票，杜絕黑金政治，不再讓地方政治，成為黑金特權的溫床。</p>
+
+<p style="text-align: justify;">此外，今天中常會會中，林錫耀秘書長在黨務報告時，播放由各縣市長候選人團隊製作的競選影片，分別是「我們只是要一種選擇」、「【溫暖的魄力。陳時中】從政者的使命 關於C肝」、「桃園正進步，不走回頭路」、宜蘭的「重新 再進步」、「11月26日 請成為南投改變的力量」等五支影片，給與會的中常委們作為分享參考。<br />
+&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="31353247303361465233466c7a734d65">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

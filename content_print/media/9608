@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-01</p>
+				<h2>恩恩爸向侯市府提國賠 民進黨：侯友宜還要繼續掩蓋事實真相 拖全國醫護警消下水</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對新北市男童恩恩案，家屬批新北市政府一直不願意拿出關鍵證據，擬提國賠一事，民進黨發言人李坤城今(1)日表示，恩恩爸要求真相至今已超過一個月，侯市府依然不願交出還原事實的關鍵證據，國民黨更是毫不遮掩地護航侯友宜，威脅若外界要持續追查侯友宜，就要全面清查染疫死亡案件作為報復。民進黨呼籲侯友宜市長及侯市府誠實為上，公布恩恩爸爸訴求的資料並道歉，也呼籲國民黨不要再為了掩護侯友宜，企圖拖全國醫護警消下水，來轉移因侯友宜及侯市府錯誤政策導致恩恩延誤送醫的責任！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李坤城指出，侯市府為了圓一個謊，逼基層消防演戲假象，並以基層當作擋箭牌，像是前消防員具名所踢爆，侯市府為了掩蓋恩恩案真相，要求消防基層演戲，營造多人報案的假象，後又以捍衛基層清白為由，想把關鍵資料鎖在「偵查不公開」的背後，當成推託恩恩家屬訴求的藉口。如今，國民黨更以全面清查染疫死亡案件，作爲外界要持續追查侯友宜的報復，拉全國醫護警消墊背，來阻礙真相被揭露，護航侯友宜一人。請問國民黨，是在幫侯友宜「強逼公務員造假」、「拉基層作為遮羞布」的行為護航、圍事嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李坤城表示，若有其他個案家屬想追查真相，民進黨都支持，指揮中心也早就強調，若有家屬想調閱1922錄音檔，只要申請都會提供，反觀國民黨卻是以全面清查染疫死亡案件作為外界追求真相的報復，用打混仗的方式，沖淡侯友宜及侯市府該負的責任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李坤城重申，國民黨根本是來亂的，奉勸國民黨與其把全國警消醫護拖下水，不如請侯友宜只要先拿出恩恩案的真相和所有事證就可以解決問題，請侯友宜市長不要再把「負起全責」當成空口白話的口號。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6a6b374d4a584633304930696e61644d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

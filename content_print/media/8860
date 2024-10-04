@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-14</p>
+				<h2>民主進步黨與社會民主黨共同聲明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	一、當前區域局勢動盪，外有中共併吞野心，內部保守勢力蠢蠢欲動。值此台灣前途關鍵時刻，民主進步黨主動邀請范雲女士加入民進黨不分區行列。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	二、民進黨於2019年全國黨代表大會通過《社會同行、世代共贏》決議文，明確反對一國兩制，並在堅持社會改革的道路上，強化政府／政黨和社會的連結，加強轉型治理的能力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	為在轉型改革過程廣納建言，保護所有相對脆弱的民眾，竭誠邀請社民黨創黨召集人范雲女士加入民進黨不分區行列。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范雲女士收到邀請後，與社民黨決策委員商議共同確認，未來進入立院，將持續推動社會民主理念，以「捍衛性別平等、保障勞工權益、推動轉型正義」為三大問政主軸。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	三、當下台灣正處於選擇政經傾中、反社會改革，或者選擇維護台灣主權獨立、深化經濟社會改革的關鍵時刻。民進黨體認到，有必要虛心結合更多決心抗中保台的政黨，進而壯大保護台灣的力量。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	而社民黨雖遭遇艱困挑戰，但臺灣前途與社會民主理念的推廣，是比個別政黨利益更重要的考量。范雲是社民黨最有能力問鼎國會席次的成熟政治工作者。成為民進黨不分區代表進入立院後，社民黨支持范雲堅守「主權、平權、勞權」三大社會民主理念，並推動憲政改革，於國會力抗保守勢力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	四、民進黨和社民黨皆為獨立政黨。2020年以本土政黨之間良性競爭、理性合作的創新模式參與大選，其目的就是凝聚更大的力量來保護台灣。</div>
+<div style="text-align: justify;">
+	未來民進黨將會在更開放、多元、進步的道路上繼續努力。而社民黨會繼續秉持創黨精神，對執政黨提出諍言，與台灣人一同打造更美好的國家。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f58484f69366f77724f557477437a4f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

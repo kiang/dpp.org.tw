@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-10</p>
+				<h2>出席愛心公益演唱會 卓榮泰：讓許淑華取代費鴻泰</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民主進步黨主席卓榮泰與總統參選人蔡英文今(10)日由國策顧問顏志發、台北市議員許家蓓、洪健益、張茂楠、李建昌及地方黨公職陪同，出席「許淑華愛心公益助盲胞演唱會」。</p>
+<p style="text-align: justify;">
+	卓榮泰表示，這三天在外地奔走，回到台北看到三位議員在這支持許淑華，感覺格外靠近，因為30年前他第一次選議員，第一場演講就是在這個學校。30年來到處走到處打拚，現在看到新一代年輕人，可以為了黨團結合作，為了在這次選舉打出好成績，替他們感到驕傲。</p>
+<p style="text-align: justify;">
+	他也說，只要所有人的考慮都是為了台灣、為了黨要打贏這次的選舉，共同擁護提名的候選人，這樣各縣市各選區都可以團結合作，選情絕對會好。</p>
+<p style="text-align: justify;">
+	卓榮泰進一步表示，他也要跟許淑華再一次交付任務，如果她進入立院，議會就少一個人，所以三位議員要做四人份的工作，他們替你當議員，許淑華就要替他們做立委，服務這裡的鄉親長輩，合作創造更好的社區跟生活。</p>
+<p style="text-align: justify;">
+	此外，許淑華的對手也不簡單，20年前他就在立法院了，我們都進化20年，他還在慢慢學習。民主進步黨在台北市8個提名候選人，平均年齡比國民黨年輕20歲，不是年紀大的不行，只是有些事要讓年輕人做。</p>
+<p style="text-align: justify;">
+	卓榮泰最後強調，民主進步黨一直用負責的態度，調整選舉的部隊以及競選幹部，幫蔡英文總統第二個任期，幫行政院推動國家政策。他對四位議員充滿希望跟信心，讓許淑華取代費鴻泰。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d694f457a504c4968366269314a6566">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

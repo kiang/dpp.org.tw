@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-11-15</p>
+				<h2>民進黨：擁抱九二共識的國民黨，才是台灣遠離國際、單押中國的罪魁禍首</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨抨擊民進黨因不當政策讓台灣真正變成亞太或印太地區的「經濟邊緣人」一事，民進黨今(15)日表示，「九二共識根本換不來RCEP」。國民黨執政八年間，把台灣所有資源押寶中國、把前途鎖在中國市場，卻放棄參與區域經濟整合的機會，如今還來抨擊民進黨政府，顯見國民黨仍然不知反省和一味卸責。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨指出，2012年11月，東南亞各國就開始啟動RCEP的談判工作。但回顧當時的馬英九政府，卻執意堅持「九二共識」，所有心思只有中國市場，不知分散風險。最後台灣並未從中國走向世界，卻換來中國對台灣主權的步步進逼和不斷掐住台灣經濟咽喉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨抨擊國民黨，當時高喊「九二共識」，卻不見國民黨政府積極努力融入區域經濟。如今回過頭來責備民進黨政府，這種不負責任的做法，完全背離台灣利益。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨政府執政後，除了積極吸引外資、台商回流，也努力填補過往馬政府執政八年所錯失的區域經濟合作契機。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨強調，台灣著手加入美國所領導各先進國家為體系的供應鏈重組計劃。種種經貿工作正是希望具體提升台灣的經濟競爭力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨也呼籲國民黨，應摒棄「九二共識」的過時魔咒，從全球佈局的視野思考台灣經濟利益與前景，支持政府與各國平等、互惠的經貿合作政策才是正確方向。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="414a7871705946764f794b38644b766a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

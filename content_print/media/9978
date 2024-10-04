@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-02-16</p>
+				<h2>民進黨：請問朱立倫，夏立言有向北京表達「捍衛中華民國」嗎？還是接受中共的「九二共識」？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">有關國民黨主席朱立倫聲稱「台獨才讓中華民國沒有空間，國民黨永遠是捍衛中華民國，守護台灣的民主自由」的說法，民進黨今(16)日表示，請問朱立倫，夏立言有向北京表達「捍衛中華民國」嗎？還是接受中共主張的「九二共識」？</p>
+
+<p style="text-align: justify;">民進黨表示，中華民國台灣是一個主權獨立的國家，這是台灣社會的共識，而捍衛中華民國台灣主權，守護台灣民主自由是民進黨從黨外、創黨到執政不變的使命，反觀國民黨在兩岸的主張從沒有放棄統一的路線，令社會無法安心。</p>
+
+<p style="text-align: justify;">民進黨表示，朱立倫主席與國民黨，在兩岸的議題上，不但沒有向中共表達反對軍事威脅的主流民意，反而一再配合統戰宣傳，向國際社會傳達錯誤訊息。民進黨表示，面對主權，民進黨從未改變立場，台灣的前途要由台灣人民共同決定，兩岸應尋求經貿合作，發展和平穩定的互惠關係，國民黨擁抱「九二共識」並不會為中華民國爭取對等的談判空間。</p>
+
+<p style="text-align: justify;">民進黨指出，賴清德主席一再呼籲，在台灣無論朝野，必須一起堅守「自由民主的憲政體制」、「中華民國與中華人民共和國互不隸屬」、「主權不容侵犯併吞」、「中華民國台灣的前途必須要遵循全體台灣人民的意志」等四個堅持，捍衛台灣的國家主權以及民主自由。不管是現在還是未來，兩岸關係穩定發展的關鍵，則是應該奠基於「和平、對等、民主、對話」的原則上。</p>
+
+<p style="text-align: justify;">民進黨也要再次提醒國民黨，切勿一再陷入中共當局統戰框架，而是要以台灣民意為念，若國民黨真追求和平，應立即要求中共放棄對台武力威脅。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7063586658797a3956516774554a5875">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

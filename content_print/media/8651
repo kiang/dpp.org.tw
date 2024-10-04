@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-27</p>
+				<h2>參與廢核大遊行 卓榮泰：站在新能源政策執行的第一線，綠能大國、風光啟動</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(27)日偕同桃園市長鄭文燦、立委蘇巧慧、余宛如、尤美女、陳曼麗、吳焜裕、李麗芬、何志偉、陳歐珀及台北市、新北市議員、前行政院長賴清德、黨秘書長羅文嘉、副秘書長郭昆文、徐佳青及地方黨公職共同參與「告別核電 風光明媚」廢核大遊行。遊行前，蔡英文總統也至民進黨大隊為大家加油打氣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰於遊行前致詞表示，今天各地的黨公職都來到現場響應今天的活動，因為前幾天是世界地球日，大家共同來參與這場活動，表示台灣人民與世界是站在一起、走在一塊的，這代表了我們堅決的決心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，在去年公投後，社會上有一些反面的焦慮，因此，我們需要共同走出來，藉由今天這場運動再來喚起社會對台灣非核家園的信心與熱情。他指出，今天主辦單位提出的「告別核電 風光明媚」這樣的訴求，而民進黨站在執政黨的責任與角色，更應該負責任的告訴去年在公投投出贊成票的國家主人，我們不會讓台灣有缺電的憂慮，民進黨一定會極力的發展新綠能、新能源，共同把核電取代掉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	因此，在告別核電、風光明媚當中，必須加入「綠能大國、風光啟動」，把太陽光電、離岸風電，乃至於水力、地熱等等新能源都發展起來，用這樣的方式，很堅定的告訴所有台灣人民，以及要來台灣投資的所有國內外產業，台灣沒有缺電的疑慮，民進黨一定會把這個大家憂心的問題，用負責任的態度、清楚的論述，向外界說明。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，民進黨大隊今天站在這裡，沒有其他的政治訴求，單單純純、清清楚楚地就是為了廢核這樣的訴求走向這裡，希望大家用這樣的熱情、信心與理念，共同完成今天這場大遊行，更重要的是把責任交給民進黨，雖然民進黨在這個大隊，是在隊伍的最後面，但是在政策的執行，一定站在執行的最前面、站在第一線，一定會為台灣未來新能源的發展，做出全黨的奉獻，也希望大家一起努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3438556252776b30545074305036336e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

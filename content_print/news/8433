@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-16</p>
+				<h2>自經區等於自毀經濟示範區</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                	                <p class="text-center font_green">
+		                <i>
+		                	〞是自由經濟示範區 還是自毀經濟示範區？〞
+						</i>
+					</p>
+										<hr>
+	                <p>
+	<span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial; font-size: 13px; white-space: pre-wrap; text-size-adjust: auto;">中國國民黨的自經區條例放任外資與中資財團大幅減稅、開發土地並雇用外籍人員，不但在區內擴增工廠，還引進中國原料分裝加工又貼上MIT的標籤，不只破壞台灣品牌還回銷至本地市場，本地廠商與農民如何生存？</span></p>
+<p style="text-align: center;">
+	<span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial; font-size: 13px; white-space: pre-wrap; text-size-adjust: auto;"><img alt="" src="/upload/ckfinder/images/57343532_10155823991401058_5647111734805135360_o.png" style="width: 1024px; height: 1024px;" /></span></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="36536645454a565643656152614a725a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

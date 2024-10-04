@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-08</p>
+				<h2>搶攻新住民選票 民進黨推出胖卡走台灣 卓榮泰：讓台灣成為新住民的原鄉</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨主席卓榮泰今(8)偕同新北市板橋西區立委張宏陸、婦女部主任蔡宛芬出席「新住民，新助力&mdash;&mdash;婦女部胖卡記者會」。活動中，卓榮泰、張宏陸與三位來自越南的新住民姐妹以越語及台語合唱「愛拚才會贏」，氣氛熱絡有趣。接下來婦女部將到各地舉辦市集，並推出行動胖卡車「阿力」，為蔡英文總統、各地立委候選人助選，展現民進黨積極搶攻新住民選票的決心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，婦女部長期關注新住民朋友的生活，這台「阿力」，表示新住民對所有台灣人的助力。未來，民進黨會繼續與新住民朋友共同創造好生活，未來一起來耕耘家園。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰說，他要代表民進黨向全國超過五十幾萬、來自各個國家的新住民表示感謝，因為他們的加入，讓台灣文化更為豐富。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，民進黨與台灣所有人，向新住民朋友們敞開雙手，而政府在照顧政策、文化保存、語言學習、下一代教育都能越來越進步，讓新住民朋友把台灣當作未來的原鄉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	張宏陸表示，本周五(11日)早上10時到12時在板橋農村公園會舉辦第一場新住民活動，民眾可以體驗活動、品嘗新住民美食。他也說，許多姊妹現在是台灣之子的母親，大家都是一家人，這樣的活動非常有趣與有意義，歡迎大家參與。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡宛芬表示，「家鄉味，飄香味」全國巡迴的市集，將在各城市由不同新住民及立委候選人團隊擔任攤主，除了宣傳民進黨新住民政見，胖卡「阿力」還可以變身國、台、越語行動卡拉OK，此外，新住民市集也有闖關集章活動，完成小任務即可獲得印有「2020一定要贏」等圖案的奶泡飲料。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	本週「家鄉味，飄香味」全國新住民市集巡迴場次有：10月11日(五)上午10時至12時張宏陸場次於新北農村公園舉行、10月12日(六)上午10時至12時黃世杰場次於桃園新坡夜市舉行、10月12日(六)下午3時至5時鄭寶清場次於桃園朝陽森林公園舉行、10月13日(日)下午3時至5時趙天麟場次於高雄場新興夜市舉行。詳細訊息每週公布於婦女部臉書粉絲專頁（https://www.facebook.com/dppwomen/）。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="75796764345a596c4454464a666a3271">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

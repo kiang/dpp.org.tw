@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-11-18</p>
+				<h2>回應香港立法會議員遭逮捕</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	針對3名原香港立法會議員遭港府逮補，民進黨表示，中共與港府一再撕毀一國兩制的承諾，變本加厲破壞香港民主，民進黨予以強烈譴責和抗議。</div>
+<div>
+	&nbsp;</div>
+<div>
+	原香港立法會議員朱凱廸、陳志全、許智峯，18日遭香港警方國家安全處人員上門逮捕，此前港府更在中國全國人大常委會的決議下DQ4名立法會議員。這是對立法權的全面侵害，以政治整肅來沒收立法權。</div>
+<div>
+	&nbsp;</div>
+<div>
+	民進黨指出，民意機關自律自主為議會民主的普世價值，民意代表的權利及議事程序不應該司法機關影響，有關議員行為應交由議會紀律自決，港府恣意逮捕民主派議員的惡劣行徑，令人不齒，也徹底違反最基本的民主原則。</div>
+<div>
+	&nbsp;</div>
+<div>
+	民進黨強調，中共和港府不斷侵蝕香港自治與民主價值，肆無忌憚與世界民主國家衝撞，是極端愚蠢行為並令人深惡痛絕。民進黨呼籲，中共與港府必須自我節制權力，落實對香港人民的承諾，停止迫害所有爭取民主自由的人士。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="72446c5a49585a6b5944516541317865">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

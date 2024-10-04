@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-02-26</p>
+				<h2>民進黨批中國片面突襲禁止進口台灣鳳梨 呼籲全民購買台灣鳳梨、守護台灣農業</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	農委會今（26）日召開記者會宣布收到中國片面通知，以台灣鳳梨內有害蟲為由，從3月1日開始暫停進口台灣鳳梨。民主進步黨發言人簡舒培表示，民進黨呼籲所有國人一起用行動支持台灣鳳梨，透過購買台灣鳳梨，團結守護台灣農業。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培指出，事實上，中國利用他國農產品外銷作為政治威脅，已不是第一次，像去年由於澳洲呼籲調查疫情源頭惹得中國跳腳，便用反傾銷的名義報復澳洲，不但增加保證金，同時也禁止多項澳洲產品進口，用各種藉口迫害澳洲產業。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	現在正值台灣的鳳梨產季，中國這樣突襲宣佈片面禁令，不禁讓人質疑，北京當局除了以軍機、軍艦繞台等軍演威嚇外，是否也想透過刻意操作外銷出口禁令，用經濟對台施加壓力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培說，有關這次中國片面宣布鳳梨禁令，農委會已清楚說明，台灣農產品的出口，一定會遵守輸出國的進口要求，所有出口檢疫皆符合國際規範。以去年為例，台灣鳳梨出口中國的總數有41,755噸，檢疫共5,832批，而接獲中方通知不合格的有13批，總數141噸，合格率高達99.79%。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	去年10月，農委會進一步採取「輸出檢疫強化措施」，在那之後就就不曾接獲中方的不合格通知。如今，中國單方面突襲宣佈禁止，已超出了正常國際貿易的考量，更不禁讓人質疑背後的政治動機。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培表示，台灣的鳳梨年產量約42萬噸，2020年外銷佔一成約4.6萬公噸，其中輸往中國約有4.2萬公噸。然而中國卻在產季前突襲禁止台灣鳳梨進口，不難讓人聯想起，中國是想複製去年制裁澳洲葡萄酒的手段，對台施行經貿威脅。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	當時中國仗勢本身是澳洲葡萄酒最大的出口市場，片面宣佈禁止澳洲葡萄酒進口，與禁止台灣鳳梨進口，兩者手法如出一轍。但當中國用經貿威脅澳洲時，我們看到澳洲總理、澳洲國會、澳洲人齊心站出來守護葡萄酒，守護產業。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	簡舒培強調，面對中國在鳳梨產季前，以不合理的理由禁止鳳梨出口來威脅台灣，民進黨呼籲所有國人一起站出來，用行動支持台灣鳳梨，透過購買台灣鳳梨，團結守護台灣農業。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="43464672495a376b4b774e5367366b46">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

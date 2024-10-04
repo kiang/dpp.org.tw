@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-07-17</p>
+				<h2>民進黨參與跨黨派觀選團 與美加英等國挺台政要互動</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>「2024共和黨全國黨代表大會」（2024 Republican National Convention）美國時間今（16）日進入第二天，民主進步黨主席特助陳明真、新北市議員陳乃瑜、高雄市議員邱俊憲、青年部主任阮俊達、駐美代表處主任蕭舜文參與外交部跨黨派代表團行程，與美國、英國、加拿大等多位友台政要互動，聚焦交流安全議題。</p>
+
+<p>代表團及駐美代表俞大㵢大使上午一同應邀出席「國際共和研究所」（International Republican Institute，簡稱IRI）研討餐會，會中IRI理事會主席、聯邦參議員蘇利文（Dan Sullivan, R-AK），以及聯邦參議院共和黨領袖麥康諾（Mitch McConnell, &nbsp;R-KY）、前白宮國家安全顧問歐布萊恩（Robert O&rsquo;Brien）等人先後發表演說或與談，多談及因應中國挑戰，應重視國防並振興產業，並呼應日前通過之共和黨新版政綱。歐布萊恩尤其強調，美國必須以前總統雷根「和平靠實力」的方法贏得對中競爭，特別是在科技及能源領域。</p>
+
+<p>代表團把握研討餐會的會前、會後交流時段，和與會的歐盟、加拿大、中南美洲駐美使館人員寒暄，並向多位友台政要致意。包括曾於卸任後訪台，並接受蔡英文前總統頒授「特種大綬景星勳章」的歐布萊恩，以及同樣曾於卸任後訪台的英國前首相特拉斯（Liz Truss），代表團均當面表達對於支持台灣的謝意，並期待日後再度訪台。</p>
+
+<p>代表團也問候曾擔任聯邦參議院外交委員會亞太小組主席的賈德納（Cory Gardner），賈德納於任內為「台北法案」（TAIPEI Act）推手並多次訪台，見到來自民進黨的代表便熱情互動，也表達對台灣老朋友的想念與問候。曾任聯邦眾議院外交委員會亞太小組主席、經常公開撰文或提案支持台灣的約霍（Ted Yoho），也與代表團成員歡喜敘舊，並表達對台灣的關心。加拿大參議員、加台國會議員友好協會共同主席麥唐諾（Michael MacDonald），則主動分享對台灣白色恐怖歷史的觀察和推動「加台關係架構法」（Canada-Taiwan Relations Framework Act）的情形。</p>
+
+<p>代表團並由陳明真團長率團，與共和黨州領袖委員會（RSLC）副執行長Edith Jorge-Tu&ntilde;&oacute;n晤談，就國會選情分析、AI於選戰應用及吸引青年從政等議題交換意見。晚間則前往共和黨全代會會場，現場觀看佛羅里達州州長迪尚特（Ron DeSantis）、前美國駐聯合國大使海利（Nikki Haley）等人發表演說，演說內容著重「Make America Safe Once Again」主題，共和黨總統候選人川普（Donald Trump）及副總統候選人范斯（J.D. Vance）亦到場聆聽，群眾氣氛更加熱烈。</p>
+
+<p>民進黨駐美代表處主任蕭舜文指出，本次跨黨派代表團能順利赴密爾瓦基市觀選，要感謝外交部與駐美代表處同仁的付出，例如IRI研討餐會因場地限制，原本僅開放各國駐美大使及兩名隨員與會，但因代表處與IRI平日聯繫之工作情誼，全團十多人均獲邀入場。蕭舜文也強調，台美關係的友好非短期現象，而是執政團隊、第一線外交同仁與民間團體長期耕耘的成果，例如今日互動之各國政要，近年在蔡英文前總統或賴清德總統任內均有訪台記錄，因而對台灣留下深刻印象，並持續堅定友台立場，期盼接下來能持續與美國跨黨派、跨領域友人深度交流，共同為台美關係的深化做出更多貢獻。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="583339766f74475969536250715a6878">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

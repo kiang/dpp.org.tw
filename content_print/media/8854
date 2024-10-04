@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-10</p>
+				<h2>出席新北小英姐妹會 卓榮泰：姐妹共同撐余天 新北選戰全壘打</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(10)日出席「2020新北市小英姐妹會成立大會」，總統參選人蔡英文、總統府秘書長陳菊、立委余天、吳秉叡、羅致政、張宏陸、蘇巧慧及呂孫綾、立委參選人蔡沐霖及張銘祐、全國小英姐妹會總會副總會長陳美伶、許銘春、王美花、尤美女、余宛如、吳玉琴、李麗芬、周春米、陳曼麗及陳靜敏、新北小英姊妹會總會長李亞萍及多位黨公職皆到場相挺。現場超過千位婦女幹部出席，展現捍衛台灣民主自由的決心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，看見余天允諾，要為新北市選戰打出全壘打，使他對選戰更有信心，勝選是不簡單的工作，余天與現場的所有立委參選人，要共同撐起選贏新北選戰責任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提及，本來想宣傳減稅、加薪、長照托育等政策，但現場婦女讓他想起孩童教育，他提問現場婦女，若有一位總統參選人總是一派胡言，經常使用粗鄙與歧視的語言，對自身金流交代不清，這樣格局的總統參選人，要父母們如何教導小孩？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰呼籲，三月補選時他曾拜託大家「女人撐起一片天，女人一起撐余天」，而今，懇請各位與余天再次努力，為台灣撐起一片天，總統票投給蔡英文，立委投給余天，政黨票投給民進黨。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6579616662444f67474551456d644569">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

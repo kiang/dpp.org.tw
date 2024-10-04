@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-27</p>
+				<h2>民進黨：國民黨訪中無視台灣民眾心聲，向國際社會釋放錯誤訊息，必須予以最嚴厲譴責</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨訪中團返台記者會的種種荒唐言論，民進黨發言人黃彩玲今（27）日表示，國民黨一路自欺欺人，無視中共當局對台的不理性施壓與軍事演習，卻還與之唱和，直到回到台灣，夏立言的談話還是避重就輕、搞錯重點，在這個錯誤時機訪中，無視台灣民眾心聲，向國際社會釋放錯誤訊息，必須予以最嚴厲譴責。</p>
+
+<p style="text-align: justify;">黃彩玲指出，國民黨說有替台灣民眾表達不滿軍演，可是卻只敢跟具民間身分的張志軍說，完全不敢跟代表官方的國台辦副主任陳元豐表達，難道不是虛應故事，有個交待而已？</p>
+
+<p style="text-align: justify;">黃彩玲說，國民黨跟夏立言說捍衛中華民國，可是當國台辦說要對台灣民眾行使領事保護措施，混淆中華民國主權時，怎麼沒看到國民黨在抗議？更不用說這次國民黨行程中遮遮掩掩、一騙再騙，只為見中共高官，配合其統戰還被新一波宣布的軍演洗臉？</p>
+
+<p style="text-align: justify;">黃彩玲強調，從7月海峽論壇，夏立言就和中共全國政協主席汪洋唱和，重新確認馬習會只有「一個中國」、沒有「一中各表」的九二共識；到夏立言啟程赴中，國台辦發表「台灣問題及新時代中國統一事業白皮書」；再到國民黨大陸事務部主任林祖嘉出席視訊研討會，以「堅持九二共識、反台獨」唱和國台辦主任劉結一的「祖國完全統一」；再到這幾天夏立言跟張志軍、陳元豐的會面。這些事項都顯示出，國共其實一路串謀，就是要共同呼應習近平統一台灣的主張，出賣台灣人民的利益。</p>
+
+<p style="text-align: justify;">黃彩玲表示，國民黨做為台灣最大的反對黨，應該要把台灣民眾的安全放在最優先的地位，目前世界公認破壞台海和平穩定現狀的元兇就在對岸，國民黨不思要求中共當局立即停止對台各種施壓，還對國台辦宣稱對台軍演是「正當、正義之舉」照單全收，自我矮化，莫此為甚！不配得到台灣民眾的支持。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="68414d49705373786472493437496f61">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

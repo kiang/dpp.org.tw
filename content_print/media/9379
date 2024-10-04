@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-12-08</p>
+				<h2>民主進步黨第十九屆第六十三次中常會新聞稿 </h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(8)日召開第十九屆第六十三次中常會，會中邀請國立中央大學電機系講座教授兼資訊電機學院院長林法正以「台電燃氣複循環機組邁向淨零碳排之展望」為題進行專案報告。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	中央大學電機系講座教授兼資訊電機學院院長林法正表示，半導體產業未來將陸續在台建設擴廠，用電需求也會持續成長，台商回流也加大用電需求，應該要持續督促台電推動各項發電投資計畫，引進高效率低污染燃氣基礎，也要在穩定供電的同時兼顧碳排放。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林法正表示，三接遷離公投若通過，還要重新遷址、重啟、環境調查、可行性評估，至少會延後11年供氣。這段時間天然氣將會短少300萬噸，減少6%備用容量，電力會短少137億度，影響經濟發展。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林法正認為，目前三接外推計畫，已經兼顧電力穩定供應和能源轉型的底線。面對國際對於減碳、淨零轉型的要求，三接工程和燃氣機組等新建電力工程刻不容緩。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，林法正也表示，台電公司配合地方生煤減量以及環保減排，以台中火力發電廠為例，108年空污排放量已經比103年減排51%，成效都有攤在陽光下，顯示拼經濟和顧環保並非二選一，而是有辦法雙贏。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨發言人謝佩芬會後轉述蔡英文主席聽取報告後裁示，全文如下：&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝謝林教授的專題報告，主旨是以天然氣做為能源轉型中階段性發電的主要項目，我們在這次公投過程中，也是採取這樣的論述，我們在整個公投過程中，不論是三接，還是核四，兩個公投案的論述，有很多學者、專家，包括林教授，都給我們很多指導，如同剛才秘書長所講的，到現在為止，應該都讓選民有相當程度的印象，甚至於有很多的選民，開始覺得現在的政策是在正確的方向上。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今天也額外聽到氫能的報告，也讓我們瞭解未來氫能在能源轉型上所扮演的角色，我們的訊息很清楚，就是我們要開始籌劃未來可能新的能源發展，所以這是在政策上很即時的提醒，請行政院把報告帶回去，讓我們籌劃的國發會、經濟部參考。非常感謝林教授，也請林教授持續給我們指導。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="77484765446c64597173494c3654586a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

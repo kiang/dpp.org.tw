@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-11-03</p>
+				<h2>民主進步黨第十九屆第九次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(3)日召開第十九屆第九次中執會，會中通過「第十屆台中市第二選區立法委員出缺補選徵召人選案」，徵召林靜儀同志為本屆台中市第二選區立法委員補選本黨提名候選人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，會中也通過「第十六屆第一次全代會交付研議案」、【民主進步黨2022年直轄市長暨縣市長提名特別條例】草案、【民主進步黨2022年直轄市議員提名特別條例】草案，將提交全代會討論。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="59484d63305951525042476e52735241">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

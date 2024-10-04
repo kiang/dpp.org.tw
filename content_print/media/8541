@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-23</p>
+				<h2>民主進步黨第十八屆第二十次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(23)日召開第十八屆第二十次中常會，邀請立委候選人何志偉、王義川以「2019年台北市、台中市立法委員補選選情報告」為題進行專案報告。發言人何孟樺轉述卓榮泰主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鼓舞熱情、提高投票率，這是全黨上下在這幾天唯一要做的工作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這兩位我們徵召的立委未來都是在民生議題上有很多著墨的立委，0127這場選戰是黨部在改組之後，第一場重要的選舉，也是攸關台灣民主持續穩定的重要選戰，我一直強調，這兩席對黨來講，有著「不能輸、必須贏」的壓力。所以，我們一定要全力支持台北（第二選區，士林、大同區）2號何志偉、台中（第五選區，北區、北屯區）3號王義川，讓他們順利當選立委，為國會增添新的戰力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	1124選舉結束後，本黨進行全面的檢討與改革，同時也看到民意的選擇，也接受民意的鞭策，我們選擇在最快的時間進行改革。所以，我們提名兩位對於民生議題有明顯政績的六年級、七年級年輕、優秀、認真的候選人，參選本次的立委補選。本黨不會忘記，台灣人民支持民主進步黨的初衷，就是希望可以解決人民生活上的困難、推動國家社會的進步、讓人民能夠生活安心、快樂！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何志偉候選人，長期擔任台北市議員，問政表現優異，對於地方民生議題非常關切也瞭解，過去就是積極為台北市的許多民生、生活議題發聲，地方許多選民都非常支持，是最佳在地的代議士，他這次放棄議員連任，就是一心要往國會發展，希望他的這個心願，我們大家一起幫他努力達成，我相信他未來會是台北市在國會最好的代言人之一。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	至於王義川候選人，台大土木博士，擔任過台中市的交通局長，對於大台中的交通發展非常瞭解，對於攸關人民民生最迫切的交通問題，有深刻的瞭解與解決的方案，相信他如果有機會進入國會，一定會為大台中的交通議題與民生便利議題，爭取更多的政策和支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這兩位優秀的年輕人，需要我們共同來支持，讓有能力為台灣民眾的生活代言、並提出解決方案的人，進入國會，為大家努力。我在這裡呼籲全黨同志，0127帶著你所有認識的朋友投入這兩個選區，為2號台北市何志偉、3號台中市王義川一起努力，讓我們完成守護台灣的使命，一起為保護本土政權、國會優勢、進步價值的最高目標共同努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="75304a574c474d726b4f39686e393333">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

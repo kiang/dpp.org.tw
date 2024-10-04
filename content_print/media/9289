@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-10-29</p>
+				<h2>民進黨釋出「四個不同意 台灣更有力」公投說明會前導影片「施政大進步 台灣更有力」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨「四個不同意 台灣更有力」公投說明會，將在本週六（30日）於桃園市啟動首場公投說明會，今（29）日搶先曝光說明會播放的前導影片「施政大進步 台灣更有力」，民進黨發言人顏若芳表示，希望透過在說明會上影片播放，可以讓民眾更加瞭解民進黨政府在這段時間的政策與作為，奠基在這樣的基礎下，再去對公投做進一步論述。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，這支政績影片闡述民進黨政府這段時間以來的執政成績，首先，就是關於防疫部分，「團結防疫，世界看見台灣」，在疫情爆發後，即刻組建口罩國家隊，因而讓產量穩定，更有足夠的數量得以捐贈予世界各國，也因此讓今年許多各國因而回贈疫苗給台灣，形成善的循環。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳說，在經貿外交報進度部分，點出「台美更友好，一起護民主」，敘述這段時間的台美關係密切互動，除了在防疫上的互相協助，美國無論在國防、或是經貿關係上，都與台灣有著超越過去的密切合作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳進一步提到，在社會福利部分，影片也列舉多項蔡政府上任以來的多項福利措施，如育兒津貼加倍，各項托育補助及降低學費，以及對於長者的照顧更是無微不至，像是各級長照據點的佈建，從幼到老國家都有照顧。此外，因全民團結一致的打拚，台灣各項經濟指標都創下新高，蔡政府也讓經濟成果全民共享，連六年調漲基本工資、並調所得稅基本扣除額，減輕年輕族群的負擔。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	影片的最後也向人民報告，民進黨的發展綠能的成果與規劃，以「增氣」、「減煤」、「展綠」、「除核」，計畫以「加減乘除：增加燃氣、大減空污、加乘綠能、去除核能」四項概念，藉以完成能源轉型，達到穩定供電、降低空汙、打造非核家園，並且跟上世界淨零碳排轉型趨勢。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，民進黨在「四個不同意 台灣更有力」公投說明會，除了由蔡英文主席率賴清德副總統、蘇貞昌院長與所有的黨公職，分進合擊，到台灣各縣市向人民報告，並希望透過政績影片，讓國人清楚知道台灣在這幾年進步的成果，也希望大家在年底1218四項公投案，投下「四個不同意」票，讓台灣更有力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/niWG90L0k4E" title="YouTube video player" width="560"></iframe></p>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5870486367443033744e4d4134575849">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

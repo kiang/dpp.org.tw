@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-03-06</p>
+				<h2>嘉義縣長初選民調結果新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	民主進步黨2018年直轄市長暨縣市長提名初選民調作業，今（06）日公布嘉義縣之民調結果：</div>
+<div>
+	&nbsp;</div>
+<div>
+	<img alt="" src="/upload/ckfinder/images/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-03-06%20%E4%B8%8B%E5%8D%8812_23_00.png" style="width: 1003px; height: 304px;" /></div>
+<div>
+	&nbsp;</div>
+<div>
+	＊各選區提名名單以民進黨中執會正式通過公告為準。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                <p>檔案下載：<a href="https://www.dpp.org.tw/upload/news/2018-03-06_嘉義縣長初選民調結果新聞稿.docx" target="_blank">2018-03-06_嘉義縣長初選民調結果新聞稿.docx</a></p>
+	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="52326972714b6c7a444a42657330557a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-12-04</p>
+				<h2>民進黨：支持高嘉瑜同志捍衛權益 籲外界勿以未查證資訊消費本案</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨發言人劉康彥今(4)日表示，民進黨對於高嘉瑜同志遭受暴力一事，第一時間即已表達嚴厲譴責性別暴力，並且支持高委員採取法律行動，捍衛權益。針對近日發展，我們看到國民黨主席朱立倫用政治鬥爭的角度來消費本案，這樣只是更加凸顯國民黨見獵心喜的企圖，令人遺憾。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥說，這段時間網路上有一些使用匿名和不適當言論來批評受害者的行為，民進黨再次表達強烈譴責之意。民進黨認為，不論是具名者或者匿名者，雖然享有言論自由，但在網路上的發言亦同樣必須負起相關法律責任，更沒有權力用不實或者侮辱性字眼傷害他人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，我們也要呼籲國民黨，若是真的關心本案、就應該尊重司法與當事人權益，動輒以政治動機發言借題發揮，消費本案，只是凸顯國民黨見獵心喜、居心叵測，更何況國民黨中央委員還曾具名羞辱當事人，更可見國民黨才是真的在二次傷害相關當事人，這樣的行為才是讓人唾棄。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="507242644546744630395144595a4961">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

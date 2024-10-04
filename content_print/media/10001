@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-02-24</p>
+				<h2>民進黨：堅持和平反戰，嚴正譴責俄羅斯持續攻打烏克蘭 </h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對俄羅斯於一年前違反《聯合國憲章》，對烏克蘭發動武力攻擊，一年來造成無數人民死傷，民進黨國際部主任兼發言人謝佩芬今（24）日重申，民進黨嚴正譴責俄羅斯對烏克蘭的戰爭行為。&nbsp;</p>
+
+<p style="text-align: justify;">謝佩芬表示，和平是人類共同追求的文明價值與目標，俄羅斯應正視國際社會的呼籲，停止對烏克蘭的武力侵略，在戰爭裡，沒有人是贏家，盼望俄羅斯當局不要與全世界為敵。</p>
+
+<p style="text-align: justify;">謝佩芬表示，自由、和平是民主國家共同守護的價值，當愛好和平的民主國家受到他國的非法武力入侵時，我們有責任與民主國家站在同一陣線。&nbsp;</p>
+
+<p style="text-align: justify;">謝佩芬進一步表示，我們對烏克蘭民眾的遭遇深感同情，也深深佩服他們保衛國家的勇氣與決心。過去一年來，台灣政府與民間透過捐贈善款與物資等方式，支持烏克蘭。未來，我們仍然會與勇敢的烏克蘭人民站在一起，並與民主陣營的成員更緊密合作，一起維護我們共同守護的自由與和平。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="57323139354c5247436b4977596c4f4a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

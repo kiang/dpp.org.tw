@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2010-10-25</p>
+				<h2>踢爆台北市長郝龍斌『花博是花卉界的奧林匹克』的不實宣傳!!</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p><a target="_blank" href="http://www.wretch.cc/blog/billypan101/16536958"><span style="color: rgb(00255)"><span style="font-size: large">踢爆台北市長郝龍斌『花博是花卉界的奧林匹克』的不實宣傳!!</span></span></a></p>
+<p>&nbsp;</p>
+<div><span style="font-size: large">BillyPan 的部落格@台灣部落格協會 </span></div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="544666706b7a74306b684c655862546c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

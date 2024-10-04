@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-30</p>
+				<h2>民主進步黨第十八屆第四十四次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(30)日召開第十八屆第四十四次中常會，會中通過於11月13日(三)召開中執會。此外，會中邀請永社理事長黃帝穎以「司法改革的進程與展望」為題進行專案報告，發言人吳濬彥會後轉述卓榮泰主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	非常感謝永社理事長黃帝穎律師所做的專案報告，讓我們更清楚過去三年多來，有關司法改革的內容進度以及對未來的展望。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	司法改革是全民最關切的議題之一，蔡總統上任後極力推動司法民主化，親自召開全國司法改革國是會議，並納入社會大眾的意見，採用公民參與，由下而上的方式來進行司改工程，提出並通過多項改革方案，也包含剛剛柯建銘總召與管碧玲常委所提的，比方說大法庭制度的建立、再審制度的新機制等等，也修正了《法官法》，建立外部評鑑機制，淘汰不適任的法官與檢察官。在執政團隊的共同努力下，我們正逐步實現改革的願景，努力贏回人民對司法的信任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	其他在人權維護、教育及轉型正義方面，我們也成立亞洲第一座在威權統治不義遺址上設立的國家級人權博物館，希望能透過相關檔案及文物的典藏、研究、展示以及教育推廣，還原歷史真相。唯有從歷史中得到反省，才不會再走上過去錯誤的道路，也才能真正促進社會和解及團結。非常感謝永社理事長黃帝穎律師所做的專案報告，讓我們更清楚過去三年多來，有關司法改革的內容進度以及對未來的展望。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f654c74357a524a6148634278684d77">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

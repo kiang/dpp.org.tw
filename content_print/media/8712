@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-07-03</p>
+				<h2>卓榮泰訪美推動政黨外交及智庫座談，聚焦台美經濟合作與假訊息防制</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	<div style="text-align: justify;">
+		民進黨主席卓榮泰與立法委員李俊俋、林靜儀、黨副秘書長郭昆文及黨務主管一行8人於7月2日拜訪美國「共和黨全國委員會」，會見共和黨共同主席湯米‧希克斯（Tommy Hicks），就政黨外交與深化台美關係等議題進行對談。另訪團於7月1日至2日期間亦拜會華府跨黨派重要智庫，包括「2049計劃研究所」、「亞洲集團」、「共和黨國際研究院」、「全球台灣研究中心」及其他政經團體、並與「布魯金斯研究院」資深研究員卜睿哲等多位學者專家會面。在多項會議中分別以美中台三方關係，台美未來經濟合作發展、青年政策、假訊息防制等重要面向進行廣泛、直接的交流。</div>
+	<div style="text-align: justify;">
+		&nbsp;</div>
+	<div style="text-align: justify;">
+		卓主席強調，台灣位於「印太戰略」的最前線，台灣的民主政治正面臨境外威脅與國內部分政治人物幻想「九二共識」的侵蝕，不僅在選舉過程中受到假訊息干擾，平時媒體更是嚴重受到外力滲透。本次來到華府，來到民主陣營的大本營，希望將台灣的經驗分享給國際社會，同時將國際社會支持的聲浪帶回台灣。台灣希望能與美國等理念相近的民主國家，共同守護自由民主人權價值。</div>
+	<div style="text-align: justify;">
+		&nbsp;</div>
+	<div style="text-align: justify;">
+		對於美國智庫學者高度關心的假訊息議題，卓主席強調，台灣目前所遭受到資安和不實訊息的攻擊，都名列世界之冠，已經成為中國干預民主政治的試驗場，台美雙方必須互相交流經驗，透過技術、法律面向互相協助，共同面對假訊息的挑戰。</div>
+	<div style="text-align: justify;">
+		卓主席表示，目前台灣的執政團隊已努力提高及時發現、快速回應假訊息的速度。同行兩位委員也分別提到，立法院針對防治假訊息已提出十二個修法草案，其中五個已經通過，涵蓋災害防救、農產品資訊、核災等具體議題，提高罰則嚴懲不實訊息。未來執政團隊也將推動「外國代理人登記制度」以及「國安五法」等法案修訂，用民主法制來守護自由。</div>
+	<div style="text-align: justify;">
+		&nbsp;</div>
+	<div style="text-align: justify;">
+		另外，卓主席非常重視近年來美方跨黨派的支持，以具體法案為台灣爭取國際空間，讓台美關係在產業經貿、國防安全等面向都有正面的進展；包括《台灣旅行法》、《台灣保證法》、《亞洲再保證法》與近期參議院通過的《國防授權法》，在在見證台美之間深厚的友誼。未來也必將經由雙方的努力，持續鞏固雙邊關係。</div>
+	<div style="text-align: justify;">
+		&nbsp;</div>
+	<div style="text-align: justify;">
+		卓主席強調，香港的情勢在台灣引發高度關注，「反送中」運動凸顯香港主權移交22年後，香港民眾已經徹底不信任「一國兩制」，台灣社會大眾關注香港的發展除了基於自由民主價值，更為的是要捍衛國家主權，拒絕「一國兩制」。</div>
+	<div style="text-align: justify;">
+		&nbsp;</div>
+	<div style="text-align: justify;">
+		卓主席說，蔡總統的兩岸政策秉持不挑釁的態度，避免任何意外造成區域情勢的不穩定；但同時中國更不必懷疑台灣政府與人民捍衛主權的決心。台灣對於維護兩岸關係的善意與承諾不變，但也絕不在壓力下低頭；台灣有捍衛自由民主人權價值的決心，也希望美國等理念相近的民主國家，繼續支持台灣、協助台灣拓展國際空間！</div>
+</div>
+<p style="text-align: justify;">
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="35307735526978786b794a6e704a6848">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

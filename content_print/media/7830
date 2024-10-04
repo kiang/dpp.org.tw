@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-07-19</p>
+				<h2>民主進步黨第十七屆第四十五次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 民主進步黨今(19)日召開第十七屆第四十五次中常會，會中邀請教育部政務次長姚立德、台中市長林佳龍、台中市教育局長彭富源以「技職教育發展方向」為題進行專案報告，發言人張志豪會後轉述蔡英文主席聽取專案報告後裁示，全文如下：</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 感謝姚次長、林市長與彭局長的報告。政權轉變成民進黨執政後，最明顯的改變是教育部總算走出來了，有跟經濟部、其他部會和地方政府做連結，我們也把幾個教育重點都標出來，不論是在高教教學、還是職業教育，這一連串政策焦點大家都已經有共識。後續最重要的是執行，地方政府必須是執行面的主體，我們希望地方政府在地方產業的發展上，能夠扮演主導的角色。同樣的，產業所需要的人才、教育、培育養成，地方政府也是有最多了解，地方最清楚知道想要發展什麼樣的產業，與這樣的產業需要怎樣的人才。所以我會鼓勵我們的地方政府，要把這個當成施政的重點，因為是地方的產業、地方的投資，更需要地方人才的培育。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 同時教育部是資源的主控者，在資源的運用上，可以按照我們所標示出來的政策重點給予協助，教育部的責任不只是和其他部會聯手而已，和地方政府一起合作也是非常重要。所以我會鼓勵教育部的同仁，不只是部長、次長走出去，教育部全體同仁都要有心理準備，畢竟作為資源主控者，必須切實掌握每一個地方所需要的教育資源，還有在地產業的發展需求。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="774a5a76615577724e534972476b634d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

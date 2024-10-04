@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-12-30</p>
+				<h2>總統辯論會　民進黨：侯友宜談黑金就像柯文哲談誠信一樣可笑</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>今（30）日總統辯論會，國民黨總統候選人侯友宜稱國民黨若黑金為什麼賴清德不抓，而民眾黨總統候選人柯文哲則稱只有柯文哲堅守「誠信」，對此，民進黨發言人張志豪表示，侯友宜談黑金，就像柯文哲談誠信一樣可笑。張志豪指出，國民黨黑金結構一籮筐，過去國民黨籍的雲林縣長沈宗隆，向廠商索賄2600萬依貪污罪起訴；宜蘭縣長林姿妙，涉嫌用人頭帳戶洗錢，不明金流高達7844萬，被依貪污、洗錢罪起訴；前南投縣長李朝卿，涉入111件貪污案，累計刑期甚至高達450年；涉嫌台南88槍擊案的王文宗、雲林風電弊案的主嫌沈宗隆，還是屏東私刑暴力案的郭再添，全都是國民黨籍，這些每一筆，都是司法正在偵辦，或是已經偵結的，難不成侯友宜繼續視而不見黨內黑金？</p>
+
+<p>此外，張志豪表示，柯文哲恐怕是最沒資格談「誠信」的政治人物，上個月甫發生的藍白合鬧劇歷歷在目，柯文哲主席先是以一人之力，推翻幕僚的集體決策，而在簽訂不平等協議後，時隔不到幾天，又再度翻臉不認自己的簽名，誠信在柯文哲的身上，就像國王的新衣一樣。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d46365669594d4b745872473864504e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

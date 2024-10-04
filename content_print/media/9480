@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-04-08</p>
+				<h2>悼彭明敏教授 民進黨：繼承精神 繼續為民主自由台灣的未來打拚</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	台灣民主前輩、前總統府資政彭明敏教授於今（8）日清晨與世長辭，享耆壽98歲，民主進步黨發言人周江杰表示，對於彭教授的安詳離世，民主進步黨深表哀悼與不捨，並對彭教授為台灣自由民主奉獻其一生，致上崇高的感謝與敬意。民進黨將會承繼他堅定守護台灣的主權尊嚴與民主自由的精神，為民主自由台灣的未來繼續打拚。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，彭明敏曾任最年輕的台大政治系主任、中華民國駐聯合國代表團顧問、1963年當選首屆十大傑出青年。彭教授終其一生為了捍衛台灣主權獨立而奮鬥，在1964年與謝聰敏、魏廷朝兩位民主前輩共同起草《台灣自救運動宣言》，遭到國民黨政府判刑，被迫離開他最愛的台灣這塊土地，流亡海外二十餘年，期間於美國創立了台灣人公共事務協會，從事向美國政府遊說，要求國民黨政府解除長年的戒嚴令。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，台灣民主化後，彭明敏教授於1992年結束海外流亡生涯，返台成立彭明敏文教基金會，致力推動台灣本土文化的傳承與發揚，在1995年加入民進黨，並與現任駐日代表謝長廷搭擋，於1996年代表民進黨參與台灣史上首次舉行總統直選，持續協助與鞭策民進黨成長，直到2000年台灣首次政黨輪替，受邀出任總統府資政。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，彭明敏教授終其一生為台灣民主奮鬥，努力捍衛台灣主權獨立的理念，為台灣主權尊嚴和民主自由打拚。彭教授對台灣民主自由的堅守，以及台灣本土文化的推廣，台灣人民會永遠記得與感謝，民進黨要再次表達感念，感謝彭明敏教授這一生為他深愛的台灣犧牲貢獻，民進黨必會將其精神與意志永續傳承。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4759506e785531494e624367774f6b65">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

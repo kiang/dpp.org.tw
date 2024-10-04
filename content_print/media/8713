@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-07-03</p>
+				<h2>民主進步黨第十八屆第三十五次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(3)日召開第十八屆第三十五次中常會，會中通過7月10日召開中執會，討論議決第10屆區域立法委員徵召提名人選。會中也邀請國立台北科技大學智慧財產權研究所副教授江雅綺以「紅色威脅：科技攻擊與科技竊盜」為題進行專案報告，發言人李明俐會後轉述柯建銘代理主席聽取專案報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝台北科技大學江雅綺教授，針對隨著所謂「中國夢」而來的「混合威脅」，是如何透過科技，並刻意運用民主社會的弱點，經由各種工具影響在地，進行了十分精彩的報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	科技技術的日新月異，同時也帶來了，不對稱的科技戰，紅色科技的滲透與威脅，有著許多不同的樣態，像是運用科技自動生成虛假訊息，以人工智慧製造深假圖像，用以混淆視聽，或是在資訊設備中開後門，竊取各種民生相關的資訊，這些無聲且難以辨別的資訊，正滲透進入民眾的日常生活，充份警覺與查證已是十分必要。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	關鍵技術與智慧財產是現代化國家發展的重心。然而，中國透過駭客盜取美國的關鍵科技與智慧財產，2018年胡佛研究所的報告，提到「中國如何系統性的利用，非正式交流和合作場合，盜取美國關鍵科技智財與技術。」這也是中美貿易戰的問題背景之一。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	同樣地，台灣也面臨到來自科技的紅色威脅，遭遇智慧財產被竊，舉凡智慧農業、農業科技，到商業、科技業，及國人的個資都面臨風險，這些必須加以遏止。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	面對紅色科技的滲透與威脅，台灣的民主不容被利用於破壞性的目標，不論政府與民眾都是防止的重要機制，針對江雅綺教授今天提供的許多建立防線的政策建議，請政策會彙整後，送交執政團隊參考。繼國安三法(兩岸條例-政治協議簽署程序、國家機密保護法、刑法)，修法完成後，本黨會再接再厲，讓民主防線、科技防線、資訊防線更加安全與鞏固。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5251697a3331596575797878654c7653">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

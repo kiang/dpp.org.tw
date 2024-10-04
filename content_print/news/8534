@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-04-01</p>
+				<h2>發布本黨2024年第21屆全國黨員代表選舉公告</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p><img alt="" src="/upload/ckfinder/images/2024%E5%B9%B4%E7%AC%AC21%E5%B1%86%E5%85%A8%E5%9C%8B%E9%BB%A8%E5%93%A1%E4%BB%A3%E8%A1%A8%E9%81%B8%E8%88%89%E5%85%AC%E5%91%8A.jpg" style="width: 872px; height: 1200px;" /></p>
+
+<p><img alt="" src="/upload/ckfinder/images/2024%E5%B9%B4%E7%AC%AC21%E5%B1%86%E5%85%A8%E5%9C%8B%E9%BB%A8%E5%93%A1%E4%BB%A3%E8%A1%A8%E9%81%B8%E8%88%89%E5%85%AC%E5%91%8A2.jpg" style="width: 872px; height: 1200px;" /></p>
+	                	                	                <p>檔案下載：<a href="https://www.dpp.org.tw/upload/news/民主進步黨2024年第21屆全國黨員代表選舉公告.pdf" target="_blank">民主進步黨2024年第21屆全國黨員代表選舉公告.pdf</a></p>
+	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="466a59574e7363646c7174416f54726e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

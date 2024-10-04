@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-04</p>
+				<h2>國民黨浪費司法資源，無助於全民利益</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨今（4）日到中正一分局告發行政院蘇貞昌院長違反《社會秩序維護法》一事，民主進步黨發言人顏若芳回應表示，日前蘇院長的質詢逐字稿、接受媒體訪問，以及信功公司都已經有清楚說明還原真相。國民黨今天告發的作法，很明顯就是政治操作，國民黨為了政黨利益浪費司法資源，無助於全民利益。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，當時蘇院長在質詢台上的回覆，是在討論台灣養豬產業的衝擊，政府持續與養豬業者溝通，以及如何讓台灣養豬產業能更具競爭力，而信功公司董座的兒子、業務經理楊旻叡，針對12月1日的公司的聲明回應媒體時也清楚說明，「不是要打臉行政院長蘇貞昌，也沒有政治化，公司都是在站在中立的立場，只要對台灣好，肉可以出去，外匯可以進來，當然是好事情。」院長和信功公司都說明得非常清楚，國民黨卻還要用告發的手段浪費司法資源，明顯就是政治操作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，奉勸國民黨摒除自身政黨利益的盤算，不要恣意浪費司法資源，回歸理性討論，更勿再傷害台灣的養豬產業。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6742655a305747595178494c51523845">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-09-03</p>
+				<h2>民進黨：國民黨能源政策就只有「擋綠能、卡燃氣、阻三接、擁抱核四」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨立院黨團今(3)日批評政府離岸風電國產化面臨全面跳票一事，民主進步黨發言人顏若芳表示，國民黨長期以來漠視國際減碳趨勢、綠色供應鏈及再生能源發展的潮流，不斷對台灣再生能源的發展進行抹黑、不當指控，不但執政時期對於綠能發展毫無作為，現在只會「擋綠能、卡燃氣、阻三接、再高喊缺電」。阻擋綠能、消極發展綠能的國民黨，現在突然高調關注離岸風電進度，恐怕又是為了阻礙綠能發展，刻意唱衰抹黑。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，2018年民進黨政府公佈離岸風電政策後，國產化目標很明確，就是要透過風電開發商、系統商與國內業者共同合作，一起帶動國內產業升級轉型。因此我們的能源轉型不但是穩定供電、減少空汙、增進台灣出口產業面對綠色供應鏈的競爭力，更是帶動台灣在地產業的轉型與具有打進國外離岸風電產業的能力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，民進黨政府早已多次以實際數字證明，民進黨執政的綠能發展建置遠勝於國民黨執政。過去，國民黨執政時期，從2009年到2016年的再生能源裝置容量僅增加1.7GW。但民進黨政府自2016年執政後，再生能源裝置容量從4.7GW增加到9.5GW，年複合成長率高達19.01%，換句話說，這五年來的成長速度是過去國民黨執政時的三倍。更重要的是，台灣離岸風電的整體規劃，從韓國提出2030年12GW、日本提出2040年30-45GW、台灣則提出2035年20.7GW的目標來看，我們和鄰近國家相比，更在亞洲具有舉足輕重的地位。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳進一步指出，目前，全球國際離岸風電發展受到疫情衝擊，許多人員、廠商、機具流通都收到影響，世界各國皆然。國民黨表面上關心離岸風電發展進度，實質上，卻是為了阻礙離岸風電國產化與台灣產業未來發展機會，唱衰台灣離岸風電發展，更證明「國民黨阻礙綠能」的惡行。顏若芳再次強調，國民黨不僅過去對於能源轉型「零作為」，只以擁抱危險的核四，作為主要能源政策，現在更持續「擋綠能、卡燃氣、阻三接、再高喊缺電」只會讓人民看破手腳。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6d514c38634631596e74334c674c6d69">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

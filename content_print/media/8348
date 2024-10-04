@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-07-28</p>
+				<h2>姚文智訪臺北小菲律賓 新住民送祝福：當選與市民同在一塊</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	臺北市長候選人姚文智今(28)日出席民進黨婦女部舉辦的「新島嶼旅行團」活動，來到臺北中山區聖多福天主教堂一帶的「小菲律賓區」，品嚐新住民店家的特色飲品「Halo-Halo」，在菲律賓當地語意為把東西混合在一塊，菲律賓裔店主莊美月以此祝福姚文智順利當選臺北市長，與市民同在一塊。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp; &nbsp; 活動中姚文智聆聽莊美月的女兒陳琬綺介紹母親來臺歷程和創業艱辛。姚文智稱讚莊美月的勇敢，也謝謝她一直作為與菲律賓朋友交流的重要窗口。莊美月更送上「以誠交新．暖新服務」明信片，代表新住民姊妹的在地心聲，期望姚文智繼續以真誠之心為新住民努力，提供更多溫暖新住民的友善服務，莊美月也寫上菲律賓語，祝賀姚文智擁有「精彩且充滿愛的每一天」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp; &nbsp; 姚文智表示，目前臺北市有三萬多新住民人口，除原有兩處新移民會館和家庭服務據點，未來也會衡量新住民服務是否足夠，如提供新住民語言的市民服務專線，強化行政服務的便利性。姚文智也提到中選會正在推動新住民加入選務工作，進一步體現國家民主，鼓勵新住民投入公共事務。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp; &nbsp; 姚文智強調，文化的串接來自於社會包容、自由且彼此尊重的觀念，而臺北做為國家首都，有許多來自世界各國的人民到此打拼，未來當選市長後，也會規畫不同國家的節慶，讓大家認識多元族群文化、讓臺北更加活潑，市府機制也會更溫暖地提供服務資源，讓在臺北的新住民都能安居樂業。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp; &nbsp; 活動另外邀請到「新島嶼故事捕手計畫」的兩位故事捕手進行與談。負責採訪新北市的新住民店家、同時身為新二代的林稚芊表示，很敬佩自己越南裔的媽媽努力學習語言融入臺灣生活，採訪過程也觀察到，新住民為了守護家庭，走過困難才自立店面、讓夢想實現。而採訪苗栗縣的劉蕙娟提到，自己以聆聽者的角度感受到新住民姊妹的勇敢及力量，看見她們希望回饋鄉里及同鄉的那份信念與堅持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp; &nbsp; 今年二月民進黨婦女部推出的「新島嶼故事捕手計畫」，由20位青年擔任故事捕手，至全臺19個縣市，採訪超過100篇在臺新住民的故事。本次「新島嶼旅行團」巡迴分享會活動，邀請市民至在地受訪的新住民店內，聆聽故事捕手分享新住民在臺灣真實動人生命故事。現場也準備菲律賓特色料理「菲式BBQ」和「香蕉波羅蜜捲」讓參加者體驗異國美食了解菲律賓文化。接下來八月民進黨婦女部也將至臺中及臺南舉辦故事分享活動。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="41353872615748574b69755833674a30">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

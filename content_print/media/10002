@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-02-25</p>
+				<h2>林儒彬遭爆擔任豪宅起造人 民進黨：白天當縣長特助，晚上當豪宅建商？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民進黨副秘書長黃建嘉今（25）日爆料，林明溱兒子林儒彬在108年擔任縣長特助期間，同時擔任豪宅建案的起造人。黃建嘉表示，林儒彬「白天當縣長特助，晚上當豪宅建商」，又要權又要錢，宛如「南投皇太子。」</p>
+
+<p style="text-align: justify;">黃建嘉表示，在林儒彬的名片中，甚至是南投縣內的路邊看板上，都大大的寫著「縣長特助」四個字，代表林儒彬的職位不只是林明溱口中別人對他的「稱呼」，根本就是以自己以「縣長特助」這樣有權無責的特使身份在縣府、政壇行走。</p>
+
+<p style="text-align: justify;">黃建嘉也說，林明溱不但強制將本應該給公務員的車位給兒子、還要公務員幫林儒彬寫上百篇的新聞稿；同時林氏父子還變本加厲，直接當房屋起造人，蓋起豪宅，也難怪林儒彬掛名起造人的豪宅，在建照、使照上縣府都飛速核准，南投公務員大家敢怒不敢言，畢竟太子要蓋的房子誰敢不准？</p>
+
+<p style="text-align: justify;">黃建嘉指出，原來是因為兒子自己就是建商？所以林儒彬可以無薪資貸款1500萬？還是林儒彬有其他收入來源？有其他不為人知的資產？</p>
+
+<p style="text-align: justify;">黃建嘉表示，「南投皇太子」林儒彬之所以敢「白天當縣長特助、晚上當豪宅建商」、目無法紀，其實最根本的原因，就是因為林氏父子隻手遮南投的天，也不管公務份際。3/4的每一張選票，都是停止這種違法亂紀行為的最大力量。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="546a357445567963306e507558665855">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

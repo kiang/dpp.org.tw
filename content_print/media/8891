@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-26</p>
+				<h2>出席三重總統、立委聯合競總成立 卓榮泰：「心頭抓乎定」票投民進黨唯一提名的余天</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今（26）日出席「2020蔡英文、余天三重聯合競選總部成立大會」，現場頒發聘書給競選團隊幹部：主任委員陳啟能、新北婦展會長李倩萍、副主任委員李坤城、後援會總會長邱婷蔚、姐妹會會長彭佳芸、總幹事鄭金隆，同時也特別頒發「特製黨證」給彭佳芸議員，象徵大家一起為台灣大團結，民進黨新北議會黨團也增添生力軍。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，今天很高興將象徵團結的黨證，交給彭佳芸議員，未來民進黨新北市黨團將增加一位勇將。另外，他今天也召集這次33位不分區名單的立委，在中央黨部進行座談會。其中，有好幾位成員都是這幾天才加入民進黨。除此之外，近期有非常多年輕人都選擇加入民進黨，這表示民進黨所走的路線，獲得社會的肯定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，今天在不分區座談會中，他向各位委員報告，民進黨的不分區名單中，沒有列入任何有問題的成員在裡頭，我們不像國民黨的不分區名單裡，排了吳斯懷、葉毓蘭等，有爭議的人物。民進黨所提出的不分區名單裡的成員都非常優秀，是可以向社會大眾及歷史交代的不分區名單。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也提到，這幾天的民調顯示，總統支持度穩定領先，政黨支持度也超前，區域立委的支持度也超越，能有這樣的結果，不是哪個個人的功勞，而是大家一票一票累積而成。他也要慎重地感謝三重鄉親對余天在今年三月十六日補選的支持，民進黨腳步才能因此站穩。因為大家顧好、選好，讓余天可以在補選進入國會，擋住韓流，民進黨才能走到今天這裡。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提及，民進黨是民主政黨，所以余天在今年三月十六日補選勝利後，緊接著馬上就去登記黨內初選，繼續參與這次的選舉，而余天也於初選競爭中勝出。他對於某位初選競爭同志的家人，現在出來競爭，替余天感到不捨，他認為這樣很不恰當。他重申，余天才是民主進步黨唯一提名。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，今天是余天的競選總部成立，每一位來到這裡站台的同志，都代表支持余天，替余天背書。不像國民黨總統候選人韓國瑜，在花蓮，不替國民黨提名的候選人站台，卻跟無黨籍的傅崐萁合照刊登廣告，這讓花蓮人感到錯亂，但我們不能讓人民錯亂，就像是國家的方向不能錯亂一樣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，唯一支持余天，保住民主的血脈，對於余天打拚的精神，他向各位鄉親拜託，用手上的選票，給余天一個公道，讓台灣人純樸、單純、團結、謙虛的個性和傳統要維持住。他再次向大家懇求拜託，「心頭要抓乎定」票投余天，這一票投正確，台灣民主千秋萬世，投錯了就九二共識、一國兩制。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="746843687374694a374b5776726e4e7a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-06-20</p>
+				<h2>10萬本前瞻手冊配送 民進黨：以圖像化、問答式、口語化加速政策溝通</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 民主進步黨今（20）日由黨發言人張志豪、媒體創意中心主任楊緬因公布【穩健跨出台灣的下一步】前瞻基礎建設說明手冊 ，發言人張志豪表示，10萬本前瞻手冊是由多名年輕黨工組成「前瞻文宣小組」策劃進行，將原本300多頁的前瞻計劃濃縮成22頁手冊，第一波3萬本今日派送至各區域立委服務處。第二波7萬本近日也將派送至地方黨部、公職聯絡處及社團，以利未來相關說明會使用。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 就設計概念方面，楊緬因主任表示，手冊主要有三個特色：一、圖像化：小組成員討論後主要以蔡總統近來關心各地區的前瞻基礎建設前期規劃的行程照片，作為手冊的主要表現素材。另儘量以資訊圖表（infographic）型式，讓內容更淺顯易懂。二、問答式：內容多以QA方式進行，整理近來輿論針對前瞻基礎建設計畫討論較多的疑點，逐一說明。三、口語化：文案呈現方式多以「標題式」、「口語化」方式呈現，讓手冊更易讀。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 張志豪表示，為強化公共溝通效果，這次前瞻手冊是由多位年輕黨工組成文宣小組在最短時期內討論濃縮成這本手冊，非常不簡單。後續宣傳計劃除了持續「前瞻問到飽」線上直播外，透過10萬本前瞻手冊，說明會上能夠人手一本，加速政策溝通，讓更多民眾可以了解政府推動前瞻基礎建設計劃的重要性。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c424c39476f703843496c4b5775544d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

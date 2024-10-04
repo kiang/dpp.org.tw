@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-03-05</p>
+				<h2>2022國務青旗艦營開幕 執政縣市長與立委接棒分享地方經驗</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今（5）日舉辦「2022國務青旗艦營」，以「地方治理．根基永續」為主題，吸引來自全國各地27校、31系所學生參與，營隊開幕式由民進黨秘書長林錫耀主講，第一天邀請到嘉義縣長翁章梁、立法委員林靜儀、基隆市長林右昌，以及多位執政縣市年輕政務局處首長，先後分享地方治理與地方經營經驗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨秘書長林錫耀在始業式中表示，民進黨給年輕人參與公共事務的最好機會，期勉學員透過營隊與前輩學習、傳承經驗，並結交志同道合的朋友。林錫耀也強調，民進黨將盡力提供年輕人各種參與公共事務的管道，只要有興趣、有熱情，民進黨就會提供路徑給年輕人走，充分掌握需求並善加媒合即是國務青旗艦營持續舉辦的目的。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	嘉義縣長翁章梁以「如何抓到方向做對的事」為主題，透過自身治理、改革農業大縣－嘉義縣的經驗，向學員傳授地方治理的要點。翁章梁表示，領導者最重要的就是「多謀善斷」：要勇敢決策、勇敢面對、勇敢修正，掌握價值與意識型態，就可決定方向、路線。嘉義縣也在翁章梁縣長的明確規劃下，透過系統化管理與創新，發揚農業與工業優勢，立足台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	立委林靜儀則向學員分享自己如何贏得中二選區補選。林靜儀強調，要翻轉選區的既有利益結構不容易，組織經營與捍衛價值都相當重要，而若支持者能站出來一同發聲，對候選人來說更是一股強大的力量。林靜儀也勉勵學員，在基層的參與或議題的表態，對推動性別平等這些進步價值都是同等重要的，期待文化可以持續改變，也期待更多有實力的女性在政治場域中受到肯定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	接著，由基隆市長林右昌以城市發展為主軸，分享地方治理的思維，與學員暢談「你我如何來解決台灣城市發展的困境與問題」，並期許更多年輕世代透過熱情參與，投入政治場域實踐理想；晚間，活動邀請執政縣市八位青壯世代的政務局處首長，以「世界咖啡館」的形式與學員深入交流第一線推動政務的心得。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨青年部主任蔡沐霖指出，在面對面、分組討論的安排下，學員們均熱烈表達想法，相當期待本次「2022國務青旗艦營」能培養出富有理想、能掌握地方脈動、更可傳承民進黨地方執政經驗的新世代人才，加入現有的「國務青」團隊，共同「用行動改變地方」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="456e307641454d3875574d3270455473">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

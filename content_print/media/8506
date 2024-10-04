@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-01</p>
+				<h2>蔡英文：選後全面檢討，讓民進黨重整有更精準的方向</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民進黨前主席蔡英文今(1)日上午由台中市長林佳龍、立法院副院長蔡其昌、立委黃國書、何欣純、張廖萬堅、行政院中部辦公室執行長方昇茂、台中市黨部主委何明杰及多位台中市議員陪同，出席台中市座談會，傾聽基層民眾心聲。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文致詞表示，佳龍所領導的台中團隊，是非常認真，對未來有很多擘畫、想法，也盡力透過政策的執行，替台中未來發展打下好的基礎的隊伍。佳龍也很用心，而且做得很賣力、很辛苦。這次選戰，很多人覺得用心、認真做事，為了台中長遠發展努力的人，沒有得到連任機會，對佳龍很不公平，這也是她的感覺。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文進一步表示，大環境既然如此，我們必須面對民意對我們所提出的警示。這也是為什麼選舉結束後，不論在中央、地方政府，在政策、選舉策略等各種因素，都要全面性地檢討。檢討後，府、院、黨以及各地團隊的人事將重新佈局，進行重新整理，讓整體團隊在下個階段可以發揮戰力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提到，檢討的過程確實很困難，因為必須面對我們過去做得不足、不好以及做錯的地方，這個過程非常不好受，也會讓人感到有些挫敗。但是，這是我們作為一個政黨、一個執政的團隊，必須要經歷的事情。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後蔡英文表示，希望座談會的各位在指教時，可以更直接、大聲地表達，讓我們能更清楚接收到大家想傳達的訊息，這對我們來說是很重要的過程。也希望在選戰中支持我們，一起打選戰的朋友們，在檢討過程中可以持續提供協助，幫助我們做全面性的檢討，讓我們在整隊過程中，有更精準的方向重整後續團隊。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	會後針對媒體提問是否會回應黨中生代要求人事調整，蔡英文表示，這不僅是黨中央中生代的聲音，也是黨普遍有共識的看法。現階段我們到各地檢討這次選舉各個面向之外，行政院也開始做政策檢討。檢討完畢後，下個階段就是進行人事調整。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	有關媒體問到吳音寧離職一事，蔡英文表示，她已說過，選舉的成敗與責任都是她的責任，吳音寧的離職與選舉無關。這件事情還是讓相關部會，農委會和台北市政府依他們的權責來處理。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，針對媒體提問盧秀燕暫緩山手線一事，蔡英文表示，山手線是軌道建設，軌道建設對中部地區尤其重要，因為它是綠色運輸。我們希望能夠有山手線來帶動整個中部資源、人力種種的整合。佳龍能夠提出這個政見，她認為是非常好，而且有前瞻性的建設，也得到中央的支持。她希望新當選的市長，未來的施政可以再好好想一想，有必要的話，後續見面再來討論意見。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對媒體問到，兩岸議題與民進黨於九合一選舉敗選關係，蔡英文表示，兩岸議題在這次選舉的著墨並不多，畢竟是地方選舉，兩岸議題是對外關係，通常會是在總統大選或是立委選舉中，才是高度關注的議題。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另針對媒體提問白綠合作會不會從立委補選開始，蔡英文表示，她現在不是黨主席，這個問題黨中央會做很好的處理，當他們處理到一個段落的時候，會向社會大眾說明。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6c524d4e6b31616f3570756853576769">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

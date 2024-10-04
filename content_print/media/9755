@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-20</p>
+				<h2>民進黨：盼國民黨勿用天災來做文章獲取政治紅利</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨今（20）日召開記者會，拿918大地震作為政治攻防，製造對立一事，民進黨發言人謝子涵表示，關於9月18日防災中心視導過程中與地方政府連線疏失的問題，蔡英文總統跟內政部早已向花蓮縣與台東縣兩位縣長，及縣府救災團隊表達歉意。事實上，當災情陸續傳出時，國防部花東防衛指揮部立刻完成災情應變中心一級開設。地震發生隔天，蘇貞昌院長也赴花東勘災，指示中央全力支持地方，將災損降到最低，且用最快的時間完成復原。然而國民黨仍持續用天災來做文章獲取政治紅利，到底誰才是眼裡只有選舉？</p>
+
+<p style="text-align: justify;">謝子涵強調，地震發生後，全台各地都在努力救災，國民黨台東縣長饒慶鈴被爆出，地震發生時，還在忙跑選舉行程，並未立刻坐鎮台東災害應變中心，至今不針對此事做任何回應，態度閃躲。另外，國民黨前主席江啟臣在地震發生同時，正在為國民黨台中市議員站台時，竟說出「連地表都在搖動，可見他們兩個（盧秀燕和參選議員）的威力是撼動地球。」，如此冷血言論遭到砲轟。</p>
+
+<p style="text-align: justify;">謝子涵指出，面對災情，國民黨直到今天還持續用災情做文章、製作網路攻擊圖卡，加深社會對立，這在在凸顯國民黨只想利用災情獲得自身政治紅利。</p>
+
+<p style="text-align: justify;">謝子涵強調，災後的政治口水對救災毫無幫助，到底誰才是心中只有選舉沒有救災？呼籲國民黨不必兩面手法，藉由天災進行政治操作。同時也要提醒民眾，面對未來可能發生的餘震，務必提高警覺做好防災準備。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4271425a7571497572354f374d6b5938">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

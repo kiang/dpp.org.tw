@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-05-31</p>
+				<h2>中國統戰行為昭然若揭，國民黨不應「捨本逐利」，罔顧台灣主流民意</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨將陸委會禁止相關團體赴中國參加「海峽論壇」，涉及「一國兩制」統戰活動，抨擊為恫嚇台灣人民之行為。民主進步黨發言人李問今（31）日表示，中國近來在任何的交流中，透過置入「ㄧ國兩制」，及定調為「民主協商」，企圖營造中國惠台的假象，加速習近平統一台灣進程，以達到消滅台灣主權的目標。中國舉辦「海峽論壇」，其用意眾人皆知，國民黨不要因一黨之私，而罔顧台灣主權及民主，淪為中國統戰的工具。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問指出，根據陸委會日前公布民調，台灣人民有超過8成反對中國倡議的「一國兩制」（83.6％），以及反對中國對台灣進行統戰滲透拉攏、分化台灣社會（82.2％）。由此可見，台灣的主流民意是不贊成中國的「一國兩制」。對於中國的統戰行為更是感到厭惡，國民黨或是其他團體千萬不要無視台灣民意，誤判情勢傷害台灣主權與民主。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問進一步表示，另外，陸委會民調也指出，台灣有近9成民眾堅定認為台灣未來與兩岸關係發展，應由台灣2,300萬人決定（89.3%）。任何與中國交流的活動，只要涉及國家主權事宜，絕非是一人或是一個團體能私自決定，不應淪為統戰宣傳工具。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，李問鄭重奉告國民黨，中國併吞台灣的野心，昭然若揭，不要錯把自己人當敵人，把敵人當朋友，更不能「捨本逐利」，切記「主權不是籌碼、民主不能交換」，任何政治人物或團體赴中國交流，都應堅守維護台灣2300萬人民福祉利益的主張，並要向中國真實反映台灣民意，反對「一國兩制」及統戰威嚇行為，停止對台惡意挑釁作為，才是爭取民眾福祉的重要關鍵。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6b675975333053475665334935445875">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

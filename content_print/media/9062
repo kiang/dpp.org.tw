@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-09-09</p>
+				<h2>索馬利蘭代表處今揭牌 深化兩國友誼</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	今（9）日外交部長吳釗燮與索馬利蘭第一任駐台代表穆姆德（Mohamed Omar Hagi Mohamoud）舉行索馬利蘭共和國駐台灣辦事處揭牌儀式，民主進步黨發言人謝佩芬表示，此為台索良好關係的具體展現。</div>
+<div>
+	　</div>
+<div>
+	謝佩芬說，台、索雙方都非常重視今日索馬利蘭代表處的成立。索馬利蘭總統阿布迪（Muse Bihi Abdi）更透過影片表達祝福，他認為台灣與索馬利蘭都是民主陣營的一員，更基於共享普世價值來發展雙邊關係。</div>
+<div>
+	　　</div>
+<div>
+	謝佩芬表示，台灣與索馬利蘭在 2009 年，就已經有醫療、教育和海事安全等方面進行交流合作。這一次的代表處開館是台灣的外交新篇章，民進黨期待未來能夠與索馬利蘭發展兩國更密切的合作與經貿關係，並守護共同的自由民主價值。</div>
+<div>
+	　　</div>
+<div>
+	謝佩芬強調，民進黨感謝辛苦的外交人員在第一線的努力，相信只要我們持續團結、持續努力，台灣一定能繼續前進世界。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="686d4343497770366e517a5747577a65">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

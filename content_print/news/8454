@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-06-06</p>
+				<h2>第一、二、三類公職候選人提名民意調查辦法</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: center;">
+	<img alt="" src="/upload/ckfinder/images/%E7%AC%AC%E4%B8%80%E4%BA%8C%E4%B8%89%E9%A1%9E%E5%85%AC%E8%81%B7%E5%80%99%E9%81%B8%E4%BA%BA%E6%8F%90%E5%90%8D%E6%B0%91%E6%84%8F%E8%AA%BF%E6%9F%A5%E8%BE%A6%E6%B3%95_1.jpg" style="width: 848px; height: 1200px;" /></p>
+<p style="text-align: center;">
+	<img alt="" src="/upload/ckfinder/images/%E7%AC%AC%E4%B8%80%E4%BA%8C%E4%B8%89%E9%A1%9E%E5%85%AC%E8%81%B7%E5%80%99%E9%81%B8%E4%BA%BA%E6%8F%90%E5%90%8D%E6%B0%91%E6%84%8F%E8%AA%BF%E6%9F%A5%E8%BE%A6%E6%B3%95_2.jpg" style="width: 848px; height: 1200px;" /></p>
+<p style="text-align: center;">
+	<img alt="" src="/upload/ckfinder/images/%E7%AC%AC%E4%B8%80%E4%BA%8C%E4%B8%89%E9%A1%9E%E5%85%AC%E8%81%B7%E5%80%99%E9%81%B8%E4%BA%BA%E6%8F%90%E5%90%8D%E6%B0%91%E6%84%8F%E8%AA%BF%E6%9F%A5%E8%BE%A6%E6%B3%95_3.jpg" style="width: 848px; height: 1200px;" /></p>
+	                	                	                <p>檔案下載：<a href="https://www.dpp.org.tw/upload/news/第一二三類公職候選人提名民意調查辦法.pdf" target="_blank">第一二三類公職候選人提名民意調查辦法.pdf</a></p>
+	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6d676d756c794a48625575654d325a6e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

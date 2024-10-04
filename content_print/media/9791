@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-10-09</p>
+				<h2>回應馬英九批非核家園　民進黨：馬英九又忘記自己封存核四了</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對前總統馬英九在輔選時批評非核家園相關言論，民進黨發言人李坤城回應，馬英九顯然對於新北市民的想法很陌生，新北市長侯友宜曾經公開表示，「如果沒有守護核安、沒有辦法處理核廢料，就不能用核電。」建議馬前總統下次若到新北市輔選侯友宜，不妨當面問問侯市長，對於核電廠、核廢料存放的意見。而為符合全球2050淨零目標，再生能源的發展早已經是世界各國追求的趨勢</p>
+
+<p style="text-align: justify;">李坤城表示，馬前總統請不要換了位子就換腦袋，卸任後的言論彷彿忘記自己在總統任內親手封存核四，把3000億元興建費用當作兒戲，政策反覆，難怪去年重啟核四公投案再度遭到全民否決，連侯友宜、宜蘭縣長林姿妙、苗栗縣長徐耀昌等國民黨籍地方首長接連表示反對，台中市長盧秀燕也反對核四遷台中。</p>
+
+<p style="text-align: justify;">李坤城進一步說，馬總統於2016年的5月卸任時，全台備轉容量一度只剩下1.64%，馬英九執政時期對於能源轉型工作毫不用心，這些無可抵賴的缺失就是國民黨留給大家的爛攤子，國民黨卻選擇性失憶，還要把自己的能源政策失敗推給非核家園，簡直是可笑。</p>
+
+<p style="text-align: justify;">李坤城說，在淨零轉型的趨勢下，全球的先進製程大廠紛紛要求供應商使用綠電、再生能源，「但這並不包括核電」，台灣的廠商和政府都努力跟上世界供應鏈發展的腳步，馬前總統卻只會不斷唸經死守核電，在其主政之時，始終不重視再生能源發展。</p>
+
+<p style="text-align: justify;">李坤城表示，2016年民進黨上任後，從中央到地方都積極推動再生能源，如果像國民黨這樣單押核電，請問台積電及綠色供應鏈廠商的綠電缺口，要怎麼補足？由此可見，推動再生能源不僅是為了能源轉型，更是為了產業的國際競爭力。而從馬英九的相關發言來看，更可證明國民黨早已與世界趨勢潮流嚴重脫節。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="725375735378783253414357426c3336">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-10-26</p>
+				<h2>國民黨不要以魚目混珠的方式轉移「黨產歸零」的承諾</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對媒體報導國民黨立委吳怡玎今（26）日於立法院質詢時，質疑小英基金會是民進黨附隨組織，民主進步黨發言人顏若芳表示，《政黨及其附隨組織不當取得財產條例》相關的規定非常清楚，民進黨及相關組織沒有所謂的「不當取得財產」。對於黨產會表示將啟動調查，民進黨必會全力配合，相信事實絕對經得起調查檢驗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨法律顧問、律師黃帝穎表示，尊重黨產會職權，也強調黨產條例明文規定，政黨不當取得財產「指政黨以違反政黨本質或其他悖於民主法治原則之方式，使自己或其附隨組織取得之財產」，民進黨是民主政黨，不像國民黨戒嚴時代威權統治黨國不分，黨產多到全球譁然。國民黨自己無能處理不當黨產，就隨便指控其他政黨，明顯不符民主國家政黨應有的負責態度。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳說，倒是要提醒國民黨的立委，不要「見笑轉生氣」、「做賊喊抓賊」，應勇於面對國民黨自己「不當取得黨產」的問題，勿再用魚目混珠的方式，來轉移問題的焦點，徹底地落實國民黨前主席馬英九、朱立倫，及現任主席江啟臣宣示「黨產歸零」的承諾。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3648303841554257556f6f4d42546e47">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

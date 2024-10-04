@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-11</p>
+				<h2>「與青年有約」街舞體驗  卓榮泰：讓彭俊豪代表桃園青年進國會</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民進黨主席卓榮泰今(11)在桃園市市長鄭文燦、中壢區立法委員候選人彭俊豪、議員劉仁照、桃園市民進黨黨部主任委員張火爐、民進黨中央黨部客家部主任魏筠與地方黨公職陪同下，出席「卓榮泰主席與青年有約」活動。活動中，卓榮泰參與街舞體驗，氣氛熱絡，展現民進黨為青年立命，以及為立委候選人助選的決心。</p>
+<p style="text-align: justify;">
+	卓榮泰說，在座的年輕人來自各行各業，桃園需要有像彭俊豪一樣立委。第一，他具備年輕人的想法、作法，讓青年的意見能透過他形成政策；第二，彭俊豪有地方服務經驗，在過程中能解決民眾困難；第三，他有能力爭取更多國家中央預算，支援中壢。希望大家讓彭俊豪進國會，提升問政風格、延續青年政策。</p>
+<p style="text-align: justify;">
+	卓榮泰回憶，1977年中壢事件爆發，那時候他高中畢業，看到很多人到中壢分局抗爭，他當時很震撼。卓榮泰說，高中以前接受黨國教育，認為國民黨是最好的政黨，因此不能理解為什麼有那麼多人做上街抗爭，這讓他嘗試去反思，黨國教育加諸在年輕人身上會變得多麼不真實。</p>
+<p style="text-align: justify;">
+	卓榮泰提到，他三十歲時進入台北市議會，接著過九年到立法院，跟彭俊豪現在的年齡一樣。卓榮泰說，彭俊豪年輕、謙虛，不像其他人用罵人取得關注，彭俊豪提出務實的政見和服務，雖然寂寞，卻是長遠的一條路。卓榮泰也期勉彭俊豪，要抱著必勝的決心，以及準備好進立法院的心態，不僅要把前輩在立法院的資料熟讀，也要採用新的選舉方式、新的問政模式。</p>
+<p style="text-align: justify;">
+	卓榮泰表示，從縣議會，到行政院，再到新聞局、市政府，鄭文燦市長也非激動型的問政風格，但民眾都可以看到「桃園鄭文燦模式」，也就是桃園府會關係好、地方服務不分顏色、中央地方關係融洽、地方經營全面展開，鄭文燦也爭取到很多預算，建設桃園。</p>
+<p style="text-align: justify;">
+	最後，卓榮泰說，很少看到這麼多年輕朋友出席的活動，相信大家也看到民進黨嘗試在改變。青年人站出來，國家就有希望，拜託大家明天1月11號走進投票所，決定年輕人的命運。</p>
+<p>
+	<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Heiti TC Light'}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+span.s1 {font: 12.0px Helvetica}	</style>
+</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="783175627a76575662414e4e34783273">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

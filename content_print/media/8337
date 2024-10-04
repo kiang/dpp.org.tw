@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-07-16</p>
+				<h2>吳敦義指國民黨經濟治理成績較好，洪耀福:態度不誠懇，內容不實在</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p class="p1">
+	&nbsp;</p>
+<div>
+	針對國民黨吳敦義主席昨(15)日，以所謂「肥鵝理論」，指國民黨經濟治理成績比民進黨好，並批評年金改革等。民進黨祕書長洪耀福表示，吳主席的說法，正如他一向給予外界的印象，態度不誠懇，內容不實在。</div>
+<div>
+	&nbsp;</div>
+<div>
+	洪耀福表示，談到國民黨的經濟治理，別的不用說，只要看政黨輪替前，國民黨留給台灣的經濟治理成果就知道，2015年全年，台灣的經濟成長只剩下0.81%，無薪假人數來到4377人，是去年同期的20倍（215人），政黨輪替前一個月，台灣的出口進入連續十五個月負成長，一直到民進黨執政後，各項經濟數據才開始回溫。</div>
+<div>
+	&nbsp;</div>
+<div>
+	洪耀福指出，兩年來，在五加二產業政策的帶動下，智慧機械的產值，從馬英九執政八年的八千億（馬英九接任前產值就是八千億），成為新的兆元產業，物聯網產業產值也即將破兆。整體經濟成長從兩年前的不到一個百分點，到現在持續回溫。就業人口來到過去多年來最高，失業率最低，諸如國防、高科技等等產業的投入，也連動許多高值的就業機會。尤其因為經濟政策正確，國際知名廠商，如思科、亞馬遜等也都接連來台設立研發中心，不但提供好的工作機會，也讓許多矽谷工作的好人才有機會回到台灣努力。</div>
+<div>
+	&nbsp;</div>
+<div>
+	洪耀福認為，總體而言，比較馬政府八年來經濟治理的乏善可陳，什麼都只靠一個市場，一帖藥方：觀光靠陸客，出口靠大陸，兩岸當成世界，結果讓台灣一度錯失轉骨升級的時機，讓國民慘受八年燜經濟的苦果，蔡政府兩年的經濟治理成績，就證明台灣有無窮潛力，只要方向正確，政策落實，台灣就會往前走。吳主席把空轉、消耗台灣氣力的經濟治理稱作肥鵝，把正在升溫的總體經濟說是「拔毛」，若非「指鹿為馬」成習，否則一定是哪裡出錯了。</div>
+<div>
+	&nbsp;</div>
+<div>
+	洪耀福說，至於有關年金改革，與其直接回應，不如幫吳主席回憶當年他出席馬總統宣示要改革年金記者會上馬總統的說法，「如果我們今天不推動改革，軍人退撫基金會在民國108年破產、教職退撫基金和勞保基金會在民國116年破產，而公職退撫基金也會在民國120年破產，也就是說，下任總統或下下任總統，遲早都會碰到這個問題，社會在這段期間也會長期惶恐不安。」。</div>
+<div>
+	&nbsp;</div>
+<div>
+	洪耀福表示，再回顧前年參選國民黨主席前，為了與當時的反對年金改革的洪秀柱主席別一別苗頭，吳主席當時也告訴媒體說：「年金改革一定要快做，否則將成國家社會的未爆彈。他並說，退休後所得替代率若多於在職，那不公道、應適度調整，訂定合理的天花板、地板等標準。」沒想到，現在位置一換，講法就南轅北轍。</div>
+<div>
+	&nbsp;</div>
+<div>
+	洪耀福強調，吳敦義從政多年，歷任過行政院長、副總統等等要津，沒想到對於這些經濟治理的基本元素如此陌生，又或者根本是刻意扭曲，作為台灣最重要的在野黨主席，這樣的表現，實在令人搖頭，希望吳主席多加油，國民黨多加油。</div>
+<p class="p1">
+	<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 28.0px; line-height: 26.0px; font: 14.0px BiauKai; color: #2d2d2d}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 28.0px; line-height: 26.0px; font: 14.0px Helvetica; color: #2d2d2d; min-height: 17.0px}	</style>
+</p>
+<p>
+	<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 28.0px; line-height: 26.0px; font: 14.0px BiauKai; color: #2d2d2d}	</style>
+</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="43676949643738767977367976317234">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

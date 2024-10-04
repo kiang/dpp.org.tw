@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-09-15</p>
+				<h2>何孟樺：國民黨繼續消費外交官輕生憾事，還有人性嗎？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨發言人洪孟楷指屏東縣政府施壓外交部將行程下架一事，民進黨發言人何孟樺今(15)日表達強烈憤怒和譴責，一位優秀的外交官因假新聞受到排山倒海的輿論壓力走向輕生的憾事，正當大家為此事感到悲痛不捨時，國民黨仍繼續造口業，說出如此傷天害理的言論，進行政治操作，請問國民黨人還有人性嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺表示，屏東縣政府為推廣觀光，從一年前就開始規劃大阪觀光推介會，加強台日觀光交流。不巧遇到燕子颱風侵襲日本，但因行程早已籌辦許久，縣府依原訂行程出發，行程由日本近鐵集團安排，直至晚宴時才與蘇處長碰面。此後，潘縣長所有行程及搭機返台，均只有縣府同仁陪同，未再和外交部人員接觸。何孟樺強調，為避免再度引起外界不當誤解蘇處長因為參加晚宴而耽誤公務，屏東縣政府建請外交部評估該網站資訊先移除，是基於尊重逝者。根本沒有國民黨所謂接待「黨國權貴」，甚至是「刪除行程欲蓋彌彰」的情況。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對國民黨不實及抹黑的言論，何孟樺表達嚴厲譴責，這對於蘇處長完全是二次傷害，蘇處長正因假新聞而不幸離世，請問國民黨還要繼續製造不實的謠言，讓更多無辜的人受到傷害嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺也呼籲，正當山竹颱風還在影響屏東縣民，縣府忙著處理水風災，國民黨適可而止，不要繼續造口業，趁此消費這個不幸的事件，也希望所有的假新聞跟不實的消息能到此為止。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="464a453369554c4f657835723144676c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

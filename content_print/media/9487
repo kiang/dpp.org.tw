@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-04-15</p>
+				<h2>美國國會跨黨派代表團來訪 民進黨：誠摯歡迎長期堅定挺台的國會好朋友</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	關於美國聯邦參議員葛瑞姆（Lindsey Graham, R-SC）率跨黨派國會代表團搭乘美國軍機來台訪問，民主進步黨發言人謝佩芬今（15）日表示，美國國會向來是支持台灣的重要力量，民進黨誠摯歡迎6位國會議員的來訪，期待台美之間更加深化緊密的夥伴關係。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，此訪團成員涵蓋參、眾議院中民主及共和兩黨議員。率團的葛瑞姆為參議院預算委員會共和黨首席議員，訪團成員孟南德茲（Robert Menendez, D-NJ）為參議院外交委員會主席，波爾（Richard Burr, R-NC）為參議院衛生、教育、勞工暨年金委員會共和黨首席參議員，波特曼（Robert Portman, R-OH）為參議院國土安全委員會共和黨首席參議員，還有賽斯（Ben Sasse, R-NE）參議員、傑克森（Ronny Jackson, R-TX）參議員。他們的專業領域橫跨外交、軍事、國土安全，及各項內政議題，可見台美夥伴關係涵蓋的領域相當廣泛。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，民進黨要再次感謝葛瑞姆參議員與孟南德茲主席於2019年提案、連署「亞洲再保證倡議法」（Asia Reassurance Initiative Act），並在其中重申美國對台安全承諾。也感謝來訪的各位國會議員多次支持、連署友台議案及聯名函等。此次長期支持台灣的好朋友來訪，有機會親眼見證台灣對自由、民主、人權價值的堅持，以及對維護區域穩定與和平的貢獻，在烏克蘭情勢嚴峻之際，尤具意義。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬強調，過去數十載以來，美國國會都是堅定支持台灣的一股重要力量。在國際間逐步恢復實體交流之際，民進黨非常歡迎本年度第一個美國國會訪問團來台，我們也期待台美關係在雙方頻繁的交流與互動之下，得以更加深化與強化。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4957397a365a61715676744b56584d31">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

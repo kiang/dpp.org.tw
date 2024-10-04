@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-08</p>
+				<h2>小小女力讓台菜名揚國際！蔡總統邀小廚神Liya共煮「鰻魚米粉」笑稱：我沒地獄主廚恐怖</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民進黨網路實境節目《一碗麵的時間》今（8）日播出第8集，請來史上「最重量級組合」！總統蔡英文與小廚神朱如茵（Liya）與主持人黃彩玲「三女力」聯手下廚，重現Liya在「小小頂級廚師美國版第八季」中得到冠軍的經典料理&mdash;&mdash;蜜汁烤鰻魚米粉。難得擔任二廚的蔡總統，擺盤時狂加香菜，試吃時四度誇米粉「數一數二好吃」，身為甜點控的她還控起全場，提醒主持人「甜點還沒吃」，多次化解廚房危機！</p>
+
+<p style="text-align: justify;">身為民進黨最強女力，蔡總統說，盼藉由節目《一碗麵的時間》將Liya介紹給國人認識，她讚Liya不只把台菜發揚光大，更強調年僅10歲，就能在極度高壓的廚藝競賽中過關斬將，「比我們打選戰還厲害」；而在比賽中自信喊出「Girls rule the world（譯：女力領軍）」的Liya則解釋，女性特質有助團隊合作，她同時稱讚蔡總統「是一個很好的啟發，證明女生可以完成許多成就」。</p>
+
+<p style="text-align: justify;">不過料理過程中，Liya坦言有點緊張，讓蔡總統笑回「總統不會比節目主持人（指地獄廚神Gordon Ramsay）恐怖」，更多次幫忙化解廚房危機！先是Liya醃製鰻魚時，因醬料碟太過一致，一度分不清米酒與醋而愣了3秒，總統不只馬上接手「嗅」出答案，更在米粉醬汁不小心被「加料」蜂蜜時，貼心補充「甜的米粉我也可以」，讓Liya鬆了一口氣，最後更不改「香菜本色」頻提醒「香菜多加一點」，再徒手大拍果蠅，嚇到所有人。</p>
+
+<p style="text-align: justify;">「蜜汁烤鰻魚米粉」上菜後，蔡總統的筷子是停不下來，鹹甜交織與檸檬酸味的畫龍點睛，讓她4度誇「非常好吃」、「是我吃過數一數二好吃的米粉」。而黃彩玲則說，這是一道融合西式烹飪手法，但充滿台灣味的料理，食材全選自台灣，包括屏東鰻魚和新竹米粉，蔡總統在一旁補充「用米酒就是台菜了」。不過，就在大家品嚐完準備收拾時，蔡總統突然大喊「Liya做的奶酪還沒吃」，只見身為「甜點控」的她拿起湯匙一口接一口，笑翻全場。</p>
+
+<p style="text-align: justify;">其實，為了感謝蔡總統這位「得力助手」，Liya除準備了甜點外，還連夜趕工繪製「想想與阿才」的肖像油畫送給總統，讓蔡媽媽看到秒回「牠們才沒這麼可愛！」開心地說要把這幅畫掛在廚房。而由於錄影當天正好是Liya14歲生日，蔡總統也準備驚喜，送上一件印有「Liya Chu」的工作圍裙，畫畫、做菜都能使用，祝福Liya繼續勇敢並堅持做自己喜歡的事。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/e_Gv7_5JccU" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4166314c635832336a44694b6b645762">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

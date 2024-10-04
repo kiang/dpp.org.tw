@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-05-20</p>
+				<h2>執政週年捐血做公益 洪耀福：愛心不分藍綠</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 民主進步黨秘書長洪耀福今(20)日受邀參加「2017台灣好血有你」小英之友會全國同步公益活動，與黨發言人吳沛憶在520執政週年，一同挽袖捐熱血。洪耀福强調，捐血活動辦在就職一週年，意義非常重大，血液是紅色的，沒有藍綠之分，愛心也不該分藍綠，今天同時是國民黨黨主席選舉的日子，洪耀福呼籲國民黨黨員投完票，能一同響應捐血活動，讓520成為超越藍綠的開始。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 洪耀福表示，很高興今日可以響應小英之友會全國性的捐血活動，小英之友會是由小英總統在民間企業的朋友組成的公益性社團，不遺餘力地關注反毒、新住民及弱勢團體等議題，並代表蔡英文總統在她走不到的地方持續關心台灣民眾。洪耀福也代表總統感謝全國小英之友會的好朋友們長期對台灣的付出與對蔡總統的支持，也特別感謝顏志發總會長的領導，讓小英之友會做更多對台灣有幫助的事。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 「2017台灣好血有你－小英之友會全國同步公益活動」，今天520全台16縣市同步舉辦，一同挽袖捐熱血，齊心做公益，為小英總統和國家注入新血，並鼓勵民間社會互助、雪中送炭!</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="314141535771366557695a7156345761">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

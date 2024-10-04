@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-27</p>
+				<h2>「原來，我們已經一起走了這麼遠」陳時中獻聲防疫影片感謝所有台灣人</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨已陸續提名18位縣市首長的候選人，日前發布競選主軸「顧家鄉，拚未來」，今（26）推出首支系列政績影片「原來，我們已經一起走了這麼遠」。影片主打過去兩年半的防疫成績，特邀台北市長候選人陳時中擔任旁白配音，讓「前防疫指揮官」細數台灣人一起經歷的防疫片段，並邀請知名的聲音訓練師周震宇老師，以及配音師「星期天」在旁教學。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	「原來，我們已經一起走了這麼遠」影片中，從兩年半前全球疫情爆發，政府開始各項防疫措施，因為過往SARS的經歷，讓台灣的政府比起其他各國更有警覺，快速組成防疫國家隊，指揮中心為使民眾安心，也召開每日防疫記者會，第一時間說明疫情狀況，澄清錯假訊息。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	影片中也特別感謝所有在防疫期間付出的每個人，從第一線醫護人員、口罩產線員工、超商店員，以及一起經歷口罩、疫苗、快篩的每位台灣人。而Taiwan can help讓台灣的能見度也在國際大增，許多國家紛紛站出來支持和感謝台灣在疫情期間的貢獻。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	陳時中首次參與影片配音，現場請來了聲音訓練師周震宇，以及知名配音師「星期天配音是對的」，給陳時中進行旁白配音的指導，針對第一次的配音表現，周老師表示「我聽完有雞皮疙瘩的感覺」，陳時中看到影片成品後，也說道「錄製的時候有很自然的感情，看見兩年多來的日子，也挑動我們自己的心情」想到過去兩年的防疫，儼然有許多感觸。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	影片規劃由民進黨網路社群中心主責，主任范綱皓也表示，過去兩年多，大部分的台灣人每天都聽陳時中的記者會，他的聲音大家都很熟悉，邀請他來擔任旁白配音非常適合。錄音時，他情緒流露非常自然，因此很快就完成錄音。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	接下來四個月，「顧家鄉，拚未來」系列政績影片將會陸續釋出其他四支影片，細數民進黨在過去六年中央執政的重要政績，凸顯照顧人民、家鄉，拚台灣未來之主軸。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/YYW9kmBqh3g" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="756c466975354a397030427a79624c78">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

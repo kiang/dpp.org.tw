@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-01-05</p>
+				<h2>侯友宜恐嚇網路平台 民進黨：國民黨害怕架空台灣、黑金復辟陰謀被公開</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對侯友宜辦公室稍早的提告手段，民進黨發言人張志豪表示，國民黨氣急敗壞的恐嚇媒體、揚言提告所有網路平台，企圖用司法箝制言論自由，主要因為民進黨的廣告內容說出了國民黨內心深處的話，揭開國民黨最不願被公開的陰謀就是透過選舉架空台灣、黑金復辟。對此民進黨會正面迎戰，維護新聞自由、保護網路平台的言論自由，不會讓國民黨宛如警總的威權手段得逞。</p>
+
+<p>大選律師團律師黃帝穎表示，這支CF內容是對國民黨總統候選人公開廣告的政治評論，不但非基於營利目的，更是為了讓臺灣選民合理評估選舉意向的「言論」，應受憲法「言論自由」最大限度的保障，也符合《著作權法》第65條第1項及第2項的著作合理使用，不構成著作權侵害，這在智慧財產局的令函已有解釋。</p>
+
+<p>黃帝穎強調，國民黨打著政黨輪替的口號，民進黨則是訴求社會大眾國民黨背後黑金及跟中國互通有無的本質，通通會回來。所以請國民黨不需要害怕這支CF，也不要對媒體施壓，這支CF是《著作權法》第65條的合理使用。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6b4b684d6237756e524c694d7a627550">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

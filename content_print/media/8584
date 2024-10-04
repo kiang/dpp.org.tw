@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-07</p>
+				<h2>出席310圖博抗暴大遊行記者會 羅文嘉：自由跟民主人權是普世價值，支持西藏圖博爭取自由</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨秘書長羅文嘉今(7)日偕同立委鄭運鵬、林靜儀、台北市議員吳沛憶受邀出席「310西藏抗暴日60週年 浩劫一甲子 西藏要自由」遊行行前記者會，羅文嘉也將高雄圖博街路牌復刻版致贈給藏人團體。羅文嘉表示，當台灣也同樣面對來自中國的威脅時，我們希望全世界人，對台灣表達支持，我們又如何能不對西藏圖博表達支持，因為自由跟民主人權是普世價值，它沒有模糊的空間。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅文嘉提到，60年前，中共政權把跟西藏原本簽訂的《十七點和平協議》撕毀，軍隊開進了西藏，造成有120萬圖博人非自然的死亡，6000多座西藏傳統寺廟被摧毀，造成無數西藏朋友，流亡全世界，包含在台灣。60週年的活動，全世界都在為圖博日，支持圖博人爭取自由，台灣人當然要表達立場。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅文嘉說，上禮拜，圖博的朋友來到民進黨中央拜訪，希望民進黨能夠很清楚的表達立場，支持3月10日在台北舉辦的遊行活動，他代表民進黨毫不猶豫地表示，這是民進黨該做的，同時今天也很高興邀請到立院黨團書記長鄭運鵬來代表立院黨團、臺北市議會的吳沛憶議員、民進黨國際部林靜儀委員，所以民進黨有很清楚的立場跟宣示。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅文嘉手持圖卡說明，「你站在哪一邊？」，民主跟獨裁之間做選擇的時候，毫無疑問我們要站在民主這邊。民進黨維持一貫的立場和堅持，他更高興見到時代力量、社民黨、綠黨的朋友，還有很多團體也表達清楚的主張。此外，他也誠摯希望包含國民黨的主席、秘書長或是台北市長、高雄市長，也能在民主跟獨裁、人權跟集權中，清楚地表達立場。羅文嘉強調，他認為所有要帶領台灣未來方向的政黨、組織、個人，在這個民主跟獨裁、人權跟集權之間，不應該有模糊空間。身為民進黨秘書長，他願意向圖博的朋友，也向社會媒體表達我們清楚的立場。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，媒體詢問西藏在中共控制下的人權情況，羅文嘉表示，從中國另一個地區，新疆可以更清楚看出，中共政權蓋了大量的「再教育集中營」，把無以數計的維吾爾族人，強迫關進集中營，這跟二次大戰的納粹作法有什麼兩樣。文化的斷根、思想的改造，這個狀況，其實比當年的西藏面臨的鎮壓更可怕。他認為，對任何獨裁政權，不要存在幻想，和平協議不會換來和平，換來是屠殺跟鎮壓，只有站在我們堅定的立場，並且團結合作，才能抗拒來自獨裁的威權。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4a30733364797232354e71416f4c6f31">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

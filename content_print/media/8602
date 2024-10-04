@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-16</p>
+				<h2>卓榮泰感謝支持者：團結才是力量</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今（16）日於立委補選結果底定後，前往余天競選總部，陪同當選人余天宣布勝選。卓榮泰致詞表示，感謝三重的鄉親，也利用這個機會，一起感謝台南的鄉親和彰化的朋友。另外，也感謝余天、郭國文、黃振彥，三位優秀的同志，在這場選舉非常認真打拚。三位候選人的競選總部明天上午將同步展開謝票行程，他也將陪同余天立委當選人向支持者謝票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰說，兩個月前，我們阻擋了寒冷的冬天，兩個月後的今天，終於可以迎接溫暖的天氣了。對此，他只有恭喜，沒有喜悅，因為他知道，下一波將會遇到更大的挑戰。只有繼續調整我們的隊伍，重新擺設陣營，面對下一波的挑戰。他強調，沒有任何高興，只有更大的責任，希望大家跟他共同勇敢來承擔，拜託大家。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰進一步指出，這次的選舉，讓我們看出「只有團結，沒有敵人」。只有團結，不計較過去私人的恩怨，永遠為台灣的大局，團結一致，才能守護台灣、守住民主。他希望，此後的民進黨除了是一個懂得反省、改革、勇敢的政黨以外，也是一個團結的政黨，團結才是力量。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="504578754544544f5a79485939526c6e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

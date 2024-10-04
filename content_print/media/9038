@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-07-25</p>
+				<h2>國民黨全黨救一人 轉移焦點證明心虛</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨今（25）日記者會為轉移李眉蓁論文大量抄襲證據確鑿的焦點，胡亂指控、栽贓抹黑，民主進步黨發言人顏若芳表示，很明顯國民黨對李眉蓁論文抄襲的問題，已經到窮途末路，不但至今仍未向國人公開承認錯誤及道歉，卻還有臉開記者會造謠抹黑，企圖用烏賊戰來移轉焦點，再次全黨救一人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，今天國民黨記者會不思回應李眉蓁抄襲假論文的問題，意圖用抹黑栽贓的烏賊戰術來混淆視聽。尤其國民黨今天的記者會所使用的圖卡，正是兩天前親藍粉絲團「普魯士藍」所發布的圖卡，這是不是證明這張圖卡是國民黨做的？「普魯士藍」是不是就是國民黨的網軍？「普魯士藍」就是文傳會經營的側翼呢？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，今天記者會更證明國民黨發言人洪于茜日前說「文傳會原先就沒有規劃要買網軍」的說法，令人質疑，而國民黨今天記者會的圖卡為何在兩天前就透過親藍粉絲頁散佈，國民黨是否動用網軍護航李眉蓁？卻不思面對抄襲論文的錯誤，簡直讓人匪夷所思。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，國民黨針對李眉蓁論文幾乎百分之百抄襲的問題，推給中山大學，卻自己迫不及待指控其他人的論文，這時候又忘記尊重其它學校審查機制？國民黨如此前後矛盾與反覆，更證明面對李眉蓁論文的心虛。國民黨企圖幫李眉蓁護航，模糊論文抄襲的焦點，江啟臣一下是江教授不能接受抄襲，一下又是江主席護航抄襲，這樣雙重標準的國民黨，著實令人遺憾。對於國民黨為了幫李眉蓁的假論文護航，不僅製作造謠圖卡，更透過親藍粉絲頁帶風向，還召開記者會混淆視聽，到底國民黨還要騙台灣人多久，還要欺負高雄人多久。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="39364749456d486d4d66784c67767848">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

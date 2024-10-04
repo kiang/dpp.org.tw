@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-08</p>
+				<h2>鄭運鵬：國民黨應對日文官網出現不雅、歧視言論鄭重道歉</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對日前國民黨日文官方網站一篇題為「くたばれ民進党」文章，民進黨發言人鄭運鵬今(8)日表示，國民黨日文官方網站出現這種不雅字眼謾罵及歧視的言論，是踐踏台灣民主法治及侮辱民進黨的可恥發言，民進黨鄭重要求國民黨吳敦義主席正式出面，向民進黨、日本友人，及相關被侮辱、歧視到的台灣人民公開道歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬表示，「くたばれ民進党」這樣的一句話，一般來說，是會被消音的，如果翻譯成中文是一個字到三個字的髒話，在英文的翻譯，是F開頭的不雅言語；用不被消音的翻譯，是去死吧民進黨，我們無法想像，在國民黨日文官方網站看到這樣的字眼污衊台灣的執政黨，是不可思議的惡劣行為。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬表示，以他擔任將近20年的政黨及選舉發言工作，相信所有的政黨及總統級候選人，對於外文的官方網站所使用的新聞發佈，絕對會比中文官網的新聞稿更謹慎、正式，20年來沒有看過這麼荒唐的新聞稿在國民黨日文官方網站上出現。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬指出，這裡面顯示出幾個離譜內容。第一，國民黨反對大法官釋字748號對於憲法裡對婚姻自由的解釋；第二，國民黨歧視同性戀者；第三，國民黨對外扭曲台灣這次的相關公投提案；第四，國民黨向外扭曲台灣的民選蔡英文總統，以及民進黨政權；第五，國民黨可能讓日本友人以為他們在罵日本的民進黨，非常丟臉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬表示，台灣的民主是過去許多人努力得來的成果，言論自由更是民主國家中非常重要的價值。國民黨作為一個民主國家中的政黨，不應該用謾罵及歧視言論，來抨擊社會中各種不同聲音及意見的表達，甚至於是公投，作為一個曾經執政的在野政黨，應該要更能夠寬納社會中不同的意見。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬強調，國民黨應該為他們在日文官網上用不雅字眼歧視台灣社會中不同聲音、意見的新聞稿鄭重表達道歉，不要以少數志工自發性的理由來推託、迴避，這有失一個身為民主政黨應有的格調，要求國民黨負起責任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，鄭運鵬提到，官網文中批評蔡英文總統為獨裁政權，這種言論實在讓人啼笑皆非，蔡英文總統是台灣2300萬人民以民主方式選出來的中華民國總統，蔡英文總統上任以來所進行的改革及政策推動，都是依據多數民意方向推行，國民黨不要因為過去自己做不到，過去自己是一個威權性政黨、獨裁性政權，來將這種不實指控強加扣押到蔡英文總統及民進黨政府身上。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	鄭運鵬呼籲，國民黨吳敦義主席，應該為此不雅、歧視言論的官方網站新聞稿，向社會大眾道歉，這樣的言論傷害到所有為民主自由價值努力的台灣人，呼籲國民黨應該要加強黨內的公民教育，才不會讓國民黨黨內有這樣用歧視、威權的思維來打壓、評斷台灣自由民主價值。最後，鄭運鵬呼籲年輕朋友看清楚，國民黨出事就是推卸給志工，對這樣的政黨，我們應該給予譴責與教訓。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4163397578705a466c72324653495541">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-17</p>
+				<h2>江啓臣護航蘇偉碩散布不實言論，是要為其造謠行為背書嗎？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨跟江啟臣主席今（17）日接連為蘇偉碩散布錯假訊息背書，又以查水表誣指蔡政府打壓言論自由，民進黨發言人顏若芳表示，蘇偉碩身為醫師，卻一再散播違反科學證據、造成社會民眾恐慌的不實言論，江啟臣主席卻不分黑白地為蘇偉碩護航，是否代表江主席認同這樣的錯假訊息，還為其背書？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	昨日衛福部以蘇偉碩醫師不斷散布「萊劑比搖頭丸還毒250倍」、「光呼吸就會吸到萊劑」、「萊劑會造成自閉症」等違背科學的不實謠言，違反「食品安全衛生管理法」之規定向警政署告發，違背科學證據的言論，並不是言論自由，所以並非國民黨所誣指的打壓言論自由。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳指出，這段時間以來，我們看到國民黨為了政治利益，用錯假訊息造謠抹黑，卻一一遭到打臉，如官方臉書散布的「攝取萊克多巴胺的豬隻會癲癇」影片，遭到美國動保團體打臉，證實是移花接木的變造；還是栽贓「信功肉品業者遭政府查水表」，也被業者打臉，是例行消防安檢，且是信功委託的消防公司主動申請安排。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，開放美豬進口的議題，應該依據科學證據與國際標準來做理性討論，更重要的是，民主國家的憲法給予言論自由最大限度的保障，但不包含散佈不實訊息，奉勸國民黨不要一直拿「言論自由」當成造謠抹黑的遮羞布，更不應不分黑白的為造謠行為背書，助長誤導視聽的歪風，阻礙台灣重返國際貿易舞台的機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="584b4b433049524d74557a3342674271">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-01-27</p>
+				<h2>民主進步黨主席蔡英文於中常會前談話全文</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席蔡英文今(27)日於中常會前發表談話，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	各位媒體朋友大家好，這段時間，因為桃園醫院的感染事件，指揮中心匡列的居家隔離人數在五千人左右，讓社會氣氛有一些緊張。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我要告訴大家，防疫過程難免有些起伏，請大家繼續抱持信心、相信專業，繼續跟我們一起走下去。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	目前相關防疫措施都已經提升，包括指揮中心、中央各部會、地方政府、醫療院所、國軍部隊，以及許許多多的單位，都已經動員起來。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在這裡，我也要強調，我們對抗疫情，一定要持續把握三個關鍵。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	第一個關鍵，國民對指揮中心各項防疫指引的配合，是成功防疫的關鍵，指揮中心會持續本於專業，做出決策，也請大家務必配合。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	第二個關鍵，是不分中央地方，同心面對疫情。中央一定會全力支援地方防疫，並且強化協調的機制。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	第三個關鍵，團結意識，尤其在這次桃醫感染事件當中，社會上共同挺醫護、挺桃園、挺第一線防疫人員，就是台灣需要的防疫意識。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這三個關鍵條件，是台灣從2003年對抗SARS疫情中，經過慘痛教訓後，才學到的經驗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	從鑽石公主號、武漢包機、磐石艦、到航空公司外籍機師染疫，過去這一年有許多的考驗，但我們都展現韌性，一路挺過來了。但防疫是長期作戰，必須互相勉勵、鼓舞，才能克服難關。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我還是要一次又一次，謝謝醫護人員、謝謝所有防疫國家隊的成員，也謝謝每一位國人，大家彼此包容，一起守住疫情防線到現在。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在這個重要的時刻，我也要請大家，持續落實防疫，這樣就能夠確保健康、安穩的日常生活。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	再過不久就是農曆春節，這段期間堅守住，我們就可以安心過年，我們一起加油，謝謝。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4854416c7a624b393472656532486e76">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

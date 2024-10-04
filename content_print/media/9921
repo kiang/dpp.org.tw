@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-12-08</p>
+				<h2>一起挺俋！陳其邁下達全黨動員令， 全力輔選李俊俋！12/10年輕世代公職廟口宣講，訴求「為嘉投票、翻轉嘉義」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民主進步黨7日中常會移師嘉義市，代理主席陳其邁開場致詞就向所有中常委及黨內先進同志下達動員令，全力輔選嘉義市長候選人李俊俋，在12月18日贏回嘉義市長選舉，民進黨發言人黃彩玲表示，民進黨上下總動員「一起挺俋」，展現黨內團結氣勢，目前黨籍議員、立委爭相「報名排班」李俊俋的徒步掃街、市場拜票、廟口開講等行程，剛當選的青年議員也將來助講，訴求年輕力量一起回「嘉」投票。</p>
+
+<p style="text-align: justify;">黃彩玲表示，李俊俋本週六（10日）在嘉義九華山地藏庵舉辦的「為嘉投票 &nbsp;翻轉嘉義」廟口宣講，便邀請到剛當選的青年議員陳乃瑜、劉康彥等，以及民進黨副秘書長林飛帆、前主席卓榮泰前來助講，訴求年輕力量為「嘉」發聲。而對於對手頻以地方執政優勢阻撓其他候選人活動場地的租借，李俊俋競選團隊表示，12月17日的選前之夜將如期進行，現正積極尋找合適地點，屆時也將邀集民進黨重要黨公職前來宣講。</p>
+
+<p style="text-align: justify;">為贏回2022年的最後一場選戰，李俊俋充滿鬥志的表示：「嘉義市將是民進黨翻轉的第一站」，更在常會上宣示「拚到最後一秒、贏回勝利」，代理主席陳其邁更於會後，立刻陪同李俊俋開啟「嘉義不一樣」車隊掃街，展現全黨勝選決心。</p>
+
+<p style="text-align: justify;">黃彩玲指出，路上市民朋友的熱情迴響、直播線上的網友也都有正面反饋。這兩天前衛福部長陳時中將選後的首次公開行程獻給李俊俋，到廟口開講，民眾親做「感謝」、「凍蒜」手板到場加油，不僅讓李俊俋團隊充滿信心，更相信1218這場選舉能夠翻轉嘉義。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="796b595a5463704a504f4c4364385942">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-04-15</p>
+				<h2>民主進步黨第十八屆第五十七次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民主進步黨今(15)日召開第十八屆第五十七次中常會，會中邀請台北醫學大學全球衛生學程主任邱亞文以「從武漢肺炎看我國全球衛生合作之機會與策略」為題進行專案報告。黨發言人周江杰轉述卓榮泰主席聽取報告後裁示如下：</p>
+<p style="text-align: justify;">
+	感謝邱亞文教授非常多面向的專案報告，尤其也讓我們見識到中國在國際組織中的勢力，也看出中國在武漢疫情初發時錯誤的作法，及對現在全世界的危害。對於武漢肺炎疫情下的台灣，如何促成國際衛生合作，提出寶貴的見解。</p>
+<p style="text-align: justify;">
+	經過政府及全民的努力，做好自身防疫的工作，各項防疫物資基本無虞時，我國已有能力擴大與國際的合作，分享台灣的經驗與物資，並共同研發療法和疫苗。本月以來，台灣在口罩、藥物、技術等項目對國際社會提供多項協助，也受到各界讚揚與支持，顯見防疫必須尊重專業、超越政治，絕對不能有缺口。</p>
+<p style="text-align: justify;">
+	「全民均健」（Health for All）、「不遺棄任何人」（Leave no one behind）是WHO成立的宗旨。國際社會應該正視2300萬台灣人民的健康福祉，台灣不應該因為政治因素被排除於國際衛生體系之外，這是對台灣人民的歧視與不公。我們要感謝這段期間國際友人的力挺，100多位歐洲各國的政要為台灣仗義執言，強烈支持台灣參與5月的世界衛生大會。</p>
+<p style="text-align: justify;">
+	展望未來，台灣應該透過更多元的管道，突破中國層層的打壓及WHO的障礙，善用APEC的倡議平台及新南向政策，分享我們防疫的經驗及最佳實務，以我們醫療及公共衛生專長，積極爭取全球衛生安全合作項目，例如在我國成立區域傳染性研究中心及區域重災物流調度中心，以實質的國際交流合作，確保台灣全民及所有人的健康及安全。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="743262596355766a743966663535565a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

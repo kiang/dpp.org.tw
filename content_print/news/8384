@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-09-11</p>
+				<h2>【謠止步】全力協助旅外國人 勿信不實謠言！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	<img alt="" src="/upload/ckfinder/images/%E6%97%A5%E6%9C%AC%E9%A2%A8%E7%81%BD%20%E8%AC%A0%E6%AD%A2%E6%AD%A5.jpeg" style="width: 1181px; height: 1181px;" /></p>
+<p>
+	&nbsp;</p>
+<p>
+	【謠止步】全力協助旅外國人 勿信不實謠言！</p>
+<p>
+	【謠言】</p>
+<p>
+	日本近日發生風災與地震，網傳中國官方派車載送中國受困旅客，台灣駐日代表處卻缺乏行動！？</p>
+<p>
+	【事實】</p>
+<p>
+	&rarr; 關西機場為掌控現場狀況，在橋樑損壞情況下，僅開放機場接駁巴士單向通行，中國官方專車等其他車輛均無法進入機場。</p>
+<p>
+	&rarr; 台灣駐日代表處在日本各地協助旅客，包括在札幌機場截至9月9日已協調超過1,100人回台，候補旅客已全數登機。</p>
+<p>
+	&nbsp;</p>
+<p>
+	【謠止步系列】網路不實訊息滿天飛，您查證了嗎？<br />
+	<a href="https://bit.ly/2JIb7IS">https://bit.ly/2JIb7IS</a></p>
+<p>
+	【延伸資料】外交部澄清新聞稿：<br />
+	<a href="https://bit.ly/2O8eDPK">https://bit.ly/2O8eDPK</a></p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="513479595651394e47526830536b4744">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

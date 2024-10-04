@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-09-23</p>
+				<h2>民主進步黨第十九屆第八次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(23)日召開第十九屆第八次中常會，會中邀請中經院WTO及RTA中心副執行長李淳以「經貿新架構、供應鏈重組及台美合作的契機與挑戰」為題進行專案報告。黨發言人周江杰會後轉述蔡英文主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今天的簡報很清楚標出來整個戰略的觀察角度，對未來思考政策，或是黨在討論一些問題的時候，比較有結構感，感謝副執行長給我們做的簡報。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	現在這個當下確實是非常關鍵的時刻，對決定未來產業、國家經濟的關鍵期，這個時候做什麼樣的選擇也是非常重要，在這段時間希望無論是中常委、民代、立委、行政部門，大家都可以常常一起討論這個問題，這對於將來國家經濟跟戰略上也是一個關鍵的事情和時刻。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3665596a434c61367249384d32304568">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-03</p>
+				<h2>民進黨籲中共克制　停止不理性的文攻武嚇</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對從昨（2）日美國眾議院院長裴洛西（Speaker Nancy Pelosi）抵台訪問開始，中共當局宣布對台灣非常不友善的軍事演習，以政治考量，擴大對台灣農產品禁止輸入，而台灣政府網站、台鐵，甚至是民間企業7-11都受到網路莫名的攻擊，相關作為都在片面升高台海情勢。區域的和平穩定是區域間成員的共同責任，民進黨發言人謝子涵今（3）日呼籲，中共當局應保持理性、自我克制，切勿誤判情勢。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝子涵強調，台灣作為印太民主國家的一員，民主國家之間的交流，本來就不應該被干涉，接待來訪的國際友人更是合理之舉。中共當局蠻不講理的霸凌作為，甚至，以片面軍事行動，影響印太地區周邊國家的海運、空運，這些舉措，相信國際社會不會接受。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝子涵也表示，對於中共當局不理性的文攻武嚇作為，國軍都有完整掌握，面對意圖打擊民心士氣、瓦解人民心防的作為，民進黨提醒國人對錯假訊息保持警覺，全體國人團結一致，防止任何可能傷害台灣主權與民主自由的威脅。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="73635331577a4c4f666f724557355132">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-06-08</p>
+				<h2>民主進步黨第十九屆第十五次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(8)日召開第十九屆第十五次中執會，會中通過公告2022年直轄市議員提名候選人。其中，台南市議員第一選區蔡宗翰，初選期間疑涉違反本黨規定案，經會中討論後移送中評會調查、裁決，暫緩提名公告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外，2022年台南市議員第四選區，因無人登記參加提名初選，依規辦理徵召作業，會中通過徵召陳福慶同志參選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，會中通過7月17日(週日)於台北國際會議中心3樓大會堂召開第二十屆第一次全國黨員代表大會，其餘相關細節規劃，包括大會籌備組織架構、程序表、議程及宣言草案等，則授權中常會決定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5772775677664d6c4d567250654b3047">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

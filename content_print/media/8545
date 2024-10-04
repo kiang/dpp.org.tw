@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-26</p>
+				<h2>台北輔選掃街 卓榮泰：讓何志偉進入國會 延伸地方服務經驗</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	立委補選進入最後階段，民主進步黨主席卓榮泰今(26)日上午陪同台北市士林、大同區立委候選人進行車隊掃街，展現勢在必得的決心。卓榮泰致詞表示，中央黨部全力投入這場選戰，相信明天可以得到台北市民最大的協助，讓何志偉未來在國會當中，延伸過去在地方服務的最大能量，祝福他能夠順利當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，今天是選前的最後一天，也是選舉最緊要的關頭，何志偉明天就要接受選民最大的考驗。今天要和未來的何立委站上戰車，用最誠懇的心，向台北市民再次懇求，明天務必投票支持2號何志偉，因為他在選舉的過程當中展現出謙沖有禮，與選民面對面、近距離站在一起，希望他這種態度能得到更多選民的支持與肯定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰受訪時表示，此次選舉是九合一選舉後第一場選戰，明天選舉的結果 ，會對民進黨再做另一深層的檢討，也會告訴我們，在這短短的幾天當中，從黨部改組後向外部報告及呈現出來的人事，以及在面對問題時的態度，是不是有足夠的能量，再繼續邁開大步往前走。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰接著說，今天是選前的最後一天，非常關鍵，之後黨部的人事會做大幅度的調整，期待能儘速組成戰鬥團隊，而過程中也需要來自國會、地方議會多數力量的贊助與支持，所以何志偉的當選，將來也會是整個新戰鬥團隊重要的部分。他強調，在調整過程當中，會以未來戰鬥團隊每個人的位置來做思考，做功能性的取向，並且站在可攻可守的位置上，來面對未來每一次重大的檢驗和考驗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也提到，包括3月16日的補選，我們一直是設定保三搶二的目標，有著不能輸跟必須贏的壓力。何志偉這一席就是不能輸，他身負重任，也在選舉過程當中，一直表現得很好。而台中3號的王義川，一樣是受到中央、地方黨部和許多力量的投入，也表現得很好。希望台北的何志偉、台中的王義川，一個肩負不能輸、一個負有必須贏的壓力，期待這兩席順利前進國會。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="764474696c4d4a68506b435332486e34">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

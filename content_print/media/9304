@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-11-08</p>
+				<h2>民進黨：將美豬比作毒豬的就是朱立倫主席</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨今（8）日記者會內容，民進黨發言人周江杰表示，國民黨記者會使用的影片內容依舊是張冠李戴，把民進黨講狂牛症的影片，與萊克多巴胺混為一談，企圖打烏賊戰。民進黨要重申，把美豬比作瘋豬肉、毒豬的就是朱立倫主席，開放萊牛又反對萊豬，邏輯錯亂的就是國民黨！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，朱立倫曾在今年10月罷免案時公開講過「三毒」，把美豬說成「毒豬」、「瘋豬仔肉」，國民黨國際部副主任也承認，反萊豬會影響台美經貿談判。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰說，朱主席稱民進黨主席蔡英文在2009年把「美牛」說成是「毒牛」，這支影片在2020年江啟臣前主席使用時，就被踢爆字幕造假還把蔡主席的談話部分消音；民進黨立委郭國文去年也澄清過，該遊行的「毒牛」指的是狂牛症，卻被國民黨拿來混淆視聽，作為掩護朱立倫失言的工具。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，國民黨現在口口聲聲說萊豬是毒豬，但過去國民黨開放萊牛時卻說的振振有詞，完全是雙重標準，難道萊劑在牛肉就可以進口，在豬肉就不行嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰重申，民進黨一直以來都是遵照聯合國國際食品法典委員會（Codex）在2012年通過的安全容許量標準，接軌世界貿易準則。不像國民黨兩套標準，執政時開放美牛，在野就擋美豬，政策反覆只想作亂。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="70564146673339736b78416d7a6a6a4a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

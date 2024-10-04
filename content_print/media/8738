@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-08-12</p>
+				<h2>公布新任主管 羅文嘉：與年輕朋友一起打一場有理念、感動人心的選戰</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨秘書長羅文嘉今(12)日偕同副秘書長林飛帆召開中央黨部主管人事公布記者會，宣布將由吳濬彥、薛呈懿接任青年部正、副主任並兼任發言人、魏筠接任客家部主任一職。羅文嘉表示，今天是國際青年日，特別選在今天公布三位年輕的主管，為了配合接下來的總統及立委選戰做局部的人事調整。而未來在青年總部的工作上，希望能夠結合更多的年輕朋友，一起在未來這一年和大家一起打一場有理念、感動人心的選戰。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	吳濬彥表示，很榮幸能夠在這個抗中保台的關鍵時刻加入民進黨，並單擔任發言人及青年部主任這麼重要的工作。過去他來自工廠的勞動者，做過非常多社會基層工作，能充分體會台灣所面臨的困難，不僅是國際情勢的劇烈變化、中國的外部威脅，還有內部需要改革的地方，民進黨執政做了非常多的改革，但也還有很多努力空間，他期許加入民進黨之後，能跟大家一起努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	薛呈懿表示，感謝民進黨在關鍵時刻，讓這麼多關心台灣、地方發展的年輕朋友能有這樣的機會投入民進黨，選擇自己能夠發揮、參與的戰鬥位置，為抗中保台以及整個台灣未來發展一起努力，也希望在民進黨的執政與帶領之下，有更多年輕朋友能有機會發揮、實質參與，投入民進黨、發揮自己的重要角色，與民進黨站在一起，為台灣一起工作與努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	魏筠表示，有越來越多客家青年投入地方創生產業，用獨特的文化，為台灣進軍國際，她希望民進黨在客家年輕人這一塊可以挖掘出更多票源，為客家青年凝聚共識，守護台灣民主，爭取2020年總統大選的勝利。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆最後表示，年輕人參與在民進黨裡是很重要的傳統，希望未來這段時間，能夠有更多年輕朋友投入到民進黨，透過黨的平台參與到實際政策與戰略規劃，並在這個政黨找到實踐理想的機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5337584f546f78546f366d6d66444a41">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

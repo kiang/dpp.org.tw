@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-08-14</p>
+				<h2>民主進步黨第十八屆第三十九次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(14)日召開第十八屆第三十九次中常會，會中通過8月21日(周三)召開中執會。此外，會中邀請好食機農食整合有限公司營運顧問謝昇佑、樁萱農場高華埜以「青年與農創」為題進行專案報告，發言人李晏榕會後轉述卓榮泰主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨重視年輕人才的發掘及培育，從黨務主管到各部門同仁都趨向更年輕化，同時我們在各項施政上，也特別重視年輕人。今天現身說法的青年農民高華埜，就是一個很好的例子。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡總統上任之來，提出多項嘉惠農業的政策，包含了青農創業貸款、農機補助、有機補助、農民保險、職災保險等等，讓我們的農業系統，更加的安定，讓台灣的農業走的更穩健。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	華埜的農場針對不同的年齡，安排了不同的食農教育課程。唯有從源頭追溯的「產銷履歷」，才是大幅改善食安問題的根本。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	行政院農委會積極推動「回農計畫」，鼓勵青年發掘農村相關問題並導入創意構想，由青年或青年代表組成團隊或相關組織共同合作方式，讓更多的青年能夠回留服務農鄉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	未來政府可以協助的不僅只有第一線的農業生產者，更有製造者、運送者、產銷者等等，也會發展出新的社會網絡關係，鼓勵更多的新創中介組織，協助青年農民。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	政府重視青年人，絕對不是只有口號，我們會用具體的行動讓政策可以順利的推動。年輕朋友對本黨也還有許多期許，甚至不滿。民主進步黨會聆聽年輕朋友們的意見，再持續做得更好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	再次謝謝兩位報告人對於青年農創的詳細說明，同時我們也對於行政院農委會的努力表示肯定及感謝，我們也希望行政院農委會能夠協助在產銷通路、市集的分級管理與佈點上，政府積極規劃並給予協助。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="70706a4a34766a5646736e3067705377">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

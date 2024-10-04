@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-23</p>
+				<h2>劉康彥：國民黨支持度跌破兩成 應回歸理性討論才符合民眾期待</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	針對國民黨今(23)日公布民調，民進黨發言人劉康彥表示，國民黨今天公布的最新民調顯示，從八月以來，國民黨的政黨支持度首度跌破兩成。支持度是對政黨「總體表現」最直接的反應，國民黨這五個月來的成續單，換來的支持度卻是「首度跌破兩成」。</div>
+<div>
+	&nbsp;</div>
+<div>
+	劉康彥說，檢視民進黨、國民黨的支持差距，八月是3.1%、十二月是3.6%。換句話說，歷經五個月，兩黨支持差距不但拉開，國民黨本身還低於兩成，反映民眾對國民黨這五個月表現之不滿。</div>
+<div>
+	&nbsp;</div>
+<div>
+	劉康彥表示，國民黨在民調的問題中，詢問民眾支不支持使用「更強烈的手段」來監督。民主時代，人民需要各種不同的聲音討論公共政策，但國民黨近來昧於現實、煽動性的「強烈手段」對於議題的實質討論毫無幫助，更對台灣在整體國際經貿空間的開拓毫無進展。</div>
+<div>
+	&nbsp;</div>
+<div>
+	劉康彥提到，無論是在立法院丟內臟、不顧外交禮儀突襲AIT處長，或是發布造假的美豬影片等等，從民調數字上，顯然民眾否定此種荒腔走板的監督方式。</div>
+<div>
+	&nbsp;</div>
+<div>
+	至於日本福島五縣市的食品議題，劉康彥強調，行政院已多次對外說明，目前尚未有任何討論與規劃，但國民黨仍不顧國際標準與科學檢驗，執意煽動，令人遺憾。</div>
+<div>
+	&nbsp;</div>
+<div>
+	劉康彥表示，為台灣經貿找到走向世界的活路，是所有政黨不可迴避的責任，期待國民黨放下政黨得失，對於議題做實質有效的理性討論，才是民眾期待民主社會的運作方式。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="74496a5575614978366d646a396f7a48">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

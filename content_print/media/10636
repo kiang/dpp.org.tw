@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-12-31</p>
+				<h2>柯文哲表態不排黑 民進黨：白色果然容易黑</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對民眾黨總統候選人柯文哲昨（30）日說他當選後要把「排黑條款」改回來，民進黨發言人張志豪今（31）日表示，排黑條款的重要內容包含「犯黑金槍毒等終身不得參選」，看來柯文哲就是要幫民眾黨的十二門徒洗白，讓黑金槍毒全面復辟，藍白與黑零距離，白色果然容易黑。</p>
+
+<p>張志豪表示，柯文哲犯黑金槍毒的十二門徒包含遭貪污罪起訴的民眾黨社會力主任陳亞麟、涉嫌暴力討債的王冠鈞、北港區主任李順晟、花蓮縣議員傅國淵、雲林縣黨部執行長王新堯，詐欺罪的組織部主任宋雲飛，甚至還有利用職務機會詐領財物、偽造文書、洩密等罪遭起訴的前勞動局長陳信瑜，以及過去曾收賄遭判刑的陳福海。未來若柯文哲改回排黑條款，這些人通通無法可管，只能任憑他們繼續參選。</p>
+
+<p>張志豪說，柯文哲選前透過表態選後不排黑，就是要爭取國民黨地方牛鬼蛇神的支持，壯大自己的地方勢力，甚至是藍白兩黨合作的可能性。因此若立法院藍白兩黨過半，恐怕就會讓柯文哲得逞，讓黑金槍毒復辟，繼續作亂台灣。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="75765536506563746572574734684135">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

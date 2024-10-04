@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-09-06</p>
+				<h2> 民進黨：林全院長及執政團隊為改革下一步打下堅實基礎</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 針對準行政院長賴清德即將上任，民進黨發言人阮昭雄今（6）日表示，期待準行政院長賴清德的內閣團隊持續改革工程，加速推動國家進步建設與發展，以符合人民期待。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 阮昭雄表示，林全院長去年執政以來，扛下重大責任與使命，率領行政團隊致力擘畫國家政策，推動國家多項重大建設，加速佈建改革基礎，一年多來的努力與貢獻，全黨及執政縣市長都表達由衷感謝與肯定。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 阮昭雄表示，林全院長及執政團隊為改革下一步打下堅實基礎，這段期間推動了包括能源轉型、租稅、財政紀律、轉型正義等多項改革，以及五加二產業創新計畫與前瞻基礎建設諸多重要的政策規劃，也把社會住宅、長照、托育、空污防治、食安、反毒等總統重要承諾逐步落實，林院長一年多來的努力與貢獻，各界有目共賭，也為改革下一步打下堅實基礎。 &nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7632546f724434727569676b4a327334">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-09</p>
+				<h2>王定宇關廟龍崎競總成立 卓榮泰：從家裡到投票所的路就是民主出路 用選票否決洪秀柱一中同表主張</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(9)日結束彰化、南投輔選行程，下午來到台南為黨籍立委參選人王定宇關廟龍崎競選總部成立大會站台造勢，台南市長黃偉哲也特地到場力挺。卓榮泰致詞表示，拜託大家，1月11日一定要堅定決心，從家裡走向投票所，這條路就是台灣民主的出路，也是台灣要堅持自己主權的出路，絕對不能放棄。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，王定宇用心在立法院裡、政論節目上為政策做辯護，他辯才無礙、內容充實、立場堅定。他的宣傳但單上成績滿滿，非常充實、有內容、有地方建設、地方關懷，這樣的立法委員，可以照顧地方，也可以為政策辯護，是大家的光榮。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰進一步批評對手洪秀柱，四年前在擔任主席或國民黨總統候選人的期間，非常不負責任的說出「一中同表」的言論，連國民黨內都看不下去而換掉她，今天國民黨派出這樣的候選人來選台南市的立委，是不是要污辱這個選區？卓榮泰拜託選民，一定要堅定支持蔡英文總統、王定宇委員，讓國民黨知道，話不能隨便講，台灣的立場更不能隨便放棄。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，雖然現在民進黨的氣勢正要起來，但是有一件事情讓很多人都很擔心，就是明年1月11日那天，每一位鄉親從家裡走到投票所的動力夠不夠？決心夠不夠？如果1月11日走不出這一步，台灣依然充滿危機感。他強調，從家裡走到投票所的這條路，就是台灣民主的出路，也是台灣要堅持自己主權的出路，這條路絕對不能放棄，拜託大家1月11日當天，一定要走進投票所，蔡英文一票、王定宇一票、民主進步黨一票，讓總統連任、民主國會過半，讓王定宇委員繼續在立法院打拚，在公開場合為政策辯護，為人民爭取最大的尊嚴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="394276324e41367632676a6746514e6e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

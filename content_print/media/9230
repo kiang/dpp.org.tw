@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-08-11</p>
+				<h2>民主進步黨第十九屆第七次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(11)日召開第十九屆第七次中執會，會中通過9月25日(週六)於台北圓山大飯店12樓大會廳召開第十九屆第二次全國黨員代表大會，其餘相關細節規劃，包括大會籌備組織架構、程序表、議程及宣言草案等，則授權中常會決定。此外，依據中央流行疫情指揮中心發布之二級強化警戒措施(8月10日至23日)，集會活動人數上限室內50人、室外100人，屆時如維持二級警戒措施限制，全國黨員代表大會恐難召開，因此，未來將視COVID-19疫情發展，授權中常會調整全代會召開日期及地點。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨發言人周江杰於會後轉述蔡英文主席致詞，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	各位中執委，大家午安。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	過去一週，強烈雨勢造成嚴重災情，包括全國農損現在已經超過4.6億元，很多農民都受到影響。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	前天，我也到嘉義、雲林，了解農作物受損狀況，並且請農委會在處理上，一定要「從優、從速、從簡」，盡快讓農民可以領到救助金，也要全力協助復耕和生產，以及注意後續的菜價穩定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我要謝謝所有農民朋友的體諒，也謝謝所有黨公職為勘災奔波，提供及時的協助。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外，近來疫情已經大致受到控制，我們也在二級警戒的原則下，逐步放寬餐廳內用規定、開放部分場館設施，希望在防疫和經濟生活之間，取得新的平衡。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我還是要提醒大家，國際疫情又有新的一波升溫，我們防疫絕對不能鬆懈。守住疫情，才能加速後續的振興。去年我們推出三倍券，得到不錯的振興成效，尤其帶動了內需消費的回溫。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今年疫情衝擊更大，振興是我們的重點工作，行政院會考量今年的疫情，並參考去年經驗，提出振興方案，我也特別拜託在定案前，要做好溝通的工作，也希望大家持續提供意見，我們一起來把振興做得更好。謝謝大家。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="733475426b4649496c33617a5058344d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

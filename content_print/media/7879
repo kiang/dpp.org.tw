@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-09-29</p>
+				<h2>針對今日《時報週刊》報導之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 針對《時報週刊》今（29）日報導「洪耀福策劃尿遁 赦扁破功」，民進黨發言人阮昭雄表示，該則報導內容純屬臆測，不是事實。對於這樣的「報導」，民進黨感到遺憾。</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 阮昭雄表示，本黨基於黨務中立原則，尊重每一位黨代表提案的權利，黨代表的提案也都依照提案先後順序進行排案。此外，當天大會議程也送中常會通過後再送交全代會，大會並遵照議事規則進行，期間對於黨代表的意見，大會也都善意積極協調處理，絕對沒有也不會有報導所稱內容。為此本黨也要再次呼籲媒體不要以臆測或傳聞做不實報導，誤導社會。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="42743841396957533276394c53585872">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

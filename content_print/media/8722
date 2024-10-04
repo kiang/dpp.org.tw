@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-07-19</p>
+				<h2>針對旺中集團假借司法訴訟傷害言論自由之回應</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對旺中集團提告國內外媒體新聞從業人員、轉載新聞的個人及本黨羅文嘉祕書長一事，民主進步黨發言人周江杰今(19)日表示，言論自由是人民的基本權利，憲法第11條有明文保障，國家理應給予最大限度的維護。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，旺中集團於2012年反媒體壟斷期間即對許多在網路上合理評論旺中集團的民眾提出刑事告訴，使無辜民眾疲於奔命。如今旺中集團故技重施，企圖透過對國內外媒體新聞從業人員、轉載新聞的個人及本黨羅祕書長的提告，傷害言論自由。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，敬請各界一同關心今天旺中集團提告的對象。包含《紅色滲透》一書作者何清漣、英國金融時報及《Taiwan primaries highlight fears over China&rsquo;s political influence》一文作者席佳琳、轉載該報導的中央社及所有轉載該報導的新聞從業人員及個人等，共同捍衛憲法所保障的言論自由。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="554379647157446f35616864784f6651">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

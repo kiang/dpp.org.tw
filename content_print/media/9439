@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-01-29</p>
+				<h2>推特成另類外交平台！吳釗燮部長自認工作狂，親曝與蔡總統互動</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	「蔡英文&amp;DPP」的Podcast頻道「耳朵出遊不出油」，今（29）日發布外交部長吳釗燮的訪談內容。適逢農曆春節假期，吳釗燮部長在節目中暢談人生經歷和外交工作，從小時候的志願，談到出國留學經驗，再到從政後擔任駐美代表、民進黨秘書長、總統府秘書長、國安會秘書長，以及外交部長的經歷，也分享與蔡英文總統共同工作多年的心得。吳釗燮也表示，一路歷經不同的政治工作，國際外交仍是他最在意的部分。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	節目中，吳釗燮談及多年來和蔡英文總統共事，自從在國安會工作開始，再到蔡英文成為黨主席和總統，吳釗燮認為蔡總統一直都是性格嚴謹、研究深入又執著的人，時常會打電話交待工作，也透露甚至曾在看電影到一半時接到總統電話，需要臨時處理重要事務。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對外交工作，吳釗燮提及擔任外交部長以來，針對外交部做了多項改革，為了讓更多年輕外交工作者能夠自由發展，除了放手讓外交使館發揮創意做社群操作之外，也在培訓課程中增加多元文化、台灣歷史、性別主流化等相關主題，增進外交同仁的國際視野，也同時深化對於本土文化的理解。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	吳釗燮也表示，台灣在國際上受到打壓的情況，是其他國家外交官不會經歷過的壓力，因此感謝全體外交人員的努力和付出，他對內會盡其所能支持外交人員的需求，對外也會持續透過不同的方式拓展台灣在國際間的能見度。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	主持人也問，外交部的推特是否為部長本人操作？吳釗燮表示，外交部為國家事務的佈達，會較為審慎，但他個人署名帳號「JW」就是表明台灣人的態度與立場，有時候用詞稍微強硬，但都獲得許多國際網友的支持，也會在社群上與他國互動、彼此支持。例如日本總理安倍晉三就會在推特上與外交部互相打氣與支援，JW的發文也會時常獲得印度媒體的報導，是另類的外交管道。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	而自認是工作狂的吳釗燮，提及求學時期表示，除了電影之外沒有太多娛樂，並分享學習和在餐廳打工經驗，也自豪表示什麼菜都會做。除了和主持人討論煮菜秘訣，吳釗燮也表示在國外唸書時忙於投入研究和學習，回國之後貢獻外交長才，對於高強度的研究工作反而感覺充實愉快。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	節目最後，熱愛電影的吳釗燮部長也推薦了三部影片，分別是瑞典知名導演雷瑟霍斯楚（Lasse Hallstr&ouml;m）執導的「狗臉的歲月」、印度電影「我和我的冠軍女兒」以及「我的嗝嗝老師」，希望民眾在春節假期期間，可與家人朋友一起欣賞溫馨又好看的電影，共度佳節。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	<div>
+		收聽連結：<a href="https://linked.tw/DB8i9Lgv">https://linked.tw/DB8i9Lgv</a></div>
+</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4e5a4c7771346c6d3753573568504a4f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

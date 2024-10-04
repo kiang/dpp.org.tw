@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-15</p>
+				<h2>瞎扯保密被打臉　民進黨：選戰倒數72天　張善政要躲到選完嗎？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨桃園市長候選人張善政日前遭爆涉抄襲，卻聲稱有保密條款不願說明，民進黨發言人謝子涵今（15）日表示，農委會早就打臉張善政，保密條款是指「計畫還在執行期間」，報告結案都有上網公開，自然沒有保密問題，張善政卻還在瞎扯。選舉都已經倒數72天，張善政要躲到選完嗎？呼籲張善政不要繼續閃躲，應負起責任立刻公開向大眾說明、道歉！</p>
+
+<p style="text-align: justify;">謝子涵說，根據這份研究案的合約，就有明訂執行研究計畫的團隊不能有抄襲、剽竊、侵害智慧財產權等行為，而且若違反相關規定，計畫主持人，也就是張善政本人，必須負擔賠償與法律、行政責任。但張善政作為計畫主持人，從被爆出研究報告涉嫌抄襲到現在，都是閃躲不願坦然公開向社會大眾說清楚，一下說要對外開記者會，現在又要扯保密要求，擺明就是心虛不敢面對。</p>
+
+<p style="text-align: justify;">謝子涵表示，張善政自己說過「誠信比學問重要」、「誠信破產就該要退選」，現在迴力鏢打到自己後就突然消失不見，更不要說這個研究案還涉及國家五千七百多萬公帑，張善政已經變成自己口中「誠信」有嚴重瑕疵的人！不僅有失一位大學教授、前行政院院長的格調，也是一個不適任、沒肩膀的桃園市長候選人，面對研究報告涉嫌抄襲跟誠信問題，不願擔起該負的責任。國民黨主席朱立倫也該為提名、聲援有誠信瑕疵的候選人公開道歉。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="564f47356346376431584f315062644e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

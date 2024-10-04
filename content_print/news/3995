@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2011-04-15</p>
+				<h2>第八屆區域立委初選選區提名公告</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>2011-04-15_組織部提供</p>
+<p><a target="_blank" href="http://www.dpp.org.tw/upload/File/2011_ELE/%E7%AC%AC%E5%85%AB%E5%B1%86%E5%8D%80%E5%9F%9F%E7%AB%8B%E5%A7%94%E5%88%9D%E9%81%B8%E9%81%B8%E5%8D%80%E6%8F%90%E5%90%8D%E5%85%AC%E5%91%8A-1.jpg"><br />
+<img height="975" width="700" alt="" src="http://www.dpp.org.tw/upload/Image/2011_ele/%E7%AC%AC%E5%85%AB%E5%B1%86%E5%8D%80%E5%9F%9F%E7%AB%8B%E5%A7%94%E5%88%9D%E9%81%B8%E9%81%B8%E5%8D%80%E6%8F%90%E5%90%8D%E5%85%AC%E5%91%8A-1.jpg" /></a></p>
+<p><a target="_blank" href="http://www.dpp.org.tw/upload/File/2011_ELE/%E7%AC%AC8%E5%B1%86%E7%AB%8B%E5%A7%94%E6%8F%90%E5%90%8D%E9%81%B8%E8%88%89%E5%85%AC%E5%91%8A.zip"><img height="963" width="700" alt="" src="http://www.dpp.org.tw/upload/Image/2011_ele/%E7%AC%AC%E5%85%AB%E5%B1%86%E5%8D%80%E5%9F%9F%E7%AB%8B%E5%A7%94%E5%88%9D%E9%81%B8%E9%81%B8%E5%8D%80%E6%8F%90%E5%90%8D%E5%85%AC%E5%91%8A-2.jpg" /></a></p>
+<p>附件檔案：敬請下載後解壓縮</p>
+<p><a target="_blank" href="http://www.dpp.org.tw/upload/第八屆區域立委初選選區提名公告.zip"><strong><span style="color: rgb(0, 128, 128);">第八屆區域立委初選選區提名公告</span></strong></a></p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="72654f574748465a6b484d56344e5050">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

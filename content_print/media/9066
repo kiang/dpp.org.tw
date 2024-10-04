@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-09-16</p>
+				<h2>民主進步黨第十九屆第七次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(16)日召開第十九屆第七次中常會，會中由台灣民主學院主任林秉忠以「台灣民主原動力」為題進行專案報告，黨發言人謝佩芬會後轉述蔡英文主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝謝台灣民主學院林秉忠主任針對「台灣民主原動力」所做的報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民主進步黨是一個著重人才培育與經驗傳承的政黨，由台灣民主學院所職掌的黨內教育訓練工作，讓黨務人員能熟悉黨務運作，讓從政同志及幕僚能研習問政與選戰技巧，讓監票人員及種籽講師實作等培訓，都是讓本黨得以順利取得中央執政與立院過半的重要基礎。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民主學院就像變形金剛，會根據不同的選舉情勢，調整成不同的作戰模式，也會依照不同的需求進行組織變陣，這就是真正「需要在哪裡，訓練就在哪裡；需要在哪裡、學院就在哪裡」的最佳寫照。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我也要請所有民進黨的夥伴，為黨的永續發展、為台灣的美好未來，持續培力青年朋友投入公共事務、參與台灣的民主進步，落實黨務工作應有「平時充分整備、戰時萬事具備」的目標，為台灣注入民主的原動力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，針對2020年黨慶活動規劃謝佩芬表示，今年520小英總統回任黨主席，民進黨號召辣台派線上入黨，推出系列暑期營隊課程，持續邀請年輕世代，與我們一起參與政治、勇敢發聲！而在今年夏天的尾巴，民進黨即將邁入創黨34週年的日子，我們將在9月27日舉辦《民主開唱》音樂會，想邀請新加入的辣台派朋友，以及陪著民進黨走過每一哩路的創黨及資深黨員，相聚一堂，一起重溫台灣民主長路上，這些難忘的音樂與回憶。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="593258556d473441706e7a714a306c48">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

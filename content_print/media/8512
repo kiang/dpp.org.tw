@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-06</p>
+				<h2>民主進步黨感謝「國際自由聯盟」對台灣民主自由發展的關注</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	本黨國際事務部兩位副主任周焱鑫及鍾錦墀11月28~30日代表本黨參加「國際自由聯盟（Liberal International, LI）」在非洲塞內加爾首都達喀爾所舉辦第62屆大會，本次大會中通過重要的「今日世界決議文（World Today Resolution）」在亞洲決議文中，針對中國影響甚至介入台灣選舉表達關切，同時也特別強調，「在中國的巨大壓力下，自由國際聯盟支持蔡總統政府在國內外維護民主和自由的努力」。這次的選舉結果也顯示，「蔡總統政府面臨著越來越多來自專制體制的經濟和政治影響威脅」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外決議文也指出，「對於中國在中南海持續提升軍事力表示憂慮」，並關注「對中國以一個中國原則的政策對台灣的外交盟友、國際組織及跨國公司所施加的壓力」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	本次大會由塞內加爾總統麥基&middot;薩勒所領導的共和聯盟（APR）主辦，期間邀集各國自由派領袖、國會議員及黨政人士代表，共有來自41國的218位代表出席，重要貴賓除塞內加爾總統麥基&middot;薩勒外，包括象牙海岸總統阿拉薩內&middot;瓦塔拉、甘比亞總統阿達馬&middot;巴羅、塞內加爾總理穆罕默德&middot;迪奧納及台灣無任所大使楊黃美幸等政要。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6b477577334d77446973597456706973">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-07-26</p>
+				<h2>【謠止步】謠傳英國廢塑膠出口輸台暴增10倍？錯！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                	                <p class="text-center font_green">
+		                <i>
+		                	〞【事實】廢塑膠是原料不是垃圾！〞
+						</i>
+					</p>
+										<hr>
+	                <p>
+	<img alt="" src="/upload/ckfinder/images/WhatsApp%20Image%202018-07-25%20at%209_24_14%20AM.jpeg" style="width: 1201px; height: 1200px;" /></p>
+<p>
+	&nbsp;</p>
+<div>
+	【謠傳】英國廢塑膠出口輸台暴增10倍？&nbsp;</div>
+<div>
+	【事實】廢塑膠是原料不是垃圾！&nbsp;</div>
+<div>
+	廢塑膠為業者「付費購買」，主要作為符合生產規格之「產業原料」，如製作成機能性紡織品、塑膠棧板、塑膠桶等，並非各界誤解是將國外廢棄物進口至臺灣處理。&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	環保署澄清統計，2018年1至5月從英國出口至臺灣的廢塑膠量約1.47萬公噸，相較去2017年同時期0.60萬公噸成長2.46倍，並非如媒體報導成長10倍。進口廢塑膠作為產業原料，是屬於回收循環利用的方式，不應刻意曲解！</div>
+<div>
+	&nbsp;</div>
+<div>
+	【謠止步系列】網路不實訊息滿天飛，您查證了嗎？&nbsp;</div>
+<div>
+	<a href="https://bit.ly/2JIb7IS">https://bit.ly/2JIb7IS</a></div>
+<div>
+	&nbsp;</div>
+<div>
+	【延伸閱讀】環保署澄清新聞稿全文：&nbsp;</div>
+<div>
+	<a href="https://bit.ly/2mA5282">https://bit.ly/2mA5282</a></div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5278635a695345526153503152784879">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-10-29</p>
+				<h2>針對《中國時報》報導之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	針對中國時報今(29)日發佈「酬庸佔滿位子 人才留不住」新聞特稿，民進黨發言人蔡適應表示，經濟部四大國營事業約五萬多人，只有不到萬分之一的董事、機要人員是指派上任，機要人員也是依各國營事業相關辦法任用，民進黨並無插手人事，過去中油與台電都有對此做出回應。</p>
+<p style="text-align: justify;">
+	此外，蔡適應提到，像是台水在民進黨執政二年多來的績效，也比過去國民黨執政時還好很多，並非如特稿所言漠視專業。希望記者撰寫特稿時能多加查證，避免錯假訊息淆誤輿論，特此說明。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="534a5855385574554f52746b4c577649">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

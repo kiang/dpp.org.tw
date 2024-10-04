@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-14</p>
+				<h2>2019年第16屆黨主席補選登記狀況</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p class="p1">
+	<span style="font-size:16px;"><span class="s1">2019</span>年第<span class="s1">16</span>屆黨主席補選登記名單如下<font face="Hiragino Kaku Gothic ProN">：</font></span></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px">
+	<tbody>
+		<tr>
+			<td style="text-align: center;">
+				登記順序</td>
+			<td style="text-align: center;">
+				登記日期</td>
+			<td style="text-align: center;">
+				姓名</td>
+			<td style="text-align: center;">
+				性別</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				1</td>
+			<td style="text-align: center;">
+				12月14日</td>
+			<td style="text-align: center;">
+				游盈隆</td>
+			<td style="text-align: center;">
+				男</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				2</td>
+			<td style="text-align: center;">
+				12月14日</td>
+			<td style="text-align: center;">
+				卓榮泰</td>
+			<td style="text-align: center;">
+				男</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6868694c53664539424637336b665736">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

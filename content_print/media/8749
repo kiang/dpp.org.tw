@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-08-28</p>
+				<h2>民主進步黨中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(28)日原訂召開第十八屆第十七次中執會，因人數不足延會。會中邀請南台科大財經法律研究所教授兼所長羅承宗以「黨產會三週年現況與未來」為題進行專案報告。發言人薛呈懿會後轉述卓榮泰主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	非常感謝羅教授今天在這裡做的精彩報告。從剛才羅教授的報告中，我們可以發現批判黨產的起源是來自於國民黨內部的良心，所以我們一定要在這條路上繼續努力。假若國民黨持續坐擁鉅額的黨產，不予處理的話，台灣政黨政治，將永遠沒有公平競爭的那一天。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	自從2016年8月立法院通過黨產條例、不當黨產處理委員會成立之後，3年來，黨產會共作成15個行政處分、認定8個附隨組織，總計共688億不當取得財產，目前僅追回1239萬9008元，相當不成比例。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨產會的追徵、命國民黨移轉不當黨產的處分，全遭法院停止執行，甚至還指謫黨產條例違憲，要求停止訴訟程序並聲請釋憲，實在令人遺憾。如何讓社會大眾充分理解追討黨產對民主政治的重要性，是我們目前最重要的工作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	明年大選，攸關台灣民主未來的發展。有國民黨立委說「2020票投國民黨，全部改回來」，這句話要當作我們最大的警惕。台灣民主不走回頭路，黨產必須追查清楚，我們一起努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="324f75553841673636666c3236374664">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

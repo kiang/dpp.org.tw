@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-17</p>
+				<h2>2020 年立委選舉提名初選民調分組名單</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: center;">
+	<img alt="" src="/upload/ckfinder/images/2020%E5%B9%B4%E7%AB%8B%E5%A7%94%E9%81%B8%E8%88%89%E6%8F%90%E5%90%8D%E5%88%9D%E9%81%B8%E6%B0%91%E8%AA%BF%E5%88%86%E7%B5%84%E5%90%8D%E5%96%AE.jpg" style="width: 848px; height: 1200px;" /></p>
+	                	                	                <p>檔案下載：<a href="https://www.dpp.org.tw/upload/news/2020年立委選舉提名初選民調分組名單.pdf" target="_blank">2020年立委選舉提名初選民調分組名單.pdf</a></p>
+	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="64386a5255454f3070377150586c7133">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

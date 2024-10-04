@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-10-04</p>
+				<h2>帶領桃園再進化 鄭運鵬：延續鄭文燦政績，國民黨不要為了選舉不擇手段</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">「蔡英文&amp;DPP」的Podcast頻道「耳朵出遊不出油」，昨（3）日釋出桃園市長候選人鄭運鵬的專訪，鄭運鵬表示，民進黨在桃園的執政表現，桃園市民有目共睹，對於這次選舉，鄭運鵬認為，國民黨為了這場選舉不擇手段，桃園市民會看在眼裡。</p>
+
+<p style="text-align: justify;">鄭運鵬回憶自己當年第一次參選立委，當時正逢國會轉型，化身「Nice 鵬鵬」主打要「深入清潔國會毛孔」，如今自己已經是國會毛孔的一部分，鄭運鵬表示，自己作為桃園選區的資深立委，長期在國會協調中央及地方，這次桃園選舉經歷一番波折，鄭運鵬認為，自己是在地的資深戰將，能做的就是用最快的速度，提振士氣，重新準備選舉團隊，讓選舉回歸正軌。</p>
+
+<p style="text-align: justify;">這次參選提出「運轉桃園大進化」的主張，鄭運鵬認為，進化所代表的是桃園過去八年的成長，鄭運鵬表示，桃園的轉型時代還沒結束，鄭文燦市長過去八年替桃園所打下的經驗值，需要再由他來延續下去，鄭運鵬認為，這次參選，就是要扛下並完成桃園下一階段的任務。</p>
+
+<p style="text-align: justify;">鄭運鵬認為，現任桃園市長鄭文燦，過去八年的執政表現良好，給國民黨很大的壓力，鄭運鵬認為，鄭文燦市長在2018年得到市民投票給予連任的肯定，這代表桃園市民，有感受到民進黨在地方執政的成績和誠意，鄭運鵬表示，國民黨對這次桃園選舉沒有把握，只打算靠負面選舉來打選戰，鄭運鵬認為，選舉還是要回歸政策的討論。</p>
+
+<p style="text-align: justify;">對於對手張善政，鄭運鵬認為，張善政有許多爭議沒有公開說清楚，鄭運鵬質疑，過去國民黨如何檢視對手，如今卻無法被用同樣的方式檢驗，鄭運鵬表示，過去張善政擔任行政院長時期，並未積極推動桃園鐵路地下化，如今為了選舉，卻說成是自己的功勞，鄭運鵬認為相當可笑。</p>
+
+<p style="text-align: justify;">鄭運鵬認為，有許多年輕人成家的首選在桃園，隨著人口增加，桃園要提供給市民安居樂業的環境，鄭運鵬表示，市長要創造能夠實現大家夢想的城市，市民的夢，就是市長的夢，對於這次選舉，鄭運鵬稱自己就像安西教練與櫻木花道，被賦予的任務都會努力去完成，鄭運鵬期待，能帶給桃園市民一個正面、歡樂的選舉。</p>
+
+<p style="text-align: justify;">點開連結，馬上收聽：<br />
+＊Apple ： <a href="https://podcasts.apple.com/tw/podcast/%E8%80%B3%E6%9C%B5%E5%87%BA%E9%81%8A%E4%B8%8D%E5%87%BA%E6%B2%B9/id1586446775?i=1000581371284">https://reurl.cc/9pkdGn&nbsp;</a><br />
+＊Spotify：<a href="https://open.spotify.com/episode/772BitFmyuMz5JmeQ06pnF">https://reurl.cc/8parW7</a>&nbsp;<br />
+＊KKBOX：<a href="https://podcast.kkbox.com/tw/episode/9aKZN8qwGgDheERQMf">https://reurl.cc/NRM5p6&nbsp;</a><br />
+＊Google：<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZG9uLmZtL3BvZGNhc3RzL2Q0NzVhZjZlLTA2ZDYtNGFmOS1hMDEyLTg2ZjIzYTI0ZDYyMS54bWw/episode/Y2w4c2N6d251MDIyaTAxczZlaWN2ZXJuag?sa=X&amp;ved=0CAUQkfYCahcKEwiw5o6v3cP6AhUAAAAAHQAAAAAQAQ">https://reurl.cc/W1meDy&nbsp;</a><br />
+＊Firstory：<a href="https://open.firstory.me/story/cl8sczwnu022i01s6eicvernj">https://reurl.cc/GE6M0A</a></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7051527a7a41663162674c346a457573">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

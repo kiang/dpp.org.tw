@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-06-20</p>
+				<h2>民進黨：基層消防人員冒風險勇敢當吹哨者 請侯市長捍衛消防員清白與尊嚴</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對恩恩事件部分關鍵的橫向聯繫音檔在媒體上曝光，事隔兩天，新北市侯市府「代發」聲明指稱提供音檔的新北市消防局基層人員，「主動」向地檢署自首一事，民主進步黨發言人黃彩玲今（20）日表示，這部分關鍵音檔曝光於媒體，讓恩恩爸想爭取還原的事實真相，終於又再露出一絲曙光。吹哨者看不下去，基於正義站出來，事實真相終究紙包不住火。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黃彩玲指出，侯市府「代發」提供音檔者的聲明後，讓外界明白提供音檔的基層消防人員，寧願冒著受罰風險，也要勇敢當吹哨者，是因為想要澄清消防局處理沒有疏失。那麼，請問侯市府，為規避責任、不惜踐踏消防人員的尊嚴與清白的，到底是誰？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黃彩玲指出，從揭露的部分音檔證實，新北消防局的第一線人員真的很認真，就算找不到衛生局，也是努力直接聯繫醫院協助恩恩送醫，而延誤送醫的關鍵，就是消失的衛生局。但今天上午侯市長接受媒體訪問，不但依然跳針說會請人跟恩恩爸「說明」，還回嗆：「公布醫護和消防員錄音檔，騷擾工作不可取」，不禁讓人質疑，若不是侯市長跟侯市府一直想要掩蓋事實，又怎會有勇敢的吹哨者出現呢？侯市長若真想捍衛消防員的清白和尊嚴，應趕緊把所有橫向聯繫的音檔給恩恩父母，不要再讓第一線人員承受背鍋的壓力了。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	她接著問，兩週前那個說要「捍衛消防員清白跟尊嚴」的侯市長哪裡去了？從揭露的音檔可以還原，真正讓消防局背黑鍋的，是阻擋調查的侯市府。侯市長，你應該很清楚，市民期待的，是侯市長解決問題，而不是解決發現問題的人！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黃彩玲表示，恩恩爸早在5月27日就提出要求，希望侯市府提供「橫向通聯錄音檔」，但侯市府為掩飾內部派遣救護車的明顯瑕疵，先用法條搪塞，再演一齣應告知未告知的「造假報案現場」給恩爸看，侯市府大動作提告爆料者後，市長本人再以一句「一切交給司法」企圖迴避外界的所有質疑。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	她接著說到，身為民選的地方父母官，侯市長有責任把事件交代清楚，結果今天面對部分橫向聯繫音檔被揭露，竟一如既往地說：「已『依規定』提供恩恩爸資料」，面對所有行政疏失，以及侯市長該承擔的政治責任等無關偵查不公開的質疑，侯市長至今從未回應過，甚至還有新北國民黨議員幫護航，封殺侯市長對恩恩事件的專案報告，極盡一切包庇、縱容、掩飾侯市長和侯市府。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，黃彩玲強調，天理昭彰！奉勸侯市長別再當躲避球隊長，盡快公布關鍵音檔，或提出恩恩事件的完整報告，給恩恩爸一個清楚的交代，只要侯市長持續想掩蓋、一天不願公布真相，那吹哨者只會越來越多！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c734b44704d376f5555557172303545">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

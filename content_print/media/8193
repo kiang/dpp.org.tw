@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-12-30</p>
+				<h2>【勞基法修正案】民調意向公布 林琮盛：近六成民眾贊成修法</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	針對勞基法修正案，民進黨發言人林琮盛今(30)日召開「【勞基法修正案】民調意向公布記者會」公布民主進步黨十二月份第三次全國時事民調。林琮盛表示，根據民調結果顯示，一例一休實施將近一年，總共有59.7％的民眾贊成修法，不贊成者有17.9％，其中，贊成修法者，不分藍綠黨派，平均約有六成民眾支持修法，顯示勞基法修法仍是社會大眾的主流意見。</div>
+<div>
+	&nbsp;</div>
+<div>
+	此一統計與12月13日進行的民調相比，即便經過反勞基法修法大遊行，民眾支持修法的態度並未因大遊行而下降。</div>
+<div>
+	&nbsp;</div>
+<div>
+	其中，高達53.5％受訪者認為，此次修法是因應各行業的多元勞動狀況，制定社會多數行業可以順利運作的制度。雖也有30.9％受訪者認為，可能有犧牲勞工權益來討好企業。但這與12月上旬的統計結果比較起來，整體而言，民眾認為修法動機是正面的比例有微幅上升。</div>
+<div>
+	&nbsp;</div>
+<div>
+	此外，根據交叉分析，40至49歲、50至59歲的民眾支持修法的比例分別為67％、70％，是贊成修法比例最高的年齡層。近日勞動基準法修法議題比較受到各界關注，因此我們有必要公布實際民意調查狀況。</div>
+<div>
+	&nbsp;</div>
+<div>
+	此份民調於12月25至26日執行，共完成834份，訪問對象為20歲以上具有投票權公民，在95%的信心水準下，抽樣誤差約為正負3.4%。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3777316f667737356d54766d35566e58">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

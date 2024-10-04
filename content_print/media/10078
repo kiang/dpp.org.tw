@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-04-11</p>
+				<h2>民進黨：肯定立法院朝野譴責中共軍演</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對立法院朝野黨團發表共同聲明譴責中共舉行「環台軍演」，民主進步黨今(11)日對此表示肯定，樂見在捍衛國家利益與主權的立場上，能有跨越黨派的共同支持，也向中共展現台灣社會團結一致、不輕易屈服的堅定與韌性。同時，也要再次嚴厲譴責中共無端破壞台海及區域和平穩定的無理行徑，不僅無助改善兩岸關係，更將繼續向世界暴露中共的威權本質。</p>
+
+<p style="text-align: justify;">民進黨對於立法院朝野黨團發表「譴責中共破壞兩岸現狀與國際秩序」的共同聲明表示肯定與感謝。民進黨強調，當中共升高脅迫作為，台灣最需要的就是展現不分黨派、一致對外的團結態度，堅定捍衛臺灣的國家利益與主權，以及民主自由的制度與生活方式，更向世界展現，台灣不會在壓力下屈服的堅定立場。</p>
+
+<p style="text-align: justify;">民進黨指出，蔡總統代表國家走向世界，充分展現台灣與國際共享的民主價值並加深與友邦情誼，也代表台灣人民的共同期待，中共當局並無置喙的資格，但卻仍執意發動所謂「環台」軍事演習，無端破壞台海現狀、衝撞國際秩序，亦威脅全球及區域和平穩定，除導致國際社會的關注並聲援台灣以外，更再次凸顯其威權擴張的本質。</p>
+
+<p style="text-align: justify;">民進黨強調，無論任何的文攻武嚇手段，都無法迫使自由的台灣向極權主義低頭，呼籲中共當局應看清中華民國台灣和中華人民共和國互不隸屬的客觀事實、體認真實的台灣民意與國際認知，勿再沉溺於以政軍或外交脅迫就能讓台灣放棄追求走向世界的幻夢。唯有充分尊重臺灣人民對主權和民主自由的堅持，才是重啟兩岸良性互動的根本。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="616e7277764332674d72494d59796657">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-06-17</p>
+				<h2>新黨人士送「音容宛在」花籃到指揮中心  民進黨：不會受到台灣社會認同</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對疫情指揮中心指揮官陳時中及相關人員確診，卻有新黨議員參選人送「音容宛在」字樣花籃，民進黨發言人林靜儀今（17）日表示，這樣的炒作選情作為毫無人性，不會受到台灣社會認同，更是有心從政者最壞的示範，民進黨表示譴責。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林靜儀表示，指揮中心和相關防疫人員從疫情爆發以來，不眠不休九百多天，每天召開記者會，向國民報告各種疫情的最新發展、回覆質疑，就是為了用最嚴謹的態度，守住台灣人民的健康。這也讓台灣人民在疫情肆虐下，還是能過著不用封城的生活，保持經濟運轉，在全球疫情之下，去年台灣還是交出優於國際的好成績。而不論是什麼背景身分的人，確診都沒有被責備的必要，更遑論詛咒！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林靜儀表示，現在台灣也在全民團結防疫下，逐步邁向後疫情新生活。但從之前網紅朱學恒送喪禮花籃到中央疫情指揮中心，到這次新黨議員參選人送「音容宛在」花籃，可以看到這些有心人士不僅手法老套，還企圖要用這樣卑劣的行為來增加自己的曝光、試圖炒作選舉知名度，這些都不是素來溫暖與善良的台灣社會所既有的文化；民進黨要對這樣的行為予以最強力的譴責。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6d52414c61655a345455316e32497679">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

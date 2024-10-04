@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-02-05</p>
+				<h2>民主進步黨第十八屆第五十次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(5)日召開第十八屆第五十次中常會，會中通過於2月12日(三)召開中執會。此外，會中邀請中研院生醫所兼任研究員何美鄉以「新型冠狀病毒疫情預測與因應之道」為題進行專案報告，卓榮泰主席聽取報告後進行裁示。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，在報告中聽到兩句非常重要的話，他必須再次提醒常委與所有國人同胞：「台灣醫療資源一定夠，戴口罩不如勤洗手」。武漢肺炎疫情目前已升級為國際衛生緊急事件，受到波及的國家無不人心惶惶。台灣有國際肯定的醫療及公衛體系，加上過去有SARS防疫的經驗，相信在行政院及相關部會全面投入防疫工作的努力下，只要全國上下同心一意，我們一定戰勝這樣的病毒。但是未來一段時間，還是會有相當大的變數，政府及國人同胞一定要提高警覺，政府要做有效的管控。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提及，防疫視同作戰，需要中央與地方政府通力合作。此次武漢台商能順利回台，並且能夠妥善安置跟檢測，都需要中央跟地方政府的合作。防疫最辛苦的，就是第一線醫護人員，我們也看到像陳時中部長疲累的神情、沙啞的聲音，以及他令人動容的投入精神，我們對他不僅不捨，也表示尊敬。他也相信有更多在防疫中心以及在第一線的醫療人員，都是同樣的付出，我們在此也對他們表示最大的感謝。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，防疫需要配合中央政府的指揮及政策，才能發揮最大的效果。除了防疫之外，口罩的問題，也看到行政單位已經從禁止出口、提高產能以及國軍的協助等等，已經盡量做到最大的努。卓也呼籲國人，至少做到四點：第一，心理上，一定要降低焦慮，才不會讓事情更不可收拾，更無法滿足所有國人的需求；第二，使用上，一定要把口罩放到最需要的地方、人、時間上，所以要讓第一線的醫療人員優先，其他部分何研究員提到，戴口罩不如勤洗手這種觀念，也要加強宣導出去。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰進一步說，第三，在販售流程上，他相信實名制與限量的採購，是緊急應變的措施，將來隨著疫情變化、產能增加等等，希望行政部門能夠多多考量各方意見，隨時檢討，讓流程能夠更讓大家得到安全上、心理上的滿足；第四，公權力，若有不法、偽造、假造，甚至囤積，公權力在這個時候一定要發揮最大的能量，讓人民能夠相信政府，才能達到政府與人民同心一意來防疫的功能。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰最後呼籲，防疫無國界，不分藍綠，也無關統獨，台灣被排除在WHO體系之外，必造成全球防疫的缺口。中國政府不應以一己的意識形態，將全球及台灣兩千三百萬人民的生命及健康置於危險之中。我們要特別感謝美國、歐盟、日本、加拿大及友邦國家在各種會議上的仗義執言，不僅是為了台灣發聲，也是為了世界的安全與健康發聲，我們也再一次要求讓台灣加入WHO等國際組織，是我們不變的努力，我們希望我們是國際社會的一份子，我們要盡到國際的義務。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d49736f744574763145517353637848">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

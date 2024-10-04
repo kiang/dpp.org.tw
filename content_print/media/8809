@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-15</p>
+				<h2>韓國瑜請假拚選舉 民進黨：請假不如請辭，請益不如請罪</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民主進步黨今(15)日針對高雄市長韓國瑜今早正式表態請假投入2020總統大選一事召開記者會，呼籲韓國瑜請假不如請辭，請益不如請罪。</p>
+<p style="text-align: justify;">
+	發言人李明俐表示，高雄市長韓國瑜上任不到365天，高雄市長的位置都還沒坐熱，就迫不及待投入總統選舉。其擔任高雄市長期間，請假、遲到、早退、說謊紀錄輝煌，甚至技術性剝奪代表民意的議員質詢權。韓市長選前對於高雄市的雄心壯志，已經證明是一場空，而既然無心市政，就不須要再演戲，我們呼籲韓國瑜市長：「請假不如請辭！」</p>
+<p style="text-align: justify;">
+	李明俐提到，韓國瑜競選市長時的政治獻金紀錄，收入總數為1億2914萬元，而選舉補助款也有2600萬。高雄人民尚未發大財，韓國瑜市長倒是發了大財。韓市長是否把選票當鈔票，認為選舉的CP值非常高，人民很好騙？韓國瑜市長受人民託付入主高雄市政府，但是各家民調顯示，市政滿意度為最後一名，如今罷免連署也已超過30萬，明顯有負人民期待，把民主選舉當成兒戲，我們呼籲韓國瑜市長：「請益不如先請罪！」</p>
+<p style="text-align: justify;">
+	李明俐也強調，選舉剩下88天，韓市長對高雄開出許多空頭支票，尚不能對高雄市民負責，遑論想進一步取信於全台選民。我們呼籲選民在明年１月的選舉以選票告訴韓國瑜及國民黨，台灣民主政治不是過水政治，必須往更負責任的方向前進，才能奠定穩定國政發展。在明年的選舉，民進黨呼籲社會支持「護國會、保台灣」三部曲，總統票投蔡英文總統，政黨票投民進黨，立委票投民進黨支持的候選人。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f4846336c516c4b4c6e6447596c4638">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

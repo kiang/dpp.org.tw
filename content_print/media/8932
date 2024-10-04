@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-12-13</p>
+				<h2>赴楠梓掃街拜票 卓榮泰：讓行政經驗豐富、國會成績優良的劉世芳順利連任</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰今(13)日在立委候選人劉世芳、議員李柏毅、黃文志陪同下，至楠梓德民黃昏市場掃街拜票，攤商民眾高喊「加油」給予熱情支持。隨後，卓榮泰也偕同劉世芳、李柏毅、黃文志及議員李雅慧出席「劉世芳委員茶餅會」，與逾百位鄉親面對面懇談。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰致詞表示，首先感謝各位鄉親對蔡英文總統的支持，也很開心見到黨內的年輕一輩、地方黨公職能團結合作共同幫助劉世芳委員順利連任。民進黨在經過去的失敗，必須要全黨團結一致、目標清楚、腳步整齊，才能有力量。他也拜託各位鄉親，選舉剩下29天，目標「總統當選、國會過半」，連任的選區一定要當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰接著表示，今天再次來到劉世芳委員的選區，雖然大家都說這裡是鐵板一塊，但只要有好的候選人、好的戰鬥團隊，而且整個黨內同志互相拉抬，加上有總統拉高氣勢的狀況下，劉世芳委員一定能爭取到選戰最後的勝利。此外，劉世芳是現任的立法委員，豐富行政經驗再加上國會認證的成績，最能讓人民接受。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰說，民進黨在雲林以南，過去建立的一道民主防線，應該要全力守住，高雄是我們這次最重要的戰場，也是高雄市民再次驗證在民主政治過程當中，能否用最快的時間，做出正確轉變的試驗場，民進黨一定會勇敢承接選民對我們的期待和責任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，這次民主的選舉，我們會全力支持高雄市民做出明智的選擇，民進黨的選將也會非常認真的握住每一雙手、拉住每一張票。他也代表整個黨中央對這個選區的重視及對整個高雄選區的信心，繼續跟所有競選團隊一起加油。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="31636f476e766952416f666b6258534b">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

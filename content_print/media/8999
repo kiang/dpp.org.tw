@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-05-13</p>
+				<h2>民主進步黨第十八屆第六十次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(13)日召開第十八屆第六十次中常會，會中通過於5月20日(三)下午二時舉行第十七屆黨主席宣誓就職暨交接典禮，並於交接典禮後接續召開中執會。此外，會中邀請國立台北大學犯罪學研究所助理教授沈伯洋、台灣民主實驗室研究員曾柏瑜以「武漢肺炎－台灣與他國假訊息階段比較」為題進行專案報告。黨發言人薛呈懿轉述卓榮泰主席聽取報告後裁示如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	非常感謝台北大學犯罪學研究所沈伯洋教授、台灣民主實驗室的曾柏瑜研究員，今天為我們報告分析中國資訊戰的手段及影響。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	從去年底台灣大選前，至武漢肺炎爆發全球大流行以來，中國持續進行的資訊戰及大外宣的操作，直接或間接透過代理人，在國際上帶風向，傳播一連串的虛假訊息，是中共維穩的重要手段，也是一種對外投射銳實力的新型態資訊戰。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	沈教授及民主實驗室的研究，充分展現公民社會的力量，透過數據及資料的比對及分析，讓我們看到中國在防疫期間，仍然不斷對台進行資訊戰的干擾，罔顧台灣民眾的生命健康。國人必須提高警覺，避免受到假訊息誤導。面對新型態的威脅，唯有持續強化防衛機制，才能確保台灣的民主與自由。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我們注意到，資訊戰已經逐漸深入國人普遍使用的社群網路，經常透過民眾容易接觸到的內容農場、網紅及影音平台，帶動風向、混淆視聽。我們也必須提升資訊辨識的能力，養成多方查證的習慣，讓假訊息止於源頭，無從發酵。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	截至今天，台灣已經連續30天無本土感染病例，我們仍然要感謝中央指揮中心及第一線醫護同仁的無私努力，日以繼夜進行各項防疫工作，而且每天召開記者會對外說明疫情，在安定人心的同時，也減少假訊息操作的空間。我們深信，資訊的公開透明，國人的充分配合，及政府的超前部屬，是台灣模式及民主最可貴的地方，我們要繼續發揮這樣的優勢，造福國際社會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另，有關台北市黨部主委選舉的相關事宜，目前仍須尋求雙方加強自我約束。今天中常會授權卓榮泰主席於會後繼續溝通，若於今晚八點前尚不能達成共識，擬暫停該選舉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4e666e6e6271526b33694878306c7870">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

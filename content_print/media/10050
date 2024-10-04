@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-03-22</p>
+				<h2>前白宮國安顧問歐布萊恩率團拜會民進黨 表達美國對台灣的堅定支持</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">美國前白宮國安顧問、「全球台灣研究中心」(Global Taiwan Institute, GTI)「台美工作小組」（U.S.-Taiwan Task Force）主席歐布萊恩（Robert O&#39;Brien）率團訪台。為深入了解民進黨相關政策，訪團一行於今(22)日下午拜會民進黨，雙方就兩岸關係、區域情勢、台灣政情、台美關係，以及在面對中國軍事威脅加劇，如何實質增進美國對台灣的支持等議題，進行深度討論。民進黨國際部主任兼發言人謝佩芬表示，訪團成員於會中表達對於台海安全的高度重視，並對於更進一步深化台美關係全力支持。&nbsp;</p>
+
+<p style="text-align: justify;">訪團成員除了團長歐布萊恩外，還包括前白宮國安會亞洲事務資深主任暨GTI 美台工作小組副主席胡克（Allison Hooker）、GTI 董事長胡兌昀（Jennifer Hu）兩位共同副團長，以及前國防部亞太安全事務助理部長葛瑞森（Lt. Gen. Wallace C. Gregson）、前美國在台協會台北辦事處(AIT/T)處長楊甦棣（Amb. Stephen Young）、史丹福大學胡佛研究所研究員陳仁宜（Dr. Lanhee Chen）、前白宮國安會亞洲事務副資深主任簡以榮（Ivan Kanapathy）、前美國貿易代表署(USTR)幕僚長桂爾（ Jamieson Greer）、威爾遜國際學人中心亞洲計畫副主任後藤志保子（Shihoko Goto）和GTI 計畫經理冉明銳（Marshall Reid）。民進黨方面由新境界文教基金會副董事長暨前國安會秘書長邱義仁、黨副秘書長楊懿珊、政策會執行長羅致政、國際部主任兼發言人謝佩芬、民調中心主任陳博洲、及國際部副主任邱雯莉等人共同出席接見。&nbsp;</p>
+
+<p style="text-align: justify;">會中，新境界文教基金會副董事長邱義仁表示，面對中國在區域的軍事擴張作為，美國及理念相近的民主國家對於台灣的支持至關重要，尤其美國能夠實質幫助台灣的面向有很多，期盼在軍事及經濟層面都可以持續有更多進展。</p>
+
+<p style="text-align: justify;">副秘書長楊懿珊表示，賴清德主席就任後即強調，民進黨的中國政策延續蔡總統的四個堅持，並且在這樣的基礎上尋求區域的和平與穩定。台灣持續向國際社會表達捍衛和平的立場，但同時必須在國防安全上充分展現自我防衛的決心。楊懿珊表示，捍衛亞太區域的和平工作，需要美國及民主國家共同努力。</p>
+
+<p style="text-align: justify;">政策會執行長羅致政表示，台灣面臨許多不同的外部挑戰，中國的認知作戰無孔不入，民進黨政府的軍事改革獲得多數民眾的支持，持續深化與強化台美軍事夥伴關係極為重要，唯有合作才能避免中國誤判情勢，引發台海衝突。&nbsp;</p>
+
+<p style="text-align: justify;">謝佩芬補充說明，歐布萊恩 2019 年至 2021 年擔任白宮國安顧問期間，至為友我，任內解密「六項保證」內容、支持國務院放寬台美交往準則、推動川普政府派遣美衛生部長阿札爾（Alex Azar II）訪台等，創下多項台美關係良好先例，卸任後亦持續關注台灣議題並為我發聲，團員包括數名美行政部門卸任資深官員以及印太區域研究之專家，相關發言多具影響力，民進黨對於此一交流，收獲甚多。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7a554646564d426c574b396e5a633835">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

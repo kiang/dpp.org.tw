@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-03-03</p>
+				<h2>2022年台南市、高雄市及嘉義縣長提名候選人名單公告</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	<img alt="" src="/upload/ckfinder/images/2022%E5%B9%B4%E5%8F%B0%E5%8D%97%E5%B8%82%E3%80%81%E9%AB%98%E9%9B%84%E5%B8%82%E5%8F%8A%E5%98%89%E7%BE%A9%E7%B8%A3%E9%95%B7%E6%8F%90%E5%90%8D%E5%80%99%E9%81%B8%E4%BA%BA%E5%90%8D%E5%96%AE%E5%85%AC%E5%91%8A(1).jpg" /></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="736b5074425731487842757370323767">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

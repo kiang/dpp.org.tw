@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-17</p>
+				<h2>林飛帆的18歲回憶「很重鹹」！ 為催票「18歲公民權」失手狂加鹽辯稱：這是熱血的味道</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">選戰倒數9天！民進黨網路實境節目《一碗麵的時間》今（17）日上架2022大選系列的最後一集，由民進黨副秘書長林飛帆壓軸下廚，煮一道赴英留學期間最愛的「蒜香白酒蛤蠣麵」為這次的「18歲公民權」公民複決票大力號召，也分享自己的「青春故事」。平常對廚藝頗具信心的他，一開場先打預防針，直說久未下廚可能「砸招牌」，沒想到成果還真讓主持人黃彩玲吐嘈「25集中最難吃」，才發現林飛帆前後共加5.5次鹽「超重鹹」！</p>
+
+<p style="text-align: justify;">煮麵時，林飛帆頻笑場，坦言很緊張，他說自己下廚最密集的時期，是2017年赴英念碩士時，黃彩玲藉機問起「18歲做過最熱血的事？」林飛帆笑回「談戀愛」。作為反媒體壟斷與太陽花運動的學運領袖之一，林飛帆的政治啟蒙其實是經常關注時事、寫評論性文章的爸爸；他回憶，自己在英國念書時正逢「英國脫歐」，很多英國青年在公投後「強烈悔恨」，發現自己未投票而未來「被決定」，讓他印象十分深刻，所以他強烈呼籲「台灣不該重蹈覆徹」。</p>
+
+<p style="text-align: justify;">林飛帆說，台灣是「十分年輕」的民主國家，直至1996年才首度總統直選，而「18歲公民權」也是民主進步的象徵，講求權利義務對等，這是台灣跟上世界腳步的最後一哩路；黃彩玲則補充，民進黨是最早提出「下修18歲公民權」的政黨，早在20年前就由立院黨團提過，但這次要達到965萬票的高門檻，的確是個挑戰，比蔡英文總統2020年817萬票「還多出一個彰化縣人口數」。林飛帆在節目中數度呼籲年輕朋友「11月26日回家投票」，不只支持民進黨推出的縣市長、議員候選人，也要為「18歲公民權」蓋下同意票。</p>
+
+<p style="text-align: justify;">《一碗麵的時間》自開播以來全台吃透透，邀請民進黨首長候選人帶他們擅長的或有回憶的一碗麵來分享，讓觀眾從料理中窺見其從政價值，也透過360度無死角鏡頭，看見更真實有人味的一面。此集最終回聚焦「18歲公民權」，展現民進黨對「青年權益」與「民主進步價值」的重視，盼11/26全台民眾不只為家鄉投一票，也為青年的未來投一票。</p>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAzdVBTSpG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="753255704650385553596c6745584b6e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

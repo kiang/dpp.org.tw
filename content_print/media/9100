@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-06</p>
+				<h2>世界人權日 民進黨婦女部播放《回首來時路》紀錄片向女性民主運動者致敬</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	本周末由台灣韓國影視文化藝術交流協會主辦，民主進步黨協辦為期兩日《台韓影藝沙 亞洲民主專題影展》盛大展開。今日(12/6)以1997年由民進黨中央黨部出品、民進黨婦女部監製、簡偉斯導演的《回首來時路─她們參政的足跡》紀錄片為今日開場影片，向女性民主運動者致敬，並邀請民進黨婦女部主任許嘉恬及立法委員范雲擔任映後嘉賓，與民眾暢談台灣政治史中女性參與的身影。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨婦女部許嘉恬主任表示，今年12月10日世界人權日是美麗島事件41周年，回顧台灣民主化歷程中重要歷史事件如：中壢事件、橋頭事件、美麗島事件等，大多是以男性為主的「History」，而非「Herstory」，普遍缺乏女人角色和女性觀點。《回首來時路─她們參政的足跡》細數台灣民主化中，女性投身政治的重要身影，證明女性在台灣民主運動、政治運動中不僅沒有缺席，還是重要的參與者，更巧妙的運用政治運動推動婦女運動，提升女性參政、改變女性的地位。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	立法委員范雲表示，女性佔人口二分之一，卻在權力中心缺席是很奇怪的，女性的參政不只是實質的性別平等，更是表現出女性在政治領域的不可或缺，女性參與政治更能夠關注照顧及教育層面的議題。而現在女性參政的空間逐漸友善，無論是進入政治圈的女性或是民間婦女團體，未來保持順暢的溝通，才能讓女人的力量發揮到最大，打造台灣更友善女性的參政環境。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	面對近日年僅24歲之前香港眾志副祕書長周庭，遭香港政府以「參與及煽惑他人參與非法集會」為由判刑10個月事件，許嘉恬主任以陳菊院長1979年因美麗島事件遭軍法審判入獄時年僅27歲為例，回應當女人不再「溫順」、不再「忍氣吞聲」，願意投身政治運動以對抗強權後，獨裁者該感到懼怕了！以此期許香港的民主、人權能夠迎來撥雲見日的一天。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="425869774141644a566a69554a766872">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

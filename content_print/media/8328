@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-07-10</p>
+				<h2>「選戰風雲：Who is the winner－青年選戰暨兩岸兵推營」新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	新一屆民進黨選戰青年部隊，成軍！為培養民進黨年輕的選戰和兩岸事務人才，黨中央青年部和中國部於今(10)在台南富信大飯店舉辦4天的「選戰風雲：Who is the winner－青年選戰暨兩岸兵推營」。這4天中，50位學員將體驗各種選戰模擬情境，深入了解最真實的選舉與兩岸實務課程，成為未來民進黨的年輕中堅力量。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	10日下午，「選戰風雲：Who is the winner－青年選戰暨兩岸兵推營」舉行開幕式。民進黨台南市長參選人黃偉哲及民進黨台南市黨部主委黃先柱蒞臨出席致詞，與年輕朋友共同分享第一手的選舉經驗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨台南市長參選人黃偉哲致詞表示，各位學員是經過慎重的選拔考慮，邀請參加這次的營隊，希望大家能在營隊中思考投入選舉的意義，並在課程中能勇敢挑戰講者。此外，營隊中的兩岸兵推課程也相當具有挑戰性，在美國、中國兩艘航空母艦所引起的貿易戰、或將來可能產生的區域衝突的巨浪中，在世界、亞洲的大架構之下，台灣如何找出自己的定位，都是值得各位學員去思考的。也希望透過這次營隊彼此交流，學員能從中新的思考、收穫，也能帶給民進黨新的衝撞、思維。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨台南市黨部主委黃先柱也分享自己一路以來輔選的經歷，並鼓勵學員，年輕人有夢最美，希望相隨。勉勵大家如果有理想、肯努力，年輕就是本錢，機會會留給有準備的人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	青年部主任何孟樺表示，本屆的學員年齡大都介於20至30歲之間。多數具有學生身份；最年輕的學員為高中生，亦有少數政治工作者前來，希望能透過營隊課程大家一起集思廣益，強化選舉戰力，並尋找更多工作夥伴。營隊期間也安排學員們實際模擬候選人團隊，依照不同的想定情境，於最後一天（13日）發布成果報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	中國部副主任林琮盛表示，本次營隊將以傳授選戰技術與兩岸兵棋推演為主軸。營隊邀請了多位具有豐富選戰經驗、國際暨兩岸議題之講師，及本黨台南市議員前來為學員們講述選戰經驗、各項選務工作技巧培訓。我們相信這些課程將對青年朋友在選舉與兩岸關係之視野，有具體的幫助。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	為培養本黨的永續執政人才，主辦方將會在此營隊中，發掘表現卓著且對政治有高度熱情者，協助進一步媒合至2018本黨候選人競選團隊，成為未來的種子部隊。民進黨期待，這次營隊結束後，能有更多的優秀且不同專業的青年人才，一起加入民進黨這個大家庭，為台灣的未來共同努力！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4844596767445233554c415956573865">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

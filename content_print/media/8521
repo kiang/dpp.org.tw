@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-02</p>
+				<h2>捍衛台灣國家主權、堅守民主和平立場</h2>
+				<h4>民主進步黨對於習近平主席談話回應</h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	對於中國國家主席習近平先生今天所發表的談話，民主進步黨在此嚴正的聲明，呼籲習近平主席必須正視台灣是一個主權獨立的國家，現在叫中華民國，中國應該正視中華民國台灣的存在。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民主進步黨要鄭重的正告習近平主席，在他的聲明中，通篇中只有政黨，沒有政府，也沒有國家。這正證明了所謂的「九二共識」，絕不像過去國民黨所稱的有「各自表述」的空間，只剩下「一國兩制」，目的在消滅中華民國。刻意讓中華民國消失，而訴求與各政黨、社團的直接互動，就是故意忽視了台灣作為一個主權國家的存在，忽視了台灣已經創造了亞洲的經濟與民主的奇蹟。台灣是一個民主自由的國家，我們有經過民主程序選出的民選政府，任何政黨跟社團都不能逾越、取代政府的角色與立場。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	其次，民主進步黨也強調，我們維護台海兩岸的和平穩定的立場與意志，絕對不會有任何改變，也不容許任何人的挑釁。台灣的存在，就是亞太地區穩定的基礎，更是世界經濟發展與進步的關鍵。面對中國不放棄武力的挑釁，我們依然堅守著我們維護台海的和平穩定，並且會以我們意志捍衛台海的和平。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	第三，民主進步黨更要指出，台灣的前途在於：</div>
+<div style="text-align: justify;">
+	(一) 堅決維護中華民國台灣之主權獨立地位</div>
+<div style="text-align: justify;">
+	(二) 堅定捍衛自由，民主與人權的國家價值</div>
+<div style="text-align: justify;">
+	(三) 堅持台灣的未來由2300萬台灣人民決定</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	現在的中國是一個由中國共產黨一黨專政的威權獨裁國家，台灣人民不會接受任何沒有經過國家民主制度的協商。民主進步黨也絕不容許任何外來勢力踐踏台灣人民的自由意志。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="593539564d6c526e4f7a755671477069">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

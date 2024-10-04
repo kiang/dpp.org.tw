@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-13</p>
+				<h2>周江杰：美豬標示與開放美牛標準一致，馬英九不要裝迷糊</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對馬英九前總統今（13）日批放寬含萊克多巴胺美豬牛進口政府標示產地，是在討好美國人，民主進步黨發言人周江杰表示，2012年，在CODEX還未訂定出標準前，與沒有任何產業協助配套方案下，就急於想開放含萊克多巴胺美國肉品進口，甚至說出「談判TIFA，美牛非過不可」的人，就是馬英九。馬英九今天的這種言論，根本就是2020年的馬英九打臉2012年馬英九。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，2012年，馬英九以當時中國國民黨團壓倒性的席次優勢，通過其黨團修正動議的《食品衛生管理法》第17條之一：「中央主管機關得對直接供應飲食之場所，就其供應之特定食品，要求以中文標示『原產地』；對特定散裝食品販賣者，得就其販賣之地點、方式予以限制，或要求以中文標示品名、『原產地（國）』、製造日期或有效日期等事項。」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	若按馬英九今日的標準，當初2012年的馬英九開放美牛進口，也是同樣要求標示「原產地」，難道也是所謂的「 討好美國」嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰強調，請馬英九不要裝糊塗，為了刷存在感，說出昨是今非、為反對而反對的發言，這樣台灣人民就不會一直想起你的「bumbler 」國際認證。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7031656d3535786d43534f4952567945">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

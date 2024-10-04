@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-07-15</p>
+				<h2>邁邁姊妹會助選活動開跑  遍地開花力挺陳其邁進市府</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	因應2020高雄市長補選，卓春英總會長、民進黨婦女部蔡宛芬主任及陳其邁競選總部婦女部召集人黃秋媖議員、李雅慧議員，邀請地方婦女團體以及高雄各區市議員組號召高雄姊妹，組成邁邁姊妹會(婦女後援會)。規劃將於各區舉辦「邁邁姊妹茶會」，由姊妹會幹部邀請認同民進黨、支持陳其邁市長候選人的姊妹朋友一同參與。茶會中亦安排代表與姊妹們面對面接觸，以最直接的方式將陳其邁市長候選人的婦女政見傳達給所有在地婦女姊妹，同時蒐集姊妹們的意見，作為未來的施政參考，期望未來推行之政策能夠充分與姊妹們的需求對接。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	邁邁姊妹會的成立目的是為了能夠特別照顧高雄市超過140萬姊妹的需求：依據資料顯示高雄市生育率28&permil;，於六都中排名倒數第2，是什麼樣的原因使得高雄市民較不願意生小孩？65歲以上女性占老年人口55%，針對高齡婦女的政策是否有哪些地方能夠修改得更為完善？陳其邁市長候選人希望能夠透過邁邁姊妹茶會，聽取姊妹朋友最貼近自身生活的問題及意見，了解問題的根本，找到最有效的改善方式。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	邁邁姊妹茶會已於7月10日盛大開跑！第一場活動由高雄市橋頭婦女民主促進會陳楊吻理事長號召80位姊妹一同參與，緊接著第二場也將在本周四(7/16)由在地議員鄭孟洳接棒舉辦。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	邁邁姊妹會將一棒接著一棒，在高雄各區遍地開花。號召所有支持陳其邁市長候選人的姊妹們站出來，成為陳其邁市長候選人在高雄各地區的分身，將陳其邁市長候選人的理念及政見廣泛散播至在地婦女姊妹群中，一同替陳其邁市長候選人固票、拉票、催票。歡迎所有支持陳其邁市長候選人之姊妹們，一起加入我們，在8月15投票日當天，用你的選票力挺陳其邁市長候選人「邁進市府」、「高雄大邁進」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="54365762414e42697332724a6d446b45">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

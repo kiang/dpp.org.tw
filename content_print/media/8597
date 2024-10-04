@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-15</p>
+				<h2>選前最後一天催票 卓榮泰：票票入匭，讓郭國文順利當選</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	選前最後一天，民主進步黨主席卓榮泰今(15)日早上陪同立委候選人郭國文徒步掃街後，由台南市長黃偉哲、立委王定宇等地方黨公職陪同，於永安宮出席「爭一口氣 台南一定要贏」郭國文催票記者會。總統府秘書長陳菊、前行政院長賴清德也到場站台，為郭國文加油、催票，宣示贏下台南這席立委的決心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，他先前已經在黨中央向全體黨公職下達動員令。今天是選前最後一天，方才掃街沿途看到每一區的立委分別站出來，分區組織動員，在最後一天將選情拉到最熱鬧、最有成績的一面。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也說，今天很高興陳菊秘書長特別來替郭國文加油。賴清德院長也沒缺席，過去幾個禮拜以來，賴院長每天早上、下午都陪著郭國文在努力。而我們的黃偉哲市長，雖然市政繁忙，也是利用空餘時間盡量協助，增添郭國文選舉的力量。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰最後再次對黨公職，以及在場所有台南鄉親表達感謝，謝謝鄉親們的動員、溫暖，讓我們有更大的力氣，也拜託大家最後一天繼續拉票、固票，明天每一張票都要投下去，票票入匭，讓郭國文順利當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="78656a584d674276574442534e6a5577">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

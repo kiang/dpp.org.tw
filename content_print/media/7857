@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-08-31</p>
+				<h2>前瞻預算案及國體法三讀 民進黨：台灣人民都會記得這一天</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 針對立法院今(31)日稍早三讀通過《國體法》，民進黨發言人楊家俍表示，本黨高度肯定此法順利三讀通過，全黨立委同志連日來的努力看見成果，你們辛苦了!尤其在下午即將舉行「台灣英雄大遊行」前夕通過此法，這不僅是台灣體育發展史的重要時刻，也是光榮時刻，台灣人民都會記得這一天。對此我們也期待《國體法》，能夠落實我國體育選手的權益保障，加速啟動我國體育改革，未來讓更多的台灣金牌選手，在世界發光發熱。</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 此外，對於立法院今凌晨三讀通過「前瞻基礎建設第一期特別預算」，楊家俍表示，感謝柯建銘總召及黨團同志沒日沒夜的共同努力，大家為了國家的建設與發展，以及國人更好的生活品質，不斷電的鎮守議場表決，終於通過這項重要的預算案，代表著國家有系統的基礎建設更新即將啟動。為此我們期待也相信政府會很快的推動相關建設，同時秉持審慎、透明並拿出最好的執行力，在未來八年讓相關建設儘速並且高品質的到位，帶動國家的前進發展。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="43596a644b58677631353266636c5757">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-05-22</p>
+				<h2>民進黨：中國外交部的蠻橫言行，只會激怒台灣社會</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	台灣無法以觀察員身分與會WHA，中國外交部表示，「歡迎世衛乾淨俐落拒絕邀請台灣」。對此，民進黨發言人Kolas Yotaka今(22)日表示，中國外交部的反應，展現出令人難以置信的粗魯與莽撞，完全背離了「身為負責任大國」的風範；其言語侮辱的不只是民進黨政府，更是全台灣人民，本黨表達最嚴正的抗議。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	Kolas Yotaka強調，醫療防疫不分藍綠，更不分統獨，台灣人民加入國際醫療防疫體系，是天經地義的權利，也符合全球防疫全覆蓋的精神。一再用政治因素阻撓台灣參與WHA，只是一再證明中國的無理打壓和單邊主義的蠻橫言行，換來的只是破壞兩岸關係的大局，和台灣社會的憤愾和不恥。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4249476c58685835704d32526842394d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

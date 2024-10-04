@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-01-15</p>
+				<h2>針對北京誘拉諾魯共和國與我國斷交之聲明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對北京誘拉諾魯共和國與我國斷交，民進黨國際部主任趙怡翔表示，台灣的民主選舉獲得國際社會的肯定與認同，並展現出台灣人民對其價值的堅持。近日包括美國、日本及許多理念相近國家都在第一時間派團或發聲明支持台灣的民主結果，展現民主國家的團結與合作。</p>
+
+<p>趙怡翔表示，在大選結束後，對岸立刻透過外交手段打壓台灣的國際空間，這不但是對民主價值的報復，更是對國際的穩定秩序的公然挑戰。</p>
+
+<p>趙怡翔表示，台灣堅定走在穩健的道路上，對於來自中國的挑釁，我們依然堅守自由與民主價值，會持續提升與國際夥伴的互惠合作關係。中國的文攻武嚇只會使得國人更團結、台灣更具韌性。我們不會在壓力下屈服，絕對不會向威權低頭，台灣人將堅定意志，風雨同路。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4d33584c41443932734c41485476635a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

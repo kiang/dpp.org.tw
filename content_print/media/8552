@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-02-07</p>
+				<h2>林琮盛：民進黨目前不會再處理勞基法</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對民進黨籍立委呼籲三修勞基法，取消加班工時的限制，民進黨發言人林琮盛今(7)日強調，三修勞基法只是立委個人意見，民進黨目前並無再處理勞基法之規劃，而且會請行政部門從實質增加勞動者的所得，並逐步落實勞動保護，來好好保障勞動者的權利。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="70653832346e30614b48685533767269">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

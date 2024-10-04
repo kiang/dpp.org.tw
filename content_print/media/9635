@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-17</p>
+				<h2>民主進步黨第二十屆中執評委暨中常委選舉結果</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(17)日召開第二十屆第一次全國黨員代表大會，並舉行中央執行委員、中央評議委員及中央常務執行委員選舉，由黨秘書長林錫耀宣布選舉結果如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	中央執行委員應選出30人，當選名單如下：呂林小鳳（女）、陳茂松、黃承國、何志偉、黃世杰、蘇巧慧（女）、蔡易餘、林右昌、陳世凱、簡煥宗、許菡芸（女）、彭成龍、李姸慧（女）、林益邦、彭佳芸（女）、陳淑華（女）、紀桂珠（女）、陳亭妃（女）、蘇治芬（女）、王定宇、陳啟能、許淑華（女）、郭再欽、鄭美娟（女）、潘孟安、邱俊憲、林俊憲、王義川、曾姿雯（女）、高閔琳（女）。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	中央評議委員應選出11人，當選名單如下：黃文益、陳坤榮、許文獻、賴瑞隆、呂孫綾（女）、管碧玲（女）、陳文治、林宜瑾（女）、李偉智、王博程、林寶興，並一致推舉賴瑞隆同志為第二十屆中央評議委員會主任委員。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	中央常務執行委員應選出10人，當選名單如下：陳茂松、黃承國、何志偉、蘇巧慧（女）、蔡易餘、林右昌、陳世凱、王定宇、林俊憲、許淑華（女）。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f754c695070474f6665484579396b44">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

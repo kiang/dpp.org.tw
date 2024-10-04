@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-18</p>
+				<h2>蔡總統LINE推2020年國際好消息票選活動 台灣防疫表現、外交成果都入列 </h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	2020年即將進入尾聲，總統蔡英文今(18)日於官方LINE＠帳號推出「2020有影喔！十大看見台灣 國際好消息」票選活動，以問卷形式，列出二十項今年台灣受國際肯定的新聞，邀請支持者一同選出十大國際好消息，並且希望大家分享，讓世界看見台灣2020逆勢成長的佳績。</div>
+<div>
+	&nbsp;</div>
+<div>
+	民進黨網路社群中心主任范綱皓表示，蔡總統日前先在Instagram限時動態募集「2020印象最深刻的台灣國際好消息」，短短兩天就募得近千則的回應。從支持者的回應中，再列出前二十名讓人最有印象的國際新聞，作為本次票選的題目。</div>
+<div>
+	&nbsp;</div>
+<div>
+	范綱皓指出，在蔡總統官方LINE＠帳號所發布的問卷題目分為「民主防疫國際肯定」與「外交有成前進世界 」兩大類，題目包括：蔡總統登時代雜誌、拜登恭賀蔡總統連任、美眾院通過台灣法案、捷克參院議長說我是台灣人、美國衛生部長訪台、 蔡總統入選彭博全球50大等，民眾有感、國際肯定的防疫表現、外交成果新聞全都入列。</div>
+<div>
+	&nbsp;</div>
+<div>
+	范綱皓也提到，回顧2020年，台灣以民主防疫，受到多項國際肯定，在經濟上逆勢成長。外交上，除了台美關係史上最好，「Taiwan Can Help」的印象也傳遍世界。因此希望藉由舉辦票選活動，邀請支持者共襄盛舉，一同回顧、票選2020年台灣人民勇敢防疫、政府拚外交所獲得的肯定，並一起將這些台灣好消息分享出去。</div>
+<div>
+	&nbsp;</div>
+<div>
+	「2020有影喔！十大看見台灣 國際好消息」票選活動將自12月18日起進行至12月22日，進行為期五日的票選活動，票選結果也將在年末於蔡總統官方LINE＠帳號及各社群平台公布。</div>
+<div>
+	&nbsp;</div>
+<div>
+	蔡總統官方Instagram帳號：https://www.instagram.com/tsai_ingwen/</div>
+<div>
+	蔡總統官方LINE@帳號：https://linked.tw/ryJQwQF8</div>
+<div>
+	「2020有影喔！十大看見台灣 國際好消息」票選活動連結：https://linked.tw/line/line_normal_form_iing_JIKGQ7</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7a434564694d6d556232446e684b3635">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-12-03</p>
+				<h2>民進黨：國民黨和蔣萬安勿再狡辯 卡住不孕症、產檢假薪資補助預算</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	國民黨立法院黨團宣布罷審高達2兆餘元的全民預算第四天，民進黨發言人劉康彥今(3)日痛批，只要國民黨卡住預算一天，包括產檢假薪資補助、育嬰留職停薪津貼等與民生相關的補助，民眾都無法受惠！請國民黨和國民黨立委蔣萬安不要再狡辯，快點審預算，讓這些補助可以儘快發放！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，目前線上申請不孕症補助的人數已經高達數萬人，如果預算沒過，就會影響這些已經申請補助的民眾，明年將會無法將補助金額撥入申請者帳戶，國民黨和蔣萬安還想繼續用立法院議事規則來推卸責任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，蔣萬安身為立法院社福衛環委員會召委，難道不知道所有預算在委員會審查完畢後，財委會才能彙整所有部會的審查結果，送交院會進行二、三讀通過執行。蔣萬安為了打造自己好爸爸的形象，聲稱關心不孕症等社福議題，事實上卻跟國民黨團一起罷審全民預算，影響眾多社福預算執行。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，國民黨的各委員會包含內政委員會召委林為洲，至今未完成原民會、客委會、內政部等預算審查；外交國防委員會召委陳以信負責的包括僑務委員會、國防部、退輔會的預算；經濟委員會召委謝衣鳯負責的公平會、經濟部等預算等，都還沒有審完；另外科技部與文化部的預算卡在國民黨召委李德維手上，以及衛環委員會召委蔣萬安負責的勞動部與環保署預算也沒有完成審查。劉康彥表示，這就是國民黨召委負責的態度？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥呼籲，國民黨朱立倫主席，請放下政治鬥爭的心態，要求國民黨的召委們快點回到立法院內專心審查預算，別以政黨的私自利益，妨礙國家的發展。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="62636d30344638766f5a425037556a64">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

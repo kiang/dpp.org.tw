@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-08-25</p>
+				<h2>民主進步黨第十九屆第五十次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(25)日召開第十九屆第五十次中常會，黨發言人謝佩芬會後轉述蔡英文主席致詞，全文如下：&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	各位中常委，大家午安。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	眾所周知，我已經完成了接種疫苗第一劑，接種後沒有什麼異狀，工作也都照常。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這兩天來，我們許多黨公職、支持者，都在臉書上秀出接種小黃卡，一起來支持國產疫苗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	疫情當前，掌握疫苗生產能量是重要的國家戰略。我們會緊盯後續國產疫苗的進度，也會持續催促外購疫苗儘早到貨。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	至於大家所關注的BNT疫苗的取得，相關的採購，在鴻海/永齡基金會、台積電、慈濟，以及政府多方的共同合作下，才能夠成功的克服困難，順利完成，這是公私部門合作的最好典範，也證明只要團結努力，沒有不能克服的困難。後續疫苗取得，我們也是秉持同樣的原則，全力以赴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今天我也注意到，有一則新聞，有媒體刻意炒作內閣即將改組的議題。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我明確地告訴大家，內閣沒有要改組。蘇院長以及他所領導的行政團隊，沉著應對疫情威脅和許多艱難挑戰，讓疫情能夠獲得控制，經濟穩定成長。眼前我們還有很多挑戰要克服，有關內閣改組的政治操作，應該要適可而止。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外，在大家的共同努力之下，疫情正獲得有效的控制，但疫情趨緩不代表大家可以鬆懈，特別在全球疫情仍然不穩定的狀況下，一定要持續謹慎、全力配合指揮中心的各項指引。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	馬上就要開議了，這個會期還有很多事情要做，也請大家團結努力、一起打拚，一起讓台灣更好，謝謝大家。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另針對稍早指揮中心宣布今日沒有新增本土確診案例，蔡英文主席也在會議結束前表示，這是繼5月9日以來台灣第一次本土「加零」，所以她要利用這個機會，謝謝國人配合防疫工作，讓台灣的疫情能夠逐漸趨緩。但是，蔡主席也強調「加零」不代表「清零」，疫情趨緩不代表大家可以放鬆，特別在全球疫情仍然不穩定的狀況下，希望大家持續謹慎，全力配合指揮中心的各項指引，讓我們一起團結防疫、守台灣。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="736d357064463952585934537a4b7a57">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

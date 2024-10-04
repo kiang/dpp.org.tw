@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-12-12</p>
+				<h2>公投法修正案三讀通過 民進黨：落實直接民主、還權於民</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 針對今(12)日立院三讀通過公民投票法修正案，發言人Kolas Yotaka表示，對於所有黨籍立委的辛苦，中央黨部表示肯定與感謝。這次的修法通過，是落實民主進步黨長期以來為深化台灣民主、還權於民的主張，也是以具體行動，實踐蔡總統競選政見。從促轉條例的通過到公投法的修正，民主進步黨正一步步實踐我們鞏固台灣民主體制、促進公義的實踐、歸還主權於民的政治承諾。&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; Kolas Yotaka表示，民進黨強調本次修法必須「打破鳥籠，還權於民」。因此，透過修法的程序與多元的討論，將公投法的公投門檻下修：從提案門檻下修為「萬分之一」、連署門檻下修至「百分之一點五」、通過門檻下修為有效同意票多於不同意票。同時，為了還權於民，促進公民對於國家政策的直接參與，也下修了有效同意票達投票權人總數四分之一。另外，將公投審議委員會廢除，不再有菁英的意見綁架人民，並將投票年齡限制修改為18歲等，讓青年可以透過直接民權，參與國家重大公共政策的討論。上述各項修正，都將增進更多公民得以參與表達的權利，實踐還權於民。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 對於在野黨時代力量提出屬於憲法範疇的部分(例如：領土變更、新憲法制定等)，Kolas Yotaka進一步表示，由於公投法為程序法，因此多數立委主張此一部分應當交由憲法處理；另在兩岸協議部分，應以推動中的兩岸監督條例加以規範。此外，對於國民黨所提不在籍投票的議題上，本黨也支持相關委員的意見，以專法加以訂定相關規範。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; Kolas Yotaka強調，公民投票是落實直接民主、還權於民的最重要法案，也是鞏固台灣民主體制的重要基石。民主進步黨自創黨至今，一直積極捍衛台灣的民主體制、促成台灣民主的轉型與深化。今天公投法的修正，是台灣民主在深化的重要里程碑。民主進步黨期待未來，在新版公投法的架構下，台灣人民可以有更多更直接的管道，參與國家公共政策的討論，讓民主更堅強的扎根在台灣這個美麗島嶼上。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6e58324c4d4c4c37463849347158546f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

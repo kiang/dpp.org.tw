@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-10-31</p>
+				<h2>「18 Make Your Own Choice」用具體行動表達「民主挺同志」 林飛帆：和追求幸福、平權的朋友站在一起</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨副秘書長林飛帆今(31)日，率領中央黨部黨務主管及雙北黨公職，組隊參加婚姻平權法案通過一周年後的「第18屆台灣同志遊行」。本次遊行活動，我們特別開放「網路報名」及號召「首遊族」，邀請民眾、年輕朋友及首遊族加入民進黨大隊。網路報名開放四百位名額，十分鐘內就迅速額滿，響應非常熱烈；今天遊行現場場面浩大，民進黨也全程參與遊行，不論是透過網路報名還是現場才加入民進黨大隊的民眾，都與民進黨一起為同志朋友們勇敢發聲，用具體行動表達「民主挺同志」，相挺同志權益。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆表示，今天很高興能夠跟所有黨公職站一起參加遊行，今年參與的隊伍非常盛大，參與黨公職人數跟往年比起來，也是人數最多的。從去年的婚姻平權司法院釋字第七四八號解釋施行法通過後，今年是通過的一周年，今天一起出席這個活動，只是要告訴大家，婚姻平權法案通過並不會是平權運動的終點，從最近這陣子看到非常多的討論，也代表台灣社會距離真正的平權還有一段距離，也還有努力的空間，今天帶領所有黨公職站在這邊，也是希望在我們的崗位上能夠盡可能推促平權，讓大家認知到，這個社會還有很多朋友，期待未來可以處在一個沒有歧視且被理解的環境。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆強調，今天民進黨參加遊行的主題是「18 Make Your Own Choice」，會用這個主題，是因為今年是第十八屆同志大遊行，同時18也意涵著最近不斷在討論的18歲公民權，我們知道非常多的年輕朋友，在等待一個公平、可以決定自己未來的權利，所以今天把這兩個概念結合在一起，也是要告訴大家，希望未來所有成人，年滿18歲的朋友，大家都應該要享有決定自己未來的權利，不管是追求自己幸福的權利，還是追求自己在公共事務上、對未來政策及國家想像上的權利，這是這次民進黨為什麼要特別組隊，用這樣的標語，來做一個號召，邀請所有的朋友一起參加。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆表示，今天的隊伍裡，還有很多第一次來參加遊行的年輕朋友，過去也許沒有機會參與，這次在民進黨青年部以及社群的號召之下，一起參與遊行，今天是一個很盛大、歡欣鼓舞的一天，跟過去參加同志大遊行一樣，今天在這裡和所有同志朋友站在一起，也和所有追求幸福、平權的朋友站在一起。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今天與會公職有立委蘇巧慧、賴品妤、沈發惠、林楚茵、高嘉瑜、范雲、何志偉、洪申翰、台北市議員梁文傑、李建昌、許淑華、簡舒培、王閔生、陳慈慧、劉耀仁、周威佑、吳沛憶、許家蓓、陳怡君、洪健益、新北市議員戴瑋姍、桃園市議員王浩宇及基隆市議員張之豪。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3741695a4e6234376178564462463848">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

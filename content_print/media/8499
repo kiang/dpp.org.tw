@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-23</p>
+				<h2>台北選前之夜 蔡英文：守護台灣主權、守護國家首都，支持姚文智，一起實現台北夢</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民主進步黨主席蔡英文今(23)日結束新北市行程，隨即前往台北市，由台北市長候選人姚文智、行政院長賴清德、駐日代表謝長廷、國策顧問黃承國、顏志發、康義勝、市議員候選人，及所有黨公職陪同出席台北市長候選人姚文智「國家首都・勝選之夜」，超過萬名支持者到場力挺，現場旗海飄揚，熱情的凍蒜聲此起彼落、響徹雲霄，展現捍衛國家首都勝選氣勢。蔡英文致詞表示，選舉到最後一刻，有些話，要跟全國的選民說。這次選舉，是台灣民主發展過程中，非常關鍵的選舉，明天，拜託大家，「市長姚文智，議員全壘打」，一定要投票，守護台灣民主，守護台灣主權，守護國家首都，一起實現台北夢。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文主席致詞全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	準備承擔台北市重任的姚文智、敬愛的前輩史明、謝長廷院長、剛剛一同在板橋，一起過來，有情有義的賴院長、國策顧問黃承國、顏志發、康義勝、陳正德主委、在場所有的立委、議員、所有黨公職、後援會的好朋友，以及所有台北市民，大家好！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	選舉活動很快就要正式結束。今天，我先從高雄、台中跟新北，最關鍵的時刻，我一定要回來台北市，跟姚文智一起，拚到最後，拚到勝利。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	禮拜三的時候，我看到大家真的有夠熱情。這代表，我們氣勢跟信心回來了。我跟大家報告，今天的人更多、更熱情，這就代表了我們對台北的企圖心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我們要讓姚文智，要讓所有民進黨的市議員，為我們所有的市民，一起實現台北夢。所以，在最關鍵的時刻，不要猶豫、不要遲疑，大家都來支持姚文智好不好？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	這次的選舉，我們都看到姚文智一路走來的辛苦。就算被攻擊、被嘲諷，文智還是一步一腳印，一個政策一個政策提出來，一雙手一雙手的握，這樣的姚文智，真的讓人敬佩。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	昨天，我們看到姚媽媽的影片，看到文智太太的堅毅，如果你跟我一樣感動，請走出家門，把神聖的一票投給姚文智好不好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	選舉到了最後一刻，我有一些話，要跟全國的選民說。這次的選舉，是台灣民主發展過程中，非常關鍵的選舉。面對境外勢力的介入，面對對手惡質的人身攻擊，面對反改革、反建設的民主逆流。讓台灣的民主遇到非常大的危機。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	守護台灣民主，守護台灣主權，守護國家首都，只有一個辦法，就是站出來投票，台灣的民主，就差你一票，明天不管天氣怎麼樣，都站出來投票好不好？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	一起來守護台灣的民主好不好？一起來守護台灣的主權好不好？都說好了，明天，拜託大家，「市長姚文智，議員全壘打」，就差你一票，一定要投票，我們一起來打拚，拚到贏，謝謝大家。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="78777446517643547738346572565456">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

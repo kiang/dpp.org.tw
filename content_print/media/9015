@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-06-24</p>
+				<h2>民主進步黨第十八屆第二十七次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(24)日召開第十八屆第二十七次中執會，會中通過審查2020年第十九屆中央執行委員暨中央評議委員選舉參選人資格案。另，會中邀請客家部主任周江杰以「2016、2020年客庄選票分析暨未來行動方案」為題進行專案報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨發言人顏若芳會後轉述蔡英文主席聽取報告後裁示，蔡英文主席表示，客庄選區的經營是要全面性、長期部署，未來中央黨部在佈局、提名策略上，應採取更為靈活的作為，積極培養人才，給予資源挹注。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，顏若芳轉述蔡英文主席於會中致詞如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	近來，考、監提名的事情確實在台灣社會引起討論，尤其是廢除考、監這件事情上面。廢除考、監是民進黨一貫的主張，近日我們看到在野的政黨也都有相同的主張，我們樂見這樣的發展，雖然廢除考監需要透過修憲，而且還需要經過公民複決的工作，推動需要一段時間，也需要高度民意的共識，我們歡迎在野黨一起來談，在國會裡面凝聚共識一起來推動憲政改革。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	不過，過去大法官釋字632號解釋裡有說明，總統有提名監委的義務，立法院也必須同意權的審查，所以監察院尚未修憲廢除之前，監察權仍是存在的，總統和國會都有義務要遵循憲法來提名和審查。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	至於未來如果透過修憲廢除考監兩院，機關權責的移轉、相關的配套作為及過渡的設計，都必須有審慎的規劃，希望國會在進行修憲程序的同時，能夠有細部完整討論。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外，對於監院提名，主席重申，陳菊女士當然不需要什麼擋箭牌，我們的提名就是為國家舉薦適合的人選，同時實現超越政黨、化解對立的價值。陳菊女士長期以來對於進步價值的支持及貢獻有目共睹，另外，她自己也親身經歷過威權時代，也受過壓迫。但是即便再大的壓力，甚至於失去自由，她都不改對人權的堅持跟投入。她從政以後，不論是在中央或是地方任職，她的政績都非常好，她的行政經歷更是難能可貴，從各方面考慮來講，她都是一個適當的人選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="65326e636f5157773566674654664966">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

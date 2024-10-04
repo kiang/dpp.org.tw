@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-25</p>
+				<h2>在廚房裡練「定」心拳！苗栗徐定禎炒一盤「轉虧贏3億」的獨門粄條</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民進黨網路實境節目《一碗麵的時間》今（25）日推出第6集，邀請有「城市理財大師」封號的苗栗縣長參選人徐定禎，炒一盤「獨門」客家粄條，其料理不僅有「投資秘笈分享」，粄條炒到一半時，徐定禎還突然在爐邊示範起太極拳的「鳥伸」和「抱西瓜」等招式，強調從政路上面對各種挑戰，以及對付市政等疑難雜症時，「思前想後」與「定心」最為關鍵，所以「定式」口味的客家粄條10分鐘就效率上桌！</p>
+
+<p style="text-align: justify;">徐定禎在擔任苗栗縣頭份鎮長與市長任內，翻轉頭份負債6千萬，變結餘3億，黃彩玲大讚是「很會理財的市長」。徐定禎說，他從政前擔任過證券交易營業部經理，有成本效益觀念，因而在規劃城市建設時，更會「思前想後」、「能省則省」；他也分享自己「交了學費」而習得的投資兩撇步，包括持自有資金與慎選績優股等，強調「絕不信用擴張」才是長遠之道，也看出徐定禎的踏實性格。</p>
+
+<p style="text-align: justify;">徐定禎說，即便他當年踏入政壇，是受到表哥、時任國民黨議長的游忠鈿鼓勵，但徐定禎始終堅持本土，也提到佩服黨主席蔡英文在民進黨2008年低潮時，一肩扛下的勇氣，他深知自己這次參戰苗栗縣長很艱辛，「但家園無論如何都不能被共產黨奪去」，所以他會堅持自己的信念奮戰到底。</p>
+
+<p style="text-align: justify;">而身為苗栗之子，徐定禎對苗栗的醫療資源不足，相當不滿，他認為這是現任縣長長年無心治理的後果，也提到苗栗縣即便好山好水，位於兩大都市之間，但縣民卻長期缺乏光榮感，讓講求效率的他看不下去，這次要為家鄉再拚一次。黃彩玲也說，徐定禎的效率完整體現在廚藝上，「狂加料」讓黃彩玲幾度在廚房裡尖叫，沒想到一盤色香味俱全的客家炒板條，10分鐘就上桌，還跟「徐媽媽炒的粄條」相似度很高，徐定禎也自豪「這我這輩子炒過最好吃的粄條」。</p>
+
+<p style="text-align: justify;">此外，徐定禎愛狗眾所皆知，談起自己的蝴蝶犬「阿牛」就雙眼發光，但徐定禎無奈說「好像取錯名字」，養了隻「牛」脾氣的狗，不只固執小氣，「連總統蔡英文來都不給抱，讓他十分沒有面子」；不過，也因為作為毛小孩的家長，更了解狗狗貓貓的需求，苗栗縣第一座寵物公園就是他打造的，大受縣民好評，更成功再造閒置空間。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/7ZWGWhuQWog" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3344364f6441314e596f6e566e666b35">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

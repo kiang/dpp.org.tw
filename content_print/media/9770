@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-26</p>
+				<h2>周春米盼高鐵屏東站明年動工！要延續5星政績再創屏東驕傲</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">因應選戰倒數節奏，與網友敲碗盼其鍾意的縣市長候選人能快點來煮麵，民進黨網路實境節目《一碗麵的時間》從本週開始加碼，一週上線2集，每週一、四中午12點準時上菜！今（26）日第11集邀請屏東縣長候選人周春米，煮一鍋澎湃海鮮鍋燒意麵。周春米從法官、律師到立委工作表現出色，但被問及人生有沒有想「重考」的考卷時，語帶哽咽提到「沒有孩子跟與父親緣淺」是她人生兩大遺憾，掙扎很久才坦然面對老天安排，最後決定專心在工作上，把愛與力氣都奉獻給故鄉。</p>
+
+<p style="text-align: justify;">周春米說，身為家中獨生女又老么的她，總獲得父親滿滿的關愛眼神，每天騎車載她兜風覓食非常幸福，可惜太早因病離世。而在父親離開後，周春米為求子求女拚好孕，也於38歲時接受不孕症治療，但植入的受精卵不到3個月就萎縮，受孕成功的喜悅反覆被擊落，她回憶當時「不只身體不適，還要法律案件的當事人付託，身心壓力都很大」。</p>
+
+<p style="text-align: justify;">周春米透露，自己小時候是沒有信心的「醜小鴨」，小時候受從政父親、議員周輝煌的啟蒙，被當時的黨外民主思潮以及「台北市議會三劍客」陳水扁、謝長廷、林正杰「煞到」，才是激起她「天然獨」和「有為者亦若是」的關鍵，高三開始認真讀書考試，每天唸到半夜2點，努力拚上憧憬的台大法律系。</p>
+
+<p style="text-align: justify;">周春米說，自己本來就是喜歡接觸人的個性，每段工作歷練都成為她的養分，支撐她深耕屏東數十載熱情不減，也積極為屏東爭取建設，例如高鐵南延、國際棒球場、屏東榮總等。這次接棒潘孟安縣長的五星政績，周春米坦承有壓力，但她已經準備好了！承諾上任後會延續「我屏東 我驕傲」精神，力促高鐵屏東站明年動工，只要屏東不再遙遠，產業進來，年輕人也會回來。</p>
+
+<p style="text-align: justify;">周春米講起家鄉規劃胸有成竹，但廚藝卻大相徑庭！她說自己很喜歡煮麵，因為簡單快速、還能清冰箱，但坦言「品質不太穩定，可以說是每況愈下」、「但至少比超商好吃」，不過也害羞表示，只要是她煮的，先生都吃得很開心。而過程中，她也化身「超級推銷員」，從超夯的石斑魚、高樹芋頭，到特色店家自煮的沙茶，每一樣都如數家珍，讓黃彩玲在一旁邊吃邊喊：「好羨慕屏東人！」</p>
+
+<p style="text-align: justify;">除此之外，周春米也談起求學糗事。她說，大學的憲法課被當，而該堂老師就是嘉義市長候選人李俊俋的父親、李鴻禧教授，黃彩玲本以為「不及格」讓周春米覺得尷尬，結果周春米突然自爆：「是當時男友幫我看的成績，我覺得很丟臉」，語畢發現不對勁，急忙求饒「不是我現在的先生，是初戀，不要再說了！這個不會播出吧？」讓黃彩玲笑到不行。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/lt9N_eMvRuk" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="58333148443551394561715467737449">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

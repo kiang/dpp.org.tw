@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-04</p>
+				<h2>李問：阻擋台灣出席WHO疫苗會議，中國全無善意，豈有協議空間？</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對中國刻意技術性阻擋、導致台灣首度缺席世界衛生組織（WHO）疫苗會議一事，民主進步黨發言人李問今(4)日表示，台灣作為國際社會的一份子，積極參與國際性組織並做出貢獻，是全體台灣人共同的期望，而中國不斷打壓台灣參與國際組織，此次作為更嚴重影響台灣人民的健康人權，也恐將造成全球防疫漏洞，顯見中國對台灣全無善意，在這樣的基礎下，若如國民黨所倡議，要去跟中國談所謂「和平協議」，無異是與虎謀皮，所談出來的也只會是「投降協議」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問表示，民主進步黨主張，健康是普世人權，衛生防疫不應有國界，強烈呼籲WHO能堅持健康專業立場，尊重台灣人民有權享有與世界各國所有人一樣的健康權益，一視同仁，不應配合中國惡意的打壓，刻意排除台灣參與，致使台灣人民處於全球防疫網之外，這是台灣的損失，也是世界的損失。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問指出，近年來，中國不斷的以非善意、不理性的手段向各個國際組織施壓，阻擋台灣的參與，矮化台灣國際地位，損害台灣國家主權，可說是為遂行其政治立場，無所不用其極。對於中國在國際社會無理的威逼，民進黨秉持守護台灣主權立場，及捍衛民主自由的價值，支持政府參與國際社會之決心，不畏懼打壓，尋求更多民主自由陣營國家支持，提升台灣的國際能見度。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問進一步說到，從隱瞞非洲豬瘟疫情，到阻擋台灣出席疫苗會議，還有過去毫無間斷地打壓台灣國際參與的種種行為，我們早應清楚看見中國蠻橫強權的本質，而讓人難以理解的是，居然國民黨還主張要和這樣的中國，洽簽「和平為名、投降為實」的政治協議，配合中國欺騙台灣人民。民進黨重申，只要中國不願意放棄武力犯台，以「一個中國、一國兩制」的框架打壓台灣，和中國簽署任何的政治協議，就是投降協議，併吞的前部曲。今天疫苗會議事件，只是再一次突顯，期待中國的善意，無異空中樓閣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，李問表示，五月將舉行世界衛生大會，民進黨鄭重地呼籲WHO能堅持健康專業立場，不要再配合中國政治立場，而阻擋台灣參與，再次犧牲台灣人民的健康人權，讓台灣成為全球防疫的漏洞。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6436704b6e69794d786a555457796974">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

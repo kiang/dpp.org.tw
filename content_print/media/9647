@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-27</p>
+				<h2>民進黨苗栗隊各就各位，全力讓苗栗轉虧為盈，改變成禎！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨秘書長林錫耀表示，今（27）日蔡英文主席邀集苗栗縣縣長參選人徐定禎、民進黨立法院黨團總召柯建銘、前立委郭俊銘，就苗栗縣長選戰進行充分討論，邀請總召柯建銘擔任主任委員，領軍苗栗隊捲起袖子一起改變苗栗，讓苗栗縣「轉虧為贏，改變成禎。」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林秘書長轉述，除柯建銘總召擔任主任委員外，出身苗栗的立法委員羅致政也將接下總幹事一職，並由擁有豐富操盤經驗的前立委郭俊銘擔任執行總幹事。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林秘書長表示，自徵召提名徐定禎參選苗栗縣長以來，如同蔡主席在提名記者會上期許，地方都期待徐定禎的頭份經驗能擴大成苗栗經驗，解決苗栗長期的財政問題，為地方帶來新氣象。日前，苗栗隊也舉行了團結苗栗、改變成禎誓師大會，共同力拚翻轉負債虧損、建設停滯、被污名的苗栗縣，團結聯合作戰，把過去以來苗栗人民虧的福祉贏回來，邁向勝選，讓苗栗改變成真。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f4d734a3434396e706834784c437066">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

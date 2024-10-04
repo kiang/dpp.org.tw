@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-02-22</p>
+				<h2>回應國民黨成立律師團　民進黨：轉移國民黨籍首長涉案焦點</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨主席朱立倫今（22）日召開記者會成立律師團一事，民主進步黨發言人周江杰表示，朱主席大張旗鼓召開記者會成立所謂的中央律師團，很難讓人不去聯想到是不是想轉移今早國民黨籍宜蘭縣長林姿妙官邸再度被檢方搜索的事情。周江杰呼籲，國民黨這樣的政治操作只會產生反效果，呼籲國民黨應儘速正視執政縣市首長傳出疑似弊案的問題，才是回應民眾質疑的方法。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，根據近期各種坊間民調數字，有高達六成的台灣民眾對國民黨感到反感。證明國民黨把所問題只會怪司法、怪媒體、怪名嘴、怪網友的說法無法讓民眾信服。只是把所有國民黨的內部問題轉移焦點，企圖掩飾國民黨在朱立倫領導下，政黨支持度持續下探的真相。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，全台有高達15個縣、市是由國民黨籍首長執政，這些縣市首長也必須面對社會和民眾的監督和檢驗，請朱主席不要想打民進黨時，就喊著要串連國民黨縣市長；想要迴避政黨支持度下滑時，就批民進黨一黨獨大，這種雙重標準的政治操作，早已被看破手腳。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3761787758374763483366304f667030">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

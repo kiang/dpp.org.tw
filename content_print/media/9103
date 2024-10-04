@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-12-11</p>
+				<h2>NCC依法進行專業審查 不容國民黨胡亂指控扭曲</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨今（11）日召開聲援中天新聞台依法換照未過國際記者會，民進黨表示，國家通訊傳播委員會（NCC）是獨立機關，任何政黨都不應介入影響。電視執照定期審查為NCC職責所在，從過去馬政府時代，到現在的蔡政府，NCC皆必須依相關法令，進行專業審查。其所依據法令及相關規定，皆有共同標準。國民黨卻昧於法律規定，胡亂指控，除顛倒是非外，亦讓人不禁懷疑，難道過去馬政府能操控NCC的專業審查結果？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨指出，早在馬英九執政時，2012年就有NCC審查電視台未予通過的前例、2014年中天新聞台申請換照審查，當時NCC就已經做出附帶條件後予以換照的決定，顯然是對其准予換照就已有所保留。而不論是2012、2014年國民黨馬英九執政時期，或是今年的中天新聞台依法申請換照，NCC都是依循相同的法律來依法審查，標準都是一樣。國民黨卻昨是今非，一味指責NCC。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	且根據北高行駁回假處分之裁定書，中天早就明白當六年期限屆滿後，未必能順利獲准換發執照，是本可預見之事，NCC的處分並不會對中天造成重大損害或急迫危險；另考量新聞媒體屬於全體國民之公共資源即社會公器，應受國家政策與主管機關依法監督，故依利益衡量原則，駁回中天所提之假處分。這與國民黨指控傷害新聞自由之說，完全無關。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	就NCC處理中天換照一事，長期關注新聞自由的國際非政府組織「無國界記者組織」（RSF）曾發表聲明，認為NCC決議並未涉及侵害新聞自由；新聞自由並不是毫無管制，需要相關管制及民主的控制，才能有效發揮其效用，而不是被濫用。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，根據RSF發表「2020世界新聞自由指數」報告指出，台灣的新聞自由度，排名是亞洲地區前兩名，與南韓是東亞地區新聞自由的典範。該報告亦說明了民進黨一貫捍衛新聞與言論自由，絕不會介入NCC，尊重其依法獨立行使職權所做的審查決定。民進黨相信國人的眼睛是雪亮的，事實不容被似是而非的指控給扭曲，社會大眾自有公評。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="54677850466b73354747653935726c62">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

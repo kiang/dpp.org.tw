@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-07-16</p>
+				<h2>斯洛伐克贈台1萬劑疫苗 民進黨：善的循環，共同克服難關</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	關於歐盟宣布斯洛伐克將捐贈1萬劑COVID-19疫苗給台灣，民進黨發言人謝佩芬今天表示由衷的謝意。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬回顧，台灣中央與地方政府曾在去年捐贈斯洛伐克70萬片口罩，如今斯洛伐克在全球疫情嚴峻之際，宣布捐贈台灣疫苗，這就是「善的循環」，足見朋友間相互幫忙，共同克服難關。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬進一步回顧，斯洛伐克自去年10月起即將我國列入綠色安全名單，是歐盟第一個對台灣民眾入境免除隔離檢疫的成員國。今年5月，斯洛伐克國會外交委員會首次通過支持台灣參與世界衛生大會（WHA）決議案。斯洛伐克行政與立法部門一連串友好的行動證明，儘管兩國地理距離遙遠，但有著堅實的友好情誼。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，台灣與斯洛伐克間的情誼，除了奠基在共同的價值，更有賴第一線外交人員的努力。民進黨要特別感謝所有在疫情期間堅守崗位、為台灣與友好國家間深化雙邊關係的外交人員。我們期待，在友好國家互相扶持下，全球能早日度過疫情。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="62366c696b384f78533649745265754e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

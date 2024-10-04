@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-03-13</p>
+				<h2>民主進步黨第二十屆第五十六次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>民主進步黨今(13)日召開第二十屆第五十六次中常會，黨發言人吳崢轉述賴清德主席致詞，全文如下：</p>
+
+<p>社工朋友不僅大多數都全年無休、隨時待命，更是在許多案件中，承受了非常重要、也相當沈重的責任與壓力。</p>
+
+<p>許多個案與家屬的情緒，以及一幕幕讓人心碎的畫面，都是他們獨自承擔的。我相信絕大多數的社工朋友，對於助人工作都是無懼無畏、盡心盡力。</p>
+
+<p>我們除了保障孩子的安全、究責嚴懲，以及推動制度改革外，更要同時確保社工的辛勞，可以被重視。我希望事件過後，不會讓這些辛勤助人的社會工作者，因此被澆熄了志業的火花，而是能更加獲得國人的認同與尊重。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="453539656e56656e356c366430707164">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

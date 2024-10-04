@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-12-19</p>
+				<h2>廟口開講輔選黃秀芳 卓榮泰：將黃秀芳留在國會為彰化爭取建設，讓彰化成為「幸福芳城市」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	民主進步黨主席卓榮泰今(19)日晚間，陪同立委候選人黃秀芳赴彰化湳浘修水岩觀音佛祖廟參拜，並於廟口開講座談會，向鄉親細數黃秀芳立委任內各項政績。卓榮泰致詞時表示，黃秀芳是現任者，將現任者留在立法院，是民進黨國會過半的第一個條件，黃秀芳一定會讓彰化成為「幸福芳城市」，為彰化帶來更多建設、照顧。</p>
+<p>
+	&nbsp;</p>
+<p>
+	卓榮泰表示，他就任民進黨主席以來，一直強調三個目標，保住本土政權，讓總統連任，維持國會優勢，讓國會過半，唯有達成前兩個目標，才能繼續推動進步價值。卓榮泰特別拜託鄉親為黃秀芳和民主進步黨拉票，全台有118萬首投族，務必要說服年輕人返鄉投票，並舉香港為例，因為香港的年輕人站出來，美國才會以《香港人權與民主法案》保護香港，台灣的年經人也要展現這樣的決心。</p>
+<p>
+	&nbsp;</p>
+<p>
+	卓榮泰強調，全國所有縣市，國民黨在彰化提名的四個立委候選人最為離譜，包括有重大刑案前科、運毒前科和長期以地方勢力壟斷媒體的人，民進黨提名的候選人不會有這些人，絕對可受大家檢驗。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="495457656c6f43586d48416a45477754">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

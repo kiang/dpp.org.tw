@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-17</p>
+				<h2>嘉義朝天宮參香 蔡英文：再給涂醒哲四年，讓我們支持的市長繼續做下去</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	結束上午新竹縣行程後，總統暨民主進步黨主席蔡英文今(17)日，下午由嘉義市長候選人涂醒哲、立委李俊俋、嘉義市小英之友會長黃淑英、競選總幹事陳茂松、議員候選人及多位黨公職陪同，前往嘉義市朝天宮參香祈福。蔡英文致詞表示，雖然許多人說涂醒哲不太會講話，但重要的是他有原則、目標明確，不論經歷多少挫折，要做的事一定要完成。她強調，再給他四年，讓我們支持的市長繼續做下去。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，今天是來感謝媽祖保佑，2014年嘉義市長順利當選，和2016年當選總統。涂醒哲市長是醫生，也是在地嘉義市人，雖然許多人說他不太會講話，但重要的是很會做事，就算遭到他人批評、謾罵，也是靜靜地做。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提及，8月水災時，大家才知道他做了很多，因為清淤、清下水道，以前淹水的地方都不淹了，這是因為市長默默認真的做，才有這種成績。這次選舉到這個地步，有很多假消息，聲勢好也是做出來的，相信民主正義是選舉中最重要的事，要選會做事、會照顧地方的人，而不是話多、做少事的人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文也說，涂醒哲除了會做事，也很會爭取預算，每次上台北爭取，都覺得他真的是鍥而不捨，一次、兩次不行，就繼續努力到成功為止。嘉義市鐵路高架化是許多年來多少市長都做不成的，但涂醒哲市長做得成，他很有原則、目標明確，不論有多少挫折，要做的事一定要完成。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文強調，拜託再給他四年、拜託大家週六要去投票，這次連任最重要關鍵就是有沒有去投票，這個市長是我們支持的市長，應該要讓他繼續做下去。有這個決心就一定要去投票，再次跟各位鄉親長輩拜託，週六一定要去投票，謝謝。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="343575616152346d59434956374c494a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

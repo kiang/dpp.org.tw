@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-10-07</p>
+				<h2>民主進步黨第十九屆第十次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(7)日召開第十九屆第十次中常會，會中邀請淡江大學教育政策與領導研究所所長薛曉華以「為明日啟動的教育變革-108課綱的執行現況與展望」為題進行專案報告，黨發言人周江杰會後轉述蔡英文主席聽取報告後裁示，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝謝淡江大學教育政策與領導研究所薛曉華所長針對「108課綱的執行現況與展望」為我們所做的報告。108課綱的調整，是希望提供更多元、更彈性的學習路徑，把學習的主動權還給孩子，在高中階段設計自主學習的課程，探索自己的興趣，由學校配合提供發展該項興趣所需的基礎素養，讓孩子獲得成就感。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今天的報告很重要，讓我們瞭解一個很重大的政策在施行當中，讓我們知道有哪些問題必須要去考慮。教育的改變是循序漸進的，我們必須在過程中化解家長和社會的疑慮和不安，持續不斷與老師、家長進行對話，讓社會大眾充分理解108課綱的必要性與重要性。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	政黨考慮的是政治，但政治的後面是人民對施政的感受，人民對施政的感受在於能不能對未來、對小孩的期待是不是可以實現。政府機關和專家學者討論出來的政策，讓一般大眾都可以理解並配合，是一個重要的過程，這也確實是民主社會裡面非常大的考驗，民主進步黨不怕改革，但也希望改革過程中能夠減少這些考驗和阻力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6c4167696a485559396d72454854464c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

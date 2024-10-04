@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-10-24</p>
+				<h2>參訪基隆產博會 洪耀福：基隆經驗變成民進黨綠色執政的重要里程碑</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+<div>&nbsp; &nbsp; &nbsp; 為見證基隆市的進步與發展，民主進步黨秘書長洪耀福今(24)日偕同發言人阮昭雄、王閔生、張志豪及吳沛憶，以及中央黨部黨工近70人參訪基隆城市產業博覽會，並由基隆市長林右昌親自導覽。秘書長洪耀福表示，一個市長的夢想有多大，這個城市就會多偉大。林右昌市長是一個城市改造王，對基隆市的改善有目共睹，因此今天中央黨部特別帶近70位黨工前來朝聖。未來基隆的經驗，也會變成民進黨綠色執政的一個重要里程碑，基隆不只讓民進黨感到驕傲，也讓台灣人感到驕傲。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 洪耀福表示，上週林右昌市長在中常會的報告，令中常委非常佩服。為此蔡英文主席希望全體黨工及支持者都能到訪參觀，感受基隆的改變。洪耀福說，林右昌市長在短短幾年對於基隆的規劃，眼光並不是只放在三、五年，而是對基隆帶來三十、五十年的重大改變。相信基隆的願景已經一步步在實踐，相信今後基隆的改變將會是非常巨大的，也非常感謝林右昌市長對基隆帶來總體的改變。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 基隆市長林右昌則表示，基隆已經蛻變，在短短兩年的時間裡面，希望呈現出基隆不一樣的樣貌。他也提到，只要來產博會看過，都會驚豔「這怎麼可能是基隆？」他強調，民進黨已經創造奇蹟，也期望基隆未來的都市發展能夠成為台灣新都市發展的典範。林右昌說，既然民進黨可以翻轉一座城市，相信民進黨可以改變一個國家的命運，可以帶給台灣人民更好的生活，基隆市就是最好的例證。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 為期9天的基隆產博會於基隆港西二、西三碼頭倉庫舉行，截至今日人數已破8萬人。林右昌市長表示，預計總參觀人數能達到20萬人，展覽預計10月29日結束，歡迎民眾共襄盛舉，感受基隆的蛻變。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5437665757706d644c56376c42503766">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

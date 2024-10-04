@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-05-27</p>
+				<h2>2022年第20屆全國黨員代表大會代表選舉當選人名單</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	<img alt="" src="/upload/ckfinder/images/%E6%B0%91(2022)%E7%B5%84%E5%AD%97%E7%AC%ACD05260013%E8%99%9F-2022%E5%B9%B4%E7%AC%AC20%E5%B1%86%E5%85%A8%E5%9C%8B%E9%BB%A8%E5%93%A1%E4%BB%A3%E8%A1%A8%E5%A4%A7%E6%9C%83%E4%BB%A3%E8%A1%A8%E9%81%B8%E8%88%89%E7%95%B6%E9%81%B8%E4%BA%BA%E5%90%8D%E5%96%AE.jpg" /></p>
+<p>
+	<img alt="" src="/upload/ckfinder/images/%E6%B0%91(2022)%E7%B5%84%E5%AD%97%E7%AC%ACD05260013%E8%99%9F-2022%E5%B9%B4%E7%AC%AC20%E5%B1%86%E5%85%A8%E5%9C%8B%E9%BB%A8%E5%93%A1%E4%BB%A3%E8%A1%A8%E5%A4%A7%E6%9C%83%E4%BB%A3%E8%A1%A8%E9%81%B8%E8%88%89%E7%95%B6%E9%81%B8%E4%BA%BA%E5%90%8D%E5%96%AE2.jpg" /></p>
+<p>
+	<img alt="" src="/upload/ckfinder/images/%E6%B0%91(2022)%E7%B5%84%E5%AD%97%E7%AC%ACD05260013%E8%99%9F-2022%E5%B9%B4%E7%AC%AC20%E5%B1%86%E5%85%A8%E5%9C%8B%E9%BB%A8%E5%93%A1%E4%BB%A3%E8%A1%A8%E5%A4%A7%E6%9C%83%E4%BB%A3%E8%A1%A8%E9%81%B8%E8%88%89%E7%95%B6%E9%81%B8%E4%BA%BA%E5%90%8D%E5%96%AE3.jpg" /></p>
+	                	                	                <p>檔案下載：<a href="https://www.dpp.org.tw/upload/news/民(2022)組字第D05260013號-2022年第20屆全國黨員代表大會代表選舉當選人名單.pdf" target="_blank">民(2022)組字第D05260013號-2022年第20屆全國黨員代表大會代表選舉當選人名單.pdf</a></p>
+	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4e673271754368586578324a4b6f6949">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

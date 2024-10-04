@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-04</p>
+				<h2>民主進步黨友善新住民 形象影片互訴感謝</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨於上個月(25日)推出「民主新助力，台灣謝謝你！」友善新住民形象影片，獻給所有在這塊土地上努力、豐富島嶼內涵的人們。影片呈現新住民在各行各業的付出及努力，以及對家庭、對台灣的熱愛與感謝，同時透過蔡英文總統於片尾向新住民致謝，傳達台灣社會友善與尊重的意涵。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	參與製作的黃麒融導演曾拍攝蔡英文2016年競選影片《彩虹小物宣傳廣告》、《首投族廣告》系列影片，本次也善用影像讓觀眾看見多元族群的美麗樣貌。片中主要三位新住民角色邀請到廣播節目主持人丁安妮、機場通譯蘇虹鮮及國策顧問胡清嫻，同時也有原國籍為泰國、菲律賓、緬甸以及柬埔寨的新住民參與。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	有關片中主要新住民的生活背景，印尼穆斯林新住民丁安妮來台18年，因結婚對象也必須信奉伊斯蘭教，當初完全沒想過會嫁給台灣人，而後在台灣擔任廣播節目主持人，2015年也獲得金鐘獎教育文化類主持人獎；越南裔新住民蘇虹鮮平日於台南航空站擔任旅遊服務人員，利用母語優勢為遊客服務，也曾受到移民署的補助自行創業，現於網路平台經營甜點店；而首位新住民總統府國策顧問胡清嫻，於2017年接受聘任，從屏東民間團體出身，長期推動多元文化傳播以及新住民人權議題，擔任國策顧問後持續將意見帶到總統府。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨「民主新助力，台灣謝謝你！」形象影片中文獨白版本傳播一個多禮拜來受到熱烈迴響，影片觀看次數達25萬次，同時蔡英文總統於社群平台臉書及twitter轉發。昨日(3日)再釋出新住民主角以母國語言獨白的影片版本，強調民進黨重視多元的政黨價值，認為每個台灣人都應以自己的母語為榮，同時推動族群共榮，希望在2020關鍵時刻凝聚台灣的共同意志。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3777484e4e4b50597742417a79755978">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

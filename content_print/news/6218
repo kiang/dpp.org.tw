@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2014-07-01</p>
+				<h2>2014桃園市第一選區直轄市市議員提名名單</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp;公告：2014桃園市第一選區直轄市市議員提名名單</p>
+<p><a href="http://www.dpp.org.tw/upload/news/20140701160901_link.pdf" target="_blank"><img src="http://www.dpp.org.tw/upload/Image/2014ANNO/anno20140701.png" width="650" height="740" alt="" /></a></p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="384568715739575341416a353862316c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

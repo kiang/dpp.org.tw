@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-06-10</p>
+				<h2>流行病專家何美鄉：指揮中心做整體考量，把重症、死亡率降到最低</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	「蔡英文&amp;DPP」的Podcast頻道「耳朵出遊不出油」，今（10）日釋出流行疾病學專家、中央研究院生醫所兼任研究員何美鄉的專訪。面對台灣防疫進入關鍵轉型時刻，何美鄉認為，流行病學專家的責任，是給予社會專業而理性的指引。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何美鄉自曝，高中時從文組轉到理組，再到美國攻讀醫學博士、公共衛生，選擇傳染病學作為專職研究，是為了幫助更多的人。她認為，傳染病學的研究，能走在抗疫的最前線，可以盡快協助更多人避免疾病的感染。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在SARS期間，何美鄉曾率領團隊進入和平醫院協助防疫，何美鄉說，當時院內的醫護人員有很多惶恐不安，唯有在醫療最前線，才能理解內部的實際情況和需求，更重要的是，讓被隔離在院區的醫護、病患知道，他們不是被放棄的一群人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何美鄉表示，COVID-19的疫情防治，的確比預先所想的還要艱難，疫苗研發、疫苗接種所需要的時間，都會影響群體免疫的進程，何美鄉認為，全球面對此次疫情的經驗，也帶給了醫療各界的經驗和反省，重新思索未來該如何去因應新興感染症。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	COVID-19的疫苗，之所以能那麼快被研發出來，何美鄉分享，正是因為過去伊波拉病毒，驅使全球經濟論壇整合了技術平台，讓疫苗研發能夠整合多國的資源、加速開發進程，才能夠在COVID-19疫情，給予及時的幫助。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	對於部分民眾有挑選疫苗品牌的迷思，何美鄉認為，國家的接種政策，都是基於防疫的目的和利弊所設置與安排，有疫苗可以打就去打，是最重要的事。至於有部分民眾擔心疫苗的副作用，何美鄉則建議，若有個人特殊情況，應該要和醫生進一步討論。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何美鄉認為，專家學者的使命，是解讀正確資訊後，提供給國家的決策者和人民，何美鄉表示，理性且有科學根據的事實，是社會在面對疫情的不安中，最需要的穩定能量。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何美鄉提及，台灣能有今天的防疫成績，是因為台灣人民高度自律，不需要像其他國家，要在短期內限制人民的行動，或剝奪人民的公共福祉。對於有部分民眾對防疫政策感到不滿，何美鄉認為，任何的防疫政策，都一定會有不同的意見和聲音，但指揮中心必須做整體的考量，最重要的還是把重症、死亡率降到最低。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨網路社群中心主任范綱皓表示，近來各個網路社群，都可以感受到民眾對疫情相關資訊的需求，先前推出李秉穎醫師，以及這次推出何美鄉醫師的專訪，民進黨會繼續透過不同平台和民眾進行政策溝通，邀請相關專家學者，傳遞正確的防疫資訊，緩解民眾對於疫情的不安。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7552577649346745634d386778765933">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-09-12</p>
+				<h2>回應韓國瑜辦公室不正常兩岸關係言論  薛呈懿：凸顯出韓的兩岸關係，淺薄且「不正常」的觀點。</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨總統候選人韓國瑜競選辦公室指責，民進黨執政後的「不正常」兩岸關係，導致我政府無法保障李孟居和李明哲的人身安全一事，民主進步黨發言人薛呈懿今（12）日表示，韓國瑜一味把所謂的「不正常」兩岸關係的過錯歸咎民進黨，凸顯出他對複雜的兩岸關係只有難以置信的淺薄且「不正常」的觀點。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	薛呈懿表示，依公開資料統計，2008年至2016年國民黨政府執政期間，因案被中國政府限制人身自由的台灣人共有600多人、因國安因素被抓捕的有1人。若按照韓國瑜的「不正常」論點邏輯，馬政府時期的兩岸互動是否也可被稱為「不正常」的關係？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	薛呈懿指出，2016年5月後，中共以政治前提為由，中斷兩岸對話，破壞既有的兩岸協議，有協定卻任意中止，罔顧兩岸人民權益，中共的信譽早已破產。韓國瑜卻不把問題根源指向中共背信棄義和濫捕濫抓，卻反過來指責我國政府，令人費解。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	薛呈懿進一步質問韓國瑜陣營，面對兩岸關係的困難環境，這種只會責怪自己人，卻不願團結一致對抗中共威脅的扭曲行徑，如何有能力承擔國家元首的重責大任？&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	薛呈懿強調，兩岸關係唯有建立在民主、自由、法治和人權的基礎上，才能保障台灣民眾的人身安全。建議韓國瑜陣營，應當多向中共傳達這樣的價值信仰才是正道。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="69314e6b74523343784446626a784745">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

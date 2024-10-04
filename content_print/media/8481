@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-17</p>
+				<h2>雲林福興宮參香 蔡英文：正直、清廉、勇敢的李進勇，就是雲林需要的縣長</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	結束古坑綠隧驛站參訪行程後，總統暨民進黨主席蔡英文今（17）日由雲林縣長候選人李進勇、議員候選人李建昇、周秀月、斗六市長候選人林慧如及地方黨公職代表陪同，赴斗六福興宮參香，吸引近二百位鄉親到場相迎，加油歡呼聲不斷。蔡英文主席致詞表示，李進勇是一個正直、清廉、勇敢的人，這是雲林需要的縣長。他一定會為雲林繼續打拚，把雲林的轉型做好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，再一個禮拜就要投票，她來雲林向大家拜託，一定要去投票、把票投出來，這是一件很重要的事。不只要自己去投，也要找左鄰右舍、在外打拚的小孩和長輩，請他們回來投票，投給我們的李進勇。勇伯是一個很正直、很打拚的人，就算從早做到晚，精神看起來都很好，我們看了也高興。他一定會為了雲林繼續打拚，把雲林的轉型做好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文提及，方才去古坑的綠色隧道驛站，很多人認為這裡是農業區，就只有賣農產品。但是，這裡不只有農產品，還有利用在地農產品所做的美食。而科技和農業所結合的東西，除了令她感到驚艷，也讓大家覺得雲林是個了不起的地方。不只有最好的農產品，還有科技和創意都在其中，讓雲林的科技具有摩登和現代感。她要和大家說，記得有空去看看，在看的時候，也給我們的縣長一個掌聲、為他鼓勵一下。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，這是有史以來，碰到這麼多假訊息的選舉。這些假訊息，藉由網路和媒體的操作，把很多我們對於事情的認知和印象改變了。這對台灣的民主來說，是一個很大的挑戰。這讓她覺得擔心，因為民主最可貴的地方，就是每個人手中的選票，這張選票決定了地方由誰來帶領。但是，我們在投票的時候，如果理性和經驗被那些炒作的假訊息帶走，就是民主面臨最大挑戰的時候了。所以，她要向大家拜託，我們要提醒其他人，有很多消息都是假的、有很多訊息都是被炒作出來的。我們在看人、在選人一定要用自己的判斷，來看這個人是不是值得投的。李進勇站在這裡給大家看，他是一個正直、清廉、勇敢的人，這就是雲林需要的縣長。所以這次，我們不能被影響，我們一定要選個好縣長，給好的縣長四年，為我們做更多的事。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，她也要為斗六市長候選人林慧如背書。因為慧如在做古坑鄉長時，讓古坑變得很好，而她的接棒人也做得很好。她是個實實在在做事情、專心一意為大家服務的人，她的專業和清廉絕對沒問題。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文強調，我們要選一個正直、清廉、支持改革，能夠把雲林帶到更好的方向的縣長。她要向大家拜託，這次，雲林人所做的選擇，就是台灣民主最重要的選擇，這次，我們要帶領台灣做選擇。請大家記得一定要去投票，不但是雲林要贏，也要贏得漂亮。所以，一定去投票，謝謝大家。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="437263423936797646374b6277536f4a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-03-09</p>
+				<h2>民進黨「妳的需求 我們在乎」民調發佈記者會 蔡政府婦女政策支持度高達九成</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	為了解民進黨執政近兩年來，民進黨政府所推行的各項婦女政策的支持度，婦女部特於婦女節針對民進黨政府這兩年推動的長照、托育、食安、緝毒等重要婦女政策進行民調，並於今(9)日早上召開「妳的需求 我們在乎」民調發佈記者會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此次有效問卷共886份，訪問對象為20歲以上具有投票權女性公民，在95%的信心水準下，抽樣誤差約為正負3.3%。民調結果顯示，蔡政府在長照、托育、食安、緝毒等政策上，皆有9成以上的支持度，其中婦女最為關心的食安問題，政策支持度更是高達93.7%。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外，此次民調也特別針對長照、食安、托育政策，比較蔡政府和國民黨執政時期的推動表現。總體而言，蔡政府在長照、食安、托育政策的推動上，皆被認為表現得比國民黨執政時期好，且認為蔡政府表現較佳的女性人數皆比認為國民黨政府表現較佳的人數多出2倍。其中蔡總統上任後便積極推動的長照政策項目上，有超過四成(41.5%)受訪者認為蔡政府的推動表現比國民黨執政時期好，且泛藍的受訪者認為蔡政府的政策推動表現較佳的比例也有22.6%，和認為表現較差的比例不相上下。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	而在比較國內四個主要政黨對婦女的友善度方面，30.5%台灣女性認為民進黨最重視婦女需求，為國民黨(13.4%)的2倍，也遠高於時代力量、親民黨。所有年齡層的女性認為民進黨最願意給女性參政機會的比例皆為國民黨的2倍以上，尤其在40~49歲的女性中，有50.4%認為民進黨最願意給女性參政機會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	對於民調結果，婦女部蔡宛芬主任表示，很感謝民進黨在這些議題上的努力能被看見並獲得支持。對於民進黨來說，女性所在乎、需要的事，就是民進黨重視的大事，未來民進黨也會繼續和婦女、社會大眾站在一起，持續為創造性別平等的社會努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	徐佳青副秘書長表示，過去30年來民進黨一直致力於促進女性就業、參政等，但近幾年來，如何減輕女性身為主要家庭照顧者的壓力也是相當重要的議題。她也提到，民進黨不會自滿於此次民調結果，這5個政策的女性支持度及重視度都相當高，說明民進黨要在這些議題上更加努力落實，而未來也將持續鞭策執政團隊，讓政策於執行面真正落實，讓每位台灣公民都能受到最好的照顧。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                <p>檔案下載：<a href="https://www.dpp.org.tw/upload/news/2018-03-09_「妳的需求_我們在乎」民調發布記者會簡報.pdf" target="_blank">2018-03-09_「妳的需求_我們在乎」民調發布記者會簡報.pdf</a></p>
+	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="666c454f4a51717666444d4466783530">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

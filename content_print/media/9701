@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-25</p>
+				<h2>被爆除人頭帳戶外還有多張外籍移工電話卡規避監聽　民進黨：林姿妙瞎扯 國民黨瞎挺</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">國民黨宜蘭縣長林姿妙23日遭宜蘭地方檢查署以違反《貪污治罪條例》、《洗錢防制法》等起訴。民進黨發言人黃彩玲今（24）日表示，根據宜蘭地檢署起訴書，林姿妙除了租借數十個人頭帳戶外，還被爆料每三個月指示帳房持用外籍移工人頭，購買移工儲值電話卡。請問林縣長，如果是正當還債需要用到這麼多人頭帳戶和人頭電話門號嗎？林姿妙女兒瞎扯是為了還債，國民黨瞎挺林姿妙，但我們相信宜蘭縣民絕不容許這種瞎咖繼續執政。</p>
+
+<p style="text-align: justify;">黃彩玲指出，這類儲值電話卡俗稱「王八卡」或「外勞卡」，用戶名稱與持有使用者可能非同一人，因此，過去經常遭到從事洗錢、詐騙行為者的濫用，藉此規避司法單位追查。如果是正當還債，林姿妙還需要購買這類電話卡來進行聯繫嗎？媒體也報導，已有人頭帳戶咬出是「縣長律師」下指導棋，用「循環借貸」、「借新還舊」方式來回答檢廉，林姿妙竟然還罔顧事實，一味用「政治追殺」企圖轉移焦點。</p>
+
+<p style="text-align: justify;">黃彩玲進一步指出，台灣民主發展至今天，竟然還能見到林姿妙縣長縱容自己女兒干政、兒子滅證，女兒甚至可以直接指揮縣府官員進入官邸下達指令。台灣民主政治發展至今日，豈可容許這種荒腔走板的家族參政？</p>
+
+<p style="text-align: justify;">最後，黃彩玲強調，如今人證、物證都已經逐漸明朗，林姿妙還想繼續硬拗，指控檢調是政治追殺。請問國民黨主席朱立倫，還要繼續瞎挺這樣一個貪污情節重大的候選人，為她背書嗎？蔣萬安、侯友宜、張善政，過去都曾為林姿妙站台，今日還打算繼續挺貪汙的候選人下去嗎？國民黨如果還有一絲良知，請要求林姿妙退選，不要讓宜蘭這樣的「民主聖地」，因為林姿妙家族的貪婪蒙上陰影。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><br />
+&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c58377443627644304d6f4e4e54774f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

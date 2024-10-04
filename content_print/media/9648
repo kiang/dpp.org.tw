@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-28</p>
+				<h2>民進黨網路實境節目《一碗麵的時間》播出大受好評 雙魚女沈慧虹接力上菜「新竹的幸福米粉炒」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	民進黨全新網路節目《一碗麵的時間》首集播出大受好評，今（28）上線第二集，邀請廚藝了得的新竹市長候選人沈慧虹「虹姊上菜」，她不只在廚房裡臨危不亂，傳授媽媽手藝與新竹「炒米粉加麵」的特色吃法，更分享自己曾啟動「200天日行萬步計畫」，視察步道兼瘦身，已經瘦下20公斤，「不認識我的人會以為我去整形」！</div>
+<div>
+	&nbsp;</div>
+<div>
+	事實上，民進黨發言人黃彩玲與沈慧虹是多年好友，兩人曾在一趟出國考察行程中，意外成為「室友」，黃彩玲回憶：「虹姊就是毫無架子的鄰家大姊，彷彿有恆溫機制，永遠給人36度半最舒適的感覺」。沈慧虹則回應，從小父母忙於工作，身為長女的她得扛家務照顧弟弟們，因而造就她習慣挺身而出的性格，如今看到新竹市民充滿期待的託付眼神，「那一刻我心裡沸騰」。</div>
+<div>
+	&nbsp;</div>
+<div>
+	沈慧虹認為「安居樂業」就是幸福，她喜歡在下班後，在這座被譽為「全台最幸福的城市」，買些喜歡的菜回家料理；而留心新竹市政的她，也提到曾啟動「200日不間斷日行萬步計畫」，關心步道與腳踏車道的進度，還意外受了一大圈。</div>
+<div>
+	&nbsp;</div>
+<div>
+	她說，七年前接下新竹市副市長的第一任務，便是解決新竹卡關30年的「公道三」，協調78戶住戶的搬遷問題，沈慧虹回憶，拜訪中難免遇到「被請出門吹風」，但她不放棄終感動市民，「我要想辦法把米粉炒出來，如果每個人都只會點菜不會煮菜，哪誰來煮菜？當然是有能力的人來煮菜」，她用專業把問號變成驚嘆號。</div>
+<div>
+	&nbsp;</div>
+<div>
+	而交通背景出身的她，歷練完整，經歷三任台北市長的肯定，也曾在柯文哲上任前，當交通小老師，提供北市交通規劃等建議，例如忠孝橋引道拆除、公車路網重整、北門重現計畫等。</div>
+<div>
+	&nbsp;</div>
+<div>
+	沈慧虹一邊分享一邊回憶，而手中炒米粉炒麵的動作卻不曾停下，讓黃彩玲讚聲不斷！沈慧虹則說，進到熟悉的廚房、煮熟悉的料理，就如同治理新竹這座古城，「因為有經驗所以不需練習，下來就可以做」，她強調，市民不是不知道沈慧虹是誰，而是名字跟人沒有嫁接起來，她相信自己就是那位對的人，能讓新竹繼續幸福。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<p style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/v2MvIPGCrz4" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="627072746269594a626b573838794579">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

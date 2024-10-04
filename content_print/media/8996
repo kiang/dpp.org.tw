@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-04-22</p>
+				<h2>民主進步黨第十八屆第二十三次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(22)日召開第十八屆第二十三次中執會，會中通過審查2020年第19屆全國原住民族黨員代表選舉參選人資格案。另，會中通過改聘林火孟、李問、吳明忠、蔡佳蓉、曹鳴勳、曹辰瑩、劉亦為連江縣入黨審查委員會委員，並由李問擔任召集人。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，仲裁委員會委員廖學興律師於日前辭世，廖學興律師為本黨資深之仲裁委員，令人敬佩，允為典範，故特明令表揚，感謝廖律師對於本黨之貢獻。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨發言人薛呈懿轉述卓榮泰主席於會中致詞如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今天會議進行開始前，黨部一樓有一些陳抗事件，針對本次黨內5月24日黨職改選，部分支持者對參選不同陣營提出相關意見與指控，中央黨部非常重視這樣的指控，我們一定秉公瞭解、處理。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我剛剛已經對外說明，我們都還記得在去年本黨總統初選的時候，黨內競爭非常激烈，但兩位當事人也非常恪守身為候選人的本分、全力維護理性競爭的原則，也是因為這樣的風範，初選之後即刻高度團結對外的氣勢，能讓我們在今年的選舉當中，得到人民最大的肯定跟支持。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在這個時候，尤其全球疫情正在蔓延的時候，人民最希望看到的我們是全心全意協助行政團隊來管控好疫情，不應讓黨內的選舉淪為互相的攻擊，也不要讓團結的情勢、氣氛受到破壞，所以我們將針對剛剛的陳抗事件，充分了解事實跟內容。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	我要請組織部通令所有地方黨部，這次選舉有很多不同以往之處，我們正在勝選之後的團結之際，我們也在共同面對疫情的肆虐之際，更應該發揮我們對這塊土地的愛心，希望大家要互相勉勵。選舉應合法、合理地進行，我們將通令所有候選人謹守本分，不應出現任何不實的攻擊， 一旦發現任何不當、不法的情事，隨時向中央、地方黨部反映，我們一定即時處理，務必在防疫的同時把這次的選舉做到圓滿。我們這場選舉有示範作用，是會對往後一些投票行為造成影響的，我們一定要努力避免造成負面印象，在此特別要求全體黨員同志，一同共體時艱，達到最好的圓滿結果，才對得起人民對我們高度信賴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6443336f5456487275504f4831777349">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

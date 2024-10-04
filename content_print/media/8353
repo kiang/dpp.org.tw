@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-07-31</p>
+				<h2>公佈東亞青運主辦權遭取消民調 民進黨：不分藍綠，多數民眾皆對此事感到憤憤不平</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨副秘書長徐佳青今(31)日召開「東亞青運主辦權遭取消 台灣人民很痛心」民調公佈記者會，公佈針對東亞青運遭中國打壓被迫取消一事之相關民調結果。徐佳青表示，上週因為中國打壓，造成台中市東亞青運主辦權被取消，68.4%的民眾知道這件事，31.6%不知道。其中，60.1％的民眾對於東亞青運主辦權遭取消一事感到生氣，且不分藍綠，多數民眾皆對此事感到憤憤不平。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	徐佳青說明，詢問到【針對台中市東亞青運主辦權被取消，有人認為應該要譴責中國的打壓，也有人認為應該要怪罪政府不承認九二共識】的看法，54.8%的民眾認為此事應該譴責中國的打壓，25.9%則認為應怪罪政府不承認九二共識。其中泛綠及中間選民多數認為東亞青運主辦權被取消一事，應譴責中國的打壓，泛藍選民則多數認為應怪罪政府不承認九二共識。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	徐佳青指出，針對【蔡英文總統表示，中央政府會全力支持台中市政府及中華奧會根據合約申復到底】一題，高達84.0%的民眾贊成台中市提出申復，僅7.0%不贊成。其中，泛綠支持者中，有高達97.3%的民眾認為應該申復，中間選民中，有78.3%認為應該申復，泛藍選民中，有79.5%認為應該申復，意即不分藍綠、中間選民，多數民眾皆全力支持台中市政府提出申復的作法。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	徐佳青進一步指出，12.1％的民眾認為中國政府對台灣政府是友善的，76.0％認為不友善。相較於今年三月的調查，認為中國政府對台灣政府不友善的比例增加了15個百分點，認為友善的比例下降13.5個百分點。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	徐佳青表示，29.8%的民眾認為中國政府對台灣人民是友善的，56.7%認為不友善。相較於今年三月的調查，認為中國政府對台灣人民友善的比例下降了15個百分點，認為不友善的比例上升12個百分點。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，25.3%的民眾對中國國家主席習近平有好感，45.7%抱持反感，其中只有泛藍選民對習的好感高於反感。相較於今年三月的調查，民眾對習近平的好感度下降13個百分點，反感度增加9個百分點。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	本次民調，進行時間為7月25日至29日，完成的有效樣本為1109份，訪問對象為20歲以上具有投票權公民，在95%的信心水準下，抽樣誤差為&plusmn;2.9%，為使抽樣結果趨近母體，曾進行年齡、性別、戶籍、教育程度加權。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="697071674348484d3530344f526c5577">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

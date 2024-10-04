@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-01-26</p>
+				<h2>民主進步黨第十九屆第六十九次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(26)日召開第十九屆第六十九次中常會，會中邀請台大兒童醫院主治醫師李秉穎以「新冠病毒防疫的過去與未來」為題進行專案報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨發言人謝佩芬轉述蔡英文主席於會中致詞，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝李秉穎醫師針對「新冠病毒防疫的過去與未來」所做的報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	農曆新年即將到來，國際疫情依然嚴峻，目前本土疫情也有升溫趨勢，政府將會密切注意、積極因應，中央和地方也會通力合作，全力防止疫情擴散，讓大家能夠安心過好年。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	疫情爆發兩年以來，最辛苦的是第一線防疫人員，他們堅守崗位，是台灣不可或缺的防疫英雄，非常感謝他們的辛苦與付出，也希望大家多給他們支持和鼓勵。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在這裡要呼籲大家，凡是有接種資格的民眾都儘快去接種疫苗，同時也做好防疫。過年期間，也希望大家都能配合指揮中心的防疫措施，減輕第一線人員的負擔，大家一起團結防疫、守護台灣。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，這點很重要，也請本黨黨公職及擬參選人同志配合指揮中心的防疫指引，禁止跑攤，維持社交距離，共同守好社區防線這一關。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，黨發言人謝佩芬也轉述，今日會議中的黨務工作報告，也針對2021公投獎勵進行說明，有鑒於最後公投結果為四項議題皆不通過，讓執政團隊各項政策得以順利進行。本次公投所有黨公職皆將士用命，幕僚單位依各縣市黨部統計，有提報之黨公職全數製發感謝狀予以表揚。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	同時，也針對區域立委選區之公投「不同意」票比例，超過2020年政黨票5%之立委特別頒予「進步最有力」嘉勉，包括邱議瑩、李昆澤、趙天麟、劉世芳、陳明文、賴瑞隆、林岱樺、劉櫂豪、蔡易餘、許智傑、鍾佳濱。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另外，於公投期間具有特殊貢獻者，譬如有區域是全國唯一逆轉區、舉辦相對多場次說明會、協助中央黨部赴各地主持和助講，及協助與民間團體、專業公會聯繫溝通等，頒予「貢獻最有力」嘉勉，包括陳素月、劉建國、蘇治芬、吳秉叡、羅致政、吳思瑤、林楚茵、洪申翰、邱泰源、花蓮縣黨部。其中，花蓮縣黨部於花蓮縣幅員狹長且無區域立委下，共舉辦70場說明會並促使公投得票率與2020政黨得票比較進步4.36%。上述兩獎項將擇日公開頒予嘉勉。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4b384c445959376a5832564243754c57">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

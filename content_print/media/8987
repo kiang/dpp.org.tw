@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-02-12</p>
+				<h2>民主進步黨第十八屆第二十一次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(12)日召開第十八屆第二十一次中執會，會中邀請中信金融管理學院教授陳錦稷、淡江大學產業經濟學系教授蔡明芳以「武漢肺炎疫情對台灣經濟產業的影響」為題進行專報告。黨發言人周江杰轉述卓榮泰主席聽取報告後裁示如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	感謝陳教授、蔡教授，針對武漢肺炎疫情對台灣經濟的影響，為我們做了相當精闢的分析。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	首先，我們要感謝每一位堅守在防疫第一線醫護人員的努力跟奉獻。不管是政府單位或是醫護人員，每天都是繃緊神經承受極大的壓力，盡全力把防疫工作做到滴水不漏。我們也感謝跟慶幸全體國人同胞，高度配合政府相關防疫措施。但是我們看到中國的疫情依然在持續當中，目前北京、上海實施封閉式管理，一線大城幾乎要全面淪陷，因此在疫情控制下來之前，國人仍須戒慎恐懼，相信專業、配合中央政府的指揮，不可掉以輕心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	武漢肺炎疫情來勢洶洶，不僅考驗中國政府危機應變的能力，更突顯了極權專制的官僚體制的脆弱，面對危機醫療失能、隱匿資訊，導致人民徬徨無助、社會秩序崩壞等。我們見證到自由民主與人權法治的可貴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	不可否認當前中國是全球重要的經濟市場，GDP規模遠大於2003年的SARS時期，加上全球化各國的經濟高度連動，疫情的衝擊恐怕只會有增無減。誠如兩位教授的分析，首當其衝的將是各國觀光旅遊、餐飲等相關產業，還有停工的產業鏈，及不確定性帶來的金融市場動盪，都必須一一妥善因應。但要如何化危機為轉機，短期內我們應該以緩和衝擊為對策，穩定民生經濟，長期則必須在政府推動經濟轉型的基礎上，掌握美中貿易戰後的契機，持續強化我們的高階製造及創新能力，提升台灣經濟的自主、安全及韌性。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	防疫不能有缺口，國人要團結對外，才能守護台灣。期許大家共同努力，讓我們可以在最短的時間內控制疫情，保障國人的生命及健康，讓大家的生活儘快回到常軌，把台灣經濟產業可能受到的衝擊降到最低。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另針對新北市議員李余典於2020年第10屆立法委員選舉期間，為新北市第三選區民眾黨候選人李旻蔚輔選，具違紀助選之嫌，中執會提案通過送中評會調查、裁決。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="59797943664331674763555652754453">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

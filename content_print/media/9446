@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-02-08</p>
+				<h2>民進黨：馬英九2016年即提議開放日本食品　回歸國際標準與科學檢驗無突襲問題</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對日本福島五縣食品管制相關議題，民主進步黨發言人謝佩芬今（8）日表示，目前全世界僅剩中國和台灣仍全面禁止日本福島五縣食品，台灣作為積極加入國際貿易組織的一份子，應該回歸國際標準和科學證據，這點在2021年的公投結果中，台灣社會就已經展現出高度智慧。此外，台灣的檢驗標準比聯合國國際食品法典委員會（Codex）、美國、歐盟還嚴格，前總統馬英九也曾説「不應再禁止日本福島五縣食品」，期盼各界能理性面對相關管制。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬指出，國民黨自馬政府時期就一直希望開放福島五縣食品，馬前總統2016年曾接受媒體專訪，公開贊同台灣應盡快開放日本福島食品進口，6年前就在倡議的事情，現在國民黨卻要亂扯是「突襲」，是否都沒在關心馬前總統動態？馬前總統當時還說，「日本在產地證明和輻射證明等申報都有確實執行，日本食品的檢查也都沒問題，不應再禁止，以免日本覺得我們很不合理，跟國際間打交道還是要站住一個理字。」</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	除了馬前總統之外，謝佩芬進一步舉例，國民黨也曾於今年1月14日發布新聞稿表示，只要日本政府保證日本進口食品品質與安全，就不反對進口。希望國民黨能夠理性看待日本食品進口回歸科學檢驗的基礎，不要再因為政治鬥爭需要，進行非理性的操作，此絕非全民之福，只是更凸顯國民黨前後矛盾，無法贏得民眾信賴。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在世界各地區的規定上，謝佩芬指出，台灣的檢驗標準比聯合國國際食品法典委員會（Codex）、美國、公認食安高標準的歐盟都還嚴格，只要輻射超標的食品都不能進口。台灣正在申請加入「跨太平洋夥伴全面進步協定」（CPTPP），其所有成員國都已解除對日食的管制」。相關食品管制措施調整，也會成為未來台灣能否與其他國家、區域組織進行對等經貿談判的重要依據。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	至於國民黨不斷跳針提及2018年的公投結果，謝佩芬說，正是2018年公投的經驗，政府不僅將2016年以來民間所提出的各項具體建議逐一採納，包括完成6份風險評估及調查，用科學證據確保健康無虞、檢驗量能擴充到每年近7萬件、持續徵詢相關公民團體意見，精進管理措施等，這些作為都是在回應2018年的公投民意。這十年來台灣針對日食進行輻射檢驗也都全數合格。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，謝佩芬也說，從2021年底的公投結果就可以瞭解到，大多數的國人對於食品和整體國家戰略、經貿也已經有更積極的想法，展現台灣人民願意遵守國際貿易規範，作為可信賴的貿易夥伴，有強烈的決心融入國際，參與區域經貿的整合，呼籲國民黨勿為反而反。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="386d723549624a4e6831475351693467">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

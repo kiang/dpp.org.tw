@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-08-02</p>
+				<h2>民進黨廉政委員會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨廉政委員會今（2）晚加開臨時會議，針對蘇震清委員及陳唐山同志疑因涉入SOGO 公司經營權之爭，致有貪污收賄之嫌，遭檢調機關調查一事，廉政委員會做出決議如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	1.對於陳唐山同志，現已交保靜候調查，廉政會依本黨廉政條例之規定予以立案，後續將啟動相關約詢調查程序，依本黨廉政規章做進一步之處置。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	2.對於蘇震清同志，廉政會同樣是依本黨廉政條例之規定予以立案，後續將啟動相關約詢調查程序，依本黨廉政規章做進一步之處置。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	3.惟蘇震清同志，雖仍在司法偵查階段，但案情已嚴重影響本黨聲譽及有違反本黨廉政規章，廉政會決議，若法院裁定蘇震清同志羈押，將即對其予以停權處分。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4c763458763554494b4f6f306e30754f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

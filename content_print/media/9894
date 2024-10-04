@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-22</p>
+				<h2>蔡英文下動員令！用兩格漫畫讓全台首長候選人與陳時中「互挺」，呼籲回家投票！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">九合一地方選舉進入倒數五天，台北市長陳時中在上週末遊行催出15萬民眾走出力挺，本週乘勝追擊，民進黨全台縣市首長候選人於21日啟動全台大串聯，推出漫畫圖卡，與台北市長候選人陳時中「互挺」，蔡英文總統也在LINE上下動員令，呼籲支持者為台灣挺身而出，一人拉一票，11月26日回家投票。</p>
+
+<p style="text-align: justify;">陳時中到各縣市與縣市長候選人合體掃街都有高人氣，民進黨網路社群中心主任范綱皓表示，這次推出的催票漫畫圖卡，以漫畫排版方式，並因應各縣市不同的生活背景安排內容，就是希望能夠吸引在外地打拚的選民注意，呼籲大家回家投票。</p>
+
+<p style="text-align: justify;">范綱皓也指出，週末陳時中陣營舉辦「疼惜台北，為愛而走」遊行活動，有15萬人走上街，希望能將人氣化成選票，因此在最後關頭推出漫畫圖卡，讓支持者能提醒親朋好友回家投票、出門投票。</p>
+
+<p style="text-align: justify;">民進黨今年九合一地方選舉的主軸為「顧家鄉 拚未來」，除強調中央地方合作，也拋出區域聯合治理平台的概念，訴求各縣市之間能走向共榮共好的合作關係，推動台灣繼續進步。</p>
+
+<p style="text-align: justify;">以台北為首，蔡英文總統也在官方LINE上，發送推薦各縣市首長圖卡，要各地候選人停醒台北親友支持陳時中，也請陳時中號召各地的年輕人，記得返鄉投票，彼此拉抬，希望在11/26的投票日取得勝利。</p>
+
+<p style="text-align: justify;">本次的催票漫畫串聯圖卡，已經陸續在各縣市首長候選人之社群平台發布，歡迎大家轉發並給候選人加油打氣，11月26日一起為台灣挺身而出，回家投票。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="75343074796a7a795272497a4c4a4252">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

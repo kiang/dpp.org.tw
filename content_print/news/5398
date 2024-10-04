@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2012-11-27</p>
+				<h2>A21中國事務委員會設置要點</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: center;"><span style="color: rgb(0, 0, 255);"><span style="font-size: large;"><strong>A21中國事務委員會設置要點<br />
+<br />
+<br />
+<br />
+</strong></span></span></p>
+<p style="text-align: right;"><span style="color: rgb(255, 0, 0);">二○一二年十一月二十一日第十五屆第十五次中常會制定</span></p>
+<p>第一條	為策定台灣有關中國政策與兩岸交流之策略方向，以維護台灣主權，確保台海和平及兩岸平等互惠之發展，<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 特設中國事務委員會（以下簡稱本會），並制定本設置要點。</p>
+<p>第二條	本會之任務如下：<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一、關於中國政治、經濟及社會情勢之研判。 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二、關於兩岸關係之現況檢討與未來發展之因應。 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 三、關於兩岸政策之現況檢討與未來發展之因應。 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 四、關於本黨與中國交流策略與原則之擬定。 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 五、其他有關兩岸及區域政經情勢之研判。</p>
+<p>第三條	本會之幕僚單位為中國事務部。</p>
+<p>第四條	本會置委員七至九人，其中一人為召集人，由主席兼任。其他委員由主席提請中央常務執行委員會同意後<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 聘任，任期與主席同。</p>
+<p>第五條	本會置諮詢委員若干人，由主席聘任，任期與主席同。</p>
+<p>第六條	本會委員會議每二個月召開一次，必要時得召開臨時會議，由召集人主持；召集人無法出席會議時，<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 得指定委員一人代理。 前項會議得邀請諮詢委員列席。</p>
+<p>第七條	本會之決議，送交中央常務執行委員會。</p>
+<p>第八條	本要點自公佈日施行。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="63727755576236394367666945395a6f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-26</p>
+				<h2>寒冬送暖 主席卓榮泰關懷弱勢家庭</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	農曆春節將至，民主進步黨主席卓榮泰今(26)日應國策顧問李茂盛所邀，由黨副秘書長郭昆文、立委候選人王義川、市議員曾朝榮等地方黨公職陪同出席台中市關懷貧困寒冬送暖活動。卓主席致詞後，與李茂盛國策顧問共同抽出5000元紅包，並贈送白米，祝福大家過好年。卓榮泰表示，非常榮幸也感謝在歲末的時候，集結這麼多社會的愛心，提供相當多的物資給鄉親，在寒冷的冬天能有一股溫暖的力量。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，自從接任黨主席這個工作，他就希望，政黨除了平常的工作以外，也能轉化成服務型的政黨，更加親近基層，瞭解鄉親的需要，甚至可以累積社會的力量，擴散給需要的鄉親，提供服務的管道和力量，才是未來在台灣所需要的政黨，所以他會用這種信念，將未來民主進步黨的改組走向這個方向。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	他接著說，但在這個過程當中，只單靠一個政黨的力量不夠，一定需要像在座很多的社團、國策顧問以及最重要地方的里長，里長最清楚里民需要什麼樣的幫助，社區需要什麼樣的服務，村里需要什麼樣的發展，所以跟里長結合，才是最正確的方法。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰最後再次向在場的主辦單位及貴賓感謝。他說，寒冬送暖，把在溫暖送給在座所有的鄉親，因為大家的參與，眾多的里民鄉親，可以在過年時，感受到地方及很多團體的溫暖。此外，他也能將這樣的經驗模式，分享給民進黨全國各地方黨部，以這種方式跟地方結合，將我們的力量擴散給地方，這是很好的方式，也是關懷地方一個好的開始。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5066506c666163745937574a396d5343">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

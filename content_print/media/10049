@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-03-22</p>
+				<h2>德國諾曼自由基金會拜訪民進黨 就國際情勢、性別平等、青年參政、錯假訊息等進行全面交流</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">德國弗里德里希諾曼自由基金會 (Friedrich-Naumann-Foundation for Freedom, FNF)董事長巴奎博士 (Dr. Karl-HeinzPaqu&eacute;) 今(22)日上午率團拜會民進黨。FNF訪團成員另有國際部部長Ren&eacute; Klaff、東南亞及東亞區域總監Moritz Kleine-Brockhoff，以及全球創新中心總監Anna Marti。民進黨由副秘書長楊懿珊、國際部主任兼發言人謝佩芬、性別平等部主任李晏榕、新媒體中心主任詹賀舜、青年部主任阮俊達及國際部副主任邱雯莉共同接待。&nbsp;</p>
+
+<p style="text-align: justify;">民進黨發言人、國際部主任謝佩芬說明，FNF為與德國自由民主黨(FDP)共享自由主義價值之智庫，長期支持國際自由聯盟(Liberal International, LI)和亞洲自由民主聯盟(Council of Asian Liberals and Democrats, CALD)的運作，民進黨作為此二國際組織的會員，多次與FNF共同在此二組織中為台灣發聲。去年七月，謝佩芬應FNF邀請至德國柏林及波茨坦，與德國國會議員Frank M&uuml;ller-Rosentritt、外交部及教育部官員等進行深度交流，雙方因此培養深厚情誼。此次由FNF董事長親自率團來訪，民進黨非常開心有機會盡地主之誼。&nbsp;</p>
+
+<p style="text-align: justify;">副秘書長楊懿珊開場時，首先感謝FNF在台灣成立全球創新中心。在台灣面臨中國軍事及政治威脅加劇的關鍵時刻，全球國際夥伴的具體支持格外重要。楊懿珊表示，我們致力於打造一個更好的環境，以吸引全球重要的國際組織在台灣設立據點，而FNF在台灣的設置便是對台灣最有力的支持。&nbsp;</p>
+
+<p style="text-align: justify;">國際部主任兼發言人謝佩芬表示，台灣積極地強化與國際夥伴建立更強健的連結，FNF就是我們最可靠的夥伴之一，期盼接下來有更多合作，共同推動自由主義。由於巴奎董事長同時為LI首席副主席及公平貿易委員會(Fair Trade Committee)主席，他也特別感謝謝佩芬主任過去三年來，身為該委員會中唯一亞洲代表的深度參與。&nbsp;</p>
+
+<p style="text-align: justify;">性別平等部主任李晏榕則向訪團分享台灣的性平現狀。賴清德主席上任後，民進黨將婦女部更名為性平部，代表該部的關注對象將更為廣泛。雖然台灣在性別平等的各項指標都有傑出表現，但台灣的女性仍面臨許多挑戰，未來性平部將加強倡議，並推動更具包容性的主張。&nbsp;</p>
+
+<p style="text-align: justify;">新媒體中心主任詹賀舜則從新媒體實務進行分享，他表示，台灣社會受到錯假訊息干擾嚴重，日前民進黨已成立專案小組反擊認知作戰，未來也期盼可在加強數位民主與假訊息快速澄清的作法，與FNF有更進一步的經驗交流。&nbsp;</p>
+
+<p style="text-align: justify;">青年部主任阮俊達則提到，青年部很榮幸能在之前與FNF全球創新中心透過線上會議，討論交流培育青年政治人才的方法，希望未來能更有機會交流，如何支持懷抱民主與自由理念的年輕人，更有熱情與能力參與政治工作。&nbsp;</p>
+
+<p style="text-align: justify;">巴奎董事長進一步表示，台灣一直是推動創新及進步價值的最佳夥伴，因為疫情延宕的關係，直到現在才能親自蒞臨台灣為該中心正式揭幕。然而，當前台灣作為全世界關注的熱點，台灣在區域及全球的重要性與日俱增，在台灣設置據點的決定不只是向台灣學習經驗，更是對台灣人民表達高度支持。今日雙方就當前國際情勢、推動性別平等、鼓勵青年參政、打擊錯假訊息等相關議題交換意見，很期待這種全面且深入的交流能持續進行。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6241713463535650774835323458546c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-05-14</p>
+				<h2>針對《風傳媒》報導之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	針對風傳媒題為「民進黨高層：未加權民調丁守中已勝柯文哲　年輕選民投票意願僅4成」報導，民進黨發言人鄭運鵬今(14)日表示，當天的會議主要是傾聽台北市民進黨籍議員各方意見，會中都無引述民調資料與數據或看法，媒體所言，並非事實，為免混誤錯引，特此澄清如上。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6d64686a6d626d586432384774686c56">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

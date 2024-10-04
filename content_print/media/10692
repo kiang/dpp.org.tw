@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2024-01-14</p>
+				<h2>當選後首日接見日本交流協會會長　賴清德：期待與日本提升多元合作關係</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>民進黨總統當選人賴清德本（14）日接見日本台灣交流協會會長大橋光夫一行，大橋光夫向賴清德表達當選祝福外，也表示日本外務大臣上川陽子在第一時間也為台灣順利進行民主選舉及賴清德勝選表達恭賀。</p>
+
+<p>大橋光夫並特別感謝台灣人民對日本能登半島災情的關懷，他說日本人民瞭解台日關係的重要性，日本也期待與未來政府持續提升與台灣的合作交流。</p>
+
+<p>賴清德感謝大橋光夫專程來台表達祝賀，在本次選舉中見證台灣的民主成就。賴清德對台日具有深厚情誼，雙方常在患難見真情，他也要特別向日本石川縣能登半島大地震表達哀悼與慰問之意。</p>
+
+<p>賴清德續稱，台日關心區域的和平與穩定，也共享民主等普世價值，日本是台灣非常緊密的民主夥伴，也期待雙方未來能在經貿連結、淨零轉型、創新繁榮等領域展開更多交流，具體提升台日的多元合作關係。</p>
+
+<p>最終，賴清德再次感謝大橋光夫與日本政府的祝福，尤其是在第一時間就派團祝賀，他將銘記在心，期待在邀請大橋光夫參與5月20日的就職典禮，再度見證台灣的民主歷程。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f38777573714755425a4b4c73756b6f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

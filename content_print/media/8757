@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-09-07</p>
+				<h2>出席蔡英文青商後援會成立 卓榮泰：用最大的力量支持蔡英文總統連任、國會過半</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰與總統蔡英文今(7)日由立法院長蘇嘉全、交通部長林佳龍、立法院副院長蔡其昌、立委張廖萬堅、黃國書、洪慈庸、立委參選人陳柏惟、莊競程、全國青商後援會召集人蔡世寅、台中市黨部主委何明杰及地方黨公職陪同，出席「全國青商後援會成立大會」。卓榮泰表示，希望青商後援會的成立帶領所有社團站出來，用最大的力量支持蔡英文，讓總統連任、國會過半。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，這次台中市的選舉，是政黨合作的示範區，也是青年成功的基地，在場有台灣基進的陳柏惟，台語流利、強而有力、年輕又大方得體；無黨籍洪慈庸，國會最溫柔的聲音與力量；以及民進黨強力徵召的莊競程，如同他的名字，要用競選的過程，感動大家。這三位就是政黨合作的典範，而民進黨也確實想在台灣創造一個最穩定、開闊的政黨合作之路。他希望青商的朋友們，用所有社會基層的力量，共同給這些年輕人一條很健康的道路能夠走，也希望他們學習青商先進的精神，未來進入到國會，為各行各業、各種階層的台灣人民，創造好的法律。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，過去他從議會開始就與青商結下不解之緣，這次，他代表民主進步黨感謝青商蔡世寅總會長、所有的總會長、顧問、議長、總幹事等幹部。在這次總統大選125天前，第一個這麼大規模的後援會成立，代表著青商走出第一步，也希望青商的第一步會是最大的一步，帶領所有社團站出來，用最大的力量支持蔡英文，以及在台中的8位民主鬥士，讓總統連任、國會過半。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f356648515a4766797575444d474462">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

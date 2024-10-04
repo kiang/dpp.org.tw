@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-07-08</p>
+				<h2>民主進步黨第十八屆第六十四次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(8)日召開第十八屆第六十四次中常會，會中邀請中興大學景觀學程副教授董建宏、政治大學社會學系副教授鄭力軒以「從大數據分析看人口變遷與歷次大選變化」為題進行專案報告。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另，會中通過向第十九屆第一次全代會推薦第十九屆仲裁委員名單如下：郭吉仁、陳櫻琴、郭麗珍、洪偉勝、黃帝穎、翁國彥、廖福特、連元龍、劉士豪、張政雄、陳繼盛。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="78787265314f50595768595338745036">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

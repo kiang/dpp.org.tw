@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-04-18</p>
+				<h2>民進黨「2023全國高中職國際知識競賽」釋出第二支宣傳影片，蔡培慧變回「蔡教授」傳授解題技巧 </h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">民進黨國際事務部及青年發展部將於4月30日舉辦「2023全國高中職國際知識競賽」，離報名截止僅剩一週，除黨主席賴清德於臉書進行活動宣傳，首支宣傳影片邀請有地方男友之稱的竹北市長鄭朝方進行國際知識挑戰；今（18）日，民進黨國際部臉書和Instagram釋出第二支宣傳影片，由民進黨發言人、國際事務部主任謝佩芬再次扛下主持大任，突襲剛於3月為民進黨在南投打下勝仗的立法委員蔡培慧，挑戰國際知識快問快答。&nbsp;</p>
+
+<p style="text-align: justify;">謝佩芬首先以南投的茶葉及咖啡延伸考題，蔡培慧接連以「刪去法」輕鬆解題，接著，謝佩芬提到南投有許多原住民好朋友，而南太平洋也有許多南島語族的國家是台灣的好朋友，並以國旗出題，考考蔡培慧何者並非台灣在太平洋的邦交國，沒想到蔡培慧開啟蔡教授「話當年」模式，再次完美答題。&nbsp;</p>
+
+<p style="text-align: justify;">繼蔡培慧連續三題挑戰成功後，謝佩芬祭出最難考題，考驗蔡培慧現代網球在哪一國發明，沒想到蔡培慧不僅立秒切換成蔡教授模式，更直呼這題國中生跟小學生都會，謝佩芬尚未念完選項，蔡培慧即搶著答題，讓謝佩芬驚嘆蔡培慧「蔡教授」的稱號是名不虛傳，怎麼都「考不倒」；蔡培慧也笑稱其實很多答案她都不確定，但她以「刪去法」答題，更建議高中職學生答題時「刪去法是一個不錯的選項」！&nbsp;</p>
+
+<p style="text-align: justify;">謝佩芬表示，為促進年輕學子對國際事務的興趣，民進黨國際部已持續兩年舉辦全國高中職國際知識競賽，師生皆踴躍報名；今年邁入第三年，更有老師一次帶領九隊學生要來爭奪冠軍獎金2萬元，精彩可期；初賽訂於4月30日上午，分為北、中、南、東四區同時進行，決賽將於5月20日於台北舉行，歡迎所有對國際、政經、外交有興趣的高中職同學2-3人組隊來挑戰，更多資訊請見活動官網：<a href="https://www.wqctaiwan.com ">https://www.wqctaiwan.com&nbsp;</a></p>
+
+<p style="text-align: justify;">謝佩芬也說，國際部臉書近日會陸續釋出精彩的宣傳影片，請所有對國際關係及活動有興趣的高中職師生敬請期待。</p>
+
+<p style="text-align: justify;">國際部臉書貼文連結：&nbsp;<br />
+https://reurl.cc/KMo6j9</p>
+
+<p>&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="52524d6f424e6a4d5a794e39476c316d">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

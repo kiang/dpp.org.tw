@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-08-30</p>
+				<h2>捷克訪團抵台 民進黨熱烈歡迎</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	捷克參議院議長韋德齊（Milo&scaron; Vystrčil）今(30)日率89人訪團抵台，布拉格市市長賀吉普（ Zdeněk Hřib）更於一年半內第二度造訪台灣，民主進步黨表示最熱烈的歡迎。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨發言人謝佩芬表示，近期台灣除了與美國關係有許多正面進展，民進黨政府也積極拓展與歐洲理念相近國家的關係。此次捷克參議院訪團來台，正是雙邊共同努力，共同抵抗中國壓力的成果，也是台灣人民集體讓國際看見台灣的正向收穫。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，捷克參議院議長韋德齊此次不屈服於北京壓力，率領捷克自1989年轉型為民主國家以來最高層級的代表團訪台，展現同樣經歷威權轉型民主的捷克與台灣間的深厚友誼。民主捷克與民主台灣在價值上、文化上、經濟上、科技上等各方面的合作關係，並不因為兩國間沒有正式邦交而受影響，更不會因為中共在國際上的無理打壓而有所退縮。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬表示，台灣蓬勃的民主發展與熱情友善的民風，絕對能讓訪團對台灣留下最美好的印象，也期待未來雙方的交流，能在自由民主的共同價值基礎上，繼續擴展與強化。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6a494530674945325652337644555268">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

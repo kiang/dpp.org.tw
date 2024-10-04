@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-11-24</p>
+				<h2>蔡英文：對今天地方選舉的結果，負起完全的責任，從現在開始辭去民主進步黨的主席一職</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席蔡英文今(24)日晚間偕同黨秘書長洪耀福、選對會召集人林錫耀、陳明文召開「2018地方公職人員選舉」選後記者會。蔡英文主席發表談話全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	各位國人同胞，大家晚安。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	身為執政黨的主席，首先我要對今天地方選舉的結果，負起完全的責任，我從現在開始辭去民主進步黨的主席一職，我們努力不夠，讓所有和我們一起打拚的支持者失望，我也要在此表達我們非常誠摯的歉意。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨相信民主價值。今天民主給我們上了一課，我們就應該要虛心接受人民更高的要求。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	對於民意的展現，我們當然要深自檢討，但一場選舉的成敗，不能讓我們停下腳步，我們更不能因此自怨自艾。在我辭去黨主席之後，民進黨將進行黨務的改組。而在改革的關鍵期，政府的行政團隊則必須保持穩定，因此，雖然剛才賴院長已經向我口頭請辭，但我已經請他繼續留下來打拚，以確保各項重大政策持續地推動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	過去將近三年來，因為大家的堅持，國家正走在正確的方向上，現在我們的國民對我們設下了更嚴格的標準，我們虛心接受，深刻檢討，要努力用更高的標準來自我要求，來回應國民的期待。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在此，我要向所有當選的公職說一聲恭喜，也期待在經過民意洗禮之後，我們不分黨派攜手合作，一起來為人民的幸福努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，我也要向所有民進黨參選的同志、工作夥伴和支持者，致上我最深的謝意，謝謝大家一路以來共同的努力。未來，我們必須繼續團結，堅持改革，堅持自由民主，堅持守護國家的主權，是民進黨無可拋棄的使命。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	面對國內外各種挑戰，這些堅持，就像穿過荊棘，必定會讓我們傷痕累累，但我要告訴民進黨的所有同志還有支持者，對的事，還是要繼續做，再多的傷痕，再多的艱難，國家都必須向前，我們有責任守住台灣的未來。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6673716b424835683042644a6f7a7144">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

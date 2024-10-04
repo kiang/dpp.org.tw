@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-07-15</p>
+				<h2>民主進步黨第十八屆中執評委暨中常委選舉結果</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民主進步黨今(15)日召開第十八屆第一次全國黨員代表大會，並舉行中央執行委員、中央評議委員及中央常務執行委員選舉，由黨秘書長洪耀福宣布選舉結果如下：</p>
+<p style="text-align: justify;">
+	中央執行委員應選出30人，當選名單如下：陳菊(女)、陳茂松、黃承國、蔡培慧(女)、陳勝宏、謝明源、陳啓昱、黃秀芳(女)、王定宇、李茂源、陳明文、何博文、高志鵬、周春米(女)、許淑華(女)、鄭宏輝、王孝維、鄭運鵬、李昆澤、周玲妏(女)、沈發惠、史哲、鄭寶清、張宏陸、林俊憲、黃俊哲、林耀文、陳亭妃(女)、許西彬、林益邦。</p>
+<p style="text-align: justify;">
+	中央評議委員應選出11人，當選名單如下：蘇治芬(女)、林寶興、蔡昌達、許木桂、詹晉鑒、陳大鈞、郭國文、陳坤榮、何美惠(女)、賴惠員(女)、蔡易餘，並一致推舉蘇治芬同志為第十八屆中央評議委員會主任委員。</p>
+<p style="text-align: justify;">
+	中央常務執行委員應選出10人，當選名單如下：陳菊（女）、黃承國、陳勝宏、黃秀芳（女）、王定宇、陳明文、高志鵬、沈發惠、鄭寶清、張宏陸。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="365735733058724a6162577657374e33">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-16</p>
+				<h2>民進黨國會實習計畫結業　羅文嘉突襲給驚喜</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨青年部，今(16)日於中央黨部為「2018青年入陣：國會實習計畫」舉辦結業式，主席卓榮泰到場頒發結業證書，新上任秘書長羅文嘉也以神秘嘉賓的身份出席與實習生座談並聽取實習心得，為整場活動帶來驚喜。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	青年部舉辦國會實習計畫，並安排逐月培訓課程，定期追蹤實習生狀況及進度，實習生工作內容多元，除法案、質詢、選民服務外，亦有多位實習生有協助選舉活動的經驗。實習生們表示這四月的實習下來對政治工作有更深入的了解，未來也希望能繼續為政治工作投入心力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	青年部主任何孟樺指出，民進黨向來重視青年人才甄補，國會實習計畫已邁入第三屆，此項計畫過去培養出許多優秀國會助理，為民進黨培育人才的重要計畫，期望本屆的實習生未來也能有卓越的表現。未來也將持續推動更多政治人才培訓活動，栽培有志投入政治工作的青年。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黨主席卓榮泰從三十年前參與政治工作需要面臨的危險談起，勉勵在場的實習生們一同守護得來不易的民主，台灣不能接受九二共識、一中原則、一國兩制，否則就會香港化，守護台灣是大家共同的任務和使命。卓榮泰也表示，會要求青年部給予這些青年更進一步的訓練，讓這些政治新血們接觸更高難度、更多元的工作內容；此外，民進黨是最重視青年的團體，透過這些實習生們能成為與青年接觸的第一線，引進更多新血，並且讓更多青年認識、了解民進黨。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	為了聆聽青年最真實的聲音，青年部特地安排新任秘書長羅文嘉在卓榮泰主席陪同下突襲結業式，卓榮泰主席幽默向驚喜的實習生們介紹「自己的老朋友，年輕人的新朋友羅文嘉」，沉潛多年後復出政壇的羅文嘉秘書長，也風趣詢問在場的實習生有多少人認識自己，更自備桌牌來自我介紹。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅文嘉與實習生座談過程中，面對各種犀利提問都不避談，給予實習生滿意的答覆，典禮的最後，也以自己過去在國會工作經驗勉勵學生，為本屆國會實習劃下驚奇的句點。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6b346a4c51387977786932705978516f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

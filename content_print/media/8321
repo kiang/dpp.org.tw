@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-06-22</p>
+				<h2>民進黨首推新南向實習 強化青年對東南亞國家交流與認識</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨於今年暑假首次推出「東南亞不思議：新南向實習計畫」，共招募15位實習生，前往泰國、越南及馬來西亞實習一個月，今(22)日辦理實習培訓，邀請外貿協會市場處陳廣哲處長分享新南向政策，也安排新住民政策、經驗分享等課程。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	青年部主任何孟樺表示，本次新南向實習除了給同學們有探索自己的機會外，也希望同學們能透過一個月的時間，對在地文化及社會有更深的認識，發揮新南向政策「以人為本」的重要精神，成為台灣外交的尖兵，未來台灣與新南向國家深化認識的橋樑。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	副秘書長徐佳青開幕式致詞時表示，很開心看到大家願意接受這樣的挑戰，自己年輕時也是希望能到不同的國家歷練，學習不同文化的經驗，沒有實際體驗很多事情是無法體會的，也勉勵所有實習生，帶著好奇接受冒險的心態接受新挑戰，透過身歷其境，了解異鄉人的困難，體會與我們不一樣的人面對什麼樣的困難。期許大家把握自己的語言優勢，抱持開放態度多認識當地，一個月後一定會收穫滿滿。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	婦女部蔡宛芬主任介紹新住民政策時也表示，透過本次前往新南向實習的經驗，同學能體驗不同語言、文化的職場生活，此次計劃參與者有些是新住民二代，過去可能也曾回家多次，此次的職場體驗計劃應該會讓你們對於自己的另一個家鄉有不一樣的感受與想法。相信同學們結束這趟旅程後，一定會更加勇敢、更加自信地邁出人生的每一步，會與我們一起努力讓台灣成為多元文化友善社會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺指出，過去推出的實習計畫以政治實務為居多，但公共參與有許多不同的面相，這次首次嘗試不同的職場體驗，透過跨部門合作，媒合同學前往新南向國家實習，並補助機票、住宿及在地生活費，預計招收15人，共有130餘人報名，遠超乎預期。青年部也會推出更多活動，協助同學生涯探索體驗之外，也藉由這些機會更深入了解民進黨推出相關政策。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	參與新南向計畫的十五位實習生，其中包含越南、印尼及泰國等新二代同學，預計在暑假期間前往泰國、越南及馬來西亞進行為期一個月的實習，實習生回國之後也會陸續推出成果分享會及發表會，帶回第一線的經驗分享及文化觀察，更加拉近台灣與新南向國家的瞭解及距離。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5263644d523330474358697149763534">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

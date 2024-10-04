@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-10-31</p>
+				<h2>美再贈台150萬劑疫苗 民進黨：感謝美再度以實際行動協助台灣對抗疫情</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	對於美國政府二度捐贈台灣150萬劑疫苗，將於明（1）日抵台，總計捐贈台灣400萬劑莫德納疫苗，民主進步黨發言人謝佩芬今（31）日表示，美國再度以實際行動協助台灣對抗疫情，民進黨表達由衷的謝意。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬說，今年六月，美國首度捐贈台灣疫苗，從原本宣布的75萬劑加碼到250萬劑，我們都深感溫暖。今日，美國再度捐贈台灣疫苗，更顯台美之間在共同對抗疫情上的堅定情誼。&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬進一步說，誠如美國在台協會處長孫曉雅前日在記者會中所述，美台關係狀態處於極佳狀態，與台灣互動，符合美國利益。民進黨十分珍惜美國對台灣的支持與友誼，尤其是美國行政、立法部門及各界好朋友對台灣的力挺。此外，民進黨也向第一線的蕭美琴大使和全體外交人員致敬，感謝他們於深化台美關係的持續努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="46717873476a5777305275364b6a4e63">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

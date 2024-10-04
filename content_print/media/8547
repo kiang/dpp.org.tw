@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-26</p>
+				<h2>卓榮泰：明天一定走向投票所投票，讓3號王義川順利當選</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	選前最後一天，民主進步黨主席卓榮泰今(26)日由立委何欣純、張廖萬堅、黃國書、林靜儀、黨副秘書長郭昆文、台中市黨部主委何明杰及地方黨公職陪同，第四度來到台中出席立委候選人王義川選前音樂會，為明日的立委補選做最後衝刺、催票。現場除邀請張秀卿、翁立友、詹雅雯等知名歌手演唱之外，行政院長蘇貞昌、前行政院長賴清德、交通部長林佳龍也特別到場致詞，為王義川加油、衝票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，明天這場選舉，大家手中的一票，不只有支持三號王義川，也是讓民進黨的黨公職知道，之後要走的這條對民進黨黨政改革的路，是否能走下去。所以他與在場的黨公職誠懇向大家拜託，請大家明天一定要走向投票所投票，讓3號王義川順利當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰提到，18天前他剛接任黨主席工作的那天晚上，他隨即到王義川的競選總部，要求召集幹部開會，讓中央黨部知道選前的18天，他們要如何走向選戰的勝利。那一天他發現，王義川除了年輕、有活力外，辦事還很有執行力。令卓榮泰更加感動的是，從那天開始，他要求王義川回報行程至中央黨部，發現王義川每天的行程多達2、30個，手機、電腦一頁都看不完，從早拚到晚，各種行程都有排，讓他對王義川充滿信心與感動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也再次推薦王義川，他說，王義川有三個優點，讓民進黨可以勇敢負責任向大家推薦。第一，王義川是一個年輕、有活力的新世代民意代表。第二，王義川擁有交通專業，之後能將他的專業，不只在台中，可以施展到全台各地。第三，王義川到國會，可以用他的交通專業幫助林佳龍部長。大家投給義川的這票，也是和林佳龍部長說：「市長沒關係，繼續在交通部打拚，也是台中人的光榮。」這一票，請大家投給年輕、專業、會幫助林佳龍的王義川，讓他順利進入國會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰表示，今天早上他陪同台北市立委補選的２號何志偉掃街，下午隨即來到台中為王義川站台，今天不論陪王義川拚到多晚都行。雖然他的身份證籍貫寫的是台中市，但很可惜、遺憾的是，他沒有這區的選票能投給王義川，因此拜託鄉親一定要替他投下這一票，並為王義川多拉票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰也提到，去年的九合一大選結果，是民進黨心中最深的痛，我們都感受人民對民進黨不滿的提示。他上任的這18天來，從台灣頭到台灣尾，各地的民進黨黨公職都在反省檢討，未來要怎麼繼續走這條改革、改造的路。明天的投票，請在座各位能給予民進黨力量。他保證，春節過後，民進黨黨中央會有最大一波的人事改革運動展開，會讓全台灣人民看到一個全新、有戰鬥團隊力量的民進黨，一個可以在黨政平台中提出對的政策，讓人民過好生活的民進黨，接受人民再次的考驗。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰最後強調，希望明天大家用選票給我們力量，這股力量不是只為了王義川、民進黨，而是為了台灣這片土地，能讓民進黨有能力繼續守護台灣，我們絕對不會放棄守護台灣的任務。他最後也再次拜託台中鄉親，大家手中的一票，除了決定讓一位好立委進入國會外，也是決定讓民進黨可以在台灣這片土地再站起，決定讓民進黨擔起守護台灣的責任。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4579546535466164363437674d685367">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

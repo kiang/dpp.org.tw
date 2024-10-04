@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-08-01</p>
+				<h2>習近平提出「六個任何」 民進黨：任何恫嚇的語言，只會遠離台灣民心</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 針對習近平所提出的「六個任何」，民進黨發言人王閔生今（1）日表示，中華民國是一個主權獨立國家，台灣的前途應由兩千三百萬人，以民主方式共同決定。</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 王閔生指出，中國大陸必須正視中華民國存在事實、正視台灣社會的主流民意、正視台灣人民對於民主價值的信仰，尊重台灣民主體制和人民的選擇。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 兩岸的和平和發展應建立在彼此良性溝通和對話，增進相互了解上，共同維護區域和平。任何恫嚇的語言，只會遠離台灣民心，不利兩岸大局的和平穩定。</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4b65535136564c42625064336d327833">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

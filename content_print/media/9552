@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-05-26</p>
+				<h2>向林智堅、黃偉哲喊話　潘孟安：「美食天堂在屏東」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	「蔡英文&amp;DPP」的Podcast頻道「耳朵出遊不出油」，今（26）日釋出屏東縣長潘孟安的專訪，連續三年獲五星首長殊榮的潘孟安縣長，把屏東「從問號變成驚嘆號」。潘孟安縣長說，屏東過去被視為「遙遠」代名詞，現在已是「我屏東，我驕傲」的美學之都。潘孟安縣長也認為，找出在地特色，走出自己的路，是翻轉屏東的重要關鍵。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	潘孟安縣長也跟大家預告，待疫情趨緩後，屏東還有很多活動，例如：兒童狂歡節到9月、10月到12月的活動會更多，歡迎大家再到屏東旅遊，感受屏東的轉變，認識屏東這個品牌。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	說到屏東的在地美食，潘孟安縣長自豪「可以講三天三夜」，因為屏東族群構成多元，造就了屏東豐富的飲食文化。潘孟安縣長甚至對前幾集的來賓，新竹市長林智堅、台南市長黃偉哲喊話，「美食天堂在屏東」，而且屏東人好客又豪邁，就連「牛肉火鍋的肉都切得比台南大塊」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	對於過去大家對屏東的印象只有墾丁，潘孟安縣長表示從屏東市區到墾丁，有一百多公里，是從台北到苗栗的距離，屏東要轉型就要先改變大家的印象。幅地遼闊的屏東，有著各式各樣的在地風貌，潘孟安縣長認為屏東每個鄉鎮都是一顆璀璨的琉璃珠，縣政府的責任，就是串起代表在地風貌的每一顆琉璃珠。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	潘孟安縣長一直都很鼓勵農業結合觀光轉型，近年來屏東的地方創生成績斐然，他也分享屏東在農業轉型上的豐碩成果，過去輔導農民發展在地的可可產業，如今不只創造了就業機會，更成為世界金牌巧克力的產地。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	潘孟安縣長還認為，屏東長期扮演台灣的花果天堂，但交通、醫療的資源，都和大城市有著嚴重的落差，如何彌補人民生活上的不平權，是鄉親交付他擔任縣長的責任。硬體要升級，文化也要升級，潘孟安縣長除了廣設圖書館，鼓勵市民閱讀外，他也完成縣府刊物的改版，突破地方政府美學的新高度，翻轉過去大家對屏東的舊印象。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	今年二月，潘孟安縣長在屏東縣民公園打上烏克蘭國旗的燈光，傳遞屏東聲援民主、自由的信念。潘孟安縣長也透露，他對俄羅斯、烏克蘭有特別的感情，大方分享曾在這兩個國家旅居、工作的經驗。他年輕時曾提著一卡皮箱到外國經商，途中見證蘇聯解體、六四天安門事件。而周遊烏克蘭、俄羅斯等國的經驗，更是孕育他後來從政的養分之一。</div>
+<div>
+	&nbsp;</div>
+<div>
+	<div>
+		＊Apple ：<a href="https://reurl.cc/951yda">https://reurl.cc/951yda</a></div>
+	<div>
+		＊Spotify：<a href="https://reurl.cc/6DLe2M">https://reurl.cc/6DLe2M</a></div>
+	<div>
+		＊KKBOX：<a href="https://kkbox.fm/0t0h3i">https://kkbox.fm/0t0h3i</a></div>
+	<div>
+		＊Google：<a href="https://reurl.cc/kLn6QG">https://reurl.cc/kLn6QG</a></div>
+	<div>
+		＊Firstory：<a href="http://dpppodcast.firstory.io">http://dpppodcast.firstory.io</a></div>
+</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="384d576b5275554b7557476b66314a35">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

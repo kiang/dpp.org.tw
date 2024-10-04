@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-11-01</p>
+				<h2>民主進步黨第二十屆第二十二次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>民主進步黨今(1)日召開第二十屆第二十二次中執會，針對2024年第11屆高雄市第六選區立法委員候選人趙天麟，因個人因素聲明退選，會中同意退選。後續提名事宜，經「2024大選提名策略小組」評估整體選情後，通過改徵召提名黃捷同志為高雄市第六選區立法委員候選人。</p>
+
+<p>張志豪轉述賴清德主席裁示，全文如下：</p>
+
+<p>首先，非常感謝各位中執委，全體一致同意徵召高雄市議員黃捷參選高雄第六選區的立法委員。</p>
+
+<p>黃捷年輕有為、懷抱理想，不僅僅是台大社會、公衛的雙學士，同時也擔任過記者、國會助理，更在高雄議會表現傑出，更難得的是長期深耕基層、專業問政以外，也在各地協助民進黨同志，從事各項競選和理念宣揚的工作。</p>
+
+<p>黃捷也完全符合民主大聯盟的原則，所以今天徵召黃捷來參選立法委員是一個非常適當的人才。</p>
+
+<p>另外，我希望所有黨公職同志，也能團結一致、互相支援，高雄市的立委選舉務必八席立委都能夠順利高票當選。我也期勉黃捷，這場選戰不好打，起步比較晚，一定要加倍努力，我也祝福她能夠高票當選。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="634e704a6e7076324e674b6c4c347732">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

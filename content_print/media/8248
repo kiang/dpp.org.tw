@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-03-21</p>
+				<h2>洪耀福: 放下歧見、共同團結，讓嘉義縣更發展</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民進黨秘書長洪耀福今(21)日偕同嘉義縣長參選人翁章梁、嘉義縣議長張明達召開記者會，會中洪耀福表示，蔡英文主席在今天中常會後主動約見張明達、翁章梁同志，一方面慰勉他們在初選這段期間的辛勞，也勉勵他們初選結束之後，放下初選階段的歧見，共同團結，讓嘉義縣的發展更順遂。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	洪耀福表示，張明達議長表現出他過去一向的從政風格，為人寬厚、肚量非常大，並承諾一定會全力支持翁章梁同志競選縣長。翁章梁也特別感謝張明達議長對他的支持，未來嘉義縣在翁章梁縣長跟張明達議長攜手團結合作之下，相信嘉義縣一定會迎來一個新的時代，一個不一樣的嘉義縣。在此特別感謝張明達與翁章梁兩位同志放下初選歧見，共同打拼，一起來努力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	張明達議長表示，今天主席約我們見面，希望在執行初選期間造成的誤會，為了黨的團結、和諧，以及嘉義未來的發展，將個人置之度外。也希望翁章梁能與我的團隊共同合作，照顧嘉義，讓嘉義更發展。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	翁章梁表示，主席今天約見他與張議長，勉勵他們兩位要放下、團結、一起向前看。在過程中，張議長表現出豁達大度，和大家攜手合作向前看的精神，讓他特別感動。歷經初選後，黨內團結一直是民進黨的傳統，也是支持者共同的期待。他說，張議長可以顧全大局，再度與他攜手合作，一起面對2018的大選，對張議長的決定感到佩服及感動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	翁章梁說，在過去擔任社會局長時，張明達議長就擔任議長，實際上兩人感情一直非常好，對張議長在議會裡的表現，包括協助張花冠縣長推動縣政等，一直讓他深受感動。翁章梁也強調，「競爭而不鬥爭，選後團結一致對外」是黨內初選競選過程中的基調，也是民進黨的優良傳統。嘉義縣這次的整合，又為民進黨團結一致對外的優良傳統，增加了一頁見證。希望黨內初選可以維持這樣的優良傳統，讓民進黨為選民一起努力，不讓選民失望。今天主席出面促成我們可以放下、可以團結、可以向前看，可以一起面對年底的2018選舉，這是一個值得高興的事，也非常謝謝大家的關心，紛爭已畫下句點，讓我們攜手向前。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="656f4a5336485a4f426b694e4a6f6d64">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

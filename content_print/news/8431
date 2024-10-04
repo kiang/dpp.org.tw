@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-04-12</p>
+				<h2>反併吞 守護民主</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                	                <p class="text-center font_green">
+		                <i>
+		                	〞遣返主張武力統一台灣中國學者〞
+						</i>
+					</p>
+										<hr>
+	                <p>
+	主張武力統一台灣的中國學者李毅受中國和平統一促進會邀請訪台演講，持觀光簽證來鼓吹一國兩制，但移民署昨天表示，李毅9日持觀光簽證入境台灣，不得發表演說，已廢止入境許可，限令出境。</p>
+<p style="text-align: center;">
+	<img alt="" src="/upload/ckfinder/images/57258157_10155815849906058_6095637866765877248_o.png" style="width: 1024px; height: 1024px;" /></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5356766c7350746f57384275416e6c37">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

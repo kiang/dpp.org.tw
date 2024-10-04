@@ -1,0 +1,1594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="民主進步黨官方網站，提供相關新聞與活動資訊、聯絡方式與政策說明，以及黨史與相關下載" />
+	<meta name="keywords" content="民主進步黨，民進黨，綠色執政品質保證，政治，政策，線上入黨，黨史，小額捐款，Democratic Progressive Party(Taiwan)，DPP(Taiwan) ，DPP，民主，政黨"/>
+	
+	<meta property="fb:app_id"           content="1955827791300508" />
+	
+		<title>民主進步黨入黨申請表</title>
+	<meta property="og:url"           content="https://www.dpp.org.tw/signup" />
+	<meta property="og:type"          content="website" />
+	<meta property="og:title"         content="民主進步黨入黨申請表" />
+	<meta property="og:description"   content="此為民主進步黨線上入黨頁面" />
+	<meta property="og:image"         content="https://www.dpp.org.tw/contents/frontend/images/share_logo.png" />
+	
+		
+	<link rel="shortcut icon" href="https://www.dpp.org.tw/contents/frontend/images/favicon_32_32.ico" type="image/x-icon">
+
+	<!--fontAwesome-->
+	<link href="https://use.fontawesome.com/releases/v5.0.7/css/all.css" rel="stylesheet"> 
+	
+	<!-- Bootstrap -->
+	<link href="https://www.dpp.org.tw/contents/frontend/css/bootstrap.css" rel="stylesheet" type="text/css">
+	
+	<!--fancyBox-->
+	<link rel="stylesheet" href="https://www.dpp.org.tw/contents/frontend/css/jquery.fancybox.css" type="text/css" media="screen" />
+
+	<link rel="stylesheet" type="text/css" href="https://www.dpp.org.tw/contents/frontend/js/cropper/cropper.min.css" media="screen">
+	
+	<!--SwiperCss-->
+	<link href="https://www.dpp.org.tw/contents/frontend/css/swiper.min.css" rel="stylesheet">
+	
+	<!-- WebCss -->
+	<link href="https://www.dpp.org.tw/contents/frontend/css/setting.css" rel="stylesheet" type="text/css">
+	
+	<link href="https://www.dpp.org.tw/contents/frontend/css/gotop.css" rel="stylesheet" type="text/css">
+	
+	<link href="https://www.dpp.org.tw/contents/frontend/css/main.css" rel="stylesheet" type="text/css">
+	<link href="https://www.dpp.org.tw/contents/frontend/css/rwd.css" rel="stylesheet" type="text/css">
+	
+	<!-- 新增部分 -->
+	<link href="https://www.dpp.org.tw/contents/frontend/css/new.css" rel="stylesheet">
+	<!-- 20180612新增 -->
+	<link href="https://www.dpp.org.tw/contents/frontend/css/new2.css?v=1.00001" rel="stylesheet" type="text/css">
+	<!-- 20180612新增 End -->
+	<link href="https://www.dpp.org.tw/contents/frontend/css/a_style.css" rel="stylesheet" type="text/css">
+
+	<link href="https://www.dpp.org.tw/contents/frontend/css/fixed.css" rel="stylesheet" type="text/css">
+	<link href="https://www.dpp.org.tw/contents/frontend/css/slick.css" rel="stylesheet" type="text/css">
+	
+	<!--[if lt IE 9]>
+	      <script src="https://www.dpp.org.tw/contents/frontend/js/html5shiv.min.js"></script>
+	      <script src="https://www.dpp.org.tw/contents/frontend/js/respond.min.js"></script>
+	<![endif]-->
+	
+	<!-- InstanceBeginEditable name="head" -->
+	<!-- InstanceEndEditable -->
+	
+	<input type="hidden" name="ci_csrf_token" value="" />
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-807891950"></script>
+	<script nonce="734e384d566e6e616b72704966384b38">
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'AW-807891950');
+	</script>	
+
+	<script src="https://cdn.holmesmind.com/js/rtid.js"></script>
+	<script src="https://cdn.holmesmind.com/dmp/cft/triggerTracker.js"></script>
+	<script async src="https://cdn.holmesmind.com/dmp/cft/tracker.js"></script>
+	<script nonce="734e384d566e6e616b72704966384b38">
+	    clickforce_rtid("9990001");
+	    /* Website track (tracker.js) - B.I.DMP By ClickForce */
+	    window.cft=window.cft||function(){(cft.q=cft.q||[]).push([].slice.call(arguments))};
+	    function clickForceMyyCFT(){
+	        cft("setSiteId", "CF-231000139675");
+	        cft("setViewPercentage");
+	    };
+	    clickForceDelayLoading();
+	</script>
+</head><body>
+		<!--header-->
+	<header class="header_page">
+		<div class="container-fulid">
+						<!-- 20180612新增 -->
+			<a href="#" class="menu hidden"><img src="https://www.dpp.org.tw/contents/frontend/images/menu.png" alt=""/></a>
+			<!-- 20180612新增 End-->
+			
+			<a href="https://www.dpp.org.tw/" class="logo hidden-xs"><img src="https://www.dpp.org.tw/upload/sys_profile/5a3b516861d9d.png" alt=""/></a>
+			<a href="https://www.dpp.org.tw/" class="logo visible-xs"><img src="https://www.dpp.org.tw/upload/sys_profile/5a3b516b0ed81.png" alt=""/></a>
+			<div class="topNav">
+				<ul class="nav nav-pills">
+			        <li><a href="https://www.dpp.org.tw/download">下載專區</a></li>
+					<li><a href="https://www.dpp.org.tw/contact">黨部通訊</a></li>
+			        <li><a href="https://www.dpp.org.tw/en">English</a></li>
+			        <li><a href="https://www.dpp.org.tw/search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+			    </ul>
+			    <ul class="subNav">
+
+					<li class="nav_donate"><a href="https://www.dpp.org.tw/donate">小額捐款</a></li>
+					<li class="nav_membershipfee"><a href="https://www.dpp.org.tw/membershipfee">繳黨費</a></li>
+					<li class="nav_online"><a href="https://www.dpp.org.tw/signup">線上入黨</a></li>
+			    </ul>
+			</div>
+	    </div>
+		<!--nav-->
+		<nav class="navbar" role="navigation">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+				<i class="fa fa-bars"></i>
+			</button>
+			<div class="container-fulid">
+				<div class="navbar-header">
+					<div class="collapse navbar-collapse navbar-main-collapse">
+						<ul class="nav navbar-nav">
+							<li class="">
+								<a href="https://www.dpp.org.tw/news">最新消息</a>
+							</li>
+							<li class="">
+								<a href="https://www.dpp.org.tw/media">新聞中心</a>
+							</li>
+							<li class="">
+								<a href="https://www.dpp.org.tw/about">關於DPP</a>
+							</li>
+							<li class="">
+								<a href="https://www.dpp.org.tw/anti_rumor">闢謠專區</a>
+							</li>
+							<li class="">
+								<a href="https://www.dpp.org.tw/plan">政策宣傳</a>
+							</li>
+							<!-- <li class="">
+								<a href="https://www.dpp.org.tw/1218referendums">1218公投資訊頁</a>
+							</li> -->
+							<!-- <li>
+								<a href="javascript:;" target="_blank">台灣能源新態度</a>
+							</li> -->
+							
+							<!-- 20180612新增 -->
+																					<li class="visible-xs NewMenu ">
+								<a href="https://www.dpp.org.tw/events">活動報名</a>
+							</li>
+				            <!-- 20180612新增 End -->
+				            
+							<li class="visible-xs"><a href="https://www.dpp.org.tw/signup">線上入黨</a></li>
+							<li class="visible-xs"><a href="https://www.dpp.org.tw/membershipfee">繳黨費</a></li>
+				            <li class="visible-xs"><a href="https://www.dpp.org.tw/donate">小額捐款</a></li>
+							<li class="visible-xs"><a href="https://www.dpp.org.tw/download" class="topNav_mb">下載專區</a></li>
+							<li class="visible-xs"><a href="https://www.dpp.org.tw/contact" class="topNav_mb">黨部通訊</a></li>
+							<li class="visible-xs"><a href="https://www.dpp.org.tw/en" class="topNav_mb">English</a></li>
+							<li class="visible-xs"><a href="https://www.dpp.org.tw/search" class="topNav_mb"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+							<li class="visible-xs social">
+			            		<a href="https://www.youtube.com/user/dppsng">
+				            		<img src="https://www.dpp.org.tw/contents/frontend/images/youtube_white.png" alt="">
+				            	</a>
+			            		<a href="https://www.facebook.com/dpptw/">
+				            		<img src="https://www.dpp.org.tw/contents/frontend/images/fb_white.png" alt="">
+				            	</a>
+			            		<a href="https://www.instagram.com/dpp_on_line/?hl=zh-tw">
+				            		<img src="https://www.dpp.org.tw/contents/frontend/images/ig_white.png" alt="">
+				            	</a>
+			            		<a href="http://line.naver.jp/ti/p/%40dpponline#~">
+				            		<img src="https://www.dpp.org.tw/contents/frontend/images/line_white.png" alt="">
+				            	</a>
+		    				</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</header>
+	<!-- 20180612新增 -->
+	<ul class="navbar-nav2 hidden">
+		<li><a class="menuClose" href="#">CLOSE<span><img src="https://www.dpp.org.tw/contents/frontend/images/xxxx.png" alt=""/></span></a></li> 
+		<li><a href="https://www.dpp.org.tw/">首頁</a></li>
+						<li class="">
+		   <a href="https://www.dpp.org.tw/events">活動報名</a>
+		</li>
+	</ul>
+	<!-- 20180612新增 End -->	<!--lightbox-->
+    <section class="lightbox lightbox-notice active" style="background-color: rgba(90,90,90,0.8);">
+		<div class="container">
+			<article>
+				<a href="#" class="btnClose">
+					<i class="fa fa-times" aria-hidden="true"></i>
+				</a>
+				<figure class="signup">
+				    <div class="signupLabel" style="text-align: center;">
+					    <img src="https://www.dpp.org.tw/contents/frontend/images/submit.png">
+					    <h4>
+							注意事項：<br>
+							<span style="font-size: 20px;">
+								1. 貼心提醒，您在填寫完成線上入黨程序後必須看到此畫面才算成功。<br>
+								2. 通過入黨審查後，黨費繳納通知單將會寄至戶籍所在地，日後投票通知單等重要文件亦將會寄至您的戶籍所在地。
+							</span>
+					    </h4>
+				    </div>
+				</figure>
+			</article>
+		</div>
+	</section>
+	<!--lightbox end-->
+	<!--title-->
+	<section class="container-fulid title hidden-xs">
+		<div class="row">
+		    <div class="col-sm-6">
+				<ol class="breadcrumb">
+					<li><a href="https://www.dpp.org.tw/">DPP</a></li>
+					<li class="active"><a href="https://www.dpp.org.tw/signup">線上入黨</a></li>
+				</ol>
+				<h1>線上入黨</h1>
+			</div>
+			<div class="col-sm-6 text-right">
+				<h2>民主進步黨 - <span class="font_yellow">綠色執政品質保證</span></h2>
+			</div>
+		</div>
+	</section>
+	<!--main-->
+	<main class="page">
+		<section class="container">
+			<h3 class="MB30">民主進步黨入黨申請表</h3>  
+			<ul class="page_menu">
+				<li>基本資料填寫</li>
+				<li>審查資料填寫</li>
+				<li>完成申請</li>
+			</ul>
+		</section>
+		<section class="container">
+			<form action="https://www.dpp.org.tw/ajax_form/signup_form" enctype="multipart/form-data" id="signup_form" class="form-inline apply" method="post" accept-charset="utf-8">
+				<div class="row MB30">
+                    <div class="col-sm-6">
+						<div>
+							<input type="checkbox" id="join_union" name="join_union" value="1" >
+							<label class="none">本人欲加入勞工黨部</label>
+						</div>
+						<div class="col-sm-12 upload">
+							<div style="font-size:15px;">
+							檢附工會會員證  (未檢附者不得受理)<br>
+							依勞工黨部組織規程第三條規定：凡具有勞動基準法第二條規定並具備工會會員資格之勞工身份者，得申請為勞工黨部黨員。								
+							</div>
+
+							<input id="union_card_file" class="w35" name="union_card_file" value="" readonly/>
+							<div class="fileUpload btn btn-primary">
+								<span>瀏覽</span>
+								<input id="union_card_btn" type="file" class="upload" name="union_card"/>
+							</div>
+						</div>
+					</div>
+                    <div class="col-sm-6">
+						<div>
+							<input type="checkbox" id="rejoin" name="rejoin" value="1" >
+							<label class="none">再入黨</label>
+						</div>
+						<div class="col-sm-12 upload">
+							<div style="font-size:15px;">
+							再入黨理由書(未檢附再入黨理由書者不得受理)							
+							</div>
+
+							<input id="rejoin_reason_file" class="w35" name="rejoin_reason_file" value="" readonly/>
+							<div class="fileUpload btn btn-primary">
+								<span>瀏覽</span>
+								<input id="rejoin_btn" type="file" class="upload" name="rejoin_reason"/>
+							</div>
+						</div>
+					</div>
+
+                </div>
+                <hr>
+
+				<div class="row MB30">
+					<div class="col-lg-4 col-sm-5">
+						<label class="w35">真實姓名</label>
+						<input type="text" class="w50" name="name" id="name" value="">
+					</div>
+					<div class="col-lg-5 col-sm-7">
+						<label class="w25">出生年月日</label>
+												<select name="birthday_year" id="birthday_year" class="form-control select_function w20">
+														<option value="2024" >2024</option>
+														<option value="2023" >2023</option>
+														<option value="2022" >2022</option>
+														<option value="2021" >2021</option>
+														<option value="2020" >2020</option>
+														<option value="2019" >2019</option>
+														<option value="2018" >2018</option>
+														<option value="2017" >2017</option>
+														<option value="2016" >2016</option>
+														<option value="2015" >2015</option>
+														<option value="2014" >2014</option>
+														<option value="2013" >2013</option>
+														<option value="2012" >2012</option>
+														<option value="2011" >2011</option>
+														<option value="2010" >2010</option>
+														<option value="2009" >2009</option>
+														<option value="2008" >2008</option>
+														<option value="2007" >2007</option>
+														<option value="2006" >2006</option>
+														<option value="2005" >2005</option>
+														<option value="2004" >2004</option>
+														<option value="2003" >2003</option>
+														<option value="2002" >2002</option>
+														<option value="2001" >2001</option>
+														<option value="2000" >2000</option>
+														<option value="1999" selected>1999</option>
+														<option value="1998" >1998</option>
+														<option value="1997" >1997</option>
+														<option value="1996" >1996</option>
+														<option value="1995" >1995</option>
+														<option value="1994" >1994</option>
+														<option value="1993" >1993</option>
+														<option value="1992" >1992</option>
+														<option value="1991" >1991</option>
+														<option value="1990" >1990</option>
+														<option value="1989" >1989</option>
+														<option value="1988" >1988</option>
+														<option value="1987" >1987</option>
+														<option value="1986" >1986</option>
+														<option value="1985" >1985</option>
+														<option value="1984" >1984</option>
+														<option value="1983" >1983</option>
+														<option value="1982" >1982</option>
+														<option value="1981" >1981</option>
+														<option value="1980" >1980</option>
+														<option value="1979" >1979</option>
+														<option value="1978" >1978</option>
+														<option value="1977" >1977</option>
+														<option value="1976" >1976</option>
+														<option value="1975" >1975</option>
+														<option value="1974" >1974</option>
+														<option value="1973" >1973</option>
+														<option value="1972" >1972</option>
+														<option value="1971" >1971</option>
+														<option value="1970" >1970</option>
+														<option value="1969" >1969</option>
+														<option value="1968" >1968</option>
+														<option value="1967" >1967</option>
+														<option value="1966" >1966</option>
+														<option value="1965" >1965</option>
+														<option value="1964" >1964</option>
+														<option value="1963" >1963</option>
+														<option value="1962" >1962</option>
+														<option value="1961" >1961</option>
+														<option value="1960" >1960</option>
+														<option value="1959" >1959</option>
+														<option value="1958" >1958</option>
+														<option value="1957" >1957</option>
+														<option value="1956" >1956</option>
+														<option value="1955" >1955</option>
+														<option value="1954" >1954</option>
+														<option value="1953" >1953</option>
+														<option value="1952" >1952</option>
+														<option value="1951" >1951</option>
+														<option value="1950" >1950</option>
+														<option value="1949" >1949</option>
+														<option value="1948" >1948</option>
+														<option value="1947" >1947</option>
+														<option value="1946" >1946</option>
+														<option value="1945" >1945</option>
+														<option value="1944" >1944</option>
+														<option value="1943" >1943</option>
+														<option value="1942" >1942</option>
+														<option value="1941" >1941</option>
+														<option value="1940" >1940</option>
+														<option value="1939" >1939</option>
+														<option value="1938" >1938</option>
+														<option value="1937" >1937</option>
+														<option value="1936" >1936</option>
+														<option value="1935" >1935</option>
+														<option value="1934" >1934</option>
+														<option value="1933" >1933</option>
+														<option value="1932" >1932</option>
+														<option value="1931" >1931</option>
+														<option value="1930" >1930</option>
+														<option value="1929" >1929</option>
+														<option value="1928" >1928</option>
+														<option value="1927" >1927</option>
+														<option value="1926" >1926</option>
+														<option value="1925" >1925</option>
+														<option value="1924" >1924</option>
+														<option value="1923" >1923</option>
+														<option value="1922" >1922</option>
+														<option value="1921" >1921</option>
+														<option value="1920" >1920</option>
+														<option value="1919" >1919</option>
+														<option value="1918" >1918</option>
+														<option value="1917" >1917</option>
+														<option value="1916" >1916</option>
+														<option value="1915" >1915</option>
+														<option value="1914" >1914</option>
+														<option value="1913" >1913</option>
+														<option value="1912" >1912</option>
+														<option value="1911" >1911</option>
+													</select>
+						年
+						<select name="birthday_month" id="birthday_month" class="form-control select_function w17">
+														<option value="1" >1</option>
+														<option value="2" >2</option>
+														<option value="3" >3</option>
+														<option value="4" >4</option>
+														<option value="5" >5</option>
+														<option value="6" >6</option>
+														<option value="7" >7</option>
+														<option value="8" >8</option>
+														<option value="9" >9</option>
+														<option value="10" >10</option>
+														<option value="11" >11</option>
+														<option value="12" >12</option>
+													</select>
+						月
+						<select name="birthday_day" id="birthday_day" class="form-control select_function w17"></select>
+						日
+					</div>
+				</div>
+				<div class="row MB30">
+					<div class="col-lg-4 col-sm-5">
+						<label class="w35">出生地</label>
+						<select name="birthplace" id="birthplace" class="form-control select_function w50">
+													<option value="7" >基隆市</option>
+														<option value="2" >新北市</option>
+														<option value="1" >臺北市</option>
+														<option value="3" >桃園市</option>
+														<option value="10" >新竹縣</option>
+														<option value="8" >新竹市</option>
+														<option value="11" >苗栗縣</option>
+														<option value="4" >臺中市</option>
+														<option value="12" >彰化縣</option>
+														<option value="13" >南投縣</option>
+														<option value="14" >雲林縣</option>
+														<option value="15" >嘉義縣</option>
+														<option value="9" >嘉義市</option>
+														<option value="5" >臺南市</option>
+														<option value="6" >高雄市</option>
+														<option value="16" >屏東縣</option>
+														<option value="17" >宜蘭縣</option>
+														<option value="18" >花蓮縣</option>
+														<option value="19" >臺東縣</option>
+														<option value="20" >澎湖縣</option>
+														<option value="21" >連江縣</option>
+														<option value="23" >金門縣</option>
+														<option value="22" >其他</option>
+													</select>
+					</div>
+					<div class="col-lg-4 col-sm-6 MB10">
+						<label class="w30">行動電話</label>
+						<input type="text" id="mobile" class="w50" name="mobile" placeholder="例：0968123456" value="">
+					</div>
+					<div class="col-lg-4 col-sm-6">
+						<label class="w30">Email</label>
+						<input type="text" id="email" class="w60" name="email" value="">
+					</div>
+				</div>
+				<hr>
+					
+				<div class="row MB30">
+					<div class="col-lg-4 col-sm-5">
+						<label class="w35">身份證號</label>
+						<input type="text" id="idnum" class="w50" name="idnum" placeholder="例：F123456789" value="">
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-4 col-sm-6 upload jquery-cropper-box">
+						<label class="w35">身份證正面</label>
+						<input id="idp_f_file" class="w35" readonly/>
+						<div class="fileUpload btn btn-primary">
+							<span>瀏覽</span>
+							<input id="idp_f_btn" type="file" class="upload jquery-cropper" data-target="idp_f"/>
+						</div>
+						<div>
+							<div class="col-xs-10">
+						    	<img class="rounded avatar" src="" alt="avatar" data-name="idp_f" data-ratio="1.618:1" data-title="身份證正面" style="display: none;">
+						    								</div>								   
+							<div class="progress" style="display: none;">
+							  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
+							</div>
+							<div class="alert" role="alert"></div>										
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6 upload jquery-cropper-box">
+						<label class="w30">身份證反面</label>
+						<input id="idp_b_file" class="w35" readonly/>
+						<div class="fileUpload btn btn-primary">
+							<span>瀏覽</span>
+							<input id="idp_b_btn" type="file" class="upload jquery-cropper" data-target="idp_b"/>
+						</div>								
+						<div>
+							<div class="col-xs-10">
+						    	<img class="rounded avatar" src="" alt="avatar" data-name="idp_b" data-ratio="1.618:1" data-title="身份證反面" style="display: none;">		
+							    							</div>								   
+							<div class="progress" style="display: none;">
+							  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
+							</div>
+							<div class="alert" role="alert"></div>										
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-7 upload jquery-cropper-box">
+						<label class="w30">二吋證件照</label>
+						<input id="image_file" class="w35" readonly/>
+						<div class="fileUpload btn btn-primary">
+							<span>瀏覽</span>
+							<input id="image_btn" type="file" class="upload jquery-cropper" data-target="image"/>
+						</div>
+						<div style="font-size:14px;">範例說明圖，資料來源:外交部</div>
+						<div>
+							<div class="col-xs-6">
+							    <img src="/contents/frontend/images/p_sample.jpg" alt="">										
+							</div>								
+							<div class="col-xs-6">
+						    	<img class="rounded avatar" src="" alt="avatar" data-name="image" data-ratio="3.5:4.5" data-title="二吋證件照" style="display: none;padding: 5% 19.8%;">	
+																    						
+							</div>								   
+							<div class="progress" style="display: none;">
+							  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
+							</div>
+							<div class="alert" role="alert"></div>										
+						</div>							
+					</div>
+				</div>
+				<hr>
+				<div class="row">
+					<div class="col-lg-4 col-sm-5">
+						<label class="none w35">原住民認定</label>
+						<select name="is_aborigines" id="is_aborigines" class="form-control select_function w50">
+							<option value="0" selected>否</option>
+							<option value="1" >是</option>
+						</select>
+					</div>
+					<div class="col-lg-4 col-sm-6 upload">
+						<label class="none w30 certificate_file">戶籍謄本</label>
+						<input id="certificate_file" class="w35" value="" readonly/>
+						<div class="fileUpload btn btn-primary">
+							<span>瀏覽</span>
+							<input id="certificate_btn" type="file" class="upload" name="certificate"/>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6 font_gray MT10">原住身分之認定，以戶籍謄本註明者為準</div>
+				</div>
+				<hr>
+				<div class="row MB30">
+					<div class="col-lg-8 MB10 address">
+						<label class="w17">戶籍地址</label>
+						<select name="h_city" id="h_city" class="form-control select_function w17">
+							<option value="">縣市別</option>
+														<option value="7" >基隆市</option>
+														<option value="2" >新北市</option>
+														<option value="1" >臺北市</option>
+														<option value="3" >桃園市</option>
+														<option value="10" >新竹縣</option>
+														<option value="8" >新竹市</option>
+														<option value="11" >苗栗縣</option>
+														<option value="4" >臺中市</option>
+														<option value="12" >彰化縣</option>
+														<option value="13" >南投縣</option>
+														<option value="14" >雲林縣</option>
+														<option value="15" >嘉義縣</option>
+														<option value="9" >嘉義市</option>
+														<option value="5" >臺南市</option>
+														<option value="6" >高雄市</option>
+														<option value="16" >屏東縣</option>
+														<option value="17" >宜蘭縣</option>
+														<option value="18" >花蓮縣</option>
+														<option value="19" >臺東縣</option>
+														<option value="20" >澎湖縣</option>
+														<option value="21" >連江縣</option>
+														<option value="23" >金門縣</option>
+														<option value="22" >其他</option>
+													</select>
+						<select name="h_district" id="h_district" class="form-control select_function w17"></select>
+						<input type="text" id="h_address" class="w100" name="h_address" value="">
+					</div>
+					<div class="col-lg-4">
+						<label class="none w20">電話</label>
+						<input type="text" id="h_tel" class="w60" name="h_tel" placeholder="0212345677 或 0911111222" value=""/>
+					</div>
+				</div>
+					
+				<div class="row">
+					<div class="col-lg-8 address">
+						<label class="none w17">通訊地址</label>
+						<select name="c_city" id="c_city" class="form-control select_function w17">
+							<option value="">縣市別</option>
+														<option value="7" >基隆市</option>
+														<option value="2" >新北市</option>
+														<option value="1" >臺北市</option>
+														<option value="3" >桃園市</option>
+														<option value="10" >新竹縣</option>
+														<option value="8" >新竹市</option>
+														<option value="11" >苗栗縣</option>
+														<option value="4" >臺中市</option>
+														<option value="12" >彰化縣</option>
+														<option value="13" >南投縣</option>
+														<option value="14" >雲林縣</option>
+														<option value="15" >嘉義縣</option>
+														<option value="9" >嘉義市</option>
+														<option value="5" >臺南市</option>
+														<option value="6" >高雄市</option>
+														<option value="16" >屏東縣</option>
+														<option value="17" >宜蘭縣</option>
+														<option value="18" >花蓮縣</option>
+														<option value="19" >臺東縣</option>
+														<option value="20" >澎湖縣</option>
+														<option value="21" >連江縣</option>
+														<option value="23" >金門縣</option>
+														<option value="22" >其他</option>
+													</select>
+						<select name="c_district" id="c_district" class="form-control select_function w17"></select>
+						<input type="text" id="c_address" class="w100" name="c_address" value=""/>
+						<div class="check"><input type="checkbox" id="c_add_check" value=""> 同戶籍地址及電話</div>
+					</div>
+					
+					<div class="col-lg-4">
+						<label class="none w20">電話</label>
+						<input type="text" id="c_tel" class="w60" name="c_tel" placeholder="0212345677 或 0911111222" value=""/>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-md-4 col-sm-6">
+						<label class="none w35">最高學歷</label>
+						<select name="h_education" id="h_education" class="form-control select_function w30">
+							<option value="">請選擇</option>
+														<option value="395" >國小</option>
+														<option value="396" >國中</option>
+														<option value="397" >高中職</option>
+														<option value="398" >大專院校</option>
+														<option value="399" >碩士</option>
+														<option value="400" >博士</option>
+													</select>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<label class="none w30">學校名稱</label>
+						<input type="text" id="school" class="w50" name="school" placeholder="學校名稱" value=""/>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<label class="none w30">科系名稱</label>
+						<input type="text" id="department" class="w50" name="department" placeholder="科系名稱" value=""/>
+					</div>
+				</div>
+				<hr>
+             		
+				<div class="row MB30">
+		 			<div class="col-md-4 col-sm-6">
+		 				<label class="none w35">現任公司</label>
+		 				<input type="text" id="company" class="w50" name="company" placeholder="現任公司" value=""/>
+		 			</div>
+		 			<div class="col-md-4 col-sm-6">
+		 				<label class="none w30">職稱</label>
+		 				<input type="text" id="job" class="w50" name="job" placeholder="職稱" value=""/>
+		 			</div>
+				</div>
+					
+				<div class="row MB30">
+					<div class="col-lg-8 MB10 address">
+						<label class="none w17">公司地址</label>
+						<select name="cp_city" id="cp_city" class="form-control select_function w17">
+							<option value="">縣市別</option>
+														<option value="7" >基隆市</option>
+														<option value="2" >新北市</option>
+														<option value="1" >臺北市</option>
+														<option value="3" >桃園市</option>
+														<option value="10" >新竹縣</option>
+														<option value="8" >新竹市</option>
+														<option value="11" >苗栗縣</option>
+														<option value="4" >臺中市</option>
+														<option value="12" >彰化縣</option>
+														<option value="13" >南投縣</option>
+														<option value="14" >雲林縣</option>
+														<option value="15" >嘉義縣</option>
+														<option value="9" >嘉義市</option>
+														<option value="5" >臺南市</option>
+														<option value="6" >高雄市</option>
+														<option value="16" >屏東縣</option>
+														<option value="17" >宜蘭縣</option>
+														<option value="18" >花蓮縣</option>
+														<option value="19" >臺東縣</option>
+														<option value="20" >澎湖縣</option>
+														<option value="21" >連江縣</option>
+														<option value="23" >金門縣</option>
+														<option value="22" >其他</option>
+													</select>
+						<select name="cp_district" id="cp_district" class="form-control select_function w17"></select>
+						<input type="text" id="cp_address" class="w100" name="cp_address" value=""/>
+					</div>
+					<div class="col-lg-4">
+						<label class="none w20">電話</label>
+						<input type="text" id="cp_tel" class="w60" name="cp_tel" placeholder="0212345677 或 0911111222" value=""/>
+					</div>
+         		</div>
+		 		<hr>
+				<div class="signup_terms_title">入黨個人資料運用同意條款</div>
+				<div class="signup_terms">
+					<p>1. 民主進步黨(下稱本黨) 依據個資法第8條為個人資料之蒐集告知。</p>
+					<p>2. 本黨於辦理黨員入黨之特定目的內蒐集、處理及利用您的個人資料，個人資料類別包含姓名、電話及各入黨所須個人資料，該個人資料存檔與印製黨證暨個資法辦理。</p>
+					<p>3. 本黨為了能快速且正確的為您辦理入黨事宜，須請您留下您的姓名(必須與您的身分證相符)、E-mail、聯絡電話、入黨所需相關資訊。如果您與本黨聯繫時，請您提供正確的電話或電子信箱地址，作為回覆來詢事項之用。</p>
+					<p>4. 您所留下的各項資料，將僅供本黨，為解決您的問題而須進行聯繫、回覆等相關事項以及寄送黨費繳納單、寄送黨證、辦理各項黨內選舉(包括提供黨內初選候選人使用等)之特定目的。除此之外，本黨並不會將您所留的資料提供給他人。</p>
+					<p>5. 對於您於本網站所留的個人資料，仍可依個人資料保護法的規定，來電或直接前往個地方黨部向本黨行使查詢或閱覽、補辦黨證、補充或更正、停止蒐集處理或利用、刪除之權利。</p>
+					<p>6. 您可自由選擇提供個人資料的程度，但如果您提供的資料有誤或不足時，本黨可能無法提供您完整的服務。本黨已履行上開告知義務，您同意並瞭解本黨蒐集、處理或利用個人資料之目的及用途。如您已向本黨申請入黨並留下聯繫方式者，視為同意本蒐集、處理及利用個人資料告知事項。</p>
+				</div>
+		 		<div class="next">
+		 			<a href="javascript:;" id="signup_submit" style="border-radius: 5px;">
+			 			同意上述條款並繼續
+		 			</a>
+		 		</div>
+			</form>
+		</section>
+	</main>
+	 	<!--footer-->
+	<footer>
+	    <div class="container-fulid social">
+			<div class="row">	
+				<div class="col-sm-7 hidden-xs">
+				    <a href="https://www.dpp.org.tw/">
+				    	<img class="logo_s" src="https://www.dpp.org.tw/contents/frontend/images/logo_s.png">
+				    </a>
+				    <a href="https://www.youtube.com/user/dppsng" target="_blank">
+				    	<img src="https://www.dpp.org.tw/contents/frontend/images/youtube.png">
+				    </a>
+				    <a href="https://www.facebook.com/dpptw/" target="_blank">
+						<img src="https://www.dpp.org.tw/contents/frontend/images/fb.png">
+				    </a>
+				    <a href="https://www.instagram.com/dpp_taiwan/" target="_blank">
+				    	<img src="https://www.dpp.org.tw/contents/frontend/images/ig.png">
+				    </a>
+				    <a href="http://line.naver.jp/ti/p/%40dpponline#~" target="_blank">
+				    	<img src="https://www.dpp.org.tw/contents/frontend/images/line.png">
+				    </a>
+					<a href="https://twitter.com/DPPonline" target="_blank">
+				    	<img src="https://www.dpp.org.tw/contents/frontend/images/twitter.png">
+				    </a>
+				</div>
+			</div>
+	    </div>
+	    <hr>  
+		<div class="container-fulid social">
+			<div class="dept">
+								<ul>
+										<li><a href="http://bit.ly/30aVbYb" target="_blank">民進黨立法院黨團</a></li>
+										<li><a href="https://www.facebook.com/dppspokesman" target="_blank">民進黨發言人</a></li>
+										<li><a href="https://goo.gl/f8DrmL" target="_blank">台灣民主學院</a></li>
+										<li><a href="https://goo.gl/NFaj5y" target="_blank">青年發展部</a></li>
+										<li><a href="https://goo.gl/Khoocf" target="_blank">客家事務部</a></li>
+						            </ul>
+	            	            				<ul>
+										<li><a href="https://reurl.cc/ldkkGQ" target="_blank">國際事務部</a></li>
+										<li><a href="https://www.facebook.com/DppGenderEquality" target="_blank">性別平等事務部</a></li>
+										<li><a href="https://goo.gl/iTcK6D" target="_blank">原住民族事務部</a></li>
+										<li><a href="https://www.facebook.com/profile.php?id=100095077845076" target="_blank">中國事務部</a></li>
+										<li><a href="https://reurl.cc/LWdyDe" target="_blank">新住民事務部</a></li>
+						            </ul>
+	            	            	            	            	        </div>
+	        <div class="copyright">
+	        <a href="https://www.dpp.org.tw/sitemap">網站地圖</a>   |   版權所有   |   民主進步黨中央黨部       地址   |   台北市中正區北平東路30號10樓       代表號   |   02-2392-9989       主席信箱   |   chairperson@dpp.org.tw </div>
+	        </div>
+	        
+	</footer>		<!--Gotop-->
+	<a href="#page-top" class="go-top"><i class="fa fa-chevron-up"></i></a>
+	
+	<!-- loading -->
+		<div class="loading ">
+		<div class="loading_con">
+			<img src="https://www.dpp.org.tw/contents/frontend/images/loading.gif" />
+		</div>
+	</div>		
+		
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery.form.min.js" type="text/javascript"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/bootstrap.js"></script>
+	
+	<!--Swiper-->
+	<script src="https://www.dpp.org.tw/contents/frontend/js/swiper.min.js"></script>
+	<!--fancyBox-->
+	<script type="text/javascript" src="https://www.dpp.org.tw/contents/frontend/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+	<script type="text/javascript" src="https://www.dpp.org.tw/contents/frontend/js/fancybox/source/jquery.fancybox.pack.js"></script>
+	
+	 <!--TweenMax-->
+	<script src="https://www.dpp.org.tw/contents/frontend/js/greensock/TweenMax.min.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery.transit.min.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery.superscrollorama.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery.mousewheel.js"></script>
+
+	<script src="https://www.dpp.org.tw/contents/frontend/js/animate.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/gotop.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/swiper_pc.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/adfloat.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/movies.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery.cycle2.min.js"></script>
+	
+	<script src="https://www.dpp.org.tw/contents/frontend/js/loading.js"></script>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/slick.min.js"></script>
+	
+	<!-- Google Map使用 -->
+	<!-- <script src="https://www.dpp.org.tw/contents/frontend/js/js?key=AIzaSyCfX7Sx1gzu3nc5pwaUQ8cTPSyrpO3I9xg"></script> -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBVf-g6In_3UYvCXZJp7Qase1tpYRnQ-g"></script>
+
+		
+	<!-- InstanceBeginEditable name="js" -->
+	<script nonce="734e384d566e6e616b72704966384b38">
+		$(function(){
+			fancyboxVideo();
+			singlephotoSwiper();
+									
+						
+			$('#video_frame').slick({
+				slidesToShow: 3,
+				slidesToScroll: 3,
+				prevArrow: $(".previous"),
+				nextArrow: $(".next")
+			});
+			
+						
+			var r = /^[0-9]*[1-9][0-9]*$/;
+			$("#pay_submit").hide();
+			
+			$(".donate_money").click(function(){
+				var donate_money = $(this).attr("value");
+				$("#pay_money").val(donate_money);
+				$("#donate_submit").trigger("click");
+				
+				if(donate_money){
+					$("#pay_submit").show();
+				}else{
+					$("#pay_submit").hide();
+				}
+			})
+			
+			$("#donate_submit").click(function(){
+				if($("#pay_money").val() <= 99)
+				{
+					alert("『捐款金額』最低限額為 新台幣 100 元整")
+					$("#pay_money").focus()
+					return false;
+				}
+				if(!r.test($("#pay_money").val())){
+					alert("『捐款金額』請輸入整數位數");
+					$("#pay_money").focus();
+					return false;
+				}
+				if($("#pay_money").val() && $("#pay_money").val() > 0){
+					$("#pay_submit").show();
+				}else{
+					$("#pay_submit").hide();
+				}
+			})
+			
+			$(".donate_notice_a").click(function(){
+				if($("#pay_money").val() && $("#pay_money").val() > 99){
+					if(!r.test($("#pay_money").val())){
+						$("#pay_submit").hide();
+					}else{
+						$("#pay_submit").show();
+					}
+				}else{
+					$("#pay_submit").hide();
+				}
+			})
+			
+			$("#pay_submit").click(function(){
+				if(!$("#pay_money").val())
+				{
+					alert("請輸入『捐款金額』")
+					$("#pay_money").focus()
+					return false;
+				}
+				if($("#pay_money").val() <= 99)
+				{
+					alert("『捐款金額』最低限額為 新台幣 100 元整")
+					$("#pay_money").focus()
+					return false;
+				}
+				window.open('https://www.dpp.org.tw/payments/ecpay/'+$("#pay_money").val(),'_blank');
+			});
+		});
+		
+		function ajax_cap(){
+			var token_val = $('input[name="ci_csrf_token"]').eq(0).val();
+			$.ajax({
+				url:'https://www.dpp.org.tw/home/ajax_cap',
+				type: "POST",
+				data: {'ci_csrf_token':token_val},
+				dataType: 'json',
+				success: function(result){
+					$("#cap").html('<img src="https://www.dpp.org.tw/home/cap_img?1728034757" style="width: 82px; height: 32px; border: 0;">');
+					$('input[name="ci_csrf_token"]').val(result['csrf_token']);
+				}
+			});
+		}
+		
+		// 台灣身份證字號格式檢查程式
+		function TWIDCheck(value){
+			var a = new Array('A','B','C','D','E','F','G','H','J','K','L','M','N','P','Q','R','S','T','U','V','X','Y','W','Z','I','O');
+		    var b = new Array(1,9,8,7,6,5,4,3,2,1);
+		    var c = new Array(2);
+		    var d;
+		    var e;
+		    var f;
+		    var g = 0;
+		    var h = /^[a-z](1|2)\d{8}$/i;
+		    if (value.search(h) == -1)
+		    {
+		        return false;
+		    }
+		    else
+		    {
+		        d = value.charAt(0).toUpperCase();
+		        f = value.charAt(9);
+		    }
+		    for (var i = 0; i < 26; i++)
+		    {
+		        if (d == a[i])//a==a
+		        {
+		            e = i + 10; //10
+		            c[0] = Math.floor(e / 10); //1
+		            c[1] = e - (c[0] * 10); //10-(1*10)
+		            break;
+		        }
+		    }
+		    for (var i = 0; i < b.length; i++)
+		    {
+		        if (i < 2)
+		        {
+		            g += c[i] * b[i];
+		        }
+		        else
+		        {
+		            g += parseInt(value.charAt(i - 1)) * b[i];
+		        }
+		    }
+		    if ((g % 10) == f)
+		    {
+		        return true;
+		    }
+		    if ((10 - (g % 10)) != f)
+		    {
+		        return false;
+		    }
+		    return true;
+		}
+		
+		function TWMobileCheck(value){
+			if(value.substr(0,2) == '09' && value.length == 10){
+				return true;
+			}else{
+				return false;
+			}
+		}
+		
+		function eMailCheck(value){
+			var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+			if(!regex.test(value)){
+				return false;
+			}
+			else{
+				return true;
+			}
+		}
+		
+		function ajax_h_district(city_id,post_id){
+			var token_val = $('input[name="ci_csrf_token"]').eq(0).val();
+			var url_text = "https://www.dpp.org.tw/signup/ajax_district"+"/"+city_id+"/"+post_id;
+			$.ajax({
+				url:url_text,
+				type: "POST",
+				data: {'ci_csrf_token':token_val},
+				error: function(err){
+					console.log(err);
+				},
+				success: function(result){
+					$("#h_district").html(result);
+				}
+			});
+		}
+		
+		function ajax_c_district(city_id,post_id){
+			var token_val = $('input[name="ci_csrf_token"]').eq(0).val();
+			var url_text = "https://www.dpp.org.tw/signup/ajax_district"+"/"+city_id+"/"+post_id;
+			$.ajax({
+				url:url_text,
+				type: "POST",
+				data: {'ci_csrf_token':token_val},
+				error: function(err){
+					console.log(err);
+				},
+				success: function(result){
+					$("#c_district").html(result);
+				}
+			});
+		}
+		
+		function ajax_cp_district(city_id,post_id){
+			var token_val = $('input[name="ci_csrf_token"]').eq(0).val();
+			var url_text = "https://www.dpp.org.tw/signup/ajax_district"+"/"+city_id+"/"+post_id;
+			$.ajax({
+				url:url_text,
+				type: "POST",
+				data: {'ci_csrf_token':token_val},
+				error: function(err){
+					console.log(err);
+				},
+				success: function(result){
+					$("#cp_district").html(result);
+				}
+			});
+		}
+		
+		function ajax_day(year,month,birthday_day){
+			$.ajax({
+				url:'https://www.dpp.org.tw/signup/ajax_day',
+				type: "POST",
+				data: {'year':year,'month':month,'birthday_day':birthday_day},
+				error: function(err){
+					console.log(err);
+				},
+				success: function(result){
+					$("#birthday_day").html(result);
+				}
+			});
+		}
+		
+		function printScreen(printlist) 
+		{
+			var value = printlist.innerHTML;
+			var printlist = window.open("", "Printing...", "");
+			printlist.document.open();
+			printlist.document.write("<HTML><head></head><BODY onload='window.print();window.close()'>");
+			printlist.document.write("<PRE>");
+			printlist.document.write(value);
+			printlist.document.write("</PRE>");
+			printlist.document.close("</BODY></HTML>");
+		}
+	</script>
+	
+	<!-- FB分享 -->
+	<script nonce="734e384d566e6e616b72704966384b38">
+		window.fbAsyncInit = function() {
+			FB.init({
+				appId      : '1955827791300508',
+				xfbml      : true,
+				version    : 'v3.0'
+			});
+			FB.AppEvents.logPageView();
+		};
+		(function(d, s, id){
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		
+		$(".fb_share").click(function(){
+			fb_share();
+		})
+		
+		function fb_share()
+		{
+			FB.ui(
+			{
+				method: 'share',
+				href: 'https://www.dpp.org.tw/signup'
+			}, function(response){});
+		}
+	</script>
+	<!-- FB分享 end -->
+	
+	<!-- Global Site Tag (gtag.js) - Google Analytics -->
+	<!-- 	<script async src="https://www.dpp.org.tw/contents/frontend/js/gtag/js?id=GA_TRACKING_ID"></script> -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+	<script nonce="734e384d566e6e616b72704966384b38">
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-111780472-1');
+	</script>	<script nonce="734e384d566e6e616b72704966384b38">
+		$().ready(function(){
+			var _URL = window.URL || window.webkitURL;
+			$("#cap").click(function(){
+				ajax_cap();
+			})
+			
+			$('.btnClose').click(function(){
+				$('.lightbox').removeClass('active');
+				return false;
+			});
+			
+			$("#is_aborigines").change(function(){
+				if($(this).val() == 1){
+					$(".certificate_file").removeClass("none");
+				}else{
+					$(".certificate_file").addClass("none");
+				}
+			})
+			
+			// 送出資料驗證
+			$("#signup_submit").click(function(){
+				$('input[name="ci_csrf_token"]').attr('value',$('input[name="ci_csrf_token"]').eq(0).val());
+
+				var formData = new FormData($('#signup_form')[0]);
+				$("#signup_form .avatar").each(function(i, v){
+					var blob = dataURLtoBlob($(v).attr('src'));
+					if (blob) {
+						formData.append($(v).data('name'), blob, $(v).data('name')+'.jpg');
+					}else{
+						formData.append($(v).data('name'), "");
+					}
+				})            	
+				$.ajax({
+				    type: "POST",
+				    url: "https://www.dpp.org.tw/ajax_form/signup_form",
+				    data: formData,
+				    dataType:'json',
+				    //use contentType, processData for sure.
+				    contentType: false,
+				    processData: false,
+				    beforeSend: showRequest,
+				    success: showResponse,
+				    error: showError,
+				    timeout: 30000
+				});				
+				// $('#signup_form').ajaxForm({beforeSubmit:showRequest,error:showError,success:showResponse,dataType:'json',timeout:120000}).submit();
+			});
+			
+			function showRequest(formData, jqForm, options){
+				$("#signup_submit").html('Loading...請稍候～');
+				return true;
+			};
+			
+			function showResponse(result, statusText){
+				$('input[name="ci_csrf_token"]').val(result['csrf_token']);
+				ajax_cap();
+				if(result['result'] == 0){
+					alert(result['err']);
+					$("#signup_submit").html('下一步');
+					$("#signup_submit").css('visibility','');
+				}else if(result['result'] == 1){
+					$('input[name="ci_csrf_token"]').val(result['csrf_token']);
+					alert(result['message']);
+					window.location.href = 'https://www.dpp.org.tw/signup/fillin';
+				}
+			};
+			
+			function showError(result, statusText){
+				if(typeof(result['responseJSON']) !== 'undefined') 
+				{
+					if(result['responseJSON']['result'] == 0){
+						alert(result['responseJSON']['err']);
+						$("#signup_submit").html('下一步');
+						$("#signup_submit").css('visibility','');
+					}
+				}
+				else if(statusText == 'timeout')
+				{
+					alert('Call has timed out');
+					// $("#signup_submit").html('下一步');
+					// $("#signup_submit").css('visibility','');
+				}
+
+
+			}
+			// 送出資料驗證 End
+			
+			// 檔案上傳相關功能
+			document.getElementById('idp_f_btn').addEventListener(
+				'change', idp_f_btn
+			);
+			document.getElementById('idp_b_btn').addEventListener(
+				'change', idp_b_btn
+			);
+			document.getElementById('image_btn').addEventListener(
+				'change', image_btn
+			);
+			document.getElementById('certificate_btn').addEventListener(
+				'change', certificate_btn
+			);
+			document.getElementById('union_card_btn').addEventListener(
+				'change', union_card_btn
+			);
+			document.getElementById('rejoin_btn').addEventListener(
+				'change', rejoin_btn
+			);			
+			function idp_f_btn() {
+			    var file = this.files[0];
+				file_type = file['type'].split("/");
+			    if(file_type[0] == 'image' && file['size'] <= 20971520){
+					$("#idp_f_file").attr("value",file.name);
+			    }else{
+					alert("檔案格式或大小不正確，請選擇圖片格式之檔案。");
+			    }
+		        var objectUrl = _URL.createObjectURL(file);
+			    var _img = new Image();
+			    _img.src = objectUrl;
+			    _img.onload = checkImage;
+			    
+			}
+			function idp_b_btn() {
+			    var file = this.files[0];
+			    file_type = file['type'].split("/");
+			    if(file_type[0] == 'image' && file['size'] <= 20971520){
+					$("#idp_b_file").attr("value",file.name);
+				}else{
+					alert("檔案格式不正確，請選擇圖片格式之檔案。")
+			    }
+		        var objectUrl = _URL.createObjectURL(file);
+			    var _img = new Image();
+			    _img.onload = checkImage;
+			    _img.src = objectUrl;	    
+			}
+			function image_btn() {
+			    var file = this.files[0];
+			    file_type = file['type'].split("/");
+			    if((file_type[1] == 'jpeg' || file_type[1] == 'jpg') && file['size'] <= 20971520){
+			    	$("#image_file").attr("value",file.name);
+			    }else{
+					alert("檔案格式不正確，請選擇圖片格式之檔案。")
+			    }
+
+			    var _img = new Image();
+		        var objectUrl = _URL.createObjectURL(file);
+			    var _img = new Image();
+			    _img.onload = checkImage;
+			    _img.src = objectUrl;			    
+			}
+			function certificate_btn() {
+			    var file = this.files[0];
+			    file_type = file['type'].split("/");
+			    if(file_type[0] == 'image' && file['size'] <= 20971520){
+			    	$("#certificate_file").attr("value",file.name);
+			    }else{
+					alert("檔案格式不正確，請選擇圖片格式之檔案。")
+			    }
+
+		        var objectUrl = _URL.createObjectURL(file);
+			    var _img = new Image();
+			    _img.onload = checkImage;
+			    _img.src = objectUrl;			    
+			}
+			function union_card_btn() {
+			    var file = this.files[0];
+			    file_type = file['type'].split("/");
+			    if(file_type[0] == 'image' && file['size'] <= 20971520){
+			    	$("#union_card_file").attr("value",file.name);
+			    }else{
+					alert("檔案格式不正確，請選擇圖片格式之檔案。")
+			    }
+
+		        var objectUrl = _URL.createObjectURL(file);
+			    var _img = new Image();
+			    _img.onload = checkImage;
+			    _img.src = objectUrl;			    
+			}
+			function rejoin_btn() {
+			    var file = this.files[0];
+			    file_type = file['type'].split("/");
+			    if(file_type[0] == 'image' && file['size'] <= 20971520){
+			    	$("#rejoin_reason_file").attr("value",file.name);
+			    }else{
+					alert("檔案格式不正確，請選擇圖片格式之檔案。")
+			    }
+
+		        var objectUrl = _URL.createObjectURL(file);
+			    var _img = new Image();
+			    _img.onload = checkImage;
+			    _img.src = objectUrl;			    
+			}
+
+
+			function checkImage() {
+				// var ImageWidthLimit = 1000;
+				// var ImageHeightLimit = 1000;
+
+				// if (this.width > ImageWidthLimit) {
+				// alert('圖片寬度:'+ this.width + ', 限制:' + ImageWidthLimit);
+				// } else if (this.height > ImageHeightLimit) {
+				// alert('圖片高度:'+ this.Height + ', 限制:' + ImageHeightLimit);
+				// }
+			}			
+			// 檔案上傳相關功能 End
+			
+			// 勾選『同戶籍地址及電話』
+			$("#c_add_check").click(function(){
+				if($(this).prop("checked") == true){
+					$("#c_city > option").each(function(e){
+						if($(this).attr("value") == $("#h_city").val())
+						{
+							$(this).attr("selected","selected");
+						}
+					})
+					ajax_c_district($("#h_city").val(),$("#h_district").val());
+					
+					$("#c_address").attr('value',$("#h_address").val());
+					$("#c_tel").attr('value',$("#h_tel").val());
+				}
+			})
+			$("#c_add_check").on("touchend",function(e){
+				if($(this).prop("checked") == true){
+					$("#c_city > option").each(function(e){
+						if($(this).attr("value") == $("#h_city").val())
+						{
+							$(this).attr("selected","selected");
+						}
+					})
+					ajax_c_district($("#h_city").val(),$("#h_district").val());
+					
+					$("#c_address").attr('value',$("#h_address").val());
+					$("#c_tel").attr('value',$("#h_tel").val());
+				}
+			})
+			// 勾選『同戶籍地址及電話』End
+			
+			// 生日-天
+						ajax_day($("#birthday_year").val(),$("#birthday_month").val(),"");
+						$("#birthday_year").change(function(){
+								ajax_day($(this).val(),$("#birthday_month").val(),"");
+							})
+			$("#birthday_month").change(function(){
+								ajax_day($("#birthday_year").val(),$(this).val(),"");
+							})
+			// 生日-天 End
+			
+			// 戶籍地址：鄉鎮區
+						ajax_h_district($("#h_city").val(),"");
+						$("#h_city").change(function(){
+								ajax_h_district($(this).val(),"");
+							})
+			// 戶籍地址：鄉鎮區 End
+			
+			// 通訊地址：鄉鎮區
+						ajax_c_district($("#c_city").val(),"");
+						$("#c_city").change(function(){
+								ajax_c_district($(this).val(),"");
+							})
+			// 通訊地址：鄉鎮區 End
+			
+			// 公司地址：鄉鎮區
+						ajax_cp_district($("#cp_city").val(),"");
+						$("#cp_city").change(function(){
+								ajax_cp_district($(this).val(),"");
+							})
+			// 公司地址：鄉鎮區 End
+		})
+	</script>
+	    <div class="modal fade" id="cropper-modal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Crop the image</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div style="margin-bottom:10px;">
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-primary cropper-feature" data-method="rotate" data-option="-90" title="Rotate Left">
+                            <span class="docs-tooltip" data-toggle="tooltip" data-animation="false" title="">
+                                <span class="fa fa-undo-alt"></span>
+                            </span>
+                            </button>
+                            <button type="button" class="btn btn-primary cropper-feature" data-method="rotate" data-option="90" title="Rotate Right">
+                            <span class="docs-tooltip" data-toggle="tooltip" data-animation="false" title="">
+                                <span class="fa fa-redo-alt"></span>
+                            </span>
+                            </button>
+                            <button type="button" class="btn btn-primary cropper-feature" data-method="reset" title="Reset">
+                                <span class="docs-tooltip" data-toggle="tooltip" data-animation="false" title="" >
+                                  <span class="fa fa-sync-alt"></span>
+                                </span>
+                            </button>                        
+                        </div>
+     
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-primary cropper-feature" data-method="move" data-option="-10" data-second-option="0" title="Move Left">
+                            <span class="docs-tooltip" data-toggle="tooltip" data-animation="false" title="">
+                                <span class="fa fa-arrow-left"></span>
+                            </span>
+                            </button>
+                            <button type="button" class="btn btn-primary cropper-feature" data-method="move" data-option="10" data-second-option="0" title="Move Right">
+                            <span class="docs-tooltip" data-toggle="tooltip" data-animation="false" title="">
+                                <span class="fa fa-arrow-right"></span>
+                            </span>
+                            </button>
+                            <button type="button" class="btn btn-primary cropper-feature" data-method="move" data-option="0" data-second-option="-10" title="Move Up">
+                            <span class="docs-tooltip" data-toggle="tooltip" data-animation="false" title="">
+                                <span class="fa fa-arrow-up"></span>
+                            </span>
+                            </button>
+                            <button type="button" class="btn btn-primary cropper-feature" data-method="move" data-option="0" data-second-option="10" title="Move Down">
+                            <span class="docs-tooltip" data-toggle="tooltip" data-animation="false" title="">
+                                <span class="fa fa-arrow-down"></span>
+                            </span>
+                            </button>
+                        </div>                        
+                    </div>
+
+
+                    <div class="img-container">
+                        <img class="cropper-image" src="https://avatars0.githubusercontent.com/u/3456749">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">取消</button>
+                    <button type="button" class="btn btn-primary" id="crop">確定</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://www.dpp.org.tw/contents/frontend/js/cropper/cropper.min.js"></script>
+    <script nonce="734e384d566e6e616b72704966384b38">
+    function dataURLtoBlob(dataurl) {
+        if (dataurl.length == "") { return false;}
+        var arr = dataurl.split(','), mime = arr[0].match(/:(.*?);/)[1] || "",
+        bstr = atob(arr[1]), n = bstr.length, u8arr = new Uint8Array(n);
+        while (n--) {
+            u8arr[n] = bstr.charCodeAt(n);
+        }
+        return new Blob([u8arr], { type: mime });
+    }
+    var jcropper = {
+        $modal : null, 
+        image : null, //modal 待裁切圖
+        avatar: null, //裁切後 預覽圖
+        cropper: null, //裁切物件
+        ratio:1,
+        init:function(){
+            var that = this;
+            that.$modal = $('#cropper-modal');
+            that.image = this.$modal.find('.cropper-image')[0];
+
+            that.$modal.on('shown.bs.modal', function () {
+                that.cropper = new Cropper(that.image, {
+                    aspectRatio: that.ratio,
+                    viewMode: 1,
+                });
+            }).on('hidden.bs.modal', function () {
+                that.cropper.destroy();
+                that.cropper = null;
+            }); 
+
+            document.getElementById('crop').addEventListener('click', function () {
+                var initialAvatarURL;
+                var canvas;
+
+                that.$modal.modal('hide');
+
+                if (that.cropper) {
+                    // var _d_ration = 800;
+                  canvas = that.cropper.getCroppedCanvas({
+                    // width: 800,
+                    // height: 00,
+                    maxWidth: 2048,
+                    maxHeight: 2048,                    
+                    imageSmoothingEnabled: false,
+                    imageSmoothingQuality: 'high',
+                
+                  });
+                  initialAvatarURL = that.avatar.src;
+                  that.avatar.src = canvas.toDataURL("image/jpeg", 1.0);
+                  $(that.avatar).show();
+                  // $progress.show();
+                  $alert.removeClass('alert-success alert-warning');
+                }
+              });
+
+            $(".jquery-cropper").click(function(){
+                that.jquerycropper($(this));
+            })
+
+            $("#cropper-modal .cropper-feature").click(function(){
+                var _method = $(this).data('method');
+                var _option = $(this).data('option');
+                var _option2 = $(this).data('second-option');
+                jcropper[_method](_option, _option2);
+            })
+        },
+        jquerycropper:function (element)
+        {
+            var that = this;
+
+            // 取得目標
+            var target = element.data('target');
+
+            var $avatar = $("[data-name='" + target + "']");
+            that.avatar = $avatar[0];   
+
+            // 限制檔案類型
+            var valid_filetype = element.data('filetype');
+            if(valid_filetype){
+                var filetype = valid_filetype.split(',');
+            }else{
+                //不限制
+                var filetype = false;
+            }
+
+            // 限制檔案大小
+            var max_size = element.data('maxsize');
+            if(max_size){
+                var max_size = max_size;
+            }else{
+                //不限制
+                var max_size = false;
+            }
+
+            var $this = $avatar.closest('.jquery-cropper-box'); //物件框
+
+            //modal標題
+            that.$modal.find(".modal-title").text($avatar.data('title'));
+
+            //裁圖比率
+            var ratio = $avatar.data('ratio');
+            if(ratio){
+                ratio = ratio.split(':');
+                that.ratio = ratio[0] / ratio[1]
+            }
+
+            var input = $("[data-target='"+target+"']")[0]; //選圖input
+            var $progress = $this.find('.progress');
+            var $progressBar = $this.find('.progress-bar');
+            var $alert = $this.find('.alert');
+            $(that.avatar).hide();
+
+            input.addEventListener('change', function (e) {
+                var files = e.target.files;
+                var done = function (url) {
+                    input.value = '';
+                    that.image.src = url;
+                    $alert.hide();
+                    that.$modal.modal('show');
+                };
+                var reader;
+                var file;
+                var url;
+
+                // 定義允許的回調函數
+                var allowedCallbacks = {
+                    'validFileType': function (file) {
+                        if (filetype) {
+                            if (filetype.indexOf(file.type) === -1) {
+                                $alert.show().addClass('alert-warning').text('Invalid file type');
+                                return false;
+                            }
+                        }
+                        return true;
+                    },
+                    'validFileSize': function (file) {
+                        if (max_size) {
+                            if (file.size > max_size) {
+                                $alert.show().addClass('alert-warning').text('File is too large');
+                                return false;
+                            }
+                        }
+                        return true;
+                    }
+                };               
+
+                if (files && files.length > 0) {
+                    file = files[0];                  
+
+                    if (URL) {
+                        done(URL.createObjectURL(file));
+                    } else if (FileReader) {
+                        reader = new FileReader();
+                        reader.onload = function (e) {
+                            done(reader.result);
+                        };
+                        reader.readAsDataURL(file);
+                    }
+                }
+            });
+        },
+        rotate:function(option)
+        {
+            this.cropper.rotate(option);
+        },
+        reset:function()
+        {
+            this.cropper.reset();
+        },
+        move:function(option, option2)
+        {
+            this.cropper.move(option, option2)
+        },
+        // 增加一個function 
+    }
+
+
+    window.addEventListener('DOMContentLoaded', function () {
+        // $('[data-toggle="tooltip"]').tooltip(); 
+        jcropper.init();  
+    });     
+    </script></body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-02-04</p>
+				<h2>民進黨Podcast新春特別節目 林飛帆、謝佩芬談「又在地又國際」的青年參政經驗</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	「蔡英文&amp;DPP」的Podcast自製節目「耳朵出遊不出油」今（4）日上傳新春特別節目，邀請民進黨副秘書長林飛帆，以及發言人、國際部副主任謝佩芬暢談在國外唸書、工作，以及青年參政的經驗。二人皆表示在國外都學過下廚，透過熟悉的食物想念台灣，也表示台灣不僅是食物好吃，民主自由的風氣更是值得珍惜，對於台灣的民主有使命感，也因此決定投入政治體制內工作。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	林飛帆提及，在英國留學期間，考察了許多社會運動，也曾經親身與當地社運工作者對話，得到許多啟發，同時也會對國際友人說明台灣政治處境，並將香港的狀況透過這樣的交流方式讓更多人知道。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	謝佩芬則表示，一直以來就非常關注人權與民主相關議題，在美國求學期間適逢太陽花學運，她早上工作、上課，晚上則通宵透過網路掌握台灣狀況，而後因緣際會投入政治領域，在黨部國際部工作以來，更主辦許多國際營隊，和青年學子互動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	談到二人都是「比民進黨年輕」的青年參政代表，林飛帆認為，政策在溝通的過程需要面對世代的價值差異，而謝佩芬則表示，有不同意見很正常，有需要彼此理解，也認為民進黨願意給年輕人空間和機會去做事。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨Podcast「耳朵出遊不出油」開播至今，邀請多位來賓參與，話題包含政治、政策、國際情勢。而在今年開始，除了林飛帆、謝佩芬外，在今年一月份，頻道已有新竹市長林智堅，以及外交部長吳釗燮的訪談節目。民進黨網路社群中心主任范綱皓表示，民進黨希望能夠藉由Podcast觸及更多民眾，以新興平台、新的模式溝通複雜的政治議題，有興趣的朋友可以訂閱「耳朵出遊不出油」頻道，在春節期間，開車、通勤的路上一起來收聽精彩內容。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	臉書和各平台收聽連結：<a href="http://t.ly/yyzh">t.ly/yyzh</a></div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="54626c6b6e6238674561655031567153">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

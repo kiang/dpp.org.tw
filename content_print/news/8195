@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-09-27</p>
+				<h2>民進黨：中國大陸必須正視中華民國存在的事實</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	&nbsp; &nbsp; &nbsp; 民進黨始終堅持，台灣是一個主權獨立國家，其名稱為中華民國，任何現狀的更動，必須由台灣人民以民主方式決定。此一基本立場已被當前多數台灣人民接受。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp; &nbsp; &nbsp; 民進黨指出，國台辦對兩岸定位的論點與多數台灣人民的國家認同大相逕庭，無法獲得台灣社會的支持。本黨呼籲，中國大陸必須正視中華民國存在的事實，用對話化解彼此的歧見。勿以政治前提，阻礙兩岸關係的正常發展。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6968394150484a5530316f596f38536c">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

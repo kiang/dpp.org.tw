@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-07-08</p>
+				<h2>悼日本前首相安倍　民進黨：他是台灣最親近的好友　對他離世感到深切不捨與痛心</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對日本安倍晉三前首相於今日出席集會時遭槍擊不幸離世，民主進步黨今（8）日表示，安倍前首相長年支持台灣，是台灣最親近的好友，民進黨對他的離世感到深切不捨與痛心，並要向安倍前首相的家屬，與日本人民致上最深的哀悼，並盼日本人民度過此艱難的時刻，祈願日本平安。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨指出，安倍晉三前首相曾多次為台灣仗義執言，包括明確支持台灣加入CPTPP（跨太平洋夥伴全面進步協定）、WHO等國際組織。最近也提出「台灣有事就是日本有事，等同日美同盟有事」，一直與台灣站在一起。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	安倍前首相不只是在政治上力挺台灣，更是在日常生活中處處展現對台灣的真摯友誼，如同我們的親人一樣，處處替台灣奔走出力。包括2021年台灣遭遇武漢肺炎疫情時，安倍前首相也與日本朝野合作，一起用最高的效率，促成日本捐贈台灣AZ疫苗，台灣人民對此都感念在心；同年台灣鳳梨被中國禁運，安倍前首相更是在社群軟體幫忙行銷台灣鳳梨，讓台日之間從311地震，一路到疫情，持續「善的循環」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	安倍前首相也是民進黨長久以來最溫暖的友人，包括在2010、2011年訪台時都與民進黨主席蔡英文會面，在蔡主席擔任總統後，兩人用視訊方式進行歷史性的對談，安倍前首相並在會談中提到再度訪台的願望，兩人並多次在推特上互相留言，不管是地震、颱風、疫情，台日都攜手一起度過難關。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨表示，安倍前首相對區域的民主發展及和平穩定有高度的貢獻，民進黨要再度向安倍前首相致上最深的感謝、敬意與不捨，盼台日友好繼續在安倍前首相奠定的強韌基礎上繼續深化。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="334e5873557145505a3141797a523177">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

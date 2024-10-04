@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-12-16</p>
+				<h2>公投倒數48小時 賴清德發布台語催票影片：四個不同意，守護台灣安全</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	12月18日公投倒數48小時，繼兩支縣市長催票影片後，民進黨、副總統賴清德今（16）日一同發布賴清德台語催票影片，影片中賴清德不但親自上陣，全程更用台語錄製，誠懇拜託民眾繼續宣傳四個不同意，當天也要站出來投票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	賴清德在影片中表示，這四項公投，也分別攸關台灣的各種安全：核四重啟，關係到台灣環境安全。三接遷離，關係到台灣能源安全。反美豬進口，關係到台灣經濟安全。公投綁大選，關係到台灣民主安全。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	賴清德也表示，經濟發展、能源轉型、民主制度發展，是台灣向上發展關鍵，尤其是反美豬進口公投，對於台灣的經貿更是影響深遠。事實上，台灣進口美牛多年，至今食安並無問題，萊豬的進口也沿用同樣的國際標準，政府替民眾健康把關，並透過清楚標示，可以讓民眾自由選擇。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後賴清德也誠懇拜託鄉親，12月18日要投下四個不同意，也請大家將影片分享給身邊的長輩，共同守護台灣，讓台灣繼續走向國際。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，民進黨將於本週五晚上7時，分別於台北凱達格蘭大道、高雄台糖物流園區後方空地（高雄市前鎮區中華五路），舉辦最後兩場大型公投說明會，歡迎民眾前往。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: center;">
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/64bCPKHV3Rc" title="YouTube video player" width="560"></iframe></p>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="66747a5a656e7652614d7545684a7a55">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

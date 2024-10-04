@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-05-23</p>
+				<h2>針對昨日中執會後轉述記者會之澄清與說明</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	針對昨日中執會後轉述記者會前，賴清德前院長借用黨部記者室一事，民進黨發言人李明俐今(23)日表示，由於許多媒體從中執會開始前即在記者室等待，原計畫依例進行會後轉述。然賴前院長提出借用黨部場地，在顧及媒體採訪需求同意出借場地。若蔡總統代表有提出同樣需求，中央黨部亦會同意出借場地。</div>
+<div>
+	&nbsp;</div>
+<div>
+	李明俐也強調，賴前院長所發表內容，不代表中央黨部，也不會破壞黨部所有立場；往後任何相似狀況的處理，黨部會更加審慎，避免引起誤解，謹向社會各界澄清。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="58356f7968427674776e6f304768536f">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-04-24</p>
+				<h2>毛治國批軌道建設 民進黨：昨是今非，實在令人擔憂</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 針對前行政院長毛治國今(24)日投書媒體稱輕軌熱只是帶來災難，民進黨發言人張志豪表示，事實上，軌道建設是許多國家，正大力推動各項基礎建設更新當中的重要項目，因此只要是對的政策，有利國家發展的交通建設，就必須大力執行，這是政府必要的責任和任務。而且就連時任交通部長的毛治國也曾表達強力支持，我們對於毛前院長今天的投書，表示高度遺憾與不解。當然也為毛前院長的健忘表達高度關心，請所謂交通專家的毛前院長不要因為個人意識型態，而以今日之我否定昨日之我!</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 張志豪指出，曾任交通部長的毛前院長不要忘了，自己在2008年6月8日在運研所宣示，台灣將不再新建高運量捷運系統，未來發展捷運，應朝中運量、輕軌，乃至於公車捷運系統（Bus Rapid Transit，BRT）等方向發展。也曾在2011年12月16日表示，台灣正悄悄進行一場「公共運輸重建運動」，未來公共運輸政策將以「軌道運輸為主、公路運輸為輔」為目標，提升公共運輸競爭力，這字字句句的確是毛前院長自己所說，一個政治人物如此健忘，昨是今非，實在令人擔憂。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 張志豪強調，政府推動「前瞻基礎建設」，目標就是為了加速國家基礎建設的投資與更新，以因應新階段國家發展需要與整體經濟結構的升級轉型。只要是當前國家發展上的急需，地方建設的必要，就會透過相關單位在專業上進行整體的規劃。而軌道建設不僅是低環境負荷的綠色運輸，透過路網的有效延伸，也可以擴大都市發展基盤，衡平城鄉的發展差距。我們認為，政府推動建設與發展只看國人與國家發展的需要，沒有黨派的考量，也請毛前院長秉持專業，勿忘初衷，共同支持國家的建設與發展。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="32445253505668656a34693662484b35">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

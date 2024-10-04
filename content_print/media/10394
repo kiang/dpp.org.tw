@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-09-26</p>
+				<h2>侯友宜放大假 民進黨：繼續爽領人民納稅錢130多萬</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對國民黨新北市長侯友宜請假113天落跑選總統喊話捐薪水，民進黨發言人張志豪表示，侯友宜不用慷他人之慨，認真上班才是重點。既然說「捐出我自己」，那大群館年收1500萬也捐嗎？事實上，侯市長「假放的很爽，錢領的很滿」，依照公務人員請假規則，侯友宜請長假還可以持續領薪，繼續爽領人民納稅錢。</p>
+
+<p>張志豪指出，以扣除7天有薪事假及36天扣薪事假來算，直轄市長月薪約20萬4320元，休113天長假的侯友宜，就算不顧市民、市政擺爛，還能繼續爽賺4個月的薪水逾81萬元，再加上年終2.5個月計51萬元，爽拿130多萬元的收入。這也許對於年收入高達1500萬大群館宿舍的侯友宜來說，可能不會看在眼裡，但卻是人民的納稅錢。<br />
+&nbsp;<br />
+張志豪表示，侯友宜在議會開議前夕，不顧施政報告及預算審查，拋下市民請了113天假，但請假期間卻還是賺飽飽，不僅去年政治獻金加上選舉補助款進帳近億元，連任市長至今300天，只上班150天來算，等於一天爽賺65萬，欺騙市民好好賺。再加上休113天長假的侯友宜，現在開始到請假結束，繼續爽賺人民納稅錢130多萬元，市長放大假，還爽領納稅錢，實在離譜！</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="535a506162624634494a364c6d4f3559">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

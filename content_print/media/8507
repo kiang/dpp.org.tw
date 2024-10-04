@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-01</p>
+				<h2>蔡英文：現在是大家檢討、重整團隊的時候</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	總統暨民進黨前主席蔡英文今(1)日下午由彰化縣長魏明谷、立法委員陳素月、黃秀芳、洪宗熠、國策顧問何黎星、彰化市長邱建富及縣議員陪同，出席彰化縣座談會，與基層幹部交換意見。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文致詞表示，這次彰化確實很團結，魏縣長將選戰打得很好、執政得也很用心，做了很多事，輔選團隊也很全心全力地投入選戰。所以，彰化的選舉對她來說，是個很團結、很投入的團隊，也是場很努力的選戰，雖然最後還是沒有成功，她要向大家說聲抱歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文說，有很多因素讓彰化的團隊盡了很大的力量，卻還是沒有成功，這就是我們在這個階段要好好檢討的事。所以選舉之後，我們就開始了好幾場的檢討，每一次的檢討，輔選團隊和後援會發言都很踴躍、也很直接。她相信現在就是大家檢討、重整團隊的時候了，目前行政院也在賴院長的領導下，進行檢討，等整體檢討完後，下一步就會進行人事調整。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	蔡英文表示，民進黨已經有代理主席了，接下來就會透過黨的機制，順利產生下一個階段所需要的黨主席，由他來領導政黨。目前每個階段從檢討到調整，團隊的重新整隊，都已經在陸續展開。所以，今天來到彰化，就是希望能夠和大家討論，這次選舉沒有成功的理由和因素在哪裡、將來要做哪些調整和改變，請大家在座談會上盡量發言。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6a625a656c53716454664a6675485042">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

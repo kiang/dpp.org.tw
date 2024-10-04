@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-09-22</p>
+				<h2>公布黨慶「感謝有你」影片暨臉書特效相框 阮昭雄：向教師致上最美好的感謝</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	　　9月28日不僅是民進黨的生日，同時也是教師節，民進黨發言人阮昭雄今(22)日召開「感謝有你 看好台灣」教師節影片暨臉書特效相框公布記者會，以影片表達感謝之意，也邀請民眾一同以臉書相框特效，向教師致上最美好的感謝。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp; &nbsp; &nbsp; 阮昭雄表示，今年是民主進步黨創黨31週年，31年前的9月28日，民主進步黨正式成立。9月28日除了是民進黨的生日外，也是教師節，在這個別具意義的日子中，民進黨用最誠摯的態度，以「感謝有你 看好台灣」為主軸，迎接黨慶的同時，也利用這個機會向教師們致謝。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp; &nbsp; &nbsp; 阮昭雄提到，民進黨拍攝感謝影片於網路播送，片中由多位跨越年齡、族群與性別的黨工擔綱受訪，並自述求學過程，傳達對教師崇高的敬意與感謝。阮昭雄也特別感謝他的老師，大同國中李老師，透過她的幫忙，讓當時有一些語言障礙的他漸漸能夠站上台講話。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp; &nbsp; &nbsp; 此外，阮昭雄表示，民進黨也設立臉書特效相框，以「小樹」為意象，象徵教育的「十年樹木，百年樹人」，感謝教師長久的奉獻付出，「您的付出是土壤，也是讓下一代繁茂生長的養分」，民進黨在黨慶之時，特別以影片表達感謝之意，也邀請民眾一同以臉書相框特效，向教師致上最美好的感謝。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp; &nbsp; &nbsp; ※ 影片即日起將於民進黨官方臉書粉專與官方YouTube頻道播送。</div>
+<div>
+	&nbsp; &nbsp; &nbsp; ※ 臉書特效頭框更換步驟：</div>
+<div>
+	&nbsp; &nbsp; &nbsp; 電腦：進入《Facebook個人頁面》&rarr; 點選個人相片《更新大頭貼照》 &rarr; 選擇《加入特效框》 &rarr; 搜尋「感謝有你 看好台灣」&rarr; 點擊右下角《設定為大頭貼照》後即可完成更換。</div>
+<div>
+	&nbsp; &nbsp; &nbsp; 手機：進入《Facebook個人頁面》&rarr; 點選個人相片《編輯》 &rarr; 選擇《加入特效框》 &rarr;搜尋「感謝有你 看好台灣」 &rarr; 點擊右上角《使用》後即可完成更換。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6b5772714c496e586a6f786e72473155">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

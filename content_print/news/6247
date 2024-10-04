@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2014-07-22</p>
+				<h2>公民經濟會議 由您來提問</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p align="center"><map name="FPMap0">
+<area coords="272 225 414 274" shape="rect" href="http://dpppolicy.blogspot.tw/2014/07/blog-post_22.html#comment-form" target="_blank" /> </map> <img width="700" height="525" border="0" usemap="#FPMap0" src="images/001.jpg" alt="" /></p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6e7a4455333156687664394a61417430">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

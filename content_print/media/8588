@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-03-10</p>
+				<h2>民進黨羅文嘉秘書長出席西藏抗暴60週年大遊行新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	為紀念六十年前西藏抗暴歷史，310西藏抗暴60週年大遊行在今日（3/10）舉行，遊行從國立臺灣博物館前廣場出發，最終抵達西本願寺。民進黨秘書長羅文嘉率黨部人員到場參與大遊行，並在現場代表民主進步黨致詞。</p>
+<p style="text-align: justify;">
+	羅文嘉表示，雖然大家辛苦地在風雨中參與西藏抗暴大遊行，但至少臺灣民眾還擁有自由的空氣，大家能在這裡高喊「西藏要自由」、無論政治立場都可以自由的參與選舉，這是民主與自由的可貴，也就是今天大家站在這裡的目的。</p>
+<p style="text-align: justify;">
+	羅文嘉在現場呼籲大家一起珍惜現在的民主自由，並要讓子子孫孫、世世代代都能享受自由和民主。他強調，民主自由不是從天而降，西藏抗暴的歷史就是所謂「和平協議不會換來和平」血淋淋的例子。</p>
+<p style="text-align: justify;">
+	羅文嘉秘書長也對於國民黨黨主席吳敦義、朱立倫、王金平和韓國瑜市長都想要喊出和中國談「和平協議」，感到非常遺憾跟不可理解。</p>
+<p style="text-align: justify;">
+	羅文嘉問：「難道六十年前中共在西藏活生生血淋淋的例子還得不到教訓嗎？還妄想一個獨裁政權會保護你的和平嗎？」</p>
+<p style="text-align: justify;">
+	羅文嘉同時呼籲，不只是民進黨，所有在臺灣愛護民主自由的政黨都有責任要站出來捍衛臺灣的民主自由。</p>
+<p style="text-align: justify;">
+	致詞最後，羅文嘉強調「和平協議不會換來和平」，只有靠大家更堅定的站在一起，才會有永久的和平。需要更多人站出來，支持臺灣民主、支持西藏自由。</p>
+<p style="text-align: justify;">
+	而主辦單位西藏人權連線等團體也正式呼應羅文嘉在3/7遊行前記者會表示「我們歡迎達賴喇嘛能夠來台灣，他有權利、自由到任何他想要去的地方，甚至是回到他的故鄉 」，發起「邀請達賴喇嘛來台灣」連署活動，邀請大家連署。</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="534b4349446b547a63476c346a31397a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-09-04</p>
+				<h2>民主進步黨第十八屆第十七次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民主進步黨今(4)日召開第十八屆第十七次中執會，會中通過第10屆區域立法委員徵召人選案，台北市第3選區徵召吳怡農同志參選，台北市第6選區徵召謝佩芬同志參選，台中市第5選區徵召莊競程同志參選，新竹縣第2選區徵召鄭朝方同志參選，苗栗縣第2選區徵召徐定禎同志參選，連江縣選區徵召李問同志參選，另金門縣選區不予提名。會中也同意為因應日後情勢變化及保留提名彈性空間，後續有關第10屆立法委員之徵召相關事宜，授權中常會全權處理。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="79325766723369307a65674759696f76">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

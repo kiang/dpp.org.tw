@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2014-06-05</p>
+				<h2>蔡英文：下一步就是公民路線</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p><img src="http://www.dpp.org.tw/upload/Image/2014news/05/logo.jpg" width="0" height="0" vspace="5" hspace="5" align="right" alt="" /><br />
+<img src="http://www.dpp.org.tw/upload/Image/2014news/05/logo.jpg" width="220" height="120" vspace="5" hspace="5" align="right" alt="" />財訊雜誌專訪民進黨主席》<span class="Apple-tab-span" style="white-space: pre;">						</span></p>
+<div>蔡英文接任下屆民進黨主席已成定局；在學運中遭到邊緣化的最大反對黨，如何重拾人民的信任，讓民眾相信它未來能帶領台灣社會，無疑已成為蔡英文接任後的首要挑戰。&nbsp;</div>
+<div>此外，如何因應服貿議題與中國關係？&nbsp;</div>
+<div>如何與公民團體、學運世代互動？民進黨年底選情是否樂觀？&nbsp;</div>
+<div>沉潛兩年的小英，在本刊專訪中，一一道來她的反省和思考。</div>
+<div>&nbsp;</div>
+<div><a href="http://wealth.com.tw/index2.aspx?f=401&amp;id=4165" target="_blank"><img src="http://www.dpp.org.tw/upload/Image/2014news/05/2014-06-05P.png" width="700" height="400" vspace="5" align="bottom" alt="" /></a></div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5932434b754f6a36426365774e48436a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

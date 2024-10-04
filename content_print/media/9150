@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-03-15</p>
+				<h2>周江杰：國民黨說支持藻礁公投，又想要重啟危險核四，才是標準兩面手法糊弄人民</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨立院黨團幹部陳玉珍、鄭麗文和費鴻泰三人今（15）日召開記者會引用媒體錯誤訊息污衊蔡英文總統一事，民主進步黨發言人周江杰表示，國民黨立院黨團所引用媒體報導的錯誤訊息，總統府已發聲明指出在雲林麥寮興建天然氣接收站與三接工程無關，很遺憾的是，國民黨卻以錯誤訊息來召開記者會，分明就是在混淆視聽、誤導社會大眾，而且指責政府的能源政策，自己提不出具體能源建議，擺明是想藉由藻礁公投，來掩飾重啟危險核四的企圖。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰指出，2015年，是馬英九核定要在藻礁上蓋接收站，支持232公頃面積的三接工程開發，國民黨又跳出來說要支持藻礁公投。這種前後矛盾的態度，國民黨卻從來避而不談。若國民黨真心「真」愛藻礁的話，那藻礁團體主張要將三接工程改到台北港，國民黨是不是應先跟新北市長侯友宜與自己的黨團立委洪孟楷溝通說服，請他們先跟新北市民說明，國民黨支持三接工程蓋在台北港，而不是一邊開記者會說支持藻礁公投，卻不實際行動去就團體的主張去做溝通說明，這才是標準的兩面手法糊弄人民。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰表示，國民黨不要天然氣、不要太陽光電、不要風力發電，那也請說清楚國民黨的能源政策主張是馬英九前總統主張的重啟危險核四？是不是江啟臣主席跟國民黨全黨也都支持重啟危險核四？不要自己過去做不到，現在也提不出具體建議，而只會一味反對，且不負責任的想要重啟危險核四，把台灣拉回到核電的風險中。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	周江杰說，10年前日本311福島核災，影響世人深遠，讓社會大眾關心非核相關議題的發展，以及台灣成為非核家園的目標，民進黨在2016年重返執政後，努力推動台灣的能源轉型，光電、風電的比重逐步增加，大約再五到六年的時間，再生能源發電占比可以達到20%，且對於天然氣三接站工程及藻礁公投立場不變，能源轉型是我們共同的目標，這不是路線之爭，也會持續和關心的團體、朋友交換意見與溝通。反觀國民黨過去執政時，對能源轉型消極以對的態度，在野時又提不出具體建議，只會一味反對。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="617a5752355252587a55644650724156">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

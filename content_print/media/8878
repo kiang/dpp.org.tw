@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-11-22</p>
+				<h2>民進黨廣告遭惡意變造 李晏榕：明顯中國介入台灣選舉 將前往警局報案</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(22)日召開「民進黨廣告遭惡意變造 親共勢力奧步再秀下限」記者會，黨發言人李晏榕表示，繼上星期民進黨推出護國會保台灣進步席次系列競選影片之後，今日看到這部影片疑似被中國網軍惡意變造，此部影片已經觸犯《著作權法》、《刑法》的誹謗罪、行使偽造文書罪，嚴正呼籲民眾，切勿再將變造後的影片在網路上散佈。李晏榕也表示，民進黨將會前往警局報案。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕表示，在上星期民主進步黨發佈「讓民主與進步，成為國會的多數&mdash;護國會保台灣進步席次系列競選影片」，在網路上獲得非常大的迴響，短短一天之內超過二十萬的觀看數、上萬次的分享，但今天很遺憾接到支持者的通知，看到這部影片疑似被中國網軍變造。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕提到，從影片剪接、字幕來源、字幕拼湊、配音等，我們可以合理懷疑有專業團隊所製作，而且是來自中國網軍的團隊製作，很明顯可以看到，中國網軍介入台灣選舉，甚至連身為執政黨的民主進步黨都成為中國網軍介入台灣選舉的最大受害者。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕表示，這部經過變造的影片，已經觸犯《著作權法》、《刑法》的誹謗罪、行使偽造文書罪，如果有民眾在網路散佈這樣的影片，也同樣會觸犯《刑法》行使偽造文書，請民眾切勿再於網路上散佈這樣的影片。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕也嚴正呼籲，所有社會台灣大眾都要清楚瞭解，中國介入台灣的選舉已經是進行式，而且無孔不入，可能透過網路、LINE假訊息散佈、耳語傳播等等，這些都在在考驗民眾與媒體的識讀能力，選戰現在進入到資訊戰的狀態，請大家要特別注意假消息的散佈。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李晏榕最後強調，民進黨明年總統大選最大的目標就是要「護國會、保台灣」，呼籲所有關心台灣民主、自由，以及想保有現有生活方式的社會大眾，明年大選的政黨票非常關鍵，總統選票請投蔡英文、賴清德；區域立委請投選區內民進黨提名的立委候選人；政黨票請投給民主進步黨，讓民主與進步成為國會的多數。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6835475a5a3047586d33746c496b7365">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

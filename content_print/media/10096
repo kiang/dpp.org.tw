@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-04-18</p>
+				<h2>德國、以色列、土耳其跨區域智庫學者拜訪民進黨　針對台海情勢交換意見</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">德國「學術暨政治基金會」（Stiftung Wissenschaft und Politik, SWP）亞洲事務研究員林小仙博士（Dr. Angela Stanzel）今（18）日上午率跨區域智庫學者團拜訪民進黨，雙方就台灣外交、國防、兩岸關係、區域情勢及國際參與等議題進行深度交流。 民進黨由黨副秘書長楊懿珊、國際部主任謝佩芬、中國部主任吳峻鋕，以及國際部副主任邱雯莉共同出席接待。&nbsp;</p>
+
+<p style="text-align: justify;">訪團成員除了林小仙博士外， 以色列國家安全研究所（INSS）以中政策研究中心（The Diane &amp; Guilford Glazer Israel-China Policy Center） 副主任高立（Galia Lavi） 及土耳其凱蒂哈斯大學（Kadir Has University） 副校長暨國際關係教授施明達博士（Dr. Mitat &Ccedil;elikpala ）等人也出席與會。</p>
+
+<p style="text-align: justify;">會中，副秘書長楊懿珊首先代表賴清德主席及許立明秘書長歡迎林博士率團遠道而來，她表示，在全球高度關注台海情勢的時刻，國際社會對台灣的實質支持非常重要，特別是有意義地參與國際組織。</p>
+
+<p style="text-align: justify;">楊懿珊說，民進黨一貫的立場，是強調我們對台灣主權及民主價值的堅持，並將不斷拓展台灣的國際空間、增強台灣在全球政治與經濟上的重要性，而事實上台灣在全球安全及經濟安全也已扮演重要的角色。楊懿珊強調，民進黨不會為了利益交換而犧牲台灣主權與民主。同時，她也表示針對即將到來的大選，民進黨將持續積極與年輕世代溝通並爭取認同，並確保他們接收到正確的訊息，不受假訊息混淆、誤導。&nbsp;</p>
+
+<p style="text-align: justify;">國際部主任謝佩芬說，她去年七月曾到德國柏林拜訪「學術暨政治基金會」（SWP）並留下深刻的印象。她也提及，台灣人自我防衛的意識，確實受國內政黨認同的影響，例如蔡英文總統最近的出訪和馬英九前總統的中國行，呈現出來的就是不一樣的選擇路線。對民進黨政府而言，維持我們事實上已經是主權獨立的現狀，是至關重要的。&nbsp;</p>
+
+<p style="text-align: justify;">針對訪團成員詢問兩岸交流與台海情勢的問題，中國部主任吳峻鋕回應，根據一份昨日最新的民調顯示，台灣民眾反對的並不是馬前總統的中國行本身，而是對於其支持統一的態度，有高達67.1%民眾反對一中政策及九二共識。當前中共試圖透過頻繁的軍事演練，要威脅台灣人民的自主意識並意圖影響世界各國支持台灣的自主選擇，但現實是台灣人民不接受也不贊成被極權國家統治。&nbsp;</p>
+
+<p style="text-align: justify;">跨智庫訪團學者分享他們對於近年來兩岸情勢的研究與觀察，並且對於台灣政府近期推動的軍事改革、加強公民社會的民防意識以及強化台灣社會的國家認同議題表達高度關心，也分享在各自國家推動相關議題的政策建議與作為。訪團成員表示，現今全球高度關心台海情勢，因為親臨台灣，更增進他們對台灣的了解；如何能夠進一步強化國際社會清楚了解台灣在全球供應鏈上的重要性以及台海和平對於世界局勢穩定的重要性，都是當前理念相近國家需要共同推動的重要議題。&nbsp;</p>
+
+<p style="text-align: justify;">楊懿珊副秘書長感謝雙方誠摯的對話與交流，讓國際社會更加了解台灣並且轉化成行動來支持台灣，一直以來都是民進黨重要的使命與責任，也期待未來這樣的對話可以持續進行。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="34506931526c4f306c4f6837367a5846">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

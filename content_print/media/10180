@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-06-01</p>
+				<h2>民進黨：中央黨部通報機制立刻全面檢討</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對民進黨前婦女部黨工指控性騷擾案件，民進黨新聞部主任張志豪轉述三點聲明：</p>
+
+<p>一、副秘書長許嘉恬午間已主動請辭並獲准。</p>
+
+<p>二、許嘉恬願意配合接受調查，調查小組會盡速完成調查。</p>
+
+<p>三、經秘書長許立明指示，中央黨部的通報機制立刻全面檢討，即日起除了黨部性騷擾防治專線之外，黨工同仁可直接向秘書長陳述事件並立即受理，若有知情不報或隱匿事件之主管，經查證屬實，一律開除；另性平部將加強黨務主管對於處理性騷擾事件的相關知能，並持續辦理全體黨工之性平教育課程。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="776b77564845737470356a567a545a69">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

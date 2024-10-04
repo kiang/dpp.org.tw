@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-02-05</p>
+				<h2>【謠止步】入境統計基準從未改變 吳敦義主席請勿混淆視聽</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                	                <p class="text-center font_green">
+		                <i>
+		                	〞自 1956 年開始統計入境數據起，僅持外籍護照入境通關者才列入來台旅客統計，60 年來從未改變〞
+						</i>
+					</p>
+										<hr>
+	                <div>
+	<span style="font-size:16px;"><strong>《謠言》</strong></span></div>
+<div>
+	國民黨吳敦義主席近日於公開活動<a href="http://news.ltn.com.tw/news/politics/breakingnews/2329567">表示</a>「民進黨政府為了混充來台觀光人數，連越南新娘返鄉探親回台、外國人在台灣轉機，都列入統計數字」一事，實為混淆視聽。</div>
+<div>
+	&nbsp;</div>
+<div style="text-align: center;">
+	<img alt="" src="/upload/ckfinder/images/%E5%90%B3%E6%95%A6%E7%BE%A9%E4%BE%86%E5%8F%B0%E4%BA%BA%E6%95%B8%E6%BE%84%E6%B8%85%E5%9C%96%E5%8D%A1_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201%20.jpg" style="width: 800px; height: 800px;" /></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size:16px;"><strong>《事實》</strong></span></div>
+<div>
+	吳敦義主席也曾在 2017 年 9 月 1 日提出相同說法，但交通部觀光局在當年同日即發佈澄清，我國入境統計原則，具備國人身分持中華民國護照入境者自然不列入統計，外國人在台轉機未通關入境，也絕不會納入計算。</div>
+<div>
+	&nbsp;</div>
+<div style="text-align: center;">
+	<img alt="" src="/upload/ckfinder/images/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-02-02%20%E4%B8%8A%E5%8D%8810_14_24.png" style="width: 758px; height: 302px;" /></div>
+<div style="text-align: center;">
+	內容來源：中華民國交通部觀光局</div>
+<div>
+	&nbsp;</div>
+<div>
+	自 1956 年開始統計入境數據起，僅持外籍護照入境通關者才列入來台旅客統計，<em>60 年來從未改變</em>，我國入出境統計長年以來皆是標準一致，不會輕易更動來台旅客入境統計原則，歷年來台旅客總數皆為真實數據，吳主席公開發言時，應注意是否與事實相符，勿混淆視聽，誠信至上。</div>
+<div>
+	&nbsp;</div>
+<div>
+	相關資料連結：</div>
+<ul>
+	<li>
+		<a href="http://admin.tbroc.gov.tw/news/news_d.aspx?no=249&amp;d=7109&amp;tag=2">我國60年來統計持外籍護照入境之基礎從未改變，轉機旅客未入境者絕不會納入計算</a><span -webkit-text-stroke:="" pingfang="" style="color: rgb(0, 0, 0); font-family: ">（交通部觀光局新聞稿，2017.09.01</span><span -webkit-text-stroke:="" pingfang="" style="color: rgb(0, 0, 0); font-family: ">）</span></li>
+	<li>
+		<a href="http://admin.taiwan.net.tw/public/public.aspx?no=315">觀光統計圖表</a>（交通部觀光局）</li>
+</ul>
+<style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'PingFang TC Semibold'; color: #000000; -webkit-text-stroke: #ffffff}
+span.s1 {font: 12.0px 'PingFang TC'; font-kerning: none}
+span.s2 {font: 12.0px Arial; font-kerning: none}</style>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="72553558687a50564431793762584173">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

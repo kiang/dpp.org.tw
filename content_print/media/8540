@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-22</p>
+				<h2>鄭麗君部長遭掌摑 何孟樺：嚴正譴責暴力行為反映立場</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對文化部長鄭麗君今(22)日出席餐會遭資深藝人鄭惠中掌摑一事，黨發言人何孟樺表示，本黨一向尊重社會各界在民主社會表達意見與討論的自由與權利，但今日發生資深藝人鄭惠中女士濫用權利遂行暴力，掌摑鄭麗君部長，其一言一行本受台灣民眾注目，此舉完全扭曲言論自由社會的互相尊重與包容的可貴，為國人做了最錯誤的示範。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	何孟樺表示，轉型正義的落實，是正常國家在民主深化過程中最重要的基礎工程，更受國人所高度期待。社會各界能自由表達多元的聲音，更是台灣最珍貴的價值。但本黨嚴正譴責任何使用暴力行為來反映立場或公共政策，並要求鄭惠中女士立即向鄭麗君部長及社會大眾致歉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="71396841643049594c68326c45374464">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

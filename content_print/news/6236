@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2014-07-15</p>
+				<h2>民進黨LINE@官方帳號正式上線</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp;民進黨LINE@官方帳號正式上線</p>
+<div><img width="700" vspace="5" height="175" alt="" src="http://www.dpp.org.tw/upload/Image/2014ANNO/LINE%E5%85%AC%E5%91%8A%E5%85%A7%E6%96%87%E6%A8%99%E9%A1%8C-01.jpg" />&nbsp;</div>
+<div>加入方式:</div>
+<div>&nbsp;</div>
+<div>1.在LINE程式的搜尋好友選項中</div>
+<ul>
+    <li>搜尋【@dpponline】或</li>
+    <li>掃描QRcode</li>
+</ul>
+<div style="text-align: left;"><img width="120" vspace="5" hspace="5" height="120" alt="" src="http://qr.line.naver.jp/line_at/m/dpponline.png" /></div>
+<div style="text-align: left;">&nbsp; &nbsp; ，找到民進黨官方帳號按點選後加入即可。點選即可以加入 <a href="http://line.naver.jp/ti/p/%40dpponline"><img border="0" height="36" src="http://biz.line.naver.jp/line_business/img/btn/addfriends_zh-Hant.png" alt="好友人數" /></a></div>
+<div>&nbsp;</div>
+<div>2.加入後回覆【DPP on LINE】，官方帳號將回覆訊息給您，並點問字中的連結至活動頁面。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>3.今後民進黨LINE@官方帳號將與民主進步黨官方APP交互配合，更新活動內容請密切關注民主進步黨APP與民進黨LINE@官方帳號。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="447538694a39356a5836633470724335">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

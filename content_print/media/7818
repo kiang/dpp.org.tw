@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-07-06</p>
+				<h2>嚴格規範退將赴中 民進黨：高度支持並肯定這項修正草案</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>&nbsp; &nbsp; &nbsp; 針對行政院院會今（6）日審查通過「兩岸人民關係條例」修正草案，強化退離職公務員及軍職人員赴中國的管理規範，民主進步黨發言人張志豪表示，本黨高度支持並肯定這項修正草案。退役將領曾為國軍將領的一員，受國家栽培多年，應恪守捍衛國家主權和國格尊嚴的承諾。</p>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 張志豪表示，任何退將前往中國大陸參加任何活動，必須謹守份際、謹言慎行，更不可為中國官方的政治立場背書，而做出混淆國家認同的行徑。否則，不但影響國軍士氣，也難被台灣國人同胞接受。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="77554a55424e7a7651723270595a5676">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

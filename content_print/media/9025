@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2020-07-13</p>
+				<h2>民進黨全代會19日登場 主軸「團結台灣 前進世界」</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨將於7月19日(週日)於台北國際會議中心3樓大會堂召開第十九屆第一次全國黨員代表大會，發言人顏若芳表示，本次大會主軸為「團結台灣 前進世界」，開幕式將由蔡英文主席發表演說，這將是在總統520就職後，國內疫情趨於穩定後，首次的群眾演說。在開幕式結束後，蔡英文主席將會主持全國黨代表大會會議，這也是她回任黨主席的首次全國黨代表大會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳說明，2020年總統大選，民進黨與全民一起堅守主權、抗中保台，共同為延續台灣自由民主的生活而努力，大選結果正是台灣全體國人團結一心的展現。而台灣歷經武漢肺炎疫情的挑戰，民進黨政府與人民並肩作戰，成功守住防疫前線，締造全球矚目的防疫成效。因此，這次全代會以「團結台灣 前進世界」為大會主軸，主視覺意象則是從「台灣」邁向「圓」，象徵島嶼勇敢前進世界，也表現出台灣堅毅地克服各種挑戰，團結共好。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	顏若芳表示，這是總統蔡英文回任黨主席後首次主持召開的全代會，開幕式除了由蔡主席發表談話，也特別邀請副總統賴清德、行政院長蘇貞昌、執政縣市長鄭文燦、黃偉哲、林右昌、林智堅、翁章梁、潘孟安為高雄市長候選人陳其邁拉抬造勢，凝聚黨內團結勝選氣勢，展現民進黨重返高雄執政的決心。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，顏若芳指出，正值武漢肺炎防疫期間，中央黨部也參照「中央流行疫情指揮中心」防疫因應指引，落實各項防疫工作，包括大會座位採梅花座形式，所有參加大會的黨代表、黨工及媒體工作者進場時必須配戴口罩及消毒，並填具「健康聲明書」以換領各式證件始能入場。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	本次全代會開幕式將於下午一點半開始，三點大會議程結束後預計展開中執委、中評委選舉投票，四點半開票；五點半由中評委互推選主委；中常委選舉則是六點開始投票，六點半開票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="453052596c713058717a4c6859336163">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-12-24</p>
+				<h2>公布反賄選24小時專線及反賄選獎金 鼓勵民眾一同參與反賄選的行動</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	隨著投票日程接近，民主進步黨今(24)日召開「反賄選24小時專線發布」記者會，會中邀請彰化縣第一選區陳秀寳候選人及反賄選小組成員一同出席，與秘書長羅文嘉共同宣布反賄選24小時接聽專線正式開通，並宣布祭出反賄選獎金，鼓勵民眾一同參與反賄選的行動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	羅文嘉指出，賄選傳聞最厲害的選區就是雲林、彰化二地，若這些傳聞實現，將大幅改變選舉結果。其中，陳秀寶參選的彰化縣第一選區，其目前民調已跟對手呈現五五波，若無買票等賄選情事發生，相信陳秀寶得以贏得這場選舉。同時，羅文嘉公布0800-505-068反賄選24小時免付費專線，若民眾有收到賄選情資可以向民進黨中央黨部檢舉，最高總獎金一百萬元。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	陳秀寳表示，彰化縣四個立委選區都傳出賄選風聲，包含農會撒幣、社區旅遊、賭盤操控、媒體壟斷、宮廟招待5個賄選招數。其選區中最嚴重的是賭盤操控，甚至有民眾傳言只要簽賭，不管輸贏與否皆可拿錢。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	張菊芳律師表示，本次選舉能透過乾淨的選風來選出最優秀人才。根據選罷法，對有投票權的人賄選，可處3年以上、10年以下的有期徒刑，併科罰金100萬元以上、1000萬以下；一般民眾如果收受賄賂，可處3年以下有期徒刑，併科30萬元以下罰金，呼籲選民切勿以身試法，也希望全民動起來。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	黃帝穎律師請民眾遇到賄選，立即開啟手機錄音、錄影、拍照蒐證檢舉。賄選不單單只是金錢賄選，現在更多出招待旅遊、境外資金、賭博來等多種型態。為保護台灣民主，呼籲民眾多加蒐證檢舉。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，反賄選小組執行長連立堅他強調，民進黨抓賄選愈來愈有經驗，之後更會在花蓮、雲林及嘉義等地召開反賄選記者會。其表示，若想影響選舉正確性，「我們都不會放過你」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="643044494e5738627468673648435276">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

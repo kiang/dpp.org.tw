@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-12-10</p>
+				<h2>回應中時有關「飛行夾克」募款報導</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>
+	有關稍早中國時報李姓記者，以「又學韓國瑜？民進黨募款推飛行夾克」為題，指民進黨學韓國瑜一事。民進黨發言人李晏榕表示，這完全是令人無比傻眼，啼笑皆非的新聞標題。</div>
+<div>
+	&nbsp;</div>
+<div>
+	李晏榕表示，新聞內文明白引用民進黨貼文，清楚指出民進黨在今年928黨慶就已經集體穿上「台灣廠商」訂製的飛行夾克，象徵全黨就戰鬥位置，啟動選戰模式，背章也用老鷹及玉山，象徵小英總統翱翔保護台灣領空。民進黨飛行夾克推出後，詢問十分熱烈，這是兩個月前的新聞。</div>
+<div>
+	&nbsp;</div>
+<div>
+	李晏榕表示，再者，卓榮泰主席自接任黨主席以來，便經常着飛行夾克，這也是許多人都知道的事情，究竟是誰在當模仿貓，應該是非常明白的事情。</div>
+<div>
+	&nbsp;</div>
+<div>
+	李晏榕說，事實上前幾天韓國瑜陣營開始穿飛行夾克時，民進黨內部便有點莞爾，但也代表民進黨的衣服成功吸睛，我們不介意他黨跟隨。但該則新聞標題與內文錯亂，與事實順序錯亂，令人十分無言。</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4730707354327a774530344f4b585a74">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

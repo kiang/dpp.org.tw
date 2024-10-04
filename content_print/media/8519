@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-12-26</p>
+				<h2>民主進步黨第十八屆第十八次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(26)日召開第十八屆第十八次中常會，會中通過成立「2019年第九屆台南市第二選區、彰化縣第一選區及金門縣立法委員補選」協調小組，召集人為鄭文燦中常委，成員為高志鵬及張宏陸中常委。此外，會中成立第16屆黨主席補選之中央緊急應變中心，由黃承國中常委及副秘書長徐佳青、高幸雪組成，以利選務之進行。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另針對12月25日直轄市暨縣市議會正副議長選舉中，直轄市暨縣市議員違反議會黨團決議正副議長選舉支持人選或一致性投票，涉及違紀行為者共計13位，分別為新北市議員彭成龍、台南市議員郭信良、陳怡珍、吳通龍、周麗津、陳碧玉、宜蘭縣議員吳宏謀、新竹縣議員吳傳地、張珈源、雲林縣議員蘇俊豪、屏東縣議員吳亮慶、花蓮縣議員施金樹、澎湖縣議員呂黃春金，會中通過將上述13位涉及違紀行為的議員移送中央評議委員會議處。</div>
+<div>
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="613367587733694b77336e306850506a">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-06-27</p>
+				<h2>卓榮泰主席6月29日啟程訪問美國</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨主席卓榮泰將於6月29日啟程訪問美國，發言人李問今(27)日表示，卓榮泰主席此行應邀於全美台灣人夏令會及台灣鄉親舉辦的多場活動發表演講，感謝他們對台灣的堅定支持，以團結支持總統連任、立委過半、守護台灣自由民主作為目標。卓主席訪美期間亦將與美國智庫及各界人士交換意見，以鞏固並強化台美關係。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問提到，訪問期間，卓榮泰主席將造訪四個美國大城，與當地僑胞互動及座談，感謝他們對台灣的愛護與支持。民進黨也十分感謝美國各界友人及所有僑民，對卓主席此行提供協助。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	李問表示，行程安排方面，卓主席一行將於6月29日至7月2日訪問華府，7月3訪問紐約，7月4日至5日訪問費城，7月6至7月7日訪問休士頓，預計於7月9日結束訪問返抵台灣。訪問團員包含立法委員李俊俋、立法委員暨國際事務部主任林靜儀、副秘書長郭昆文、主席特助蔡沐霖、發言人李問、社團部主任吳濬彥及政策會副執行長陳彥霖等成員。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="525441454b3758464958713345473132">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

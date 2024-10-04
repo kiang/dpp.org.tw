@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-01-20</p>
+				<h2>台中輔選掃街 卓榮泰：拜託市民認識、鞭策王義川，讓他順利當選</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	台中立委補選進入最後倒數7天，民主進步黨主席卓榮泰今(20)日上午再度南下輔選，陪同黨籍候選人王義川車隊掃街拜票，全力拉抬勝選氣勢。卓榮泰受訪時表示，今天是他上任第12天第三次來到台中，王義川立委候選人過去這段時間拉票、輔選活動，讓他深受感動，王義川確實很有創意，也非常努力的讓台中市民在很短的時間內就認識他。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	卓榮泰強調，台中這一席立委，對民主進步黨來是非常關鍵的一席，因為有必須贏的壓力，雖然這一席原本不屬於民進黨，但在經過1124的選舉之後，民進黨的反省、改革與改造，希望能夠讓台中市民看到民進黨在改變，而民進黨推出的王義川候選人更是新一代候選人的代表與象徵。他要拜託台中市民，能夠清楚認識王義川，同意他，未來也鞭策他繼續努力，讓他能夠順利當選。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，卓榮泰也謝謝所有的黨公職，在這次補選裡面可以說是全體總動員，這也就是他所說的聯合作戰的模式，立委、議員，甚至里長的投入就是在爭取勝利裡面相當重要的關鍵。在1月27日投票日當天，也會有上百位的監票人員分散在所有224個投票所，代表民進黨對於每一張選票都非常珍惜，不放過每一張選票，要為王義川爭取足夠的選票進入立法院。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對媒體詢問民進黨對五席立委補選的估算，卓榮泰表示，民進黨只有一個目標，就是保三搶二；台北、新北及台南這三席，民進黨勢必要保住，這樣才能維持民進黨在國會的優勢，台中及彰化這兩席，民進黨也應該要搶下來，代表民進黨的改革讓人民看得到、改革方向是正確的，也代表未來在2020年這個重要、關鍵的立委及總統大選中，人民還是願意相信、把票投給民進黨。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	另有媒體詢問這次五席立委的補選是否可以與民進黨的改革成效劃上等號，卓榮泰表示，1月27日的選舉，距離整個黨的改組，雖然只有短短的一段時間，但民進黨很努力在做，希望透過媒體的報導，讓全台灣的人民知道，人事改造、政策調整，以及在很多事務上的處理，民進黨都採取必須改造的行動，因為黨唯有不斷地改造、徹底地改變，才能再度贏得人民的信任。這次的選舉只是一個階段性的任務，民進黨一定努力完成這個階段性的任務，然後才能再大步地向前邁進。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4f5751656c717a317443314b726b4866">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

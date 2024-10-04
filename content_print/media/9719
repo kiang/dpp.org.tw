@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-08-31</p>
+				<h2>拿5700萬抄商周雜誌和農委會網站　張善政和國民黨別再牽拖宏碁</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨桃園市長參選人張善政研究計畫涉抄襲一事，民進黨發言人謝子涵今（31）日表示，張善政昨（30）日雖在臉書發表千字長文，卻避重就輕，不僅未釐清疑點，身為計畫主持人還試圖卸責宏碁，這種沒肩膀、只會逃避卸責的人根本沒資格參選桃園市市長！</p>
+
+<p style="text-align: justify;">謝子涵表示，張善政昨天解釋該研究計畫是將國外農業電子化資訊介紹給農委會，所以大量引用了外國的學術資料及文獻。但並未解釋為何抄襲國內商周雜誌和農委會的網站內容，農委會當初委辦這個計畫，就是希望張善政團隊能給予農委會政策上的建議，但張善政團隊不但未能給出具體建議，反而大量引用農委會資料，將相同的內容複製貼上，恐涉詐領農委會5700多萬的研究經費，通通是人民納稅錢。</p>
+
+<p style="text-align: justify;">「宏碁難道有叫你抄襲嗎？」謝子涵重申，在這個計畫中，宏碁明顯也是受害者，呼籲國民黨和張善政不要企圖將責任甩鍋給當年栽培你的宏碁，張善政身為計畫主持人，要為自己當年主責的計劃負起最大的責任！<br />
+&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="32535453314a7048505079485a483062">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

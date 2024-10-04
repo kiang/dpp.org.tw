@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-11-28</p>
+				<h2>針對李明哲宣判結果 民進黨：完全無法接受！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div>&nbsp; &nbsp; &nbsp; 針對李明哲先生因「顛覆國家罪」，被中國法院判決五年刑期，民主進步黨今(28)日表示強烈不滿和遺憾；李明哲先生長期關注中國大陸的民主自由發展，並與友人分享、交流台灣的民主經驗，不應當承受此一罪名和結果。對於此一判決，本黨完全無法接受，也呼籲北京當局盡早讓李明哲平安返台。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 民進黨強調，民主自由無罪！一個真正民主、自由、法治的國度，不應也不可能有政治思想犯。對李明哲先生的判決，突顯中國大陸對民主與人權等普世價值的漠視，傷害其國際形象，也傷害台灣人民的情感，更拉開了兩岸人民的距離。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 民進黨表示，北京既然表示要尊重台灣的社會制度和生活方式，就必須正視台灣人民對民主自由人權等價值的堅定信仰。</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 民進黨要求，中方必須確保李明哲先生的身心上的健康和平安，保障其應有的法律權益，並讓家屬有權繼續探視李明哲。相信我政府單位也會盡最大的協助和努力，讓李明哲早日平安返台。</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="50514a51366249706d616a395a426671">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

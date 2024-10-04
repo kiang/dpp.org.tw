@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-12-28</p>
+				<h2>柯文哲批賴清德台南執政成績 民進黨：矇眼說政策，北市長滿意度連年吊車尾</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>針對柯文哲今日政見發表會批評賴清德台南市長時期市政，民進黨發言人張志豪指出，柯文哲總是矇眼說政策，遠見雜誌評比柯文哲市長任內的經濟就業連續三年全國最後一名，醫療衛生2022年也是全國最後一名；天下雜誌縣市長滿意度調查，柯文哲更是2019-2022連續3年敬陪末座。</p>
+
+<p>反觀賴清德台南市長任內，2012年起連續六年蟬聯遠見五星市長，柯文哲台北市長任內，除了第一年有4.5顆星，之後連續七年皆為3.5顆星，顯見柯文哲只會嘴巴說說，賴清德才是真正有執行力的選擇，呼籲國人選對的人，走對的路。</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="494742684673384675384b676c596239">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

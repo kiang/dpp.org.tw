@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-12-16</p>
+				<h2>公投前三日中國又出手 民進黨：意圖影響台灣投票，離間台美關係</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對中國國台辦發言人馬曉光昨(15)日對於美國豬肉等四項公投案之發言，民進黨發言人劉康彥表示，中國在公投前夕釋出相關言論，顯然意圖影響台灣投票，離間台美關係，請民眾要特別留意並提高警覺，不要受到中共認知戰的左右。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	針對中國國台辦昨稱，民進黨對所謂四項公投進行政治操弄、以及民進黨與綠營網軍等相關言論。劉康彥指出，公投是台灣直接民意的展現，執政黨基於對人民負責的態度，積極傳達對台灣更有力的政治價值；然而我們卻看到中國無所不用其極傳遞錯誤訊息，試圖誤導台灣民眾對於公投議題的判斷。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	劉康彥表示，舉世皆知散佈假訊息、影響國際與台灣最深的網軍正是來自中國。如今，台灣公投將近，中國又重施故技。但中共竟反將自我劣行加諸於他人，無疑是「作賊喊抓賊」。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨指出，台灣研究團隊「IORG」日前公布報告揭露，中共藉由網路及媒體上資訊操弄，企圖影響台灣民眾對公投議題立場的手法，以誇大不實訊息引導民眾在萊豬、能源轉型議題上反美、不信任政府。國安局副局長陳進廣日前亦證實包含中國政府、民間等對台認知作戰網軍之存在。此外，中國網軍擾亂台灣民主選舉、操弄疫情假訊息的種種惡行，都是現在進行式。作為國際公認的認知戰始作俑者，中共不但不思反省，反倒指控他人，羞恥心何在？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨強調，台灣社會已逐漸警覺中國網軍及有心人士試圖利用民主破壞民主，欲刻意透過訊息戰，在公投議題上離間台美關係。中共與其想盡各種抹黑造謠的辦法造成台灣人民及國際反感，不如虛心檢討自己，如何真誠地參與兩岸及國際互動、停止戕害他國民主，才不會讓自我惡名持續遠播。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6e5a66376b5568556e3651744b6e6b77">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

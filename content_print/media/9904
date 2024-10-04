@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-24</p>
+				<h2>蔡英文選前48小時真情催票「請你把這一票投給我，投給我推薦的候選人」籲為台灣挺身而出</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">距離11月26日地方選舉倒數2天，蔡英文總統今（24）日發布選前最後的催票影片，呼籲支持者為台灣挺身而出，並表示縣市長候選人跟總統候選人一樣重要，請大家可以把這一票投給蔡英文，投給他推薦的候選人，讓這些候選人協助蔡總統，完成對大家的承諾，1126一定要出來投票。</p>
+
+<p style="text-align: justify;">蔡英文在影片中用面對鏡頭的方式，以第一人稱對選民說話，並呼籲在選舉的最後關頭，如果你還沒決定要投給哪一位縣市長候選人，請你把這票投給蔡英文推薦的候選人，讓他協助總統，完成對大家的承諾。</p>
+
+<p style="text-align: justify;">蔡英文表示，民進黨的中央和地方團隊，即使在逆風中，仍然從不放棄理想。只有民進黨到最後一刻還在談政見，只有民進黨到選戰最後關頭還在關心國家重要產業的發展，投給民進黨的縣市首長，就是投給蔡英文。</p>
+
+<p style="text-align: justify;">蔡英文也對總統大選曾經投給她的支持者誠懇喊話，謝謝大家選擇相信蔡英文，她一直努力讓台灣在國際上站穩腳步，也致力於維持台海的和平穩定。如今台灣面對後疫情時代、經濟發展與對外情勢的挑戰，請大家再借力量給總統，支持民進黨的候選人，完成更多的建設與福利。同時指出，這次不只是一次地方選舉，選舉的結果也會決定台灣要向世界傳遞什麼樣的訊息。&nbsp;</p>
+
+<p style="text-align: justify;">最後，蔡英文再次呼籲大家，11月26號，走進投票所，拜託大家一起為台灣挺身而出，團結催票、拉票。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ObOURue-0zA" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="7753755a315a64486534434739474545">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-09-15</p>
+				<h2>民主進步黨第十九屆第五十三次中常會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	民主進步黨今(15)日召開第十九屆第五十三次中常會，依據9月9日「2021年全代會工作小組」第一次會議決議，考量疫情二級警戒將延長至9月20日，全國疫情尚未明朗，為遵照相關防疫措施規定，建議第十九屆第二次全國黨員代表大會延後召開。今日中常會通過同意延期召開全代會，確切召開日期則視後續疫情狀況再行決定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	此外，黨發言人謝佩芬會後轉述蔡英文主席致詞，全文如下：</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	各位中常委，大家午安。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	星期五立法院就要開議，這個會期有五大預算案要處理，行政院也有優先法案要推動。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	隨著疫情受到控制，後續振興五倍券就要上路。各項政策的推動，需要黨公職同仁齊心努力，也要拜託大家，該說明的要努力說明，該辯護的也要全力辯護，展現執政黨的責任和能力。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	昨天也是聯合國大會開議，過去一年多來，我們跟理念相近的國家，分享防疫物資和經驗，一起努力對抗疫情。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	台灣是有能力為世界做出更多貢獻，台灣人的健康權益，也不應該被忽視。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	因此，聯合國及周邊組織，不應該因為對岸的政治壓力，把台灣排除在外。我們也期待，有更多國家能夠站出來，支持台灣有意義地參與國際社會。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	面對艱難的外交處境，我也要特別肯定第一線外交人員的努力。尤其是像大家都很熟悉的，在美國的蕭美琴大使跟她的團隊、在日本的謝長廷大使跟他的團隊、在德國的謝志偉大使跟他的團隊，都是我們優秀的駐外外交人員。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	在這波防疫作戰中，無論在外交戰場、還是爭取疫苗的過程中，他們全力以赴的成果，相信國人有目共睹。請大家務必做他們的堅強後盾，給在前線奮戰的同志更多的支持和肯定。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	昨天日本宣布，將提供台灣第五批AZ疫苗50萬劑。加上這批後，日本援贈我們的疫苗，將達到390萬劑。我們要在此表達感謝，也提醒能打疫苗的民眾，盡快登記施打。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	最後，這週六開始就是中秋節連假，我要提醒大家，目前疫情雖然受到控制，但絕對絕對不能鬆懈。連假期間，還請大家務必要遵守指揮中心的指引，在這裡預祝大家中秋節快樂，謝謝。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="5a654132303468366a71314355725166">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

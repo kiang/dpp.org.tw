@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-19</p>
+				<h2>破萬民眾湧入蘇治芬北港競總成立大會 卓榮泰：蘇治芬能推動雲林農產走進國際</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民主進步黨主席卓榮泰今(19)日與蔡英文總統偕總統府秘書長陳菊、內政部長徐國勇、民進黨副秘書長林飛帆、立委李俊俋、立委參選人陳柏惟、海線競選總本部總幹事許忠富及地方黨公職，出席「蘇治芬北港競選總本部成立大會」，現場超過一萬名民眾到場支持，熱情揮舞旗幟，支持蔡英文總統及蘇治芬委員連任，讓民進黨在國會過半。</p>
+<p style="text-align: justify;">
+	卓榮泰提及蘇治芬縣長任內時對雲林的貢獻，他說，蘇治芬任內訂單連續三年突破七百億，也把農產品推到日本、韓國、中國，雲林成為台灣的「農業首都」。</p>
+<p style="text-align: justify;">
+	卓榮泰說，近日，政府宣布台灣的芭樂獲准進軍美國，這表示中央政府知道地方需要，就會配合地方期望，一步一步把台灣農產品推向國際。希望雲林鄉親讓有經驗、了解雲林的蘇治芬繼續助農產品外銷，也會爭取更多保障給農民並擴大舉行農業國際機械器具展。</p>
+<p style="text-align: justify;">
+	針對此席立委提名過程波折，卓榮泰表示，因為對手情勢而造成改變，非常抱歉讓大家擔憂，而許忠富也非常有民主風度，進與退，都是為了台灣要贏。卓榮泰代表全黨以及雲林子弟感謝許忠富，他也呼籲，要打破對手的家族勢力，必定要用強而有力的團結力量，拜託雲林子弟把蘇治芬送進國會。</p>
+<p style="text-align: justify;">
+	卓榮泰也強調國會的重要性，他說，民進黨本次提名70位立委候選人，有46位是現任立委，拜託大家不僅要把46位現任立委的顧好，也要讓更多新秀進入國會為民服務，國會過半才能讓蔡英文總統的政策推行。</p>
+<p style="text-align: justify;">
+	卓榮泰最後說，從香港的近況可以看到，百萬人上街頭抗議暴政、爭取自由，蔡英文總統保家衛國不遺餘力，明年1月11日走進投票所，雲林是民主的防線，拜託大家讓蔡英文繼續連任、國會過半，用堅定的總統、民主的國會，維護自由的台灣。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="464f4c31546946516f716f58646a6d79">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

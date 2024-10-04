@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-10-11</p>
+				<h2>【夢想快快追 學貸緩緩還！】</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p>
+	<img alt="" src="/upload/ckfinder/images/WhatsApp%20Image%202018-10-11%20at%2012_00_56%20PM.jpeg" style="width: 1200px; height: 1200px;" /></p>
+<p>
+	【夢想快快追 學貸緩緩還！】</p>
+<div>
+	政府大力推動改革，提供青年更多的協助！</div>
+<div>
+	&nbsp;</div>
+<div>
+	今年9月起推動的學貸款寬緩措施，借款人畢業後除原有第1年無需還本息的寬限期外，新增4年「只繳息不還本」寬緩優惠。另外，也同時放寬申請緩繳門檻，由前一年平均月收入未達3萬元，調高至未達3萬5千元，緩繳期間無須還本繳息。</div>
+<div>
+	&nbsp;</div>
+<div>
+	新措施不但可以大幅減輕學貸貸款人還款負擔，有助青年完善職涯發展規劃、累積創業資本，並提供彈性理財空間，穩定青年生活品質。</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	【延伸閱讀】行政院新聞稿</div>
+<div>
+	<a href="https://bit.ly/2NiDnU1">https://bit.ly/2NiDnU1</a></div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="434a686e4770364448446e7733534158">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

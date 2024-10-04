@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2019-10-23</p>
+				<h2>民主進步黨第十八屆第十九次中執會新聞稿</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">
+	民主進步黨今(23)日召開第十八屆第十九次中執會，會中同意成立「第十屆立法委員政黨比例代表」提名委員會，並依提名條例規定，由黨主席卓榮泰召集主持。委員會成員計有林右昌、林錫耀、陳菊、陳博志、陳傳岳、鄭麗君、蘇貞昌等7人。預計不分區立委提名整體名單於11月初完成，並提請中執會通過。</p>
+<p style="text-align: justify;">
+	卓榮泰會中裁示全文如下：</p>
+<p style="text-align: justify;">
+	提名的七位委員，涵蓋不同領域及專長，有資深法律人、有長期關心台灣前途的財經專家，更有建構台灣文化主體性的推手。</p>
+<p style="text-align: justify;">
+	為彰顯本黨執政團隊共同參與此次不分區立委提名，本屆提名委員的組成，兼顧了執政團隊與黨政系統的代表性，所以提名委員有來自執政團隊、司法界、財經界、文化界各不同領域，能夠從不同角度，來思考提名人選，並積極建構一份適合未來國會需要的名單；因此，我要對提名委員會表達期許：一旦成為提名委員，希望大家能夠摒除個人的情感，站在全黨、選戰和國會功能的高度，來考量不分區立委的提名策略。</p>
+<p style="text-align: justify;">
+	未來提出的不分區立委候選人名單，對本黨整體形象有直接關係。因此，我希望強調不分區立委提名的三項原則：第一，應該要有國會戰力，包括能夠與社會對話及議事折衝協調的能力。第二，要代表全黨集體意識，貫徹黨的基本主張。第三，要為國家整體利益考量，而非代表某特定團體。此外，不分區立委被提名人要以黨綱為核心，積極執行全代會通過的「社會同行、世代共贏」決議文四大主張，作為未來行動綱領；並且能夠藉由號召力、影響力及組織動員力，鞏固總統、區域立委及政黨三個票源。</p>
+<p>
+	&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="4774666d466f306173526f5267747a41">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

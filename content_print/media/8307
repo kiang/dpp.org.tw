@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2018-05-25</p>
+				<h2>國民黨任由黨派仇恨超越國家利益</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	針對國民黨在布吉納法索與我斷交後，把矛頭轉向自家政府，民進黨發言人吳思瑤今(25)日表達強烈憤怒和難以想像。當國家面臨最艱難的時刻，國民黨竟跟著中國共產黨打壓自己的中華民國政府，令人深感不可思議。有這樣幫外人打自己的政黨，何須敵人？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	發言人吳思瑤表示，面對中國政權打壓，台灣社會對外團結一致是基本常識和認知。曾身為中華民國在台灣執政六十年的國民黨，理應捐棄內部競爭意識形態的成見，朝野攜手合作，共抗外侮。但國民黨卻一再挑戰社會人民的底線，任由黨派仇恨凌駕國家利益的態度，是一個曾為執政黨的樣子嗎？</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	發言人吳思瑤進一步質疑，中國政權一再用粗魯蠻橫的手段，壓迫我國際空間、用軍事力量威脅台灣，國際社會都難以認同而替台灣發聲的同時，國民黨主席吳敦義竟為了要促成「吳習會」，在「一中各表」立場大轉彎，高舉「終極統一」論，國民黨對中共的「忠貞不二」，真令人「欽佩」！</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="6f784f37686c6259494a38764b755561">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

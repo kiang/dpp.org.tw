@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2017-08-16</p>
+				<h2>蔡英文針對815全台停電事件發表談話</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p class="p2"><span class="s1">針對815全台停電事件，蔡英文今(16)日以總統身份於民進黨中常會前發表談話，全文如下：</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">各位媒體朋友，各位國人同胞。</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">經過相關單位的積極應變，現在全國的電力供應已經恢復正常。而無論事故原因是什麼，藉著這個機會，我要代表執政團隊，對於這次停電為所有國人帶來不便與不安，致上我們的歉意。這樣的狀況，不應該發生。</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">在這次的事故當中，我相信所有國人都注意到，電力供應不只是民生問題，更是國家安全的問題。</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">不久前我們因為颱風吹倒了一座電塔，就讓電力無法正常輸配；這次因為天然氣輸氣設備的操作失當及失誤，就讓一整個電廠無法運作，全國緊急輪流供電。所以我們所面臨的問題，在於電力系統竟然如此脆弱。現在，這個會因為天災或人為疏失就輕易癱瘓的電力系統，這才是我們應該全面檢討的問題核心。</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">關於這點，我已經請行政部門，務必在最短時間內給全體國民一個清楚的報告，為什麼我們的供電系統會因為人為的操作疏失，就造成這麼大的損害？這個系統無論在系統的設計或管理的專業上，都明顯地過於脆弱，而且經過了這麼多年，也沒有採取強化的積極作為。如果我們再不正確的面對問題，我們國家終將處於高度的系統性風險之中。</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">我要向大家報告，為了避免類似情形再度發生，確保關鍵民生供給的穩定與安定，國家基礎設施的體檢與強化，將是我們的最重要的工作。</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">月初政軍兵推的時候，考量到與過去全然不同的戰爭型態與安全威脅，我們已經注意到必須優先確保基礎設施安全的重要性。兵推之後，我也已經要求政府各單位對重要基礎設施，進行全面性的檢查，並提出安全強固的規劃，政府會在最短時間內，讓國家基礎設施的安全達到應有的標準。</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">這次的事件告訴我們，包括電網安全強化、分散式的綠能發電系統等工作的推動，是刻不容緩的正確方向。我也要請行政院，對於所有能源轉型的相關計畫，都要能確實掌握進度，克服所有障礙，如期完成。也請國人同胞繼續給予監督。</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p3"><span class="s1">謝謝各位。</span></p>
+<p class="p3">&nbsp;</p>
+<p class="p3">&nbsp;</p>
+<p class="p3">&nbsp;</p>
+<p class="p3">&nbsp;</p>
+<p class="p3">&nbsp;</p>
+<p class="p3">&nbsp;</p>
+<p><style type="text/css">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 16.0px Times; -webkit-text-stroke: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 28.0px; font: 14.0px 'Times New Roman'; -webkit-text-stroke: #000000; min-height: 16.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 28.0px; font: 14.0px Times; -webkit-text-stroke: #000000}
+span.s1 {font-kerning: none}
+</style></p>	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="73526f643333775038707070554c6a35">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

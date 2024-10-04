@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2021-11-10</p>
+				<h2>蔡英文首登Podcast亮佳績 衝上新聞類排行榜第一名！</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <div style="text-align: justify;">
+	蔡英文總統昨(9日)首度於Podcast平台上獻聲，為「蔡英文＆DPP」的「耳朵出遊不出油」錄製內容，談論國際外交和公投議題。節目播出後，隔日衝上APPLE Podcast新聞類排行榜第一名、全分類排行榜第三名。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	民進黨網路社群中心范綱皓表示，疫情期間，收聽podcast的人數、開設的頻道，都成長迅速。許多年輕人也都喜歡這種「儲存再收聽」、「可重複收聽」的新方式，這也是蔡總統與民進黨開設新頻道的原因。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范綱皓也說，在podcast上，也可以看到許多重要的媒體都有開設頻道，以及像是立法委員洪申翰、台北市議員邱威傑（呱吉）、前立委林靜儀、前文化部長鄭麗君等政治人物，也都在podcast與聽眾互動。證明podcast已經逐漸成為許多人，獲取資訊的其中一種來源。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范綱皓表示，蔡總統在上集節目，也直接面對問題，親自跟大家談政策、談外交、談防疫，說明「重啟核四」不會是台灣未來的選項，也希望大家對「三接遷移」投下不同意票。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范綱皓也說明，蔡總統的頻道才剛起步，能夠衝上全分類排行榜前三名，有賴大家對蔡總統的支持與新鮮感。榜上的常客，像是股癌、百靈果，蔡總統都知道他們，也都很關注他們在談的題目，也希望能向他們學習、交流。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	范綱皓說，希望podcast上的聽眾朋友，能繼續支持蔡總統的頻道。蔡總統的下集節目將於11/16（二）上架播出，將延續討論公投及重大的國際議題。歡迎大家訂閱「耳朵出遊不出油」，準時收聽最新集數。</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+<div style="text-align: justify;">
+	&nbsp;</div>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="584535796941386c5234375750415864">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

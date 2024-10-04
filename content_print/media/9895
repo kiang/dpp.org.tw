@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-11-22</p>
+				<h2>民進黨釋出台語催票影片　賴清德：做蔡總統的後盾、為台灣挺身而出</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">距離11月26日地方選舉倒數4天，繼五支「為台灣挺身而出」系列影片後，民進黨和副總統賴清德今（22）日一同發布賴清德台語催票影片，全程使用台語錄製，用堅定地口吻，呼籲民眾為民主團結站出來，做蔡英文總統的後盾，1126一定要出來投票。蔡英文也將於近日發出最後催票影片。</p>
+
+<p style="text-align: justify;">民進黨主席暨總統蔡英文日前於LINE平台下動員令，呼籲支持者為台灣挺身而出，一人拉一票，11月26日回家投票。民進黨也在推出五支「為台灣挺身而出」影片後，發布賴清德的台語催票影片。</p>
+
+<p style="text-align: justify;">賴清德在影片中表示，台灣面對複雜的國際局勢，就算中國不斷打壓，但是國際對台灣的支持也越來越明確。他感謝全國人民團結打拚，在蔡英文總統領導之下，讓台灣可以發揮經濟、社會、民主、國防四大韌性，為下一代共同打造更好的國家，讓國際社會有一個更好的台灣。這一次，國際社會也在關心台灣的選擇，大家要用選票告訴世界，台灣守護民主的堅定態度。</p>
+
+<p style="text-align: justify;">賴清德也表示，除了地方大選外，還有一張 18 歲公民權的選票，是讓民法、刑法、憲法齊一的重要投票，也是台灣史上第一次的憲法修正複決。若是肯定年輕人，支持年輕人，就要讓他們可以投票參與國家的未來！</p>
+
+<p style="text-align: justify;">最後，賴清德也誠懇拜託鄉親，為了疼惜美麗的故鄉、為了用民主和世界做朋友、為了支持年輕人，11月26日一定要出來投票。也請大家全力催票、固票、拉票。支持民主進步黨提名的優秀候選人，一票顧家鄉、一票拚未來，勇敢大步向前走。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/LKxF-F9QTSQ" title="YouTube video player" width="560"></iframe></p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="52654d347045665163314461316b6957">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

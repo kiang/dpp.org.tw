@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2023-02-24</p>
+				<h2>北北基桃1200月票政見兌現！ 民進黨：國民黨首長聯手割稻尾，有夠離譜</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對國民黨收割本黨北北基桃1200月票兌現，民進黨新聞部主任張志豪今(24)日表示，國民黨在選前不斷扭曲政見，大罵「空頭支票」、「預算哪裡來」，把好政策抹成是選舉騙票，現在好的政策達成了，北北基桃首長卻開始聯手割稻尾，大力宣傳，有夠離譜。</p>
+
+<p style="text-align: justify;">張志豪指出，為強化北北基桃生活圈交通便利與落實環保，去年九合一選舉北北基桃候選人陳時中、林佳龍、蔡適應及鄭運鵬率先聯合提出「北北基桃1200月票」政見，並獲得中央大力支持，即使後來選舉結果不如預期，但對人民有利的政策，政府依然堅持兌現！</p>
+
+<p style="text-align: justify;">張志豪表示，國民黨選前忙著發文宣扭曲質疑這項政見，可見國民黨一貫的手法，如同當年立院審議前瞻基礎建設預算，國民黨罵前瞻、擋前瞻，等預算開始執行了，再全力宣傳前瞻的好處和利多。反之，蔡英文政府照顧人民不分政黨，去年民進黨候選人提出的政見，如今由蔡英文總統、蘇貞昌前院長及陳建仁院長合作兌現，讓全民一同享受國家的進步。</p>
+
+<p style="text-align: justify;">張志豪強調，行政院拍板通過北北基桃1200月票補助政策，市民可以在30天內無限次搭乘生活圈內公車、客運、捷運、台鐵及公共自行車等運具，讓大家可以憑卡暢行整個首都圈。除了北北基桃外，政府也針對中彰投苗及南高屏生活圈，規劃研議「城際通勤」、「都市內通勤」兩種月票；其他縣市也因地制宜規劃優惠方案。為平衡各地公共運輸發展，政府將優先建設中南東部及離島公共運輸環境，同時加速補助電動公車路網、新闢公車路線虧損補貼及提升公運路網銜接完整性。<br />
+&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="624974476367715a7a58584847416449">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>

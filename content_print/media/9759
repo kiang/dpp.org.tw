@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<!--main-->
+	<main class="page">
+		<!--news_list-->
+		<article class="news_content container MT30">
+			<div class="bar_green PL10" id="print_parts">
+				<p class="news_content_date">2022-09-21</p>
+				<h2>民進黨：張善政老調重彈　毫無誠意說明真相</h2>
+				<h4></h4>
+                <div id="media_contents" class="w80 container">
+	                					<hr>
+	                <p style="text-align: justify;">針對今（21）日上午國民黨桃園市長候選人張善政記者會，民進黨發言人謝佩芬表示，張善政遭爆委託研究案涉嫌抄襲農委會、國家通訊傳播委員會（NCC）內容後，已神隱了22天，今日終於出面回應，但在記者會中仍舊不斷推諉卸責，再一次印證了張善政自己說過的「裝睡的人叫不醒」，呼籲張善政不要繼續閃躲，對於抄襲的部分立刻負起責任，向大眾公開說明！國民黨主席朱立倫立刻為提名、聲援有誠信瑕疵的候選人公開道歉。</p>
+
+<p style="text-align: justify;">謝佩芬表示，張善政躲了22天後，才終於出來面對公眾，但記者會內容除了大篇幅的自我吹噓之外，對於關鍵的抄襲部分仍舊老調重彈、不斷閃躲，還試圖拿農委會已澄清過、早已失效的保密條款做為擋箭牌，東扯西扯就是沒有具體說明，冗長的記者會毫無新意，也沒有誠意說明真相。</p>
+
+<p style="text-align: justify;">謝佩芬說，張善政在記者會中，數次提到「我們宏碁」，卻不肯以計劃主持人的身份承擔應有責任，對比剛被爆料時，張自己說的「不要拖宏碁下水」根本是自打嘴巴。謝佩芬更進一步強調，請張善政不要再陷民間廠商於不義，做為擔任過行政院長的政治人物，請做個有擔當、有高度的候選人，勇敢承擔自己過去的錯誤。</p>
+
+<p style="text-align: justify;">謝佩芬表示，張善政自從被踢爆抄襲後，便不斷狡辯，一下說是資料蒐集，一下說是合理重製，還多次取消記者會，對於農委會中的「研究成果內容不得有抄襲、剽竊」完全隻字不提。今天的記者會自吹自擂的貢獻中，「產銷履歷」部分更立刻遭媒體打臉，農委會早已於2004年就著手規劃推動，可見張善政根本就是說謊成性，連許多公開可查詢的訊息都要造假、牽拖。</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><br />
+&nbsp;</p>
+	                	                	                	            </div>
+	            <div class="fb-quote"></div>
+			</div>
+		</article>
+	</main>
+	<script src="https://www.dpp.org.tw/contents/frontend/js/jquery-1.11.2.min.js"></script>
+	<script nonce="3575646a686247596831544b4d51366e">
+		$().ready(function(){
+			print();
+		})
+	</script>
+</body>
+</html>
