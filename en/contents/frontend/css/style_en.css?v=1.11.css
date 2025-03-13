@@ -1,0 +1,172 @@
+.footer_info{
+    padding-left: 20px;
+}
+.footer_info_title{
+	position: relative;
+    display: inline-block;
+    width: 70px;
+}
+.footer_info_sp{
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #ccc;
+}
+.history_page_sec_title{
+    font-size: 26px;
+    color: #86cbb3;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.history_con_img_date{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.history_con_img_photographer{
+	position: relative;
+    font-size: 15px;
+    line-height: 45px;
+    text-align: center;
+}
+.history_en_kv{
+    position: relative;
+    background-position: center;
+}
+.history_en_kv .container{
+	position: relative;
+    height: 100%;
+}
+.history_page_title.kv01{
+	position: absolute;
+    top: 200px;
+    left: 0;
+}
+.history_page_title .hpt_img{
+	float: left;
+    width: 112px;
+}
+.history_page_title .hpt_img img{
+	max-width: 100%;
+}
+.history_page_title .hpt_text{
+	float: left;
+    width: calc(100% - 112px);
+    font-size: 52px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 70px;
+    padding-top: 20px;
+}
+.history_page_title.hd_kv01{
+	position: absolute;
+    top: 200px;
+    left: 0;
+}
+.chairman_item{
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+}
+.chairman_info{
+    flex: 0 0 auto;
+    width: 70%;
+}
+.chairman_thnum{
+    flex: 0 0 auto;
+    width: 30%;
+    font-size: 19px;
+    color: #438c89;
+}
+.chairman_term{
+    flex: 0 0 auto;
+    width: 70%;
+    font-size: 19px;
+    color: #333;
+}
+.chairman_text{
+    flex: 1;
+    font-size: 19px;
+    color: #333;
+    font-weight: 600;
+}
+.memberList figure{
+	text-align: left;
+}
+.memberList figure h4{
+	text-align: center;
+}
+.memberList ul li{
+	width: 20%;
+	text-align: left;
+}
+
+@media (max-width: 1199px){
+	.footer_info{
+        width: 100%;
+        margin-top: 20px;
+		margin-left: 0;
+        padding-left: 30px;
+    }
+}
+
+@media (max-width: 767px){
+	.navbar-nav li.social{
+		padding-top: 15px;
+		padding-right: 15px;
+	}
+	.footer_info{
+        padding-left: 12px;
+	}
+	.history_con_sub_title h1{
+		font-size: 42px;
+		color: #86cbb3;
+		text-align: center;
+	}
+	.history_con_img_date {
+        position: relative;
+        text-align: center;
+        margin-bottom: 0;
+    }
+	.history_con_img_photographer{
+		line-height: 20px;
+	}
+	.history_con_sub_title h1{
+        font-size: 28px;
+    }
+	.history_page_title.kv01{
+        position: absolute;
+        top: auto;
+        bottom: 20px;
+    }
+	.history_page_title .hpt_img{
+        width: 60px;
+    }
+	.history_page_title .hpt_img{
+        width: 60px;
+    }
+	.history_page_title .hpt_text{
+        width: calc(100% - 60px);
+        font-size: 26px;
+        line-height: 35px;
+        text-shadow: 2px 2px #333;
+        padding-top: 0;
+    }
+	.history_page_title.hd_kv01 {
+        top: auto;
+        bottom: 20px;
+    }
+	.chairman_info{
+        width: 50%;
+    }
+	.chairman_thnum{
+        width: 100%;
+    }
+	.chairman_term{
+        width: 100%;
+        font-size: 14px;
+        padding-right: 5px;
+    }
+	.memberList ul li{
+		width: 45%;
+	}
+}

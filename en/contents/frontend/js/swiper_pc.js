@@ -1,5 +1,5 @@
 // 當網頁載完後執行(因為要抓圖片的寬高)
-	$(window).load(function(){
+	$(window).on('load', function(){
 		// 先取得相關區塊及圖片的寬高
 		// 並先計算出大圖片要垂直置中所需要的 top 值
 		var $gallery = $('#abgne-gallery'), 

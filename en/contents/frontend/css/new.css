@@ -39,9 +39,6 @@
 #abgne-gallery .next{
 	right: -16px;
 }
-#video_frame{
-	padding-top: 30px;
-}
 #video_frame .video_div{
 	position: relative;
 	margin-left: 5px;
@@ -64,11 +61,13 @@
 	overflow: hidden;
 	margin-bottom: 70px;
 }
+
 .history_kv_title{
 	position: absolute;
 	top: 265px;
 	left: 300px;
 }
+
 .history_kv_sub{
 	position: absolute;
 	display: block;
@@ -79,11 +78,13 @@
 	color: #fff;
 	font-size: 18px;
 }
+
 .history_kv_cycle{
 	position: relative;
 	width: 100%;
 	height: 710px;
 }
+
 .history_kv_cycle .cycle-slideshow > div{
 	display: block;
 	background-position: center;
@@ -91,6 +92,7 @@
 	width: 100%;
 	height: 710px;
 }
+
 .history_kv_cycle .cycle-slideshow a{
 	position: absolute;
 	top: 0px;
@@ -98,6 +100,7 @@
 	width: 100%;
 	height: 100%;
 }
+
 .history_kv_cycle #prev{
 	position: absolute;
 	display: block;
@@ -118,92 +121,112 @@
 	z-index: 100;
 	cursor: pointer;
 }
+
 .pos_rel{
 	position: relative;
 }
+
 .history_con{
 	width: 1060px;
 	font-size: 18px;
 }
+
 .history_con hr{
 	margin-top: 40px;
 }
+
 .history_con_sub_title h1{
 	font-size: 42px;
 	color: #86cbb3;
 	text-align: center;
 }
+
 .history_con_title_vlr{
 	-webkit-writing-mode: vertical-lr;
 	writing-mode: vertical-lr;
 	white-space: nowrap;
 }
+
 .history_con_title_vlr h1,.history_con_title_vlr h2{
 	margin-top: 0px;
 	margin-bottom: 0px;
 	margin-right: 15px;
 }
+
 .history_con_title_vlr h1{
 	font-size: 55px;
 	color: #cbb086;
 }
+
 .history_con_title_vlr h2{
 	font-size: 45px;
 	color: #86cbb3;
 	margin-left: 0px;
 }
+
 .history_con_img img{
 	width: 100%
 }
+
 .history_con_img_info{
 	position: relative;
 	margin-top: 10px;
 }
+
 .history_con_img_date{
-	position: absolute;
-	top: 0;
-	left: 0;
 	font-family: "MingLiU";
 	font-size: 26px;
 	color: #b8b8b8;
 	font-style: italic;
 }
+
 .history_con_img_photographer{
+	position: absolute;
 	font-size: 15px;
 	line-height: 45px;
-	text-align: center;
+	top: 0px;
+	right: 0px;
 }
+
 .history_con_img_explain{
 	font-size: 16px;
 }
+
 .history_con_table{
 	margin-top: 112px;
 	font-size: 16px;
 }
+
 .history_con_table tr{
 	height: 50px;
 }
+
 .history_con_table tr td{
 	vertical-align: top;
 }
+
 .history_con_table tr td:first-child{
 	width: 75px;
 	color: #438c89;
 }
+
 .history_kvb{
 	position: relative;
 }
+
 .history_kvb_subdiv{
 	position: absolute;
 	width: 100%;
 	top: -52px;
 	left: 0px;
 }
+
 .history_kvb_subdiv img{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
+
 .history_btn_bottom{
 	position: absolute;
 	width: 100%;
@@ -211,6 +234,7 @@
 	left: 0px;
 	z-index: 200;
 }
+
 .history_btn_bottom a{
 	float: left;
 	width: 19.9%;
@@ -220,13 +244,16 @@
 	font-size: 22px;
 	margin-left: 0.125%;
 }
+
 .history_btn_bottom a:first-child{
 	margin-left: 0px;
 }
+
 .history_btn_bottom p{
 	padding-top: 10px;
 	padding-left: 30px;
 }
+
 .history_btn_bottom .active{
 	background-color: #eaebbe;
 	color: #000;
@@ -312,9 +339,11 @@
 	top: 700px;
 	right: 40px;
 }
+
 .history_e_con{
 	width: 1230px;
 }
+
 .history_e_title{
 	height: 80px;
 	font-size: 30px;
@@ -325,11 +354,9 @@
 .history_e_text_frame{
 	position: relative;
 }
+
 .history_e_text_con{
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	width: 615px;
+	width: 50%;
 	min-height: 500px;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -457,7 +484,6 @@
 		width: 100%;
 	}
 	.history_e_text_con{
-		position: relative;
 		width: 100%;
 	}
 }
@@ -527,15 +553,34 @@
 	.div_404{
 		height: calc(100vh - 70px);
 	}
-	.history_con_sub_title h1{
-		font-size: 28px;
-	}
-	.history_con_img_date{
-		position: relative;
-		text-align: center;
-		margin-bottom: 0;
-	}
-	.history_con_img_photographer{
-		line-height: 20px;
-	}
+}
+
+/*FULL 尺吋*/
+/****************18/06/7後新增********************/
+header .menu{position: absolute; left: 10px;top: 20px;}
+header .logo {left: 70px;top: 20px;}
+
+.navbar {z-index: 999;}
+
+.navbar-nav2{background:#448C89;min-width:400px;height: 100%;overflow: auto;padding-bottom:30px;position:fixed;top:0;left: 0;z-index: 9999;transform: translateX(-100%);transition: all 0.8s}
+.navbar-nav2 li{}
+.navbar-nav2 li a{display: block;width: 100%;background:#448C89;color:#fff;border-bottom:1px solid #63ccc7;line-height: 2em;font-size: 17px;padding: 15px 30px;letter-spacing: 1px}
+.navbar-nav2 li a:hover,.navbar-nav2 li a:focus{background:#3a3839;}
+.menuClose {text-align: right;font-size: 14px !important}
+.menuClose span{margin:0 20px}
+
+.navbar-nav2.active{transform: translateX(0);transition: all 0.8s}
+
+/****************18/06/7新增********************/
+
+
+/****************21/03/17新增********************/
+.avatar_temp{ display: none; }
+.avatar[src=''] + .avatar_temp{ display: block; }
+/****************21/03/17新增********************/
+
+@media (max-width: 767px){
+	
+	header .logo {left: 20%; top: 0;z-index: 99999;}
+
 }

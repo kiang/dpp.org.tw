@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	$(".loading").css("height",$("body").height());
 });
-$(window).load(function(){
+$(window).on('load', function(){
 	$(".loading").fadeOut();
 });

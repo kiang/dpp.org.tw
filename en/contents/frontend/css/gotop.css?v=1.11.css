@@ -1,0 +1,36 @@
+.go-top{
+	display:block;
+	width:40px;
+	height:40px;
+	line-height:35px;
+	text-align:center;
+	font-size:20px;
+	position:fixed;
+	bottom:-40px;
+	right:20px;
+	-webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+	background-color:#929292;
+	color:#FFFFFF;
+	text-decoration:none;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	z-index: 999;
+}
+
+.go-top.show{
+	bottom:20px;
+}
+
+.go-top:hover,.go-top:focus{
+	background-color:#bdbdbd;
+	color:#FFFFFF;
+}
+
+@media (max-width: 767px) {
+	.go-top.show{
+	bottom:60px;
+}

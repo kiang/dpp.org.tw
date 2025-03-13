@@ -83,13 +83,15 @@ function indexheader(){
 //lightBox
 function lightbox(BTN){
 	//$('.memberArea dl ul li').click(function(){
-	$(BTN).on('click',function(){
+	$(BTN).on('click',function(e){
+		e.preventDefault(); 
 		$('.lightbox').addClass('active');
 		//alert('!!');
 		return false;
 	});
 
-   $('.btnClose').click(function(){
+	$('.btnClose').click(function(e){
+      e.preventDefault(); 
       $('.lightbox').removeClass('active');
       return false;
    });

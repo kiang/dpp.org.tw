@@ -1,5 +1,5 @@
 // 當網頁載入完
-  $(window).load(function(){
+  $(window).on('load', function(){
     var $win = $(window),
       $ad = $('#adfloat').css('opacity', 0).show(),  // 讓廣告區塊變透明且顯示出來
       _width = $ad.width(),

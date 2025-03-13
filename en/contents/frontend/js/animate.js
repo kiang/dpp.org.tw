@@ -46,7 +46,7 @@ function singlephotoSwiper(){
 
       pagination: {
         el: CT+'.swiper-pagination',
-		type: 'fraction',
+        type: 'fraction',
       },
       navigation: {
         nextEl: CT+'.swiper-button-next',
